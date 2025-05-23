@@ -118,3 +118,9 @@ And deploy the `dist` directory to your hosting provider.
 - Original template based on Astro's blog starter
 - Coffee expertise from the INeedCoffee community
 - Built with [Astro](https://astro.build)
+
+### Link checking
+
+npx broken-link-checker http://localhost:4321 --filter-level 1 --recursive > broken-links.txt (all)
+
+npx broken-link-checker http://localhost:4321 --filter-level 3 --recursive > internal-links.txt (internal)

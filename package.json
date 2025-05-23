@@ -1,10 +1,10 @@
 {
-  "name": "ineedcoffee-archive",
+  "name": "ecofriendlycoffee-archive",
   "type": "module",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/digitalcolony/ineedcoffee-archive.git"
+    "url": "https://github.com/digitalcolony/ecofriendlycoffee-archive.git"
   },
   "scripts": {
     "dev": "astro dev",
