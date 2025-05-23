@@ -34,6 +34,10 @@ html {
 	--heading-color: rgb(var(--black));
 	--code-bg: rgb(var(--gray-light));
 	--border-color: rgb(var(--gray-light));
+
+	/* Font family definitions */
+	--font-heading: "Lora", Georgia, serif;
+	--font-body: "Open Sans", Helvetica, Arial, sans-serif;
 }
 
 /* Dark mode colors */
@@ -77,7 +81,7 @@ html {
 	font-display: swap;
 }
 body {
-	font-family: "Atkinson", sans-serif;
+	font-family: var(--font-body);
 	margin: 0;
 	padding: 0;
 	text-align: left;
@@ -107,6 +111,7 @@ h6 {
 	margin: 0 0 0.5em 0;
 	color: var(--heading-color);
 	line-height: 1.2;
+	font-family: var(--font-heading);
 }
 h1 {
 	font-size: 3.052em;

@@ -78,7 +78,7 @@ In this brief article we have tried to impress the Planting Community that apart
 
 ![](IMG_0095-2-1024x576.jpg)
 
-It is an established fact that in India, we simply cannot adopt Western farming technologies which are often referred to as Industrial agriculture technologies. These technologies as practiced in developed countries where size of land holdings are in thousands of acres as compared to subsistence or small holdings of 10 hectares to 100 hectares in coffee, are ineffective at sustaining soil productivity. (Incidentally more than 95 % of coffee land holdings are less than 10 hectares of land).Restoring soil productivity and ecosystem functions in these contexts requires a leap of faith and new ways of managing soil fertility.
+It is an established fact that in India, we simply cannot adopt Western farming technologies which are often referred to as Industrial agriculture technologies. These technologies as practiced in developed countries where size of land holdings are in thousands of acres as compared to subsistence or small holdings of 10 hectares to 100 hectares in coffee, are ineffective at sustaining soil productivity. (Incidentally more than 95 % of coffee land holdings are less than 10 hectares of land). Restoring soil productivity and ecosystem functions in these contexts requires a leap of faith and new ways of managing soil fertility.
 
 ### References
 
@@ -96,4 +96,4 @@ Bopanna, P.T. 2011.The Romance of Indian Coffee. Prism Books ltd.
 
 [Soil and Health Library](https://soilandhealth.org/)
 
-> [Soil Water Conservation in Coffee Plantations](https://ecofriendlycoffee.org/soil-water-conservation-in-coffee-plantations/)
+[Soil Water Conservation in Coffee Plantations](/soil-water-conservation-in-coffee-plantations/)

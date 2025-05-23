@@ -21,7 +21,8 @@ import { SITE_TITLE, SITE_TITLE_MOBILE } from "../consts";
 		<div class="internal-links" id="nav-links">
 			<HeaderLink href="/">Home</HeaderLink>
 			<HeaderLink href="/category">Categories</HeaderLink>
-			<HeaderLink href="/authors">Authors</HeaderLink>
+			<HeaderLink href="/about">About</HeaderLink>
+			<HeaderLink href="/textbook">Textbook</HeaderLink>
 		</div>
 
 		<div class="theme-toggle">
@@ -91,11 +92,13 @@ import { SITE_TITLE, SITE_TITLE_MOBILE } from "../consts";
 	.internal-links {
 		display: flex;
 		justify-content: center;
-		margin-left: 2em;
+		margin-left: auto; /* Changed from 2em to auto to center better */
+		margin-right: auto; /* Added to help with centering */
+		flex: 1; /* Added to allow the container to expand */
 	}
 
 	nav a {
-		padding: 1em 0.5em;
+		padding: 1em 1.2em; /* Increased horizontal padding from 0.5em to 1.2em */
 		color: var(--text-color);
 		border-bottom: 4px solid transparent;
 		text-decoration: none;
@@ -260,7 +263,8 @@ import { SITE_TITLE, SITE_TITLE_MOBILE } from "../consts";
 			justify-content: flex-start;
 			overflow: hidden;
 			transition: height 0.3s ease-in-out;
-			margin-left: 0;
+			margin-left: 0; /* Reset margin for mobile menu */
+			margin-right: 0; /* Reset margin for mobile menu */
 			z-index: 99;
 			padding-top: 60px;
 			opacity: 0;
@@ -276,6 +280,7 @@ import { SITE_TITLE, SITE_TITLE_MOBILE } from "../consts";
 		.internal-links a {
 			margin: 1em 0;
 			font-size: 1.2em;
+			padding: 0.5em 1.5em; /* Adjusted padding for mobile menu items */
 		}
 
 		.mobile-title {
