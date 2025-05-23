@@ -78,6 +78,6 @@ Anand Titus Pereira & Gowda. T.K.S. 1991. Occurrence and distribution of hydroge
 
 Natalie Angier. 2018. A Population That Pollutes Itself Into Extinction (and It’s Not Us)
 
-[Azolla as a Biofertilizer in Coffee Plantations](http://ecofriendlycoffee.org/azolla-as-a-biofertilizer-in-coffee-plantations/)
+[Azolla as a Biofertilizer in Coffee Plantations](/azolla-as-a-biofertilizer-in-coffee-plantations/)
 
 [A Population That Pollutes Itself Into Extinction](https://www.nytimes.com/2018/04/30/science/microbes-ecological-suicide.html)

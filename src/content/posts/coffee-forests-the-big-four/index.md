@@ -48,7 +48,7 @@ Cardio toxic e.g. S.Cobra. Affects the heart.
 
 ### General Symptoms of Snake Bite
 
-[![handoutpaint](handoutpaint.jpg)](http://ecofriendlycoffee.org/coffee-forests-the-big-four/handoutpaint/)
+[![handoutpaint](handoutpaint.jpg)](/coffee-forests-the-big-four/handoutpaint/)
 
 ### Diagnosis Of Snake Bite
 

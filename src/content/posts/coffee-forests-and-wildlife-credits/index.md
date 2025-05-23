@@ -12,7 +12,7 @@ updatedAt: "2022-01-15T06:44:27"
 wordpressId: 23
 ---
 
-*Dr.Anand Titus Pereira is a Coffee Evaluator and Technical Consultant to Canara Bank (A Govt. of India Enterprise)*
+_Dr.Anand Titus Pereira is a Coffee Evaluator and Technical Consultant to Canara Bank (A Govt. of India Enterprise)_
 
 The United Nations General Assembly declared 2011 as the International Year of Forests to raise awareness on sustainable management, conservation and sustainable development of all types of forests. According to the Food and Agriculture Organization of the United Nations, “Forests for People” is the main theme of the Year, highlighting the dynamic relationship between forests and the people who depend on them. In this article we talk about coffee forests and three interdependent relationships, commonly referred to as the **tripartite coffee forest symbiosis**.
 
@@ -184,36 +184,36 @@ Another important point that we would like to stress, is that once migratory cor
 
 Wildlife credits will benefit the Coffee farmers in a number of ways. First and foremost it will stimulate the imagination of the planting community in conserving the earth’s precious biological resources. The other benefits include:
 
--   -   Monetary benefits/Alternate source of income.
-    -   Prevents distress selling of land to land sharks.
-    -   Prevents farmers from migrating to urban areas.
-    -   Builds Self esteem and confidence building measures.
-    -   Premium price for coffee.
+- - Monetary benefits/Alternate source of income.
+  - Prevents distress selling of land to land sharks.
+  - Prevents farmers from migrating to urban areas.
+  - Builds Self esteem and confidence building measures.
+  - Premium price for coffee.
 
 ![wildlife-27](wildlife-27.jpg)
 
--   Ecotourism
--   Conservation of habitat
--   Global recognition for eco friendly shade coffee.
+- Ecotourism
+- Conservation of habitat
+- Global recognition for eco friendly shade coffee.
 
 ### RECOMMENDATIONS:
 
--   -   We must admit to the fact that due to deficiencies in planning and inadequate allocation of funds; wildlife population is declining.
-    -   Officials at the helm of affairs should understand that protection of forests and its wealth in terms of flora and fauna cannot be achieved without the active participation of coffee farmers, alongside with forest officials.
-    -   Permit logging, but limit commercial logging.
+- - We must admit to the fact that due to deficiencies in planning and inadequate allocation of funds; wildlife population is declining.
+  - Officials at the helm of affairs should understand that protection of forests and its wealth in terms of flora and fauna cannot be achieved without the active participation of coffee farmers, alongside with forest officials.
+  - Permit logging, but limit commercial logging.
 
 ![wildlife-28_6127325059_o](wildlife-28_6127325059_o-1024x1024.jpg)
 
--   Ecosystem based management.
--   We should redouble our efforts in protecting wild life from the threats of poaching and wildlife trafficking.
--   The very slow disposal of cases related to wildlife crimes sends a wrong signal to the rich and powerful.
--   Many tribal’s still live inside sanctuaries. We need to find a way to satisfy their legitimate livelihood needs. But it is equally vital to ensure that such livelihood needs do not come at the cost of the wild animals.
--   Educating the rural youth in particular, especially children; can play an important role in reducing animal human conflict.
--   Companies pay environmental tax through purchase of wildlife credits.
--   Creation of data bases and e libraries of all flora and fauna.
--   Tax benefits to individuals or companies sponsoring a particular animal species.
--   Wildlife offsets as an insurance package to corporations and individuals to compensate for loss of habitat for setting up Industry.
--   If only coffee farmers and large plantation holders can earmark 5% of their total land area to be totally devoted as a sacred forest without planting any commercial crop, it will act as a magnet in attracting wildlife and will help in the regeneration of dwindling species of flora.
+- Ecosystem based management.
+- We should redouble our efforts in protecting wild life from the threats of poaching and wildlife trafficking.
+- The very slow disposal of cases related to wildlife crimes sends a wrong signal to the rich and powerful.
+- Many tribal’s still live inside sanctuaries. We need to find a way to satisfy their legitimate livelihood needs. But it is equally vital to ensure that such livelihood needs do not come at the cost of the wild animals.
+- Educating the rural youth in particular, especially children; can play an important role in reducing animal human conflict.
+- Companies pay environmental tax through purchase of wildlife credits.
+- Creation of data bases and e libraries of all flora and fauna.
+- Tax benefits to individuals or companies sponsoring a particular animal species.
+- Wildlife offsets as an insurance package to corporations and individuals to compensate for loss of habitat for setting up Industry.
+- If only coffee farmers and large plantation holders can earmark 5% of their total land area to be totally devoted as a sacred forest without planting any commercial crop, it will act as a magnet in attracting wildlife and will help in the regeneration of dwindling species of flora.
 
 ### CONCLUSION
 
@@ -233,15 +233,15 @@ Let’s recall the words of wisdom of the Red Indian Chief Seattle” What is ma
 
 ### REFERENCES
 
-[ecofriendlycoffee.org/coffee-forests-and-green-national-accounts/](http://ecofriendlycoffee.org/coffee-forests-and-green-national-accounts/)
+[ecofriendlycoffee.org/coffee-forests-and-green-national-accounts/](/coffee-forests-and-green-national-accounts/)
 
-[ecofriendlycoffee.org/coffee-forests-a-gateway-to-wildlife/](http://ecofriendlycoffee.org/coffee-forests-a-gateway-to-wildlife/)
+[ecofriendlycoffee.org/coffee-forests-a-gateway-to-wildlife/](/coffee-forests-a-gateway-to-wildlife/)
 
-[ecofriendlycoffee.org/coffee-hotspots-an-inventory-of-biodiversity/](http://ecofriendlycoffee.org/coffee-hotspots-an-inventory-of-biodiversity/)
+[ecofriendlycoffee.org/coffee-hotspots-an-inventory-of-biodiversity/](/coffee-hotspots-an-inventory-of-biodiversity/)
 
-[ecofriendlycoffee.org/coffee-forest-symbiosis/](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+[ecofriendlycoffee.org/coffee-forest-symbiosis/](/coffee-forest-symbiosis/)
 
-[ecofriendlycoffee.org/eco-friendly-indian-coffee-a-profile/](http://ecofriendlycoffee.org/eco-friendly-indian-coffee-a-profile/)
+[ecofriendlycoffee.org/eco-friendly-indian-coffee-a-profile/](/eco-friendly-indian-coffee-a-profile/)
 
 [coffeehabitat.com/2007/09/research-mammal/](http://www.coffeehabitat.com/2007/09/research-mammal/)
 

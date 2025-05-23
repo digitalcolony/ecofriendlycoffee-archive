@@ -48,35 +48,35 @@ Immediately, after the very first showers inside the coffee mountain, the red ea
 
 Contribution of Actinomycetes:
 
--   Degradation of lignin
--   Degradation of organic matter
--   Degradation of chitin
--   Formation and stabilization of compost piles
--   Formation of stable humus
--   Production of antibiotics
--   Combine with other soil microorganisms in breaking down tough plant and animal residues
+- Degradation of lignin
+- Degradation of organic matter
+- Degradation of chitin
+- Formation and stabilization of compost piles
+- Formation of stable humus
+- Production of antibiotics
+- Combine with other soil microorganisms in breaking down tough plant and animal residues
 
 ![ACTINOMYCETES2005SLIDE-5](ACTINOMYCETES2005SLIDE-5.jpg)
 
 Major Group of Actinomycetes:  
 I. Streptomycetaceae:
 
--   Streptomyces
--   Microellobosporia
--   Sporichthya
+- Streptomyces
+- Microellobosporia
+- Sporichthya
 
 II. Nocardiaceae:
 
--   Nocardia, Pseudonocardia
+- Nocardia, Pseudonocardia
 
 Micromonosporaceae:
 
--   Micromonospora
--   Microbispora
--   Micropolyspora
--   Thermomonospora
--   Thermoactinomyces
--   Actinobifida
+- Micromonospora
+- Microbispora
+- Micropolyspora
+- Thermomonospora
+- Thermoactinomyces
+- Actinobifida
 
 ![ACT_Slide11](ACT_Slide11.jpg)
 
@@ -84,24 +84,24 @@ Micromonosporaceae:
 
 IV. Actinolanaceae:
 
--   Streptosporangium
--   Actinoplanes
--   Planobispora
--   Dactylosporangium
+- Streptosporangium
+- Actinoplanes
+- Planobispora
+- Dactylosporangium
 
 ![ACT_Slide12](ACT_Slide12.jpg)
 
 V. Dermatophilaceae:
 
--   Geodermatophilus
+- Geodermatophilus
 
 VI. Frankiaceae:
 
--   Frankia
+- Frankia
 
 VII. Actinomycetaceae:
 
--   Actinomyces
+- Actinomyces
 
 Influence of Coffee Plantations on growth and development of Actinomycetes:
 
@@ -193,31 +193,31 @@ Pavan Suhdev, an International banker and Director of the Green Accounting for I
 
 ### References:
 
--   [Role of Bacteria in Coffee Plantation Ecology](http://ecofriendlycoffee.org/role-of-bacteria-in-coffee-plantation-ecology/)
--   [Role of Fungi in Coffee Plantation Ecology](http://ecofriendlycoffee.org/role-of-fungi-in-coffee-plantation-ecology/)
--   [Biological Control of Soil Borne Pathogens](http://ecofriendlycoffee.org/biological-control-of-soil-borne-pathogens/)
--   [Invisible Communications in Coffee Plantations](http://ecofriendlycoffee.org/invisible-communications-in-coffee-plantations/)
--   [Coffee Plantations A Multidisciplinary Approach](http://ecofriendlycoffee.org/coffee-plantations-a-multidisciplinary-approach/)
--   [Organic Matter Decomposition In Coffee Plantations](http://ecofriendlycoffee.org/organic-matter-decomposition-in-coffee-plantations/)
--   [The Fine Art of Composting In Coffee Plantations](http://ecofriendlycoffee.org/the-fine-art-of-composting-in-coffee-plantations/)
--   [Farm Coffee Organic Manures](http://ecofriendlycoffee.org/farm-coffee-organic-manures/)
--   Alcamo. E. 1983. Fundamentals of Microbiology. Addison-Wesley, Reading, Mass.
--   Alexander ,M. 1974 . Microbial Ecology. New York. John Wiley and Sons.
--   Alexander ,M. 1977 . Introduction to soil Microbiology. 2nd edition. New York. John Wiley and Sons
--   Atlas, R.M. and R. Bartha. 1993. Microbial Ecology : Fundamentals and application. Third edition. Benjamin/Cummings Pub. Co. New York.
--   Buchanan, R. E. and Gibbons. N.E. ( Eds. ) 1974. Bergey’s Manual of Determinative Bacteriology ( 8th ed. ). Williams and Wilkins Co. Baltimore.
--   Brock. T. D. , Smith, D.W. and Madigan,M.T. 1984. Biology of Microorganisms. Englewood Cliffs. Prentice-Hall.
--   Coffee Guide. Sixth edition,2000. Central Coffee Research Institute, Coffee research station, Chickmagalur District. Karnataka.
--   Collins, R.P., L.E. Knaak, and J.W. Soboslai. 1970. Lloydia, 33 :199-200.
--   David. B. Alexander, 2002. Bacteria and Archaea (chapter 3). In Principles and applications of soil microbiology. Edited by David M Sylvia, J.J. Fuhrmann, Peter G Hartel and David A Zuberer. Prentice Hall. Upper Saddle River, NJ 07458
--   Henis. Y. ( ed ). 1987. Survival and dormancy of microorganisms. John Wiley & Sons, Inc. New York.
--   Kendrick. B. 1992. The fifth kingdom. Focus Texts, Newburyport. Mass.
--   Rangaswami . G and Bagyaraj, D. J. 2001. Agricultural Microbiology. Second edition. Prentice-Hall of India Private Limited. New Delhi.
--   Lechevalier,H.A. and M.A. Lechevalier. 1967. Annu. Rev. Microbiol., 21 : 71-100.
--   Salle. A. J. 1983. Fundamentals Principles of Bacteriology. Seventh edition. Tata McGraw Publishing Company LTD. New Delhi.
--   Subba Rao. N.S. 2002. Soil Microbiology (fourth edition of soil microorganisms and plant growth) Oxford and IBH Publishing CO. PVT. LTD. New Delhi.
--   Starr.M.P., Stolp, H., Truper, H.G., Balows,A., and Schlegel,H.G. 1981. The Prokaryotes- A handbook on habitats, Isolation and identification of bacteria. 2 Vols. Springer-Verlag, New York.
--   Waksman. S. A. 1959. The Actinomycetes. Vol. I. Nature, Occurrence and Activities. Williams and Wilkins, Baltimore.
--   Waksman. S. A. 1961. The Actinomycetes. Vol. II.: Classification, Identification and Descriptions of Genera and Species. Williams and Wilkins Co. Baltimore.
--   Woese, C. R and Wolfe, R.S. ( Eds .) 1985. Archaebacteria. Vol.viii : The Bacteria- A treatise on structure and function. Academic Press, New York.
--   Paul. E.A. and Clark. F. E. 1996. Soil Microbiology and Biochemistry. Academic Press
+- [Role of Bacteria in Coffee Plantation Ecology](/role-of-bacteria-in-coffee-plantation-ecology/)
+- [Role of Fungi in Coffee Plantation Ecology](/role-of-fungi-in-coffee-plantation-ecology/)
+- [Biological Control of Soil Borne Pathogens](/biological-control-of-soil-borne-pathogens/)
+- [Invisible Communications in Coffee Plantations](/invisible-communications-in-coffee-plantations/)
+- [Coffee Plantations A Multidisciplinary Approach](/coffee-plantations-a-multidisciplinary-approach/)
+- [Organic Matter Decomposition In Coffee Plantations](/organic-matter-decomposition-in-coffee-plantations/)
+- [The Fine Art of Composting In Coffee Plantations](/the-fine-art-of-composting-in-coffee-plantations/)
+- [Farm Coffee Organic Manures](/farm-coffee-organic-manures/)
+- Alcamo. E. 1983. Fundamentals of Microbiology. Addison-Wesley, Reading, Mass.
+- Alexander ,M. 1974 . Microbial Ecology. New York. John Wiley and Sons.
+- Alexander ,M. 1977 . Introduction to soil Microbiology. 2nd edition. New York. John Wiley and Sons
+- Atlas, R.M. and R. Bartha. 1993. Microbial Ecology : Fundamentals and application. Third edition. Benjamin/Cummings Pub. Co. New York.
+- Buchanan, R. E. and Gibbons. N.E. ( Eds. ) 1974. Bergey’s Manual of Determinative Bacteriology ( 8th ed. ). Williams and Wilkins Co. Baltimore.
+- Brock. T. D. , Smith, D.W. and Madigan,M.T. 1984. Biology of Microorganisms. Englewood Cliffs. Prentice-Hall.
+- Coffee Guide. Sixth edition,2000. Central Coffee Research Institute, Coffee research station, Chickmagalur District. Karnataka.
+- Collins, R.P., L.E. Knaak, and J.W. Soboslai. 1970. Lloydia, 33 :199-200.
+- David. B. Alexander, 2002. Bacteria and Archaea (chapter 3). In Principles and applications of soil microbiology. Edited by David M Sylvia, J.J. Fuhrmann, Peter G Hartel and David A Zuberer. Prentice Hall. Upper Saddle River, NJ 07458
+- Henis. Y. ( ed ). 1987. Survival and dormancy of microorganisms. John Wiley & Sons, Inc. New York.
+- Kendrick. B. 1992. The fifth kingdom. Focus Texts, Newburyport. Mass.
+- Rangaswami . G and Bagyaraj, D. J. 2001. Agricultural Microbiology. Second edition. Prentice-Hall of India Private Limited. New Delhi.
+- Lechevalier,H.A. and M.A. Lechevalier. 1967. Annu. Rev. Microbiol., 21 : 71-100.
+- Salle. A. J. 1983. Fundamentals Principles of Bacteriology. Seventh edition. Tata McGraw Publishing Company LTD. New Delhi.
+- Subba Rao. N.S. 2002. Soil Microbiology (fourth edition of soil microorganisms and plant growth) Oxford and IBH Publishing CO. PVT. LTD. New Delhi.
+- Starr.M.P., Stolp, H., Truper, H.G., Balows,A., and Schlegel,H.G. 1981. The Prokaryotes- A handbook on habitats, Isolation and identification of bacteria. 2 Vols. Springer-Verlag, New York.
+- Waksman. S. A. 1959. The Actinomycetes. Vol. I. Nature, Occurrence and Activities. Williams and Wilkins, Baltimore.
+- Waksman. S. A. 1961. The Actinomycetes. Vol. II.: Classification, Identification and Descriptions of Genera and Species. Williams and Wilkins Co. Baltimore.
+- Woese, C. R and Wolfe, R.S. ( Eds .) 1985. Archaebacteria. Vol.viii : The Bacteria- A treatise on structure and function. Academic Press, New York.
+- Paul. E.A. and Clark. F. E. 1996. Soil Microbiology and Biochemistry. Academic Press

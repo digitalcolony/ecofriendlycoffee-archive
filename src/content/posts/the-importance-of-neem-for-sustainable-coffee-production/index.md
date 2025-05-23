@@ -38,26 +38,26 @@ The coffee farmer has two advantages with respect to neem, namely availability o
 
 ### FUTURE TRENDS OF NEEM & ITS BY-PRODUCTS
 
--   Regulates nitrogen release from nitrogenous fertilizers.
--   Bio activity against plant pathogens and pests.
--   Soil conditioner
--   Lowers the C: N ratio of soil organic matter.
--   Enhances the spread and multiplication of beneficial micro flora.
--   Soil conservation
--   Excellent source of organic nitrogen.
--   Exerts behavioral, Physiological and biochemical effects on insects.
--   Excellent soil amendment.
--   Non development of resistance of microorganisms towards neem based products.
--   Harmless nature; against non target organisms.
--   Lack of any residue problem.
--   Acts as an excellent input in the use of Integrated Pest Management.
--   Excellent air purifier as well as wind breaks.
--   Increases soil fertility and soil water holding capacity.
--   Neem can balance acidic soils of calcium mines and neutralize them.
--   Wood is excellent in manufacturing agricultural implements.
--   Useful tree in rehabilitating waste land areas.
--   Very effective against global warming.
--   Toxicants produced during microbial degradation of neem inhibit several stages of pest population.
+- Regulates nitrogen release from nitrogenous fertilizers.
+- Bio activity against plant pathogens and pests.
+- Soil conditioner
+- Lowers the C: N ratio of soil organic matter.
+- Enhances the spread and multiplication of beneficial micro flora.
+- Soil conservation
+- Excellent source of organic nitrogen.
+- Exerts behavioral, Physiological and biochemical effects on insects.
+- Excellent soil amendment.
+- Non development of resistance of microorganisms towards neem based products.
+- Harmless nature; against non target organisms.
+- Lack of any residue problem.
+- Acts as an excellent input in the use of Integrated Pest Management.
+- Excellent air purifier as well as wind breaks.
+- Increases soil fertility and soil water holding capacity.
+- Neem can balance acidic soils of calcium mines and neutralize them.
+- Wood is excellent in manufacturing agricultural implements.
+- Useful tree in rehabilitating waste land areas.
+- Very effective against global warming.
+- Toxicants produced during microbial degradation of neem inhibit several stages of pest population.
 
 ![NEEM2005SLIDE-4](NEEM2005SLIDE-4.jpg)
 
@@ -78,7 +78,7 @@ Neem fruit is a berry which is green when unripe. As ripening progresses the col
 Research data suggests that more than 300 species of insects can be controlled with the help of neem products. In addition neem has promising nematicidal and fungi toxic activity. In India, neem has been evaluated against 125 species of pests of agricultural importance. All parts of the tree are known to be biologically active. The maximum insecticidal activity is in seed kernel. Scientific review of papers shows that neem also possesses insect growth regulatory effect.
 
 ![NEEM2005SLIDE-5](NEEM2005SLIDE-5.jpg)  
-*Insect Control with Application of Neem*
+_Insect Control with Application of Neem_
 
 ### AGRICULTURAL FORMULATIONS
 
@@ -86,10 +86,10 @@ Neem is known to contain over 100 biologically active constituents that can be u
 
 According to B. N. Vyas and K.B. Mistry, there is considerable emphasis placed on the development of neem pesticides based on AZADIRACHTIN, which is the most widely evaluated neem compound. However, they are of the opinion that, it may not be advisable to develop a product based on pure azadirachtin alone because of the following reasons.
 
--   At least 50 neem compounds are reported in literature to possess antifeedant / repellent and / or insect growth regulating activities.
--   There is always a danger of development of resistance in insects against a product containing a single active molecule.
--   There is hardly any evidence of the antagonistic effects of one neem compound on the other. Literature survey reveals that under many situations , crude or semi purified extracts of seeds give similar results as compared to pure azadirachtin and in fact, in many situations , crude extracts perform better than azadirachtin alone based preparations.
--   Greater technical skills are required to produce very high concentrations of azadirachtin in technical grade material which also leads to market escalation cost.
+- At least 50 neem compounds are reported in literature to possess antifeedant / repellent and / or insect growth regulating activities.
+- There is always a danger of development of resistance in insects against a product containing a single active molecule.
+- There is hardly any evidence of the antagonistic effects of one neem compound on the other. Literature survey reveals that under many situations , crude or semi purified extracts of seeds give similar results as compared to pure azadirachtin and in fact, in many situations , crude extracts perform better than azadirachtin alone based preparations.
+- Greater technical skills are required to produce very high concentrations of azadirachtin in technical grade material which also leads to market escalation cost.
 
 ### JOE’S SUSTAINABLE FARM: KIREHULLY ESTATE
 
@@ -122,7 +122,7 @@ In order to multiply the native micro flora, the following experiment was carrie
 Also, fresh soil from fertile (trenches) blocks was kept in a shaded place under moist conditions. At weekly intervals, the mixture in the barrel was sprinkled over the neem seeds together with a thin layer of moist soil. The entire heap of neem was manually turned upside down and accordingly broad casted to the coffee farm.
 
 ![NEEM2005SLIDE-9](NEEM2005SLIDE-9.jpg)  
-*Neem Seeds and Poultry Manure Prior to Mixing*
+_Neem Seeds and Poultry Manure Prior to Mixing_
 
 ### THE FARM AS A COMPOST BIN: CONCEPT OF EXTENDED COMPOST UNIT
 
@@ -134,7 +134,7 @@ Our hypothesis is based on five key ideas.
 2.  Ready availability of tons of biomass produced periodically due to leaf Shedding from forest trees as well as from coffee bush, herbs & shrubs.
 
 ![NEEM2005SLIDE-10](NEEM2005SLIDE-10.jpg)  
-*Biomass Accumulation on the Floor of Coffee Forest*
+_Biomass Accumulation on the Floor of Coffee Forest_
 
 1.  Presence of associative and free-living micro flora responsible for nitrogen Fixation, phosphorus solubilisation and other organic conversions.
 2.  Presence of succulent weeds (three round of weeding operations are carried Out in shade grown Indian coffee farms)
@@ -145,7 +145,7 @@ Our hypothesis is based on five key ideas.
 Since Indian Coffee Plantations are greatly influenced by the FOREST FACTOR, there is a tremendous amount of well scattered biomass which needs to be recycled for the periodic release of nutrients. The unfortunate part is the non availability of a large number of beneficial strains of soil microbes to act on this raw material. Our idea is to create a suitable environment for the accelerated growth and multiplication of different strains of indigenous beneficial microbes which are already present on the farm by the application of neem in different forms. Our experiments prove beyond doubt that it is possible under field conditions to stimulate the micro flora composition by adding neem.
 
 ![NEEM2005SLIDE-11](NEEM2005SLIDE-11.jpg)  
-*Neem Seeds Composted With Sheep and Poultry Manure*
+_Neem Seeds Composted With Sheep and Poultry Manure_
 
 Our past experience has pointed out very clearly that the micro flora within the coffee mountain is in equilibrium with the environment and that introduced microorganisms must compete with indigenous micro flora. Hence, our idea of providing a niche for the native soil flora by the addition of neem, was to enable them to multiply without stress.
 
@@ -157,26 +157,26 @@ Our observations point out that this practice increases the macro and micro flor
 
 ### POSITIVE TRENDS OBSERVED DUE TO REPEATED NEEM APPLICATION
 
--   Improves health and vigor of the plant.
--   Improves soil fertility, soil texture and porosity.
--   Improves soil aeration, resulting in well established net work of roots.
--   Improves the nutrient retaining properties of the soil.
--   Availability of nutrients in the soluble form coinciding with the growth and development stages of the plant.
--   Soil micro flora is enriched.
--   Improved Drought tolerance by build up of stable humus, improvement of soil structure and water.
--   The leaf appears dark green and promotes increased photosynthetic activity.
--   Leaf has a thick cuticle which acts as a barrier in preventing insect and microbial attack.
--   The plantation is by and large resistant to attack by insects and microbial pathogens.
--   The size of the coffee beans is uniform and also bigger in size compared to blocks without neem application.
--   During monsoons season, if there is no break in rain spells then application of neem controls berry drop.
--   During long periods of drought, the soil treated with neem acts as a defense mechanism to protect the overall integrity of the farm.
--   Increases the percentage of uniform ripening of beans.
--   Increases the percentage of flower setting.
--   Increases the dry matter content of coffee.
--   Increases honey bee population during flowering.
+- Improves health and vigor of the plant.
+- Improves soil fertility, soil texture and porosity.
+- Improves soil aeration, resulting in well established net work of roots.
+- Improves the nutrient retaining properties of the soil.
+- Availability of nutrients in the soluble form coinciding with the growth and development stages of the plant.
+- Soil micro flora is enriched.
+- Improved Drought tolerance by build up of stable humus, improvement of soil structure and water.
+- The leaf appears dark green and promotes increased photosynthetic activity.
+- Leaf has a thick cuticle which acts as a barrier in preventing insect and microbial attack.
+- The plantation is by and large resistant to attack by insects and microbial pathogens.
+- The size of the coffee beans is uniform and also bigger in size compared to blocks without neem application.
+- During monsoons season, if there is no break in rain spells then application of neem controls berry drop.
+- During long periods of drought, the soil treated with neem acts as a defense mechanism to protect the overall integrity of the farm.
+- Increases the percentage of uniform ripening of beans.
+- Increases the percentage of flower setting.
+- Increases the dry matter content of coffee.
+- Increases honey bee population during flowering.
 
 ![NEEM2005SLIDE-12](NEEM2005SLIDE-12.jpg)  
-*Increased Honeybee Population – Neem*
+_Increased Honeybee Population – Neem_
 
 ### RECOMMENDATIONS FOR RESEARCH
 
@@ -196,37 +196,37 @@ World wide, coffee farmers need to think logically towards the balanced exploita
 
 ### REFERENCES
 
-[Invisible Communications in Coffee Plantations](http://ecofriendlycoffee.org/invisible-communications-in-coffee-plantations/)
+[Invisible Communications in Coffee Plantations](/invisible-communications-in-coffee-plantations/)
 
-[Endomycorrhizae](http://ecofriendlycoffee.org/endomycorrhizae/)
+[Endomycorrhizae](/endomycorrhizae/)
 
-[Organic Matter Decomposition In Coffee Plantations](http://ecofriendlycoffee.org/organic-matter-decomposition-in-coffee-plantations/)
+[Organic Matter Decomposition In Coffee Plantations](/organic-matter-decomposition-in-coffee-plantations/)
 
-[The Fine Art of Composting In Coffee Plantations](http://ecofriendlycoffee.org/the-fine-art-of-composting-in-coffee-plantations/)
+[The Fine Art of Composting In Coffee Plantations](/the-fine-art-of-composting-in-coffee-plantations/)
 
-[Farm Coffee Organic Manures](http://ecofriendlycoffee.org/farm-coffee-organic-manures/)
+[Farm Coffee Organic Manures](/farm-coffee-organic-manures/)
 
-[Global Warming in Coffee Plantations](http://ecofriendlycoffee.org/global-warming-in-coffee-plantations/)
+[Global Warming in Coffee Plantations](/global-warming-in-coffee-plantations/)
 
-[Biodiversity In Relation To Coffee Plantations](http://ecofriendlycoffee.org/biodiversity-in-relation-to-coffee-plantations/)
+[Biodiversity In Relation To Coffee Plantations](/biodiversity-in-relation-to-coffee-plantations/)
 
-[Coffee Forest Symbiosis](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+[Coffee Forest Symbiosis](/coffee-forest-symbiosis/)
 
-[Significance of Microbial Interactions Within Coffee Plantations](http://ecofriendlycoffee.org/significance-of-microbial-interactions-within-coffee-plantations/)
+[Significance of Microbial Interactions Within Coffee Plantations](/significance-of-microbial-interactions-within-coffee-plantations/)
 
-[Role of Bacteria in Coffee Plantation Ecology](http://ecofriendlycoffee.org/role-of-bacteria-in-coffee-plantation-ecology/)
+[Role of Bacteria in Coffee Plantation Ecology](/role-of-bacteria-in-coffee-plantation-ecology/)
 
-[Role of Fungi in Coffee Plantation Ecology](http://ecofriendlycoffee.org/role-of-fungi-in-coffee-plantation-ecology/)
+[Role of Fungi in Coffee Plantation Ecology](/role-of-fungi-in-coffee-plantation-ecology/)
 
-[The Role of Actinomycetes in Coffee Plantation Ecology](http://ecofriendlycoffee.org/the-role-of-actinomycetes-in-coffee-plantation-ecology/)
+[The Role of Actinomycetes in Coffee Plantation Ecology](/the-role-of-actinomycetes-in-coffee-plantation-ecology/)
 
-[Microbial Communities](http://ecofriendlycoffee.org/microbial-communities/)
+[Microbial Communities](/microbial-communities/)
 
-[Role of Ectomycorrhizae In Coffee Plantations](http://ecofriendlycoffee.org/role-of-ectomycorrhizae-in-coffee-plantations/)
+[Role of Ectomycorrhizae In Coffee Plantations](/role-of-ectomycorrhizae-in-coffee-plantations/)
 
-[Coffee Plantations A Multidisciplinary Approach](http://ecofriendlycoffee.org/coffee-plantations-a-multidisciplinary-approach/)
+[Coffee Plantations A Multidisciplinary Approach](/coffee-plantations-a-multidisciplinary-approach/)
 
-[The Ecodynamic Coffee Cube 3](http://ecofriendlycoffee.org/the-ecodynamic-coffee-cube-3/)
+[The Ecodynamic Coffee Cube 3](/the-ecodynamic-coffee-cube-3/)
 
 Arora. R. & G.S. Dhaliwal. 1994. Botanical pesticides in insect management ; Ecological perspectives. In: Management of agricultural pollution in India. (Eds. G.S.Dhailiwal 7 B.D.Kansal ). Commonwealth Publishers. New Delhi.
 

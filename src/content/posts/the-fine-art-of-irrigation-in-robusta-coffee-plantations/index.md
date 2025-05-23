@@ -12,7 +12,7 @@ updatedAt: "2015-10-28T14:10:26"
 wordpressId: 74
 ---
 
-*Readers are requested to refer the article [PHYSIOLOGY OF COFFEE FLOWERING](http://ecofriendlycoffee.org/physiology-of-coffee-flowering/) for a better understanding of the present article.*
+_Readers are requested to refer the article [PHYSIOLOGY OF COFFEE FLOWERING](/physiology-of-coffee-flowering/) for a better understanding of the present article._
 
 Coffee is an EVERGREEN perennial plant and has a curious origin in India. In the 17th century, saint Baba Budan, planted seven coffee seeds on the elevated hills of BabaBudan in Chickmagalore District of Karnataka (India). Thus coffee growing took its birth in the enchanting hills of Bababudan. There after Europeans, systematically introduced Plantations in India, in the 18th century.
 
@@ -32,16 +32,16 @@ Water plays a critical role in the biochemical and physiological activities of t
 
 ### FUNCTIONS OF WATER IN PLANTS (Introductory Plant Physiology, 2 ed. Noggle & Fritz)
 
--   Water is a major constituent of protoplasm.
--   Is the solvent in which mineral nutrients enter a plant from the soil solution? Also, water is the solvent in which mineral nutrients are transported from one part of a cell to another and from cell to cell, tissue to tissue, and organ to organ.
--   Is the medium in which many metabolic reactions occur?
--   Is a reactant in a number of metabolic reactions?
--   In photosynthesis the hydrogen atom in the water molecule is incorporated into organic compounds and oxygen atoms are released as oxygen.
--   Water imparts turgidity to growing cells and thus maintains their form and structure. In fact water can be regarded as a material that provides mechanical support and rigidity to no lignified plant cells.
--   Gain or loss of water from cells and tissues is responsible for a variety of movements of plant parts.
--   The elongation phase of cell growth depends on absorption of water.
--   Water is a metabolic end product of respiration.
--   More water is absorbed by plants and greater amounts of water are lost as water vapor by plants than any other substance.
+- Water is a major constituent of protoplasm.
+- Is the solvent in which mineral nutrients enter a plant from the soil solution? Also, water is the solvent in which mineral nutrients are transported from one part of a cell to another and from cell to cell, tissue to tissue, and organ to organ.
+- Is the medium in which many metabolic reactions occur?
+- Is a reactant in a number of metabolic reactions?
+- In photosynthesis the hydrogen atom in the water molecule is incorporated into organic compounds and oxygen atoms are released as oxygen.
+- Water imparts turgidity to growing cells and thus maintains their form and structure. In fact water can be regarded as a material that provides mechanical support and rigidity to no lignified plant cells.
+- Gain or loss of water from cells and tissues is responsible for a variety of movements of plant parts.
+- The elongation phase of cell growth depends on absorption of water.
+- Water is a metabolic end product of respiration.
+- More water is absorbed by plants and greater amounts of water are lost as water vapor by plants than any other substance.
 
 In the early years of coffee planting, the area under Arabica cultivation was significantly higher than the robusta’s, accounting for more than 80%. But, in later years due to uncontrollable pest and disease incidence in Arabica plantations, the area drastically reduced.
 
@@ -144,8 +144,8 @@ A simple technique using 10 % cobalt chloride paper discs (20 mm2) has been stan
 
 ### CRITERIA ADOPTED
 
--   The leaf water potential at which there is a reduction of 50% photosynthetic efficiency of the plants was considered as criteria for identifying the period of irrigation.
--   Depletion of soil moisture content from the field capacity to 10% moisture content (50% of its field capacity).
+- The leaf water potential at which there is a reduction of 50% photosynthetic efficiency of the plants was considered as criteria for identifying the period of irrigation.
+- Depletion of soil moisture content from the field capacity to 10% moisture content (50% of its field capacity).
 
 ![IRRIGATION2005SLIDE-11](IRRIGATION2005SLIDE-11.jpg)
 
@@ -214,8 +214,8 @@ The Kirehully Coffee Mountain comprises of one big block of Robusta. The third g
 7.  Farmers having only Robusta blocks and such of those who irrigate their farms every year should carefully monitor the vigor of the bush. Excess vigor is detrimental towards good blossom and fruit set. In such cases, blocks which receive irrigation first should be irrigated at a later date but within the scheduled irrigation period.
 8.  The best time to irrigate is from dusk to dawn to avoid winds and high daytime temperatures.
 9.  Flowers which open with just the right amount of blossom showers have a higher survival rate than those irrigated with excess of water. This clearly indicates the sensitiveness of the plant to excess water.
-10.  Blossom showers should commence, only after picking the standing crop. Under exceptional circumstances like unseasonal rain, blossom showers can commence on the standing crop.
-11.  Over lapping of impact sprinklers is a must during blossom showers. However, during backing showers, sprinkler overlap is not necessary.
+10. Blossom showers should commence, only after picking the standing crop. Under exceptional circumstances like unseasonal rain, blossom showers can commence on the standing crop.
+11. Over lapping of impact sprinklers is a must during blossom showers. However, during backing showers, sprinkler overlap is not necessary.
 
 ![IRRIGATION2005SLIDE-13](IRRIGATION2005SLIDE-13.jpg)
 
@@ -263,21 +263,21 @@ Coffee farmers need to see, how all things are interconnected inside the coffee 
 
 ### REFERENCES
 
-[Eco-Friendly Indian Coffee: A Profile](http://ecofriendlycoffee.org/eco-friendly-indian-coffee-a-profile/)
+[Eco-Friendly Indian Coffee: A Profile](/eco-friendly-indian-coffee-a-profile/)
 
-[Coffee Plantations A Multidisciplinary Approach](http://ecofriendlycoffee.org/coffee-plantations-a-multidisciplinary-approach/)
+[Coffee Plantations A Multidisciplinary Approach](/coffee-plantations-a-multidisciplinary-approach/)
 
-[Rain Water Harvesting in Coffee Plantations](http://ecofriendlycoffee.org/rain-water-harvesting-in-coffee-plantations/)
+[Rain Water Harvesting in Coffee Plantations](/rain-water-harvesting-in-coffee-plantations/)
 
-[Soil Water Conservation in Coffee Plantations](http://ecofriendlycoffee.org/soil-water-conservation-in-coffee-plantations/)
+[Soil Water Conservation in Coffee Plantations](/soil-water-conservation-in-coffee-plantations/)
 
-[Organic Matter Decomposition In Coffee Plantations](http://ecofriendlycoffee.org/organic-matter-decomposition-in-coffee-plantations/)
+[Organic Matter Decomposition In Coffee Plantations](/organic-matter-decomposition-in-coffee-plantations/)
 
-[Global Warming in Coffee Plantations](http://ecofriendlycoffee.org/global-warming-in-coffee-plantations/)
+[Global Warming in Coffee Plantations](/global-warming-in-coffee-plantations/)
 
-[Coffee Forest Symbiosis](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+[Coffee Forest Symbiosis](/coffee-forest-symbiosis/)
 
-[Physiology of Coffee Flowering](http://ecofriendlycoffee.org/physiology-of-coffee-flowering/)
+[Physiology of Coffee Flowering](/physiology-of-coffee-flowering/)
 
 Awatramani, N. A. 1973. Sprinkler irrigation for coffee. 1. Studies on rainfall pattern and soil moisture. Journal. Coffee Research. 3 (1): 3-13.
 

@@ -110,4 +110,4 @@ Bopanna, P.T. 2011.The Romance of Indian Coffee. Prism Books ltd.
 
 [Scientists Peek Into The Hidden World](https://web.archive.org/web/20180720140329/http://kuow.org:80/post/scientists-peek-hidden-world-tree-roots)
 
-[Invisible Communications in Coffee Plantations](http://ecofriendlycoffee.org/invisible-communications-in-coffee-plantations/)
+[Invisible Communications in Coffee Plantations](/invisible-communications-in-coffee-plantations/)

@@ -25,31 +25,31 @@ The civet selects the ripest berries of the coffee plants from the Old Robusta C
 We collect the feces and here is when the Human process starts to obtain the final gourmet coffee. Below, there is a description of the whole process to obtain the Toddy cat Civet Cat Coffee. It is totally handmade and the only machine used is a electrical mixer.
 
 ![human-process600](human-process600.jpg)  
-*Toddy-Civet Cat Coffee bean Human Process*
+_Toddy-Civet Cat Coffee bean Human Process_
 
 **Cleaning** – We collect the feces from the coffee plantation and initially dry them.
 
 ![civit-pieces](civit-pieces.jpg)  
-*Cleaning Civet Pieces*
+_Cleaning Civet Pieces_
 
 **Selecting** – In the next step, we separate the beans one by one and set aside the bad ones, the small beans and the rare objects such as little stones. In this way we get the premium beans ready to be roasted.
 
 **Washing** – The Civet beans are washed, brushed and are immediately dried with warm air. They are sun dried so that when they are stored they do not ferment with the humidity. After this step, the beans are stored in a dry place until the roasting process takes place.
 
 ![rinse](rinse.jpg)  
-*Civit Bean Rinse*
+_Civit Bean Rinse_
 
 ![filter-civit-coffee](filter-civit-coffee.jpg)  
-*Filter Civit Coffee*
+_Filter Civit Coffee_
 
 ![pour-rinse-civit](pour-rinse-civit.jpg)  
-*Continue Rinsing Civit Coffee*
+_Continue Rinsing Civit Coffee_
 
 ![scrub-civit-beans](scrub-civit-beans.jpg)  
-*Scrub Civit Beans*
+_Scrub Civit Beans_
 
 ![civit-smile](civit-smile.jpg)  
-*Civit Bean Smile*
+_Civit Bean Smile_
 
 ### Final Words
 
@@ -59,8 +59,8 @@ I want to dedicate this article to the Indian Cricket Team on winning the 2011 I
 
 ### References
 
-[Monitoring Soil pH Inside Coffee Plantations](http://ecofriendlycoffee.org/monitoring-soil-ph-inside-coffee-plantations/)
+[Monitoring Soil pH Inside Coffee Plantations](/monitoring-soil-ph-inside-coffee-plantations/)
 
-[Monkey Chewed Coffee Beans](http://ecofriendlycoffee.org/monkey-chewed-coffee-beans/)
+[Monkey Chewed Coffee Beans](/monkey-chewed-coffee-beans/)
 
-[Toddy Cat Coffee Beans](http://ecofriendlycoffee.org/toddy-cat-coffee-beans/)
+[Toddy Cat Coffee Beans](/toddy-cat-coffee-beans/)

@@ -12,7 +12,7 @@ updatedAt: "2023-09-09T08:31:45"
 wordpressId: 69
 ---
 
-*Readers are requested to refer to [Human Snake Conflict Inside Coffee Forests](http://ecofriendlycoffee.org/human-snake-conflict-inside-coffee-forests/) and [Snake Diversity and Conservation Inside Coffee Forests](http://ecofriendlycoffee.org/snake-diversity-and-conservation-inside-coffee-forests/) for a better understanding of the present article.*
+_Readers are requested to refer to [Human Snake Conflict Inside Coffee Forests](/human-snake-conflict-inside-coffee-forests/) and [Snake Diversity and Conservation Inside Coffee Forests](/snake-diversity-and-conservation-inside-coffee-forests/) for a better understanding of the present article._
 
 ![cobra-00](cobra-00.jpg)
 
@@ -156,12 +156,12 @@ The maximum quantity of venom injected by a cobra is up to 211 mgs. However, a m
 
 ### FIRST AID
 
--   Reassure the patient to be calm. Explain that 90% of cobra bites are dry bites and are harmless.
--   Do not use tight tourniquets.
--   Do not allow the patient to exert or walk.
--   Raise the leg and cover with blanket.
--   In case of vomiting, turn the patient to one side to avoid choking.
--   Take the patient to the nearest hospital-Anti venom serum.
+- Reassure the patient to be calm. Explain that 90% of cobra bites are dry bites and are harmless.
+- Do not use tight tourniquets.
+- Do not allow the patient to exert or walk.
+- Raise the leg and cover with blanket.
+- In case of vomiting, turn the patient to one side to avoid choking.
+- Take the patient to the nearest hospital-Anti venom serum.
 
 **RESEARCH ON COBRA VENOM:** Research conducted at the Tata Memorial Cancer Institute at Bombay on various fractions of cobra venom has shown promise in treating certain cancer cells in mice. At present, the American pharmaceutical companies have successfully brought out pain killers made from cobra venom-COBROXIN, and NYLOXIN
 
@@ -187,23 +187,23 @@ http://www.magazine.co.uk/science-and-nature-magazines
 
 http://www.daijiworld.com/chan/exclusive\_arch.asp?ex\_id=1372
 
-daijiworld.com/chan/exclusive\_arch.asp?ex\_id=1153
+daijiworld.com/chan/exclusive_arch.asp?ex_id=1153
 
-daijiworld.com/chan/exclusive\_arch.asp?ex\_id=1440
+daijiworld.com/chan/exclusive_arch.asp?ex_id=1440
 
-daijiworld.com/chan/exclusive\_arch.asp?ex\_id=1285&ex\_title=Biodiversity
+daijiworld.com/chan/exclusive_arch.asp?ex_id=1285&ex_title=Biodiversity
 
-[ecofriendlycoffee.org/coffee-forests-and-green-national-accounts/](http://ecofriendlycoffee.org/coffee-forests-and-green-national-accounts/)
+[ecofriendlycoffee.org/coffee-forests-and-green-national-accounts/](/coffee-forests-and-green-national-accounts/)
 
-[ecofriendlycoffee.org/coffee-forests-and-wildlife-credits/](http://ecofriendlycoffee.org/coffee-forests-and-wildlife-credits/)
+[ecofriendlycoffee.org/coffee-forests-and-wildlife-credits/](/coffee-forests-and-wildlife-credits/)
 
-[ecofriendlycoffee.org/coffee-forests-a-gateway-to-wildlife/](http://ecofriendlycoffee.org/coffee-forests-a-gateway-to-wildlife/)
+[ecofriendlycoffee.org/coffee-forests-a-gateway-to-wildlife/](/coffee-forests-a-gateway-to-wildlife/)
 
-[ecofriendlycoffee.org/coffee-hotspots-an-inventory-of-biodiversity/](http://ecofriendlycoffee.org/coffee-hotspots-an-inventory-of-biodiversity/)
+[ecofriendlycoffee.org/coffee-hotspots-an-inventory-of-biodiversity/](/coffee-hotspots-an-inventory-of-biodiversity/)
 
-[ecofriendlycoffee.org/coffee-forest-symbiosis/](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+[ecofriendlycoffee.org/coffee-forest-symbiosis/](/coffee-forest-symbiosis/)
 
-[ecofriendlycoffee.org/eco-friendly-indian-coffee-a-profile/](http://ecofriendlycoffee.org/eco-friendly-indian-coffee-a-profile/)
+[ecofriendlycoffee.org/eco-friendly-indian-coffee-a-profile/](/eco-friendly-indian-coffee-a-profile/)
 
 [www.all-about-reptiles.com](https://web.archive.org/web/20150801035131/http://all-about-reptiles.com/)
 

@@ -12,7 +12,7 @@ updatedAt: "2015-11-04T13:02:16"
 wordpressId: 62
 ---
 
-*Readers are requested to refer to our previous articles for a better understanding of the present article.*
+_Readers are requested to refer to our previous articles for a better understanding of the present article._
 
 Shade grown Indian coffee plantations provide the perfect natural habitat for a variety of snakes, both native and endangered. The floor of the coffee forest as well as the tall evergreen tree canopy is a fitting home for snakes of all kinds; venomous and non venomous. Luckily of the many varied species inhabiting the coffee forests only a handful of snake species are poisonous.
 
@@ -500,19 +500,19 @@ Live bearers. Males are larger than Females in case of Russell’s viper. Female
 
 ### SIMPLE MEASURES RELATED TO SNAKE CONSERVATION:
 
--   Avoid purchasing products made from snake skin.
--   Celebrate snake festivals with snakes depicted on stone tablets.
--   Snake charmers should be banned.
--   School children should be sensitized about snake conservation at a young age. ( Knocking out the fear of snakes from their system )
--   Banning snakes as pets inside homes.
--   Educating the general public about snakes
--   Depicting snake posters in schools, colleges and Government Institutions showing poisonous and nonpoisonous species of snakes.
+- Avoid purchasing products made from snake skin.
+- Celebrate snake festivals with snakes depicted on stone tablets.
+- Snake charmers should be banned.
+- School children should be sensitized about snake conservation at a young age. ( Knocking out the fear of snakes from their system )
+- Banning snakes as pets inside homes.
+- Educating the general public about snakes
+- Depicting snake posters in schools, colleges and Government Institutions showing poisonous and nonpoisonous species of snakes.
 
 ### VENOMOUS SNAKES VS NON VENOMOUS SNAKES
 
--   Based on the type of snake bite, snakes can be identified as poisonous and non poisonous.
--   A semi circular row of punctures is a clear indication that the bite is from a non venomous snake.
--   If the wound has two bleeding points it is a bite caused by a poisonous snake.
+- Based on the type of snake bite, snakes can be identified as poisonous and non poisonous.
+- A semi circular row of punctures is a clear indication that the bite is from a non venomous snake.
+- If the wound has two bleeding points it is a bite caused by a poisonous snake.
 
 ### FIRST AID
 
@@ -540,23 +540,23 @@ Ultimately, man has to realize that the world’s food chains are a product of t
 
 ### REFERENCES
 
-[Eco-Friendly Indian Coffee: A Profile](http://ecofriendlycoffee.org/eco-friendly-indian-coffee-a-profile/)
+[Eco-Friendly Indian Coffee: A Profile](/eco-friendly-indian-coffee-a-profile/)
 
-[Invisible Communications in Coffee Plantations](http://ecofriendlycoffee.org/invisible-communications-in-coffee-plantations/)
+[Invisible Communications in Coffee Plantations](/invisible-communications-in-coffee-plantations/)
 
-[Coffee Plantations A Multidisciplinary Approach](http://ecofriendlycoffee.org/coffee-plantations-a-multidisciplinary-approach/)
+[Coffee Plantations A Multidisciplinary Approach](/coffee-plantations-a-multidisciplinary-approach/)
 
-[Global Warming in Coffee Plantations](http://ecofriendlycoffee.org/global-warming-in-coffee-plantations/)
+[Global Warming in Coffee Plantations](/global-warming-in-coffee-plantations/)
 
-[Biodiversity In Relation To Coffee Plantations](http://ecofriendlycoffee.org/biodiversity-in-relation-to-coffee-plantations/)
+[Biodiversity In Relation To Coffee Plantations](/biodiversity-in-relation-to-coffee-plantations/)
 
-[Coffee Forest Symbiosis](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+[Coffee Forest Symbiosis](/coffee-forest-symbiosis/)
 
-[Significance of Microbial Interactions Within Coffee Plantations](http://ecofriendlycoffee.org/significance-of-microbial-interactions-within-coffee-plantations/)
+[Significance of Microbial Interactions Within Coffee Plantations](/significance-of-microbial-interactions-within-coffee-plantations/)
 
-[Role of Antibiotics in Coffee Plantation Ecology](http://ecofriendlycoffee.org/role-of-antibiotics-in-coffee-plantation-ecology/)
+[Role of Antibiotics in Coffee Plantation Ecology](/role-of-antibiotics-in-coffee-plantation-ecology/)
 
-[The Ecodynamic Coffee Cube 3](http://ecofriendlycoffee.org/the-ecodynamic-coffee-cube-3/)
+[The Ecodynamic Coffee Cube 3](/the-ecodynamic-coffee-cube-3/)
 
 [www.indiawildliferesorts.com](http://www.indiawildliferesorts.com/)
 

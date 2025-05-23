@@ -89,21 +89,21 @@ In view of these common challenges, we have formulated a vision, normally referr
 
 PROFILE OF Joe’s Sustainable Coffee Plantation (JSCP), Kirehully Estate, India.
 
--   JSCP consists of one single block of selection Robusta, variety Selection -274.
--   We are third generation coffee planters.
--   Both Geeta and Anand involved in running JSCP are post graduates in Agriculture.
--   Observed many drawbacks when we first came to the plantation two decades ago.
--   Insufficient water for first round of blossom showers.
--   Time period for covering a major part of the plantation with first round of blossom showers was approximately 60 days.
--   In times of rain failures ( inadequate showers like 20 to 30 cents of rainfall ) the entire years income would we wiped out, because Robusta requires a backup shower within seven days of the first shower.
--   Observed four rain failures in our two decades of coffee plantation experience.
--   Inefficient sprinkler system.
--   We had no technical expertise in planning and designing a efficient sprinkler system.
--   Just like human beings, plants can tolerate hunger, but not an extended period of thirst.
--   A majority of our coffee blocks had sandy loam soil, with poor water retention capacity.
--   During the peak of summer, the soil used to crack destroying the soil microbes.
--   Coffee is a surface feeder and high summer temperature was detrimental for the coming year’s crop.
--   Took a bold decision to implement farming practices based on scientific temperament and time tested traditional wisdom.
+- JSCP consists of one single block of selection Robusta, variety Selection -274.
+- We are third generation coffee planters.
+- Both Geeta and Anand involved in running JSCP are post graduates in Agriculture.
+- Observed many drawbacks when we first came to the plantation two decades ago.
+- Insufficient water for first round of blossom showers.
+- Time period for covering a major part of the plantation with first round of blossom showers was approximately 60 days.
+- In times of rain failures ( inadequate showers like 20 to 30 cents of rainfall ) the entire years income would we wiped out, because Robusta requires a backup shower within seven days of the first shower.
+- Observed four rain failures in our two decades of coffee plantation experience.
+- Inefficient sprinkler system.
+- We had no technical expertise in planning and designing a efficient sprinkler system.
+- Just like human beings, plants can tolerate hunger, but not an extended period of thirst.
+- A majority of our coffee blocks had sandy loam soil, with poor water retention capacity.
+- During the peak of summer, the soil used to crack destroying the soil microbes.
+- Coffee is a surface feeder and high summer temperature was detrimental for the coming year’s crop.
+- Took a bold decision to implement farming practices based on scientific temperament and time tested traditional wisdom.
 
 ### RAIN WATER HARVESTING and SOIL WATER CONSERVATION
 
@@ -138,9 +138,9 @@ Since their entire plantation consists of Robusta, we had to cover the entire ar
 
 ### Energy efficient sprinkling system
 
-[Table-A](http://ecofriendlycoffee.org/wp-content/uploads/2012/04/Table-A.pdf) Basic parameters of sprinkler nozzle, jet discharge, precipitation and area covered in acres.
+[Table-A](/wp-content/uploads/2012/04/Table-A.pdf) Basic parameters of sprinkler nozzle, jet discharge, precipitation and area covered in acres.
 
-[Table-B](http://ecofriendlycoffee.org/wp-content/uploads/2012/04/Table-B.pdf) Brief Note on 254 HP.innovative Energy saving pump set installed at Joe’s Sustainable Farm, KIREHULLY ESTATE, India.
+[Table-B](/wp-content/uploads/2012/04/Table-B.pdf) Brief Note on 254 HP.innovative Energy saving pump set installed at Joe’s Sustainable Farm, KIREHULLY ESTATE, India.
 
 ![sprinkler-10](sprinkler-10.jpg)
 
@@ -173,26 +173,26 @@ The investment in irrigation shall be yearly part of a planter’s budget as the
 
 ### CONCLUSION
 
--   We have for the very first time in the entire country demonstrated that an coffee area of 116 acres could be covered by sprinkler irrigation in just three days with a labor force of only 15 men.
--   The Coffee Board has worked overtime in facilitating mechanization inside coffee plantations with various schemes. This has enabled small medium and large holders to invest in plant and machinery.
--   We are of the firm opinion that mechanization must be left to the Private sector and the Governments role should be that of a facilitator.
--   Mechanization should not be introduced at the cost of biodiversity loss.
--   Mechanization and biodiversity conservation should have the right balance. To this end the Coffee Board should award landscape labeling points to compensate the monetary loss.
--   Mechanization should be specially used in operations involving drudgery of farm work like weeding, harvesting and sprinkling.
--   The Coffee forest should retain a significant part of its original characteristic in terms of accommodating biodiversity and tree heterogeneity.
--   We have requested the coffee Board to provide us with funds at a reasonable interest cost and a time bound repayment schedule, so that we could in a span of 24 months demonstrate to small (Less than 10 ha), medium (Less than 25 Ha) and large (More than 50 ha) of coffee holdings, the scientific way of sprinkler irrigation in a time schedule of one week or less. (Since the mandated Technical Institutions have not delivered, we have put forth this suggestion).
+- We have for the very first time in the entire country demonstrated that an coffee area of 116 acres could be covered by sprinkler irrigation in just three days with a labor force of only 15 men.
+- The Coffee Board has worked overtime in facilitating mechanization inside coffee plantations with various schemes. This has enabled small medium and large holders to invest in plant and machinery.
+- We are of the firm opinion that mechanization must be left to the Private sector and the Governments role should be that of a facilitator.
+- Mechanization should not be introduced at the cost of biodiversity loss.
+- Mechanization and biodiversity conservation should have the right balance. To this end the Coffee Board should award landscape labeling points to compensate the monetary loss.
+- Mechanization should be specially used in operations involving drudgery of farm work like weeding, harvesting and sprinkling.
+- The Coffee forest should retain a significant part of its original characteristic in terms of accommodating biodiversity and tree heterogeneity.
+- We have requested the coffee Board to provide us with funds at a reasonable interest cost and a time bound repayment schedule, so that we could in a span of 24 months demonstrate to small (Less than 10 ha), medium (Less than 25 Ha) and large (More than 50 ha) of coffee holdings, the scientific way of sprinkler irrigation in a time schedule of one week or less. (Since the mandated Technical Institutions have not delivered, we have put forth this suggestion).
 
 ![sprinkler-28](sprinkler-28.jpg)
 
 ### REFERENCES
 
-[ecofriendlycoffee.org/rainguns-the-future-of-sprinkler-irrigation/](http://ecofriendlycoffee.org/rainguns-the-future-of-sprinkler-irrigation/)
+[ecofriendlycoffee.org/rainguns-the-future-of-sprinkler-irrigation/](/rainguns-the-future-of-sprinkler-irrigation/)
 
-[ecofriendlycoffee.org/the-fine-art-of-irrigation-in-robusta-coffee-plantations/](http://ecofriendlycoffee.org/the-fine-art-of-irrigation-in-robusta-coffee-plantations/)
+[ecofriendlycoffee.org/the-fine-art-of-irrigation-in-robusta-coffee-plantations/](/the-fine-art-of-irrigation-in-robusta-coffee-plantations/)
 
 [AMAZING SPRINKLING SYSTEM](http://www.youtube.com/watch?v=P0AdyfEltEM) (Video)
 
-[ecofriendlycoffee.org/physiology-of-coffee-flowering/](http://ecofriendlycoffee.org/physiology-of-coffee-flowering/)
+[ecofriendlycoffee.org/physiology-of-coffee-flowering/](/physiology-of-coffee-flowering/)
 
 [www.sime-sprinklers.com](http://www.sime-sprinklers.com)
 

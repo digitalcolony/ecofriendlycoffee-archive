@@ -96,4 +96,4 @@ Alexander, M. 1977. Introduction to soil Microbiology. 2nd edition. New York. Jo
 
 Brady.N.C. and Weil. R.R. 2004. The nature and Properties of Soils. Thirteenth Edition. Pearson Education Pte. Ltd., Indian Branch, F.I.E. Patparganj, Delhi 110 092, India.
 
-[Nitrogen Economy](http://ecofriendlycoffee.org/nitrogen-economy-inside-coffee-plantations/)
+[Nitrogen Economy](/nitrogen-economy-inside-coffee-plantations/)

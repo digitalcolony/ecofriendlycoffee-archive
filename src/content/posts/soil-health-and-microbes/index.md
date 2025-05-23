@@ -62,7 +62,7 @@ Brady.N.C. and Weil. R.R. 2004. The nature and Properties of Soils. Thirteenth E
 
 [Learning Center](https://www.sare.org/Learning-Center)
 
-[Importance of Healthy Coffee Soils](http://ecofriendlycoffee.org/importance-healthy-coffee-soils/)
+[Importance of Healthy Coffee Soils](/importance-healthy-coffee-soils/)
 
 [Building Soils for Better Crops](https://www.sare.org/Learning-Center/Books/Building-Soils-for-Better-Crops-3rd-Edition)
 

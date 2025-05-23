@@ -63,7 +63,7 @@ Common Palm Civet (or known as Musang) belongs to the viverridae family. Its sci
 Normally, kittens are born in a litter of 2 to 5 young. They are usually born in a hollow tree, boulder crevices or a space among the rocks. Their eyes are closed at birth. The sexual maturity is attainted at 11 – 12 months. In captivity, the common palm civet can live up to 22 years. Both sexes have scent glands underneath the tail that resemble testicles. Civets spray a noxious secretion from these glands. They are usually active between 6:00 pm and 4:00 am, being less active during nights when the moon is brightest. They are believed to lead solitary lifestyles, except for brief periods during mating. They are both terrestrial and arboreal, showing nocturnal activity patterns with peaks between late evening until after midnight.
 
 ![asian-palm-civet](asian-palm-civet.jpg)  
-*Asian Palm Civet*
+_Asian Palm Civet_
 
 Asian Palm Civets feed only at night, and it is believed that its fear of predators during daytime is the principal reason for its nocturnal attitudes. They retire to their shelters just before dawn arrives. These civets have the reputation to choose the tallest trees they can find. Their organization and activity habits are determined by the availability, surplus of food and again, the activities of their feared predators The Asian Palm Civet is arboreal, and when feeding in the same area, they use the same trees to rest in.
 
@@ -101,10 +101,10 @@ If the Toddy Cat Coffee Dropping Beans interest you, kindly contact me at allen
 
 ### References
 
-[Monitoring Soil pH Inside Coffee Plantations](http://ecofriendlycoffee.org/monitoring-soil-ph-inside-coffee-plantations/)
+[Monitoring Soil pH Inside Coffee Plantations](/monitoring-soil-ph-inside-coffee-plantations/)
 
-[Monkey Chewed Coffee Beans](http://ecofriendlycoffee.org/monkey-chewed-coffee-beans/)
+[Monkey Chewed Coffee Beans](/monkey-chewed-coffee-beans/)
 
 [Roasting and Brewing Toddy Cat Coffee](https://ineedcoffee.com/roasting-brewing-toddy-cat-coffee/)
 
-[Toddy Cat Coffee Bean Process](http://ecofriendlycoffee.org/toddy-cat-coffee-bean-process/)
+[Toddy Cat Coffee Bean Process](/toddy-cat-coffee-bean-process/)

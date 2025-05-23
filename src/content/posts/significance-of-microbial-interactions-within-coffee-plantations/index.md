@@ -12,7 +12,7 @@ updatedAt: "2015-10-28T14:16:55"
 wordpressId: 48
 ---
 
-*Readers are requested to refer the article [INVISIBLE COMMUNICATIONS IN COFFEE PLANTATIONS](http://ecofriendlycoffee.org/invisible-communications-in-coffee-plantations/) for a better understanding of the present article.*
+_Readers are requested to refer the article [INVISIBLE COMMUNICATIONS IN COFFEE PLANTATIONS](/invisible-communications-in-coffee-plantations/) for a better understanding of the present article._
 
 Think of Indian coffee plantations and the picture that flashes across the mind is tall evergreen mountains and steep valleys covered with trees, shrubs, herbs, spices and an array of insects and microbes. It is indeed Nature at its best. However, no one realizes that the health and wealth of the coffee mountain is constantly managed, regulated and transformed by invisible agents known as microorganisms.
 
@@ -84,10 +84,10 @@ Microbial communities constantly act on this organic debris. The action of one s
 
 ### Advantages
 
--   Nutritional availability
--   Transportation
--   Protection
--   Living space
+- Nutritional availability
+- Transportation
+- Protection
+- Living space
 
 ![slide-13](slide-13.jpg)
 
@@ -164,17 +164,17 @@ At JOE’S SUSTAINABLE COFFEE FARM, We start with basic assumptions, but when we
 
 ### REFERENCES
 
-[Farm Coffee Organic Manures](http://ecofriendlycoffee.org/farm-coffee-organic-manures/)
+[Farm Coffee Organic Manures](/farm-coffee-organic-manures/)
 
-[The Fine Art of Composting In Coffee Plantations](http://ecofriendlycoffee.org/the-fine-art-of-composting-in-coffee-plantations/)
+[The Fine Art of Composting In Coffee Plantations](/the-fine-art-of-composting-in-coffee-plantations/)
 
-[Organic Matter Decomposition In Coffee Plantations](http://ecofriendlycoffee.org/organic-matter-decomposition-in-coffee-plantations/)
+[Organic Matter Decomposition In Coffee Plantations](/organic-matter-decomposition-in-coffee-plantations/)
 
-[Soil Water Conservation in Coffee Plantations](http://ecofriendlycoffee.org/soil-water-conservation-in-coffee-plantations/)
+[Soil Water Conservation in Coffee Plantations](/soil-water-conservation-in-coffee-plantations/)
 
-[Coffee Plantations A Multidisciplinary Approach](http://ecofriendlycoffee.org/coffee-plantations-a-multidisciplinary-approach/)
+[Coffee Plantations A Multidisciplinary Approach](/coffee-plantations-a-multidisciplinary-approach/)
 
-[Invisible Communications in Coffee Plantations](http://ecofriendlycoffee.org/invisible-communications-in-coffee-plantations/)
+[Invisible Communications in Coffee Plantations](/invisible-communications-in-coffee-plantations/)
 
 Anand Titus Pereira. 1990. Endorhizosphere Bacteria of Wetland Rice , Their Hydrogen Dependent chemolithotrophy, P Solubilization And Interaction With Rice Genotypes. Thesis submitted to the University of Agricultural Sciences, Bangalore for the award of the Degree OF Doctor of Philosophy in Agricultural Microbiology.192 Pages.
 

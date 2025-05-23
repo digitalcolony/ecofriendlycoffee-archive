@@ -185,35 +185,35 @@ We would also like to thank Allen for his invaluable work in conceptualizing and
 
 ### REFERENCES
 
-[Coffee Plantations A Multidisciplinary Approach](http://ecofriendlycoffee.org/coffee-plantations-a-multidisciplinary-approach/)
+[Coffee Plantations A Multidisciplinary Approach](/coffee-plantations-a-multidisciplinary-approach/)
 
-[Organic Matter Decomposition In Coffee Plantations](http://ecofriendlycoffee.org/organic-matter-decomposition-in-coffee-plantations/)
+[Organic Matter Decomposition In Coffee Plantations](/organic-matter-decomposition-in-coffee-plantations/)
 
-[The Fine Art of Composting In Coffee Plantations](http://ecofriendlycoffee.org/the-fine-art-of-composting-in-coffee-plantations/)
+[The Fine Art of Composting In Coffee Plantations](/the-fine-art-of-composting-in-coffee-plantations/)
 
-[Farm Coffee Organic Manures](http://ecofriendlycoffee.org/farm-coffee-organic-manures/)
+[Farm Coffee Organic Manures](/farm-coffee-organic-manures/)
 
-[Significance of Lime Application in Coffee Plantations](http://ecofriendlycoffee.org/significance-of-lime-application-in-coffee-plantations/)
+[Significance of Lime Application in Coffee Plantations](/significance-of-lime-application-in-coffee-plantations/)
 
-[Global Warming in Coffee Plantations](http://ecofriendlycoffee.org/global-warming-in-coffee-plantations/)
+[Global Warming in Coffee Plantations](/global-warming-in-coffee-plantations/)
 
-[Biodiversity In Relation To Coffee Plantations](http://ecofriendlycoffee.org/biodiversity-in-relation-to-coffee-plantations/)
+[Biodiversity In Relation To Coffee Plantations](/biodiversity-in-relation-to-coffee-plantations/)
 
-[Coffee Forest Symbiosis](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+[Coffee Forest Symbiosis](/coffee-forest-symbiosis/)
 
-[Role of Bacteria in Coffee Plantation Ecology](http://ecofriendlycoffee.org/role-of-bacteria-in-coffee-plantation-ecology/)
+[Role of Bacteria in Coffee Plantation Ecology](/role-of-bacteria-in-coffee-plantation-ecology/)
 
-[Role of Fungi in Coffee Plantation Ecology](http://ecofriendlycoffee.org/role-of-fungi-in-coffee-plantation-ecology/)
+[Role of Fungi in Coffee Plantation Ecology](/role-of-fungi-in-coffee-plantation-ecology/)
 
-[The Role of Actinomycetes in Coffee Plantation Ecology](http://ecofriendlycoffee.org/the-role-of-actinomycetes-in-coffee-plantation-ecology/)
+[The Role of Actinomycetes in Coffee Plantation Ecology](/the-role-of-actinomycetes-in-coffee-plantation-ecology/)
 
-[Role of Ectomycorrhizae In Coffee Plantations](http://ecofriendlycoffee.org/role-of-ectomycorrhizae-in-coffee-plantations/)
+[Role of Ectomycorrhizae In Coffee Plantations](/role-of-ectomycorrhizae-in-coffee-plantations/)
 
-[Endomycorrhizae](http://ecofriendlycoffee.org/endomycorrhizae/)
+[Endomycorrhizae](/endomycorrhizae/)
 
-[Significance of Microbial Interactions Within Coffee Plantations](http://ecofriendlycoffee.org/significance-of-microbial-interactions-within-coffee-plantations/)
+[Significance of Microbial Interactions Within Coffee Plantations](/significance-of-microbial-interactions-within-coffee-plantations/)
 
-[Microbial Communities](http://ecofriendlycoffee.org/microbial-communities/)
+[Microbial Communities](/microbial-communities/)
 
 Alexander, M. 1974. Microbial Ecology. New York. John Wiley and sons.
 

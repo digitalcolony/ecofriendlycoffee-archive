@@ -12,7 +12,7 @@ updatedAt: "2023-09-09T08:30:16"
 wordpressId: 25
 ---
 
-*Readers are requested to refer to [Human Snake Conflict Inside Coffee Forests](http://ecofriendlycoffee.org/human-snake-conflict-inside-coffee-forests/), [Snake Diversity and Conservation Inside Coffee Forests](http://ecofriendlycoffee.org/snake-diversity-and-conservation-inside-coffee-forests/) and [Coffee Forests and the Dancing Spectacled Cobra](http://ecofriendlycoffee.org/coffee-forests-and-the-dancing-spectacled-cobra/) for a better understanding of the present article.*
+_Readers are requested to refer to [Human Snake Conflict Inside Coffee Forests](/human-snake-conflict-inside-coffee-forests/), [Snake Diversity and Conservation Inside Coffee Forests](/snake-diversity-and-conservation-inside-coffee-forests/) and [Coffee Forests and the Dancing Spectacled Cobra](/coffee-forests-and-the-dancing-spectacled-cobra/) for a better understanding of the present article._
 
 ![2013-KINGCOBRA-01](2013-KINGCOBRA-01.jpg)
 
@@ -154,23 +154,23 @@ As the new year dawns, we need to embrace nature with a new found vigor and chan
 
 ### REFERENCES:
 
-[Coffee Forests and the Dancing Spectacled Cobra](http://ecofriendlycoffee.org/coffee-forests-and-the-dancing-spectacled-cobra/)
+[Coffee Forests and the Dancing Spectacled Cobra](/coffee-forests-and-the-dancing-spectacled-cobra/)
 
-[Human Snake Conflict Inside Coffee Forests](http://ecofriendlycoffee.org/human-snake-conflict-inside-coffee-forests/)
+[Human Snake Conflict Inside Coffee Forests](/human-snake-conflict-inside-coffee-forests/)
 
-[Snake Diversity and Conservation Inside Coffee Forests](http://ecofriendlycoffee.org/snake-diversity-and-conservation-inside-coffee-forests/)
+[Snake Diversity and Conservation Inside Coffee Forests](/snake-diversity-and-conservation-inside-coffee-forests/)
 
-[Coffee Forests – A Gateway To Wildlife](http://ecofriendlycoffee.org/coffee-forests-a-gateway-to-wildlife/)
+[Coffee Forests – A Gateway To Wildlife](/coffee-forests-a-gateway-to-wildlife/)
 
-[The Impact of Climate Change on Coffee](http://ecofriendlycoffee.org/the-impact-of-climate-change-on-coffee/)
+[The Impact of Climate Change on Coffee](/the-impact-of-climate-change-on-coffee/)
 
-[Coffee Forest Symbiosis](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+[Coffee Forest Symbiosis](/coffee-forest-symbiosis/)
 
-[Global Warming in Coffee Plantations](http://ecofriendlycoffee.org/global-warming-in-coffee-plantations/)
+[Global Warming in Coffee Plantations](/global-warming-in-coffee-plantations/)
 
-[Coffee Hotspots – An Inventory of Biodiversity](http://ecofriendlycoffee.org/coffee-hotspots-an-inventory-of-biodiversity/)
+[Coffee Hotspots – An Inventory of Biodiversity](/coffee-hotspots-an-inventory-of-biodiversity/)
 
-[The Ecodynamic Coffee Cube ^3](http://ecofriendlycoffee.org/the-ecodynamic-coffee-cube-3/)
+[The Ecodynamic Coffee Cube ^3](/the-ecodynamic-coffee-cube-3/)
 
 The Lord of the Jungle…King Cobra
 

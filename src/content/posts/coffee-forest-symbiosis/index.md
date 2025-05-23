@@ -12,7 +12,7 @@ updatedAt: "2023-09-09T08:37:40"
 wordpressId: 46
 ---
 
-*Readers are requested to refer the article [BIODIVERSITY IN RELATION TO COFFEE PLANTATIONS](http://ecofriendlycoffee.org/biodiversity-in-relation-to-coffee-plantations/) for a better understanding of the present article.*
+_Readers are requested to refer the article [BIODIVERSITY IN RELATION TO COFFEE PLANTATIONS](/biodiversity-in-relation-to-coffee-plantations/) for a better understanding of the present article._
 
 India has been home to coffee for almost 200 years and has always been and still remains shade grown. However, with the winds of globalization and liberalization reaching the Indian shores, Forest grown Indian coffee is making inroads in the West as a specialty coffee.
 
@@ -236,37 +236,37 @@ Our earlier studies have shown that below the ground interface, all biotic partn
 
 ### Consequences Due To Loss of Forest Cover
 
--   -   Precious topsoil is washed down the mountain. Fertile regions cannot support plantations in just a few years because of the loss of nutrients.
-    -   Coffee grown in High rainfall areas suffer due to the early onset of drought.
-    -   Hydel dams get affected due to silting of rivers and choking the river beds.
+- - Precious topsoil is washed down the mountain. Fertile regions cannot support plantations in just a few years because of the loss of nutrients.
+  - Coffee grown in High rainfall areas suffer due to the early onset of drought.
+  - Hydel dams get affected due to silting of rivers and choking the river beds.
 
 Power production from hydro dams get drastically reduced due to less water holding capacity in the dams resulting in power shortages to the coffee farmer.
 
--   River catchments lose their green cover leading to drying up of streams and rivulets.
--   Coffee forests with their dense mulch and organic matter act as blotting papers in absorbing rain into the fragile earth. They indirectly, purify more than 70 per cent of the water that we drink, from harmful bacteria. Nature’s purification system takes a heavy toll.
--   The global carbon accumulation results in greenhouse effect.
--   The hydrogen cycle is severely affected. Transpiration and evaporation are significantly reduced due to loss of green cover.
--   Erratic rainfall patterns.
--   Biodiversity is lost.
--   Biodynamic soil loses its resilience. Rapid destruction of million’s of beneficial soil microorganisms. Soil will depend only on artificial chemical manures for productivity.
--   Environment and Ecology are closely related to poverty reduction & sustainable development.
--   Unemployment to millions of unskilled workers and physically challenged people.
+- River catchments lose their green cover leading to drying up of streams and rivulets.
+- Coffee forests with their dense mulch and organic matter act as blotting papers in absorbing rain into the fragile earth. They indirectly, purify more than 70 per cent of the water that we drink, from harmful bacteria. Nature’s purification system takes a heavy toll.
+- The global carbon accumulation results in greenhouse effect.
+- The hydrogen cycle is severely affected. Transpiration and evaporation are significantly reduced due to loss of green cover.
+- Erratic rainfall patterns.
+- Biodiversity is lost.
+- Biodynamic soil loses its resilience. Rapid destruction of million’s of beneficial soil microorganisms. Soil will depend only on artificial chemical manures for productivity.
+- Environment and Ecology are closely related to poverty reduction & sustainable development.
+- Unemployment to millions of unskilled workers and physically challenged people.
 
 ### Strategies to Protect Coffee Forests
 
--   Never look at the coffee forest as a commercial generator of wood.
--   Political outlook should give way to scientific outlook.
--   Creation of greater awareness among the bureaucratic classes.
--   Earmarking coffee growing zones as heritage sites.
--   Environmental consciousness’ to start from the lowest rung of the ladder.
--   Promote coffee as a natural and International beverage.
--   Give Industry status to coffee farmers so that quick and low interest cash flow can be established. This will reduce the pressure on the land.
--   Conservation and regeneration of indigenous forest species to be given prime importance.
--   Earmark coffee zones as ecologically sensitive zones and ban mining and Other related activities.
--   Encourage multi storied crops within the coffee farm.
--   Encourage eco tourism.
--   The GENERAL Agreement on Trade and Tariffs (GATT) should earmark Shade grown coffee under the GREEN BOX. This will facilitate the farmers To conserve nature as well as get a fair price for their produce.
--   Creation of wildlife corridors , not only linking States, but neighboring Countries. (When the forest is continuous, wildlife moves freely through regular migratory paths )
+- Never look at the coffee forest as a commercial generator of wood.
+- Political outlook should give way to scientific outlook.
+- Creation of greater awareness among the bureaucratic classes.
+- Earmarking coffee growing zones as heritage sites.
+- Environmental consciousness’ to start from the lowest rung of the ladder.
+- Promote coffee as a natural and International beverage.
+- Give Industry status to coffee farmers so that quick and low interest cash flow can be established. This will reduce the pressure on the land.
+- Conservation and regeneration of indigenous forest species to be given prime importance.
+- Earmark coffee zones as ecologically sensitive zones and ban mining and Other related activities.
+- Encourage multi storied crops within the coffee farm.
+- Encourage eco tourism.
+- The GENERAL Agreement on Trade and Tariffs (GATT) should earmark Shade grown coffee under the GREEN BOX. This will facilitate the farmers To conserve nature as well as get a fair price for their produce.
+- Creation of wildlife corridors , not only linking States, but neighboring Countries. (When the forest is continuous, wildlife moves freely through regular migratory paths )
 
 ### Conclusion
 
@@ -292,7 +292,7 @@ The authors wish to express their heartfelt gratitude to **Mr. Allen J Pais**, C
 
 ### References
 
-[ecofriendlycoffee.org/biodiversity-in-relation-to-coffee-plantations/](http://ecofriendlycoffee.org/biodiversity-in-relation-to-coffee-plantations/)
+[ecofriendlycoffee.org/biodiversity-in-relation-to-coffee-plantations/](/biodiversity-in-relation-to-coffee-plantations/)
 
 [www.arkive.org](http://www.arkive.org)
 

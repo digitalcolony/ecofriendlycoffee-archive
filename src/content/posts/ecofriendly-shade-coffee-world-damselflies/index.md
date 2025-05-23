@@ -14,31 +14,31 @@ wordpressId: 3023
 
 We have often tried to stimulate the imagination of both the Planting Community as well as the Scientific Community by writing a series of articles on various topics which includes Biodiversity, Plant health and Nutrition, Ecosystem conservation, Mechanization, Composting, Soil health and Water conservation that has a direct bearing on Eco-friendly Shade Coffee.
 
-[![faceEXCELLENT (6)](faceEXCELLENT-6-1024x576.jpg)](http://ecofriendlycoffee.org/?attachment_id=3049)
+![faceEXCELLENT (6)](faceEXCELLENT-6-1024x576.jpg)
 
 This particular article on Damselflies is very different in the sense, it helps the Coffee Community and researchers to unlock the mysteries associated with Damselflies and use them as a tool in accessing the ecological integrity of the Coffee Ecosystem. They are helpful to detect levels of heavy metals such as mercury. They are also considered model organisms to assess the effects of global climate change.
 
 When one goes deep into the subject, it is easy to understand that Damselflies occupy an important place in the ecosystem, as do all the forms of life. The damsel fly are small insects and come in a variety of species.
 
-[![faceEXCELLENT (4)](faceEXCELLENT-4-1024x683.jpg)](http://ecofriendlycoffee.org/?attachment_id=3050)
+![faceEXCELLENT (4)](faceEXCELLENT-4-1024x683.jpg)
 
 The larvae of Damselflies live and develop in water and are ferocious predators of midge larvae and small invertebrates. Some species take up to 4 years to develop before climbing up waterside vegetation to metamorphosise into adults. The adults have beautiful delicate wings and fly short distances.
 
 Many Developed Countries use Damselflies routinely for monitoring water quality because their presence and diversity can be valuable indicators of the health of the aquatic environment.
 
-[![faceEXCELLENT (8)](faceEXCELLENT-8-1024x732.jpg)](http://ecofriendlycoffee.org/?attachment_id=3051)
+![faceEXCELLENT (8)](faceEXCELLENT-8-1024x732.jpg)
 
 To begin with, the Coffee Planters need to understand that Damselflies have been around for more than 200 million years. Review of literature states that Damselflies also mean Good luck, and Prosperity.  The adult Damselflies are insects with wings commonly observed in all Agro climatic regions where coffee is cultivated. The immature stage of Damselflies is commonly referred to as the nymph stage.
 
 Once the female has laid her eggs in the water they will generally hatch after 2-5 weeks. Sometimes though, when they have laid there eggs in the late summer the eggs will go into a diapause (which is when the growth period is suspended over the winter month’s then hatch in the spring because it is too cold in the winter time. If that does happen the larva will remain a larva for around 1 to 4 years. When the larva is finally ready it will come out of the water, usually on a long strand of grass or a reed, and moult off the old skin and become an adult.
 
-[![face3](face3-1024x733.jpg)](http://ecofriendlycoffee.org/?attachment_id=3052)
+![face3](face3-1024x733.jpg)
 
 These nymphs prefer to live in unpolluted fresh water habitats, especially in streams, and rivers where there is a good amount of flowing water. They can only live in clean water and good habitats free of pollution. All damselflies are known to lay their eggs inside plant tissues; those that lay eggs underwater may submerge themselves for 30 minutes at a time, climbing along the stems of aquatic plants and laying eggs at intervals.
 
-[![face5](face5-1024x734.jpg)](http://ecofriendlycoffee.org/?attachment_id=3053)
+![face5](face5-1024x734.jpg)
 
-[![faceEXCELLENT (1)](faceEXCELLENT-1-1024x683.jpg)](http://ecofriendlycoffee.org/?attachment_id=3054)
+![faceEXCELLENT (1)](faceEXCELLENT-1-1024x683.jpg)
 
 ### **Easy way of Understanding Damsel fly**
 
@@ -88,7 +88,7 @@ Few weeks
 
 Conservation Status
 
- Not Threatened
+Not Threatened
 
 Colour
 
@@ -138,13 +138,13 @@ Advantages
 
 Plays a critical role in the Food Chain
 
-[![faceEXCELLENT (7)](faceEXCELLENT-7-1024x576.jpg)](http://ecofriendlycoffee.org/?attachment_id=3055)
+![faceEXCELLENT (7)](faceEXCELLENT-7-1024x576.jpg)
 
 ### Implications
 
 The Shade grown three tiered Coffee ecosystem in India is undergoing tremendous transformations. Many experiments are under way to open up shade, remove the lower canopy and in some cases knocking out shade altogether. The idea is to shift from traditional shade Coffee and go in for high density planting and provide adequate water requirements through drip irrigation and fertigation. There is no doubt that this monoculture sun loving coffee will require high doses of synthetic fertilizers and various other chemicals, which will ultimately percolate to water bodies like ponds, streams, rivulets and lakes running through the coffee plantations. This will have a profound impact on human health as well as environmental impacts associated with expanded use of inorganic chemicals.
 
-[![face4](face4-1024x733.jpg)](http://ecofriendlycoffee.org/?attachment_id=3056)
+![face4](face4-1024x733.jpg)
 
 Developing simple yet highly reliable bio indicator kits with the help of nymphs of mayflies to understand the water quality will go a long way in monitoring the pollution levels and the quality of water to meet the various requirements of coffee.
 
@@ -152,35 +152,35 @@ Developing simple yet highly reliable bio indicator kits with the help of nymphs
 
 Adult Damselflies are short lived, from a few weeks to a several days, depending on the species.
 
-[![faceEXCELLENT (3)](faceEXCELLENT-3-1024x733.jpg)](http://ecofriendlycoffee.org/?attachment_id=3057)
+![faceEXCELLENT (3)](faceEXCELLENT-3-1024x733.jpg)
 
 ![faceEXCELLENT (5)](faceEXCELLENT-5-1024x683.jpg)
 
-[![faceEXCELLENT (9)](faceEXCELLENT-9-1024x576.jpg)](http://ecofriendlycoffee.org/?attachment_id=3059)
+![faceEXCELLENT (9)](faceEXCELLENT-9-1024x576.jpg)
 
 ###  Economic Importance
 
--   They are important for the food web.
--   Help in understanding Change in micro habitat and land use
--   They serve as a source of protein for many other creatures.
--   They are excellent indicators of pollution.
--   They help in the break down and recycling of organic matter that enters water bodies through external sources.
--   Important components of nutrient and energy pathways.
--   Help in water purification by filtering large amounts of particulate nutrients from water.
+- They are important for the food web.
+- Help in understanding Change in micro habitat and land use
+- They serve as a source of protein for many other creatures.
+- They are excellent indicators of pollution.
+- They help in the break down and recycling of organic matter that enters water bodies through external sources.
+- Important components of nutrient and energy pathways.
+- Help in water purification by filtering large amounts of particulate nutrients from water.
 
-[![faceEXCELLENT (1)](faceEXCELLENT-1-1-1024x683.jpg)](http://ecofriendlycoffee.org/?attachment_id=3060)
+![faceEXCELLENT (1)](faceEXCELLENT-1-1-1024x683.jpg)
 
 ### Conservation
 
 Over 5300 species of damsel fly are known worldwide, grouped into over 309 genera. In the Western Ghats, 174 odonate species have been reported out of which 107 belong to the dragonflies and 67 are damselflies. As per the review of literature, very little work has been carried out with respect to the monitoring of Damselflies inside shade coffee. The immediate research that needs to be carried out pertains to the diversity, distribution and ecology of Damselflies in different Coffee Agro Climatic conditions.
 
-[![faceEXCELLENT (10)](faceEXCELLENT-10-1024x733.jpg)](http://ecofriendlycoffee.org/?attachment_id=3061)
+![faceEXCELLENT (10)](faceEXCELLENT-10-1024x733.jpg)
 
 ### Conclusion
 
 Many advanced Countries make use of the Nymph of Damselflies in water sampling used for bio monitoring procedures. Damsel fly taxa are widely accepted as bio indicators for water quality .We request the Scientists at the Coffee Research station to formulate protocols so that the Planting Community will be benefitted in using Damselflies as indicators of water quality. After all water quality is of paramount importance to the Coffee Planters because water is used every day either for spray, sprinkling, drinking or for pulping apart from human and livestock needs.
 
-[![faceEXCELLENT (11)](faceEXCELLENT-11-1024x733.jpg)](http://ecofriendlycoffee.org/?attachment_id=3062)
+![faceEXCELLENT (11)](faceEXCELLENT-11-1024x733.jpg)
 
 ### References
 

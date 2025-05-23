@@ -18,7 +18,7 @@ The Coffee Board of India, alongside various coffee associations, has developed 
 
 The use of concrete tower sprinkler systems for coffee cultivation, pioneered by Dr. Anand Pereira at Joe’s Ecofriendly Coffee Plantation, offers numerous advantages. These towers, which support the rain guns for irrigation, are not only practical in terms of irrigation efficiency but also provide long-term sustainability and safety for the plantation. Below are some of the key advantages of using concrete tower sprinkler setups for coffee cultivation.
 
-<figure id="attachment_48526" aria-describedby="caption-attachment-48526" style="width: 768px"><img loading="lazy" decoding="async" src="1-8-768x1024.jpg" alt=""><figcaption id="caption-attachment-48526">oplus_3145760</figcaption></figure>
+![oplus_3145760](1-8-768x1024.jpg)
 
 ### Ease of Operation
 
