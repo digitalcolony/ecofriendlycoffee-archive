@@ -1,0 +1,91 @@
+---
+// Import the global.css file here so that it is included on
+// all pages through the use of the <BaseHead /> component.
+import "../styles/global.css";
+
+interface Props {
+	title: string;
+	description: string;
+	image?: string;
+}
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+
+// TODO: Replace this default image with a EFC 1200x630 pixel image
+const { title, description, image = "/ineedcoffee-logo.jpg" } = Astro.props;
+
+const isHomepage = Astro.url.pathname === "/";
+const fullTitle = isHomepage
+	? "EcofriendlyCoffee - Coffee and Biodiversity"
+	: `${title} - EcofriendlyCoffee`;
+---
+
+<!-- Global Metadata -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160" />
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+<meta name="msapplication-TileColor" content="#2b5797" />
+<meta name="msapplication-TileImage" content="/mstile-144x144.png" />
+<meta name="google-site-verification" content="jrYbaobM-vj_8E_sfvUBTjbeUICwbGZKv7_Z45TTog8" />
+<meta name="flattr:id" content="e0g7vj" />
+<link
+	rel="alternate"
+	type="application/rss+xml"
+	title="EcofriendlyCoffee"
+	href="https://feeds.feedburner.com/ecofriendlycoffee"
+/>
+
+<!-- Early theme detection to prevent flash -->
+<script is:inline>
+	// Apply the user's theme preference as early as possible to avoid flash
+	const theme = localStorage.getItem("theme");
+	if (theme === "dark" || (!theme && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
+		document.documentElement.classList.add("dark-mode");
+	} else if (theme === "light") {
+		document.documentElement.classList.add("light-mode");
+	}
+</script>
+
+<!-- Canonical URL -->
+<link rel="canonical" href={canonicalURL} />
+
+<!-- Primary Meta Tags -->
+<title>{fullTitle}</title>
+<meta name="title" content={fullTitle} />
+<meta name="description" content={description} />
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content={Astro.url} />
+<meta property="og:title" content={fullTitle} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={image ? new URL(image, Astro.url) : undefined} />
+<meta property="og:image:alt" content={description} />
+<meta property="og:site_name" content="INeedCoffee" />
+
+<!-- Twitter/X Card - Both naming conventions maintained for compatibility -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content={Astro.url} />
+<meta name="twitter:title" content={fullTitle} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={image ? new URL(image, Astro.url) : undefined} />
+<meta name="twitter:image:alt" content={description} />
+<meta name="twitter:creator" content="@INeedCoffee" />
+
+<meta name="robots" content="index, follow" />
+<meta name="theme-color" content="#2b5797" />
+<meta name="author" content="INeedCoffee" />

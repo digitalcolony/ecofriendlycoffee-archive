@@ -1,0 +1,73 @@
+---
+id: "organic-coffee-by-default"
+title: "Organic Coffee by Default"
+status: "published"
+author: "Arthur Montague"
+authorSlug: "arthur-montague"
+titleImage: "tanzania-coffee-farmer.jpg"
+categorySlug: "organics"
+category: "Organics"
+publishedDate: "2001-06-01T07:00:00"
+updatedAt: "2014-12-25T21:14:09"
+wordpressId: 32
+---
+
+“Coffee is a lot more than what we drink.”
+
+For decades international development and aid agencies, sometimes with the support of the World Bank, have striven to assist farmers in developing countries to increase their food productivity, sometimes for better, sometimes for worse.
+
+In coffee producing countries this has been particularly true, often resulting from pressure on the countries to balance their trade deficits and pay down international loans by exporting valuable commodities.
+
+How has this sat with coffee growers, many of whom are small subsistence farmers? Small farmers whose productivity had been limited were provided techniques that enabled intensified production. Perhaps for the first time in generations of families farming the same fixed area of land, surpluses were harvested. Until then these farmers had grown naturally organic crops, having had no choice because they could not afford chemicals.
+
+Of course, these organic crops could not be certified; a process that can cost as much as US$30,000, and producer cooperatives, which might have had the wherewithal to obtain certification, had not yet been formed.
+
+As their successes took hold in the countryside, development workers began to see a disturbing trend. They began to see small growers re-investing their newfound surpluses in chemicals; in some instances chemicals long banned in North America — DDT a case in point. They also began to see small growers expanding their operations by clearing more land, often land unsuited for more than a few years of intensive farming without massive chemical inputs. Add to that, mono-crops became more commonplace. All of these factors are having demonstrably negative environmental impact.
+
+![Tanzania coffee farm](farms.jpg)  
+*Sun grown coffee farming in Tanzania.*
+
+### Shade Grown vs. Sun Grown Coffee
+
+Because coffee is of such economic importance relative to other crops falling to much the same “modernizing” approach, the issue of shade grown vs. sun grown coffee is a prime example of how these dilemmas are playing themselves out.
+
+Traditionally coffee had been shade grown, cultivated on small family farms beneath forest canopies often as richly biodiverse as tropical rain forests. Came, then, an economic move to growing coffee as a mono-crop, based on newly-developed seed strains and agro-chemicals. To facilitate these changes forest canopies were thinned; sometimes stripped completely.
+
+The changeover to sun grown coffee was massive, a conversion of nearly 40% of coffee growing land in Latin America and the Caribbean during the early Nineties. In the short term the benefits of intensification to small growers have been significant. However, little time passed before a down side began to emerge.
+
+On the economic side, the cushion against a poor coffee harvest or poor coffee prices provided by diversified shade growing was removed, leaving small growers vulnerable; not only vulnerable but inextricably locked into the mono-crop methodology, whatever the market price, whatever the harvest. Previously coffee growers could blend bananas, citrus, other fruits, and some hardwoods into their farm operations. At least, if the coffee crop failed, they could still eat.
+
+Sun coffee farming has also been demonstrated to impact negatively on the environment in several ways. Studies in Colombia and Mexico indicated 90% fewer bird species than in canopied farm land. This suggests insects and other species have also diminished, gone as quickly as the habitat that had sustained them. Gone too are their ecological benefits.
+
+Agro-chemical inputs–fertilizers, pesticides, and herbicides–have been shown to damage water quality. In some documented cases, hundreds of local people have fallen ill due to pollution.
+
+### Starbucks Leads By Example
+
+For many years Starbucks Coffee Company has been active as an “ethical trader”. In 1999 their corporate policy was reinforced when Starbucks contracted with TransFair USA to purchase Fair Trade certified coffee.
+
+In 2000 Starbucks began buying Fair Trade certified coffee from growers in Nicaragua and Guatemala. Simultaneously, the company stepped up marketing of organic coffee, retailing Costa Rican organic coffee in its shops throughout the United States, Canada, and Europe.
+
+In partnership with Conservation International, Starbucks is involved in a long-term Mexican project near Chiappis designed to demonstrate the high value of shade grown coffee in a context which enhances biodiversity and curbs deforestation. Some 600 growers are involved in this project.
+
+![tanzania-coffee-farmer](tanzania-coffee-farmer.jpg)  
+*Tanzania coffee farmer.*
+
+### Return to Organic Farming
+
+That said, a brief description of the trend from what amounts to natural organic farming, in a sense, organic by default, now a more positive trend seems to be closing the circle as increasing numbers of coffee and other commodity growers are moving to systematic, calculated organic farming.
+
+In recent years demand for specialty coffees, including organic, has skyrocketed. Even shade coffee, once the norm, commands a premium price in world markets as a specialty product. The increasing demand for organic food generally may also support interest in shade grown organic coffee because organic bananas and cacao, among other items, can share the same land, providing an additional economic attraction for growers and, incidentally, returning them to the diversified agricultural methods of their forebears.
+
+Coffee grower cooperatives formed for marketing purposes are becoming more widespread in coffee producing countries. Particularly for those producing specialty coffees destined for niche markets, these cooperatives are able to market more directly to specialty processors.
+
+Growing awareness among consumers of the environmental and health issues attendant to modern agricultural practices may also be playing a subtle role, perhaps fueling demand for organic food and organic coffee in particular. This trend shows no indication of abatement. Starbucks is on board, for example, as are a number of other major food product providers, most keen on the one hand to flesh their philosophic commitment to socially responsible corporate operations and, on the other, to satisfy consumer demand for just such demonstration.
+
+### Corporate and Civil Society Partnerships Pay Off
+
+Conservation International (CI) is a major international organization dedicated to conserving biodiversity, in part by providing technical and financial support to farmers in areas where biodiversity is threatened by current growing practices.
+
+Coffee growing is a high priority for Conservation International because coffee is grown in high altitude tropical countries where, according to CI, the Smithsonian Institute, and other authorities, much of the world’s key biodiversity is located.
+
+Conservation International partnered with Starbucks in the Chiappis demonstration project. Coffee production from the site met Starbucks standards. Other hoped-for outcomes were also realized. Using the Chiappis project as a prototype, five new projects have now been initiated in Latin America, Asia, and Africa.
+
+Arthur Montague, copyright 2001

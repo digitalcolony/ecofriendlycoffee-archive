@@ -1,0 +1,272 @@
+---
+id: "neem-based-fertilizer-use-efficiency"
+title: "Neem Based Fertilizer Use Efficiency"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "fertilizers"
+category: "Fertilizers"
+publishedDate: "2005-12-01T08:00:00"
+updatedAt: "2015-10-28T13:54:15"
+wordpressId: 57
+---
+
+Coffee Plantation belts in India have undergone a metamorphosis since the British coffee pioneers left India, four decades back. In the early days of coffee planting, subsistence farming was the norm. However, in recent years, traditional farming has given way to intensive farming.
+
+Today, coffee cultivation has become a multimillion dollar industry. From an annual production of a meager one lakh tones in the early 1980’s, the Country now produces over three lakh tones of shade grown coffee.
+
+![FERTNEEM2005SLIDE-1](FERTNEEM2005SLIDE-1.jpg)
+
+We have come up with four answers to explain this phenomenal rise in production. First, the expansion of cultivated area, second, the easy availability of synthetic fertilizers particularly nitrogen, third; adoption of modern high yielding varieties and lastly adoption of intensive cropping patterns.
+
+The British pioneers opened up coffee plantations in specific geographical belts known for their soil fertility and moderate climate. Care was taken to only plant traditional varieties. Organic cultivation of coffee was the norm and a main stay in the farmer’s package of practice. Coffee farmers were in a position to harvest sustainable yields without high pest and disease incidence. The present, situation is very different. The farmer’s life has become stressful and the coffee farm is burdened with toxic levels of synthetic fertilizers. This perhaps alone will change the secure future of forest grown coffee.
+
+The importance of fertilizer, particularly nitrogen, in increasing coffee yields and quality was proved beyond doubt by researchers and this lead to the widespread and indiscriminate use of nitrogenous fertilizers in boosting coffee yields. Today, Coffee farmers have expanded their area of coffee cultivation together with multiple crops and rely on synthetic nitrogen fertilizers for better crop establishment and productivity.
+
+### EFFICIENCY OF FERTILIZER NITROGEN: UREA
+
+Urea is the principal nitrogen fertilizer used by a majority of the coffee farmers. The efficiency with which coffee utilizes nitrogen is notoriously low. World wide research clearly indicates that under ideal laboratory conditions, for every dollar of urea (nitrogen fertilizer) applied, under field application, the fertilizer use efficiency is not more than 30 %.
+
+Our studies also demonstrate that insufficient fertilizer level or inefficient management of applied fertilizer, particularly improper timing of nitrogenous and potash fertilizers, accounts for at least a 500 kg per hectare gap between farmers coffee yields and their potential farm yields.
+
+Another important aspect overlooked by coffee farmers : Application of a small amount of nitrogen will bring about low productivity of coffee, where as an excessive amount may decrease yield. Hence, it is very important to use a balanced level of fertilizer at the right time.
+
+### SPLIT DOZES OF FERTILIZER APPLICATION
+
+Enlightened coffee farmers are aware of the significant losses of fertilizer nitrogen during soil application. They have devised a simple method to minimize these losses and also increase nitrogen efficiency by adopting the split application of fertilizers. The recommended doze of fertilizers is applied in 4 split dozes. However, this practice has two drawbacks, namely unavailability of labor at the desired time and the expensive labor cost which adds to the cost of cultivation.
+
+### COFFEE TERRAIN
+
+Synthetic nitrogenous fertilizers are subjected to dynamic transformations within the confines of the coffee mountain due to varied slopes, different soil, environmental, cropping and management factors. The ecodynamic coffee cube is quite a complicated cube in which many chemical, biological and physical processes affect nitrogen reactions. Nitrogen transformations are also highly complex in nature resulting in significant losses of applied fertilizer through denitrification and ammonia volatilization.
+
+Unfortunately, the causes for these significant nitrogen losses are beyond the control of coffee farmers because of the unpredictability of the rains. Many a times soon after application of fertilizers there is a sudden downpour or an extended period of drought, associated with rise in daytime temperatures.
+
+The potential nitrogen loss mechanisms operating inside the coffee landscape are:
+
+1.  Ammonia volatilization (loss 30 to 70 %)
+2.  Leaching (loss 30 to 60 %)
+3.  Denitrification (loss 30 to 60 %)
+4.  Surface run off (loss 15 to 20 %)
+5.  Nitrogen immobilization (loss 10 to 40 %)
+6.  Ammonium fixation. (Loss 5 to 10 %)
+
+The extent to which each process operates is not clearly understood. The above mentioned losses can be significantly reduced by the application of neem. Neem controls the rate of release of nutrients from nitrogenous fertilizers and also retards nitrification in soil by controlling the activity of nitrifying bacteria.
+
+Our research remains sharply focused on two major objectives.
+
+1.  Improving nutrient use efficiency of nitrogenous fertilizers, through neem.
+2.  Maximizing use of indigenous resources available in large quantities in and around the plantation Districts in arresting nitrogen losses.
+
+![FERTNEEM2005SLIDE-2](FERTNEEM2005SLIDE-2.jpg)
+
+The role of neem in controlling the release of synthetic fertilizers has been understood for quite some time. Losses of nitrogen from urea and low recoveries from coffee soils can be significantly overcome with the help of neem coated urea, which acts as a slow release nitrogen fertilizer with the objective of making the amount of nitrogen released coincide with that required by coffee.
+
+Neem coated fertilizers get mineralized at a slower rate than just urea and also provides residual nitrogen for future growth and development. Also, neem coated fertilizers have a carry over effect which is beneficial for root and shoot development. Neem also plays a significant role in controlling ammonia volatilization and leaching losses of nitrogen. More importantly, neem increases the efficiency of nitrogen utilization by not only coffee, but multiple crops like pepper, orange, and areca nut.
+
+Neem also acts as an excellent nitrification inhibitor, there by increasing the efficiency of fertilizer nitrogen. The actual chemical compounds responsible for nitrification-inhibitory properties in neem kernels have yet to be identified. Neem cake treated urea contributes to a remarkable reduction in urea hydrolysis, there by conserving nitrogen. In this system more attention is focused on conserving energy.
+
+![FERTNEEM2005SLIDE-3](FERTNEEM2005SLIDE-3.jpg)
+
+Neem consists of proteins. Proteins undergo hydrolysis with the liberation of amino acids which through biological oxidation yield nitrogen in the form of ammonia or elemental nitrogen. Numerous other compounds arise as a result of microbial degradation. Ultimately, there is a simplification of numerous compounds and the synthesis of others.
+
+The complex biological structure of neem undergoes a break down into simpler compounds resulting in microbial succession favoring heterotrophic nitrogen fixers. These slow and gradual changes result in the formation of a nitrogen pool which is available for plant growth and development.
+
+### LOW COST TECHNOLOGY TO ARREST NITROGEN LOSSES
+
+Japan and the U.S.A have carried out pioneering work in the use of controlled release fertilizers which are sparingly soluble in water. Ureaform, crotonilidine diurea, sulphur coated urea and isobutyledene diurea are some of the controlled release fertilizers. The prohibitive cost of these fertilizers restricts its reach beyond the use of the common farmer.
+
+An inexpensive substitute to the above mentioned controlled release fertilizers is the blending of neem with urea. Neem seeds contain certain lipid associates which act as nitrification inhibitors and when mixed with synthetic urea, increases its efficiency.
+
+![FERTNEEM2005SLIDE-4](FERTNEEM2005SLIDE-4.jpg)
+
+TABLE-1. CONTROLLED RELEASE FERTILIZERS.
+
+FERTILIZER
+
+% N
+
+Crotonilidine diurea (CDU)(Urea+acetaldehyde)
+
+32% N
+
+Urea-form (Urea+Formaldehyde)
+
+38%N
+
+Guany1 urea (GU)
+
+37% N
+
+Sulphur coated urea (SCU)
+
+40% N
+
+Oxamide H2NCO–CONH2
+
+31.8%N
+
+Isobutylidine diurea (IBDU) (Urea+Isobutylaldehyde)(CH3) 2—-CH=CH-(NH—CO—NH2) 2
+
+32.2%N
+
+N-lignin (Ammonified lignin)
+
+18% N
+
+### NITRIFICATION INHIBITORS
+
+Nitrogen losses can also be significantly stemmed with the help of nitrification inhibitors like pyrimidines, acetanilides, isothiocyanates, pyridines and anilines. Two major chemicals which have been commercially produced by the Dow Chemical Company. U.S.A. and the Toyo Koatsu company of Japan are N-SERVE and AM. Unfortunately these chemicals are very expensive and are not available in India.
+
+### IMPACT OF SYNTHETIC NITROGEN ON SOIL MICROFLORA
+
+Our experience of over two decades reveals that the highly organized systems of living things are super sensitive to chemicals in the external and internal environment. Excessive application of fertilizer results in profound, often drastic effects on soil micro flora and fauna. The beneficial microbes are destroyed resulting in the proliferation of microbes which take up fertilizer nitrogen as an energy source, for cell growth and development.
+
+The nitrogen which was supposed to be taken up by the plant is instead taken up by soil microbes resulting in the further loss of nitrogen through immobilization. Neem coated nitrogen fertilizers stimulate beneficial microbes and leave behind a significant positive effect on crop growth and yield.
+
+### NEEM & ITS IMPACT ON SYNTHETIC FERTILIZERS
+
+![FERTNEEM2005SLIDE-5](FERTNEEM2005SLIDE-5.jpg)
+
+-   Reduces Leaching loss
+-   Slow release of nutrients from complex fertilizers.
+-   Improves efficiency of other nitrogenous fertilizers.
+-   Compatible with a wide range of synthetic fertilizers and chemicals.
+-   Reduction in urea hydrolysis.
+-   Inhibits nitrification
+-   Reduces ammonia volatilization
+-   Increases efficiency of nitrogen utilization by coffee plants. Increase in nitrogen assimilation
+-   Supplies nitrogen to coffee and other allied crops for extended periods of time.
+-   Regulates supply of nutrients coinciding with the crop growth and development.
+-   Conserves higher ammonium nitrogen in soils.
+-   Drastic reduction in the population of nitrifying bacteria.
+-   Reduces the population of ammonium oxidizers (Nitrosomonas sp) without affecting nitrite oxidizers (Nitrobacter sp).
+
+![FERTNEEM2005SLIDE-6](FERTNEEM2005SLIDE-6.jpg)
+
+### JOE’S SUSTAINABLE FARM: NITROGEN USE EFFICIENCY DURING SPRINKLING
+
+Robusta coffee farms are invariably subjected to artificial blossom showers during the summer months of February and March during which the daytime temperatures are high. World wide research suggests that at the time of flowering, the plant requires a tremendous amount of energy and the best way of providing this is by applying nitrogenous fertilizers like urea which is readily taken up by the plant. Application of urea during blossom showers increases the flower setting and the subsequent fruit set.
+
+However, more than 70 % of the applied nitrogen is lost by volatilization due to high daytime temperatures. Generally speaking the problems associated with urea include hygroscopicity, rapid dissolution, and ready decomposition to ammonia associated with a temporary increase in soil pH. Also, immediately after sprinkling, due to high moisture status, there is every possibility of urea leaching out beyond the root zone.
+
+![FERTNEEM2005SLIDE-7](FERTNEEM2005SLIDE-7.jpg)
+
+For over 25 years we have practiced applying neems mixed with urea and other nitrogenous fertilizers and have successfully arrested the significant nitrogen losses.
+
+### RECOMMENDATIONS FOR RESEARCH
+
+![FERTNEEM2005SLIDE-8](FERTNEEM2005SLIDE-8.jpg)
+
+-   The importance of nitrogen for coffee production justifies an intensive research effort. Coffee yields are directly correlated to the amount of nitrogen added and the efficiency with which it is used.
+-   Improvement in the use of neem coated fertilizers should continue to be important goals of the research program.
+-   Development of methodologies in allowing the release of nitrogen to coincide with the energy requirements of the plant.
+-   Of Special interest should be materials of new formulations, solubility or pellet coating characteristics and use of nitrification regulators and other mechanisms that control the release and availability of nitrogen.
+-   New techniques involving placement, timing and source of neem coated nitrogen should be standardized.
+-   In situations and areas where special problems of nitrogen leaching and fixation exist ( coffee belts receiving in excess of 100 inches of annual rainfall ), or where adverse soil conditions affect the behavior of soil and fertilizer nitrogen, controlled laboratory, glasshouse and field experiments should be conducted to determine the effects of the various unique conditions on nitrogen behavior and its uptake by the crop.
+-   Secondly scientists should find ways of developing production methods that can be applied cheaply and easily in the field.
+-   Finally, there should be a collaborative effort with leading laboratories across the globe in identifying key problems associated with nitrogen loss in soils under different management and ecological conditions and how neem could effectively arrest these losses.
+
+### CONCLUSION
+
+![FERTNEEM2005SLIDE-9](FERTNEEM2005SLIDE-9.jpg)
+
+Shade grown Indian coffee is an classical example example to the rest of the world that it is possible to harvest sustainable yields of coffee by using large amounts of organic wastes as fertilizers such as plant residues, manure, compost and neem based fertilizers. Each has their own unique resonance in contributing towards the betterment of the coffee eco system.
+
+The early pioneers in the coffee sector considered organic wastes as a high value fertilizer and regarded it as an indispensable asset rather than a liability. Since the mid 1990s, however, Indian coffee farmers have gradually replaced organic sources of nitrogen with cheaper commercial synthetic nitrogen. The main reason for this shift is the decline in cattle population, the time factor in preparing compost and the increased cost of labor.
+
+Since nitrogenous fertilizers are highly unstable in the natural environment, excessive application of such chemicals may pollute the environment and result in ground water pollution due to nitrates reaching the water table. In the coming years many of humanity’s most pressing problems will be a consequence of the effects of chemicals on living processes.
+
+There is rhythm in nature. Every season that comes and goes plays a specific role in enhancing the value of the coffee mountain. Everything in life has a particular pattern and order. At no cost should this delicate balance be distribued by the indiscriminate application of synthetic fertilizers. Instead, we need to to set an example of simple, ecologically sound farming with sustainable farming as a major component. We need to provide solutions to our environmental problems much before such problems manifest themselves.
+
+The greatest challenge is to understand the dynamic coffee soil and environmental factors that affect various transformation processes of nitrogen and to manage fertilizer in such a way that will increase fertilizer nitrogen efficiency.
+
+Since most of the Country’s nitrogenous fertilizers are imported, resulting in a significant outflow of precious foreign exchange, we need to maximize the efficiency of applied nitrogen. Our experiments have proved beyond doubt the beneficial role played by neem coated nitrogenous fertilizers in increasing nitrogen uptake. However, due to lack of access to laboratories and funding we have not been able to decipher the magnitude and mechanisms of fertilizer losses applied to coffee soils.
+
+No single neem coated fertilizer is considered suitable to all situations because of the diversity of climate, altitude and soil conditions. Wide scale use of neem coated fertilizers will depend on research and further modifications of the urea technology. At a time when many people feel that modern knowledge and age old traditions tend to contradict each other, it is refreshing to know that the neem holds potential in serving the needs of the farming community.
+
+### REFERENCES
+
+[Invisible Communications in Coffee Plantations](http://ecofriendlycoffee.org/invisible-communications-in-coffee-plantations/)
+
+[Endomycorrhizae](http://ecofriendlycoffee.org/endomycorrhizae/)
+
+[Organic Matter Decomposition In Coffee Plantations](http://ecofriendlycoffee.org/organic-matter-decomposition-in-coffee-plantations/)
+
+[The Fine Art of Composting In Coffee Plantations](http://ecofriendlycoffee.org/the-fine-art-of-composting-in-coffee-plantations/)
+
+[Farm Coffee Organic Manures](http://ecofriendlycoffee.org/farm-coffee-organic-manures/)
+
+[Global Warming in Coffee Plantations](http://ecofriendlycoffee.org/global-warming-in-coffee-plantations/)
+
+[Biodiversity In Relation To Coffee Plantations](http://ecofriendlycoffee.org/biodiversity-in-relation-to-coffee-plantations/)
+
+[Coffee Forest Symbiosis](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+
+[Significance of Microbial Interactions Within Coffee Plantations](http://ecofriendlycoffee.org/significance-of-microbial-interactions-within-coffee-plantations/)
+
+[Role of Bacteria in Coffee Plantation Ecology](http://ecofriendlycoffee.org/role-of-bacteria-in-coffee-plantation-ecology/)
+
+[Role of Fungi in Coffee Plantation Ecology](http://ecofriendlycoffee.org/role-of-fungi-in-coffee-plantation-ecology/)
+
+[The Role of Actinomycetes in Coffee Plantation Ecology](http://ecofriendlycoffee.org/the-role-of-actinomycetes-in-coffee-plantation-ecology/)
+
+[Microbial Communities](http://ecofriendlycoffee.org/microbial-communities/)
+
+[Role of Ectomycorrhizae In Coffee Plantations](http://ecofriendlycoffee.org/role-of-ectomycorrhizae-in-coffee-plantations/)
+
+[Coffee Plantations A Multidisciplinary Approach](http://ecofriendlycoffee.org/coffee-plantations-a-multidisciplinary-approach/)
+
+[The Ecodynamic Coffee Cube 3](http://ecofriendlycoffee.org/the-ecodynamic-coffee-cube-3/)
+
+[The Importance of Neem For Sustainable Coffee Production](http://ecofriendlycoffee.org/the-importance-of-neem-for-sustainable-coffee-production/)
+
+Alexander, M. 1974. Microbial Ecology. New York. John Wiley and sons.
+
+Alexander, M. 1977. Introduction to soil Microbiology. 2nd edition. New York. John Wiley and sons.
+
+Atlas, R.M. and R. Bartha. 1993. Microbial Ecology: Fundamentals and application. Third edition. Benjamin/Cummings Pub. Co. New York.
+
+Brock. T. D. 1979. Biology of Microorganisms. Third Edition. Englewood Cliffs. Prentice-Hall.
+
+Ascher. K.R.S. (1983) Pros. 1st Int. Neem Conf. Rottach- Egern, FRG: 63 -74.
+
+B. N. Vyas and K.B. Mistry. 2000. Processing and Standardization. In NEEM Edited by. N.S. Randhwa and B.S. Parmar. Society of Pesticide Science, India. New Age International ( P ) Limited , Publishers. New Delhi.
+
+Brady.N.C. and Weil. R.R. 2004. The nature and Properties of Soils. Thirteenth Edition. Pearson Education Pte. Ltd., Indian Branch, F.I.E. Patparganj, Delhi 110 092, India.
+
+Coffee Guide. 2000. Central Coffee Research Institute, Coffee Research Station. Chikmagalur District. Karnataka. India.
+
+Claude Alvares. 1999. The Organic Farming Source Book. The Other India Press, Mapusa 403 507 Goa, India.
+
+Chiu, S.F. (1984), Proc. II Int. Neem Conf. FRG.
+
+Fagoonee, I (1980) proc. Isst. Int. Neem, Conf. Rottach-Egm: 109 -120.
+
+Jacobson, M. (1986) 3rd Intern. Work, Conf. Stored Prod. Entomol, Kansas
+
+Karim, A. (1980) Proc. 1st Inter, Neem Conf. Rottach – Egern., FRG : 223 – 250.
+
+Lewis, W. H. and Elvin – Lewis , M.P.E. (1983) Eco. Bol. Vol. 37 (1) : 69 -70
+
+Meisner, I; kehi, M; Zur, M. and Eizick (1978) Phytoparositica vol. 6:85-88.
+
+National Research Council. 1992. Neem: A tree for solving global problems. National Academy Press. Washington. D.C. U.S.A.
+
+Paul Singleton and Diana Sainsbury. 1981. Dictionary of Microbiology. WIE Edition April 1981.
+
+Randhwa. N.S. and B.S. Parmar. ( Eds )1993. NEEM. Society of Pesticide Science, India. New Age International ( P ) Limited , Publishers. New Delhi.
+
+Randhwa. N.S. and B.S. Parmar. ( Eds )2000. Neem research and development. SPS Publication No. 3. Society of Pesticide Science, India.
+
+Rangaswami . G and Bagyaraj, D. J. 2001. Agricultural Microbiology. Second edition. Prentice- Hall of India Private Limited. New Delhi.
+
+Samuel. L.T., Werner . L.N., James. D.B. and John.L.H. 2003. Soil Fertility and Fertilizers. Fifth edition. Prentice-Hall of India Private Limited.
+
+Schmutterer, H.(1984) Mitteil, ungin aus der Sio, sound. fur and forst Berlin- Dahlem: 233-333.
+
+Subba Rao. N.S. 2002. Soil Microbiology (fourth edition of soil microorganisms and plant growth) Oxford and IBH Publishing CO. PVT. LTD. New Delhi.
+
+Tweari. D. N. 1992. Monograph on neem ( Azadirachta indica A.Juss ). International Book Distributors, Dehra Dun, India.
+
+Vyas B. N. and K.B. Mistry. 2000. Processing and Standardisation. In NEEM Edited by. N.S. Randhwa and B.S. Parmar. Society of Pesticide Science, India. New Age International ( P ) Limited , Publishers. New Delhi.

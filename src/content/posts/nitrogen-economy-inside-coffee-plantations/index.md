@@ -1,0 +1,461 @@
+---
+id: "nitrogen-economy-inside-coffee-plantations"
+title: "Nitrogen Economy Inside Coffee Plantations"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "coffee-physiology"
+category: "Coffee Physiology"
+publishedDate: "2006-01-01T08:00:00"
+updatedAt: "2015-11-04T12:05:53"
+wordpressId: 58
+---
+
+Nitrogen earns its place of prominence in our thinking for a number of reasons. First, nitrogen is the key element in the realization of the yield potential of both traditional and modern day coffee varieties along with mixed crops. Second, the rising energy costs have resulted in increased nitrogen fertilizer costs, and future global predictions suggest even higher prices are to come. Third, the efforts to increase biological nitrogen fixation have yet to take shape in the minds of the coffee farmers.
+
+The efficiency of utilization of applied nitrogen to coffee belts is markedly influenced by the timing and type of applied nitrogen. Research data suggests that little is understood regarding the mechanisms of fixation, transformation, and utilization of applied nitrogen. However, a majority of the scientists are of the opinion that there is great potential to increase the efficiency of use of applied nitrogen so as to reduce its loss through biological and chemical processes.
+
+![coffee-forest-india](coffee-forest-india.jpg)  
+*Coffee Forest*
+
+### NUTRIENTS and PLANT GROWTH
+
+Sixteen elements are essential for the growth and development of a healthy coffee bush. These are categorized into MACRONUTRIENTS and MICRONUTRIENTS. Macro nutrients are further classified as Primary and Secondary nutrients. Nitrogen, Phosphorus and Potassium constitute the primary nutrients because of the large amounts required by the coffee plant.
+
+The growth and development of the bush depends on the sufficient supply of the respective nutrients and the yield is limited by the nutrients which are in short supply. A balanced fertilization of all major and minor nutrients will result in two important functions, namely production of good crops and also production of fresh cropping wood frame work for the succeeding year.
+
+### NITROGEN & COFFEE
+
+Nitrogen is an essential constituent of the coffee bush. It is present as the fundamental unit in proteins, nucleic acids, chlorophyll, and other organic components. It is a vital constituent of the enzyme systems and plays a crucial role in all the metabolic processes in the plant. Nitrogen largely determines the crop production and consequently also that of the productive woods.
+
+Balanced supply of nitrogen increases photosynthetic activity, vegetative growth and gives a dark green color to the leaves. It also plays a significant role in speeding up the maturity of coffee. Most importantly, a balanced supply of nitrogen for the plant is a must for the uptake and translocation of other nutrients.
+
+Even though nitrogen is essential for coffee plants throughout the year, nitrogen demand by coffee plants is maximum during vegetative phase, blossom and berry development.
+
+### NITROGEN REQUIREMENT OF COFFEE
+
+The Coffee Research Station at Balehanoor, in Chickmagalur District has carried out extensive fertilizer trials and has come out with a set of recommendations that are of immense value to the grower.
+
+We quote from the COFFEE GUIDE, 2000:
+
+> For mature Arabica coffee, where coffee yields are not exceeding one M.T. per acre, a mandatory / sustenance dose of 20:20:20 kg of N : P2O5 : K2O per acre per year has to be given. In areas where the production levels are exceeding one but up to 1.5 M.T., the mandatory / sustenance dose has to be revised to 30:30:30 kg. In addition to the mandatory/sustenance dose, for every 100 kg of clean coffee production, application of 10:7:10 kg of N: P2O5 : K2O is essential.
+
+The nutrient requirement of biomass to produce one tone of clean coffee (6000 kg fruits of Arabica or 5000 kg fruits of Robusta) is roughly 13, 2.3 & 15 kg of N, P2O5 and K2O respectively.
+
+### NITROGEN REMOVAL BY COFFEE
+
+The COFFEE GUIDE, 2000 estimates that a tone of clean coffee removes approximately 40, 7 and 45 kg of N , P2O5 and K2O in case of Arabica while 45, 9 and 58 kg of N, P2O5 and K2O in case of Robusta respectively from the soil.
+
+### FACTORS DETERMINING FERTILIZER EFFICIENCY
+
+-   SOIL PROPERTIES
+-   ORGANIC MATTER CONTENT
+-   CARBON NITROGEN RATIO
+-   HYDROGEN ION CONCENTRATION
+-   TRADITIONAL VARIETIES/ High yielding
+-   SEASON/TIME OF APPLICATION
+-   SOIL MOISTURE STATUS
+-   AMBIENT TEMPERATURE
+-   WEED CONTROL
+-   STANDING CROP
+-   PRODUCTIVE WOODS
+-   NUMBER OF SPLIT FERTILIZER APPLICATIONS
+-   TYPE OF NITROGEN SOURCES
+-   NATURAL SUPPLY OF NITROGEN
+-   COMPETITION FROM FAST GROWING FOREST TREES
+-   AVAILABILITY OF OTHER NUTRIENTS
+-   NUMBER OF MULTIPLE CROPS
+-   NUMBER & TYPE OF TREES
+-   AGE OF COFFEE BUSH
+
+### ORGANIC MATTER & NITROGEN POOL
+
+Due to the presence of organic matter and humus on the floor of the coffee forest and under the influence of succulent leaf mulch, the desirable equilibrium between the new formation of humus and mineralization becomes established. Nitrogen is simultaneously and continually being built into the soil humus as it is set free by mineralization. This constitutes a uniformly flowing source of nitrogen for the growth and development of the biotic partners within the confines of the coffee mountain.
+
+The abundant nitrogen pool is due to the activity of soil microorganisms. It is for this very reason that coffee farmers need to maintain the fertility status of their soils by periodic addition of compost and farmyard manure. Coffee soils rich in organic matter content and humus has the inherent ability of supplying natural nitrogen.
+
+Naturally supplied nitrogen, particularly soil nitrogen, is distinct from chemical fertilizers in that it is continuously supplied throughout the growing period of the plant. More importantly, naturally supplied nitrogen involves no risk of injury from accompanying by products and also conserves non renewable energy resources like fossil fuel. Fertilizers are sold on the basis of their content of nitrogen, phosphorus and potassium. This content is stated as percentages of N, P2O5 And K2O.
+
+The COFFEE GUIDE (2000) reports that the fruit skin / pulp obtained after pulping 6000 kg of fruits to get a tone of coffee returns 14-15 kg N, 3 – 3.7 kg P2O5 & 29-37 kg K2O to the coffee soil if properly decomposed and recycled. Similarly, if the entire cherry husk is recycled after composting, they contribute 1.66- 2.0% N, 0.4 – 0.5% P2O5 & 2.4-2.6 % K2O. They also report that nearly 84-95 kg N, 40-42 kg P2O5 & 108-123 kg K2O are available for recycling in the coffee field in a hectare per year besides dadap wastes.
+
+### TABLE: NITROGEN CONTENT IN COMMONLY APPLIED ORGANIC MANURES
+
+ORGANIC MANURES
+
+% NITROGEN CONTENT
+
+FARM YARD MANURE
+
+1.0-1.5
+
+BONE MEAL STEAMED
+
+1.5-2.5
+
+SEWAGE & SLUDGE
+
+3.5-4.0
+
+NEEM CAKE
+
+3.0-3.5
+
+COFFEE HUSK
+
+1.0-1.5
+
+STRAW
+
+0.5-1.0
+
+NIGHT SOIL
+
+1.0-1.2
+
+POULTRY MANURE
+
+2.0-3.0
+
+CATTLE MANURE
+
+0.7-1.5
+
+SHEEP & GOAT
+
+2.0-2.75
+
+FISH MEAL, BONE MEAL, BLOOD MEAL
+
+1.0-2.5
+
+TANK SILT
+
+0.3-0.5
+
+SUGARCANE PRESS MUD
+
+0.3-0.5
+
+AZOLLA
+
+3.0-4.0
+
+VERMI-COMPOST
+
+1.0-1.5
+
+### NITROGEN ADDITION FROM THE ATMOSPHERE
+
+The earth’s atmosphere contains 80 per cent nitrogen but in a form that plants cannot use. High temperatures generated by lightening cause nitrogen to combine with oxygen in the air, thus forming nitrogen oxides which dissolve in water and fall to earth in the form of rain as dilute nitric acid. Subsequently, ground minerals react with the acid to form nitrates on which the plants are dependent for growth.
+
+### NITROGEN UPTAKE IN COFFEE
+
+Even though, nitrogen is one among the three (Nitrogen, Phosphorus, Potassium ) major elements required for plant growth and development, very few coffee farmers are aware that nitrogen is assimilated almost entirely in the inorganic state, as nitrate or ammonium. Both forms of nitrogen are produced as a result of microbial decomposition of the organic residues of plants and animals. In spite of adding large quantities of compost, farm yard manure and other organic plant residues, the nitrogen in them needs to be transformed to the inorganic state which plants can assimilate.
+
+### IMPORTANT TERMINOLOGIES
+
+N MINERALIZATION RATE: The rate at which organic nitrogen is converted to ammonium and nitrate is termed as N mineralization rate.
+
+AMMONIFICATION: The production of ammonia from organic nitrogenous materials of the soils. (Formation of ammonium from organic compounds)
+
+AMINIZATION: The breakdown of organic matter by certain heterotrophic bacteria and fungi, resulting in the release of amines, amino acids and urea.
+
+NITRIFICATION: The conversion of ammonia nitrogen to nitrate nitrogen. (Oxidation of ammonium to nitrate)
+
+DENITRIFICATION: The conversion of nitrate and nitrite into molecular nitrogen or nitrous oxide through microbial processes.
+
+IMMOBILIZATION: The conversion of inorganic nitrogen ions (NH4+ NO3) into organic forms
+
+VOLATILIZATION: Gaseous ammonia loss to the atmosphere from nitrogen fertilizers.
+
+LEACHING: The loss of nitrate ions into water bodies, rivers and lakes.
+
+### FATE OF FERTILIZER UREA
+
+Urea is the most commonly applied fertilizer in Indian coffee farms.
+
+Urea applied to the soil is readily hydrolyzed by the enzyme urease to ammonium. Large numbers of bacteria, fungi and actinomycetes in soils possess urease. Urease activity is highest in the rhizosphere, where microbial activity is high. The pH of soils receiving urea rises as ammonium is produced, and the pH in the immediate vicinity of particles of urea fertilizer may reach values in excess of 8.0 and sometimes about pH 9.0, although the pH only a minute distance away may be near neutrality or below.
+
+In these alkaline conditions, the product is in fact ammonia and not ammonium, and much of the nitrogen from the fertilizer may be lost to the atmosphere as gaseous ammonia. The loss is promoted by increased temperature, and it is greater if the urea is applied to the surface rather than below ground and in soils of high than low pH Values. With time, the dramatic rise in pH is reversed, in as much as the ammonia-ammonium is oxidized to nitric acid.
+
+NITROGENOUS FERTILIZERS: Nitrogenous fertilizers are divided into four groups.
+
+1.  NITRATES.
+2.  AMMONIUM COMPOUNDS.
+3.  ORGANIC COMPOUNDS OF NITROGEN.
+4.  ANIMAL and PLANT RESIDUES.
+
+### INORGANIC NITROGENOUS FERTILIZERS
+
+NITRATES: (NO3- ): All nitrate fertilizers are readily soluble. Hence it is recommended wherever plant growth is to be promoted rapidly, like in new clearings or young plantations. Nitrate fertilizers easily pass into solution in spite of little moisture and can therefore be effective in periods when there is little rain. Nitrate of soda, also known as sodium nitrate is unavailable to the Indian coffee farmers.
+
+Potassium nitrate which is a source of both nitrogen and potassium is also not available. The nitrogen content is around 14 % and the potash content of about 15%. Calcium nitrate, also known as nitrate of lime and Norwegian saltpeter contains about 16% nitrogen and 34% calcium. Ammonium nitrate is a nitrogenous fertilizer but because of its highly inflammable nature it is not used as a commercial fertilizer. Nitrogen present in these fertilizers is in nitrate form,NO3 – which are easily soluble in water. This characteristic ensures rapid absorption by the plants.
+
+Excessive nitrate ions inhibit both nitrification and nitrogen fixation. Nitrates are susceptible to losses due to leaching. On account of their great solubility, nitrate fertilizers should be applied in three to four split applications. They are alkaline in their residual effect in soil. At reasonably good temperatures and under favorable soil conditions with adequate aeration, the transformation of the ammonium ion into the nitrate ion can take place within a few days. In strongly acidic soils, nitrification can be delayed for a prolonged period of time.
+
+Following are the nitrate fertilizers:
+
+FERTILIZER
+
+% N
+
+SODIUM NITRATE (NaNO3)
+
+16%
+
+CALCIUM NITRATE Ca(NO3)2
+
+15.5%
+
+POTASSIUM NITRATE(KNO3)
+
+14%
+
+### AMMONIUM FERTILIZERS: (NH4+)
+
+The advantage of ammonia fertilizers is due to the fact that the NH4\+ ion, in contrast to the NO3 – ion, is sorbed by the soil. The most common ammonium fertilizer is ammonium sulfate. The major draw back of using ammonium sulfate is that it increases soil acidity. Hence, coffee farmers using this fertilizer need to frequently lime their soils to neutralize the acidity. In general ammonium fertilizers are readily soluble in water. The added advantage of using these fertilizers is due to the fact that they get absorbed on the soil colloidal complex and protect the fertilizer from being washed away by leaching and runoff.
+
+Following are the ammonium fertilizers:
+
+FERTILIZER
+
+% N
+
+AMMONIUM SULPHATE (NH4)2SO4
+
+20.6%
+
+AMMONIUM PHOSPHATE NH4 (H2PO4)
+
+20%
+
+AMMONIUM CHLORIDE NH4CL
+
+25%
+
+AMMONIA SOLUTION NH3 in H2O
+
+20 to 25%
+
+ANHYDROUS AMMONIA NH3
+
+82%N
+
+### NITRATE & AMMONIUM FERTILIZERS: (Nitrate, NO3– and ammonium, NH4\+ )
+
+The advantage of using these fertilizers is that the nitrate nitrogen is readily available to plants for various stages of growth and development, whereas ammonium nitrogen becomes available to plants for the formation of productive woods at a later stage, when it is transformed by microbiological process to nitrate. These fertilizers are soluble in water and are acidic in their residual effect.
+
+In calcium ammonium nitrate one half of the nitrogen content is ammoniacal, the other is nitrate nitrogen.
+
+The ammonium sulphate nitrate fertilizer contains only 6.5% nitrate nitrogen compared with 19.5 % ammonical nitrogen.
+
+Following are the nitrate & ammonium fertilizers:
+
+FERTILIZER
+
+% N
+
+AMMONIUM NITRATE
+
+NH4NO3
+
+33 to 34%
+
+CALCIUM AMMONIUM-
+
+CAN
+
+25%
+
+\-NITRATE
+
+Ca(No3) 2NH4NO3
+
+AMMONIUM SULPHATE-
+
+ASN
+
+26%
+
+\-NITRATE
+
+(NH4) 2SO4NH4NO3
+
+### ORGANIC NITROGEN COMPOUNDS
+
+UREA : is the most commonly applied nitrogen fertilizer on Indian coffee farms. Urea has three distinct advantages, namely, it is readily soluble in water and can be applied either as a soil application or as foliar spray. It increases soil acidity only slightly. In urea, the nitrogen is present in the amide form ( diamide of carbonic acid) and is rapidly converted to ammoniacal nitrogen and nitrate nitrogen. The major draw backs of urea are that it is susceptible to leaching, fixation and volatilization.
+
+Calcium cyanamide though not available in India, is most suited for acid soils, owing to its high content of calcium oxide. Cynamide is hydrolyzed to urea and made available for plant growth and development.
+
+Amide fertilizers contains nitrogen in organic compounds as amide NH2 or CN 2.The nitrogen is quickly converted by soil microbes to ammoniacal and nitrate form, which in turn is easily assimilated by the plant.
+
+FERTILIZER
+
+% N
+
+UREA
+
+CO (NH2) 2
+
+46%
+
+Calcium cyanamide
+
+CaCN2
+
+21%
+
+### METHOD OF APPLICATION OF N FERTILIZER
+
+At Joe’s Sustainable farm, KIREHULLY ESTATE, we have practiced the broad casting method, followed by lightly working the fertilizers into the soil or by covering it with mulch. In this way the losses of ammonia are avoided which otherwise take place when they are distributed on the surface. Incorporation of broadcast urea into soil will minimize ammonia losses by increasing the volume of soil to retain ammonia.
+
+### FIELD APPLICATION OF FERTILIZER
+
+-   The best time to apply fertilizer is during a cloudy day and it is preferable to complete fertilizer application by 12 noon.
+-   Most of the coffee farmers apply fertilizers by the ring and basin method. This idea holds good for young plants but in older plantations (Age of plants more than 20 years) it is advisable to broad cast fertilizers in rows.
+-   Straight fertilizers should not be mixed in advance but a far as possible be mixed on the same day of application.
+-   After fertilizer application, covering with mulch is a good practice but is often not practical due to labor shortage.
+-   Clearing the base of the plant from mulch and leaf litter and then applying fertilizer results in a good practice.
+
+### TABLE- NITROGEN PER CENT IN COMMONLY USED NITROGENOUS FERTILIZERS
+
+NITROGENOUS COMPOUNDS
+
+% NITROGEN CONTENT
+
+UREA
+
+46
+
+AMMONIUM SULPHATE ( AS )
+
+21
+
+CALCIUM AMMONIUM NITRATE ( CAN )
+
+25
+
+SINGLE SUPER PHOSPHATE ( SSP )
+
+16
+
+DI-AMMONIUM PHOSPHATE ( DAP )
+
+18
+
+AMMONIUM PHOSPHATE ( MAP )
+
+20
+
+NITRO PHOSPHATE
+
+20
+
+AMMONIUM POLYPHOSPHATE ( APP )
+
+12
+
+NPK COMPLEX – SUPHALA
+
+15
+
+VIJAYA
+
+17
+
+SAMPURNA
+
+19
+
+### PLANT BREEDING and SELECTION
+
+It is important to understand that the coffee bush was originally a native of the forest and was slowly domesticated for commercial production. The world over, plant breeders should screen collections of coffee germplasm and select the most desirable genotype according to their ability to associate themselves with low nitrogen uptake but high productivity. For e.g. The old robusta variety grown in thousands of acres in India, requires very low dozes of synthetic fertilizers, particularly nitrogen.
+
+### COMMONLY OBSERVED PROBLEMS ASSOCIATED WITH EXCESS NITROGEN USE
+
+Among the different nitrogenous fertilizers available for coffee farmers, fertilizer, urea is the cheapest. We have observed that coffee farmers often use excessive urea, in times when there is an acute shortage of phosphate and potash fertilizers. This unbalanced fertilization not only depletes the soil of other nutrients but also results in the inefficiency of applied nitrogen and deficiency of other essential and micro nutrients. The coffee bush also tends to be susceptible to pest and disease attack. In a short period of time, such practices result in rendering soil sickness by way of nitrate pollution and toxicity build up.
+
+Hence, coffee farmer’s world wide should practice safe and sound agricultural practices that are environmentally safe and ecologically sound. Balanced fertilization is one such good practice which results in the supply of nutrients in sufficient and balanced quantities, in available form and most importantly when the coffee bush requires it.
+
+### CONCLUSION
+
+Our experience of over two decades, reminds us that within the farming community, it is often difficult, if not impossible, to imagine breaking the practice of applying high dozes of nitrogenous fertilizers, which is detrimental for the entire farm. Diligent use of nitrogen is the only real remedy.
+
+Scientists are clearly aware that the long range effect of continued use of chemical nitrogenous fertilizers will result in damage to plant and animal life and ultimately human welfare. There is clearly a need for more intelligent use of synthetic fertilizers of all kinds which are safer to humans and other desirable life.
+
+Air, water, and soil are becoming the dumping grounds for synthetic fertilizers of every conceivable sort. The atmosphere is becoming over burdened, almost to the limit of human endurance with the increased use of artificial fertilizers and pesticides. Ground water, rivers and lakes are becoming toxic to the point of near extinction for many desirable forms of life.
+
+The manufacture of synthetic urea by the Haber Bosh process expends tremendous amounts of energy and the raw material, naphtha is imported from abroad, adding to the prohibitive cost of fertilizer. More importantly, due to the high instability of synthetic nitrogenous compounds due to leaching and runoff, the groundwater, rivers, lakes and streams get polluted with excess nitrogen resulting in health hazards.
+
+Mankind has already left a permanent scar on this delicate landscape due to the indiscriminate use of chemicals and fertilizers.
+
+In the search for answers, fertilizer manufacturers are constantly trying to find new ways of packing more power into fertilizers and combining them with inhibitors so that wastage and pollution is reduced if not contained. The technical challenges are daunting. More than 95 % of the coffee farmers in India have little understanding of the complex and volatile chemistry that occurs in straight and complex fertilizers. Once the chemical fertilizers are applied to the field they have to operate in an unpredictable harsh environment and send energy forward and backward a hundred times before a part of it is assimilated by the plant. A better understanding of these mechanisms will empower the coffee grower to select the right type of fertilizer, with minimum environmental impact.
+
+The choice we face is tough. Either chemicals or a hard baked earth because of man’s increased dependency on synthetic fertilizers.
+
+### REFERENCES
+
+[Significance of Lime Application in Coffee Plantations](http://ecofriendlycoffee.org/significance-of-lime-application-in-coffee-plantations/)
+
+[Role of Fungi in Coffee Plantation Ecology](http://ecofriendlycoffee.org/role-of-fungi-in-coffee-plantation-ecology/)
+
+[The Role of Actinomycetes in Coffee Plantation Ecology](http://ecofriendlycoffee.org/the-role-of-actinomycetes-in-coffee-plantation-ecology/)
+
+[Microbial Communities](http://ecofriendlycoffee.org/microbial-communities/)
+
+[Role of Ectomycorrhizae In Coffee Plantations](http://ecofriendlycoffee.org/role-of-ectomycorrhizae-in-coffee-plantations/)
+
+[Coffee Plantations A Multidisciplinary Approach](http://ecofriendlycoffee.org/coffee-plantations-a-multidisciplinary-approach/)
+
+[Significance of Microbial Interactions Within Coffee Plantations](http://ecofriendlycoffee.org/significance-of-microbial-interactions-within-coffee-plantations/)
+
+[Role of Bacteria in Coffee Plantation Ecology](http://ecofriendlycoffee.org/role-of-bacteria-in-coffee-plantation-ecology/)
+
+[Coffee Forest Symbiosis](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+
+[Invisible Communications in Coffee Plantations](http://ecofriendlycoffee.org/invisible-communications-in-coffee-plantations/)
+
+[Organic Matter Decomposition In Coffee Plantations](http://ecofriendlycoffee.org/organic-matter-decomposition-in-coffee-plantations/)
+
+[The Fine Art of Composting In Coffee Plantations](http://ecofriendlycoffee.org/the-fine-art-of-composting-in-coffee-plantations/)
+
+[Farm Coffee Organic Manures](http://ecofriendlycoffee.org/farm-coffee-organic-manures/)
+
+[The Ecodynamic Coffee Cube 3](http://ecofriendlycoffee.org/the-ecodynamic-coffee-cube-3/)
+
+[The Importance of Neem For Sustainable Coffee Production](http://ecofriendlycoffee.org/the-importance-of-neem-for-sustainable-coffee-production/)
+
+World Fertilizer Use Manual, 1992, IFA, Paris, 632 p. [Web site](http://www.fertilizer.org)
+
+[Worldwide Ammonia Capacity by Region](http://web.archive.org/web/20090411072927/http://www.ifdc.org:80/PDF_Files/FreeFert.Statistics.pdf)
+
+[Nitrogenous Fertilizers](http://www.indiaagronet.com/indiaagronet/Manuers_fertilizers/contents/nitrogenous_fertilizers.htm)
+
+Anonymous.2002.Fertilizes and their Use. 2002, A pocket guide for extension officers. Fourth edition. FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS. INTERNATIONAL FERTILIZER INDUSTRY ASSOCIATION ROME, 2000.
+
+Alexander, M. 1974. Microbial Ecology. New York. John Wiley and sons.
+
+Alexander, M. 1977. Introduction to soil Microbiology. 2nd edition. New York. John Wiley and sons.
+
+Atlas, R.M. and R. Bartha. 1993. Microbial Ecology: Fundamentals and application. Third edition. Benjamin/Cummings Pub. Co. New York.
+
+Brock. T. D. 1979. Biology of Microorganisms. Third Edition. Englewood Cliffs. Prentice-Hall.
+
+Brady.N.C. and Weil. R.R. 2004. The nature and Properties of Soils. Thirteenth Edition. Pearson Education Pte. Ltd., Indian Branch, F.I.E. Patparganj, Delhi 110 092, India.
+
+Coffee Guide. 2000. Central Coffee Research Institute, Coffee Research Station. Chikmagalur District. Karnataka. India.
+
+Claude Alvares. 1999. The Organic Farming Source Book. The Other India Press, Mapusa 403 507 Goa, India.
+
+Paul Singleton and Diana Sainsbury. 1981. Dictionary of Microbiology. WIE Edition April 1981
+
+Rangaswami. G and Bagyaraj, D. J. 2001. Agricultural Microbiology. Second edition. Prentice- Hall of India Private Limited. New Delhi.
+
+Subba Rao. N.S. 2002. Soil Microbiology (fourth edition of soil microorganisms and plant growth) Oxford and IBH Publishing CO. PVT. LTD. New Delhi.
+
+Stevenson. F.J. (Ed.). 1982. 1982. Nitrogen in agricultural Soils. American Society of Agronomy, Madison, Wisc.
+
+Samuel. L.T., Werner. L.N., James. D.B. and John.L.H. 2003. Soil Fertility and Fertilizers. Fifth edition. Prentice-Hall of India Private Limited.
+
+Smil, V. 1999. Long-range Perspectives in Inorganic Fertilizers in Global Agriculture. 1999 Travis P. Hignett Lecture, IFDC, Alabama, USA.

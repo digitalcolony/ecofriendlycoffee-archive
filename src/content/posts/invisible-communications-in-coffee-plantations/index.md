@@ -1,0 +1,45 @@
+---
+id: "invisible-communications-in-coffee-plantations"
+title: "Invisible Communications in Coffee Plantations"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "general"
+category: "General"
+publishedDate: "2003-09-01T07:00:00"
+updatedAt: "2015-10-26T09:56:35"
+wordpressId: 33
+---
+
+Coffee Planters, world-wide are slowly beginning to realize that by their inherent actions, they have immense power to change the environment, far more, than in the past, because of the tremendous advances in science and technology. At this juncture it is critical to understand the **natural patterns** of the coffee ecosphere. We need to examine the base of the Coffee Plantation pyramid called *life*, which essentially comprises of the **biotic** community where Macro and Microorganisms, coffee plants, animals, insects and trees live together within the same habitat.
+
+The question of underlying importance is the interaction, interrelationships, patterns of interdependence, which ultimately determine the survival of the local ecosystem and the coffee community at large. Coffee Planters should understand or learn to predict the consequences of tampering with the environment due to indiscriminate use of poisonous chemicals, fertilizers, heavy machinery that might imbalance the essential patterns of nature’s harmonious relationship with the environment.
+
+![indian_canopy1x](indian_canopy1x.jpg)
+
+In the Indian context, Coffee Plantations are largely cultivated inside forests and for centuries this mutually beneficial coexistence has existed. The passage of time has clearly revealed a harmonious relationship among plant microbes and trees. This essentially constitutes the delicate balance among life’s processes. This article defines a part of the complex interdependence of coffee plants with soil and plant microbes, together with various tree species naturally found inside the plantation. This study has time and again revealed that coffee plants, trees, microbes and insects constantly communicate with one another the Signal Exchange Language (SEL), either to ward off danger, or to protect or simply to predate. This sort of signal exchange communication has existed for millions of years, but due to heavy inputs of chemicals, fertilizers and indiscriminate felling of trees, the vital link has snapped causing an imbalance in nature.
+
+In a study involving 25 to 30 year old Robusta coffee (Coffea canephora) , the microbial examination of the inside of the root (Histosphere or Endorhizosphere) as well as surface and surrounding areas of the root (Rhizosphere) revealed the presence of a vast microbial community surrounding and on the surface and inside of root and root hairs. Bacteria were found to be localized in colonies and chains. Filamentous fungi and actinomycetes were also observed. The most interesting fact was that the microbial community at a short distance from the root is little affected by the coffee plant while the soil immediately adjacent to the root contains an abundance of bacteria. It also emerges that these microorganisms are responding to root exudates like aminoacids, organic acids, carbohydrates, growth promoters, and growth regulators. Further studies revealed that the microorganisms surrounding the root and those present inside the tissue of roots are beneficial in nature and they act as sentries/barriers for the entry of pathogens. This intense colonization of beneficial microbes may lead to the elimination or suppression of pathogens.
+
+Evidence is available that there is a correlation between the rhizosphere flora and resistance to soil borne pathogens due to the production of antibiotics by beneficial microorganisms. The qualitative as well as quantitative analysis of the microorganisms indicated that most of the microorganisms (80%) were beneficial nitrogen fixers and a small percentage were phosphate solubilizers. This symbiotic relationship shows that both the coffee plant and the microbes are benefited. The plant acts as a host in providing the necessary protection to the organisms against oxygen damage and inturn the microorganisms provides the plant the nutrients for growth as well as release of biochemicals to ward of pests and diseases.
+
+![indian_canopy2x](indian_canopy2x.jpg)
+
+As a matter of fact, in any Indian Coffee Plantation, whether the plants are Arabica or Robusta, there is every likelihood of a standing tree population of approximately 150 to 200 trees per hectare. These trees belong to different species and these trees are known to talk the signal exchange language by constant interaction, keeping the population dynamics of pest and disease incidence under check. For example in our 100 hectare plantation, coffee blocks thickly populated with erythrina, red & white cedar, jack, eugelina jamboolina, ficus gobbaraneralu, soobabul, the coffee plants appear very healthy, the leaf color evergreen, big in size, good and uniform fruit set and mature beans and negligible pest and disease incidence.
+
+Essentially the coffee plant shows extraordinarily powerful defense mechanisms against pest and disease incidence. On the contrary coffee blocks having predominantly silver oak, maesopsis, mangium, eucalyptus, acasia, Mahogany, rosewood, nandi, the plants lack vigor and are more prone to pest and disease incidence. The probable reason for this is that the above mentioned tree species have a large amount of phenolics in their leaf and the leaflitter at the base of the coffee plant accumulates toxic amounts of phenolics. It is difficult for the microbial degradation of these phenolics which is detrimental for plant growth.
+
+Yet another path breaking result we observed were three mechanisms that the coffee plant adapted when induced with moisture stress and prolonged drought.
+
+1.  Drought Escape Mechanism: In coffee blocks where the biomass had a thick mulch of leaves from heterogeneous tree species which could easily be degraded by microorganisms, the coffee plants, comfortably escaped drought.
+2.  Drought Tolerance Mechanism: Plots that had a population of thick overhead shade, especially nitrogen fixing trees, the coffee plants were protected from spells of drought.
+3.  Drought Avoidance Mechanism: Blocks which had a high proportion of humus and organic matter in the soil, leading to a extremely high population of beneficial microorganisms, such areas coffee plants completely avoided long periods of drought.
+
+Soils not contaminated with excessive use of fertilizers and chemicals not only had a very high population of beneficial microorganisms, but the soil system nurtured succulent weeds (weeds with shallow root system) which act as agents in loosening the soil for better root aeration and enhancing plant growth.
+
+![indian_canopy3x](indian_canopy3x.jpg)
+
+In all these studies the common denominator was the thread of life where in the various partners-Plants-Microbes-Trees were in constant touch with eachother through a invisible network, namely the signal exchange. All of these relationships help to keep the biotic community as well as the ecosystem in balance. All indicators point out that this net work largely remains undisturbed in the Indian context where in a large majority of the coffee planters own less than 10 hectares of land.
+
+We need to think logically towards the balanced exploitation of natural ecosystems, which refers to the coffee habitat in accordance with the requirements of the plant environment, internal and external, natural and artificial, short term and long term in achieving a sustainable balance. However, of late in an era confronted with high costs and returns below the cost of production, planters are felling trees for their livelihood causing irreparable damage to the fragile coffee ecosystem. The need of the hour is to enlighten the coffee planter globally by way of enhancing knowledge and skill of the long-term beneficial role and synergies involved in these tripartite relationships before the thread of life may forever be altered.

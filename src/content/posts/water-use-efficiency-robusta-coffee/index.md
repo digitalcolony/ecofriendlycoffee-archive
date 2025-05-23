@@ -1,0 +1,90 @@
+---
+id: "water-use-efficiency-robusta-coffee"
+title: "Water Use Efficiency for Robusta Coffee"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "water"
+category: "Water"
+publishedDate: "2017-09-01T12:00:43"
+updatedAt: "2017-07-31T07:39:02"
+wordpressId: 3830
+---
+
+Coffee, being an evergreen bush, requires a high regime of soil moisture during the dry months. In India, coffee usually encounters four to five months of dry spell in a year. The Robusta variety of coffee is more susceptible to drought and needs irrigation to sustain itself compared to the Arabica’s.
+
+The rainfall inside the coffee mountain is not evenly distributed throughout the year. Due to global warming, the rainfall is uncertain, erratic and altogether unpredictable. Some parts of the coffee forests may receive rainfall for the year in a few days, without another drop of rain for the year.
+
+Often the drought that follows the rains is so intense that the surface feeders in both Arabica and Robusta are deprived of residual moisture resulting in poor yields. In some coffee regions of Chikmagalur the terrain drops down from 4500 feet main sea level to 400 feet, registering a vertical drop.
+
+### Moisture
+
+Water plays a critical role in the biochemical and physiological activities of the coffee bush. All life inside the coffee mountain is linked to the cycle of water. Excessive moisture results in the imbalance of growth regulators and promoters and a particular hormone responsible for vegetative phase comes into play. This drastically reduces the number of flowers. Under such conditions the bush appears healthy, but the productivity suffers. Dry seasons are crucial to the biological cycle of the Coffee plant since during these periods the reproductive and fruit ripening phases occur.
+
+In order to better appreciate the importance of water and the functional role it plays we have enumerated some of its functions
+
+![](2017-JULY-30-ZP-SERIES-water-regime-ecofriendlycoffee-original56-1024x683.jpg)
+
+### Importance of soil moisture
+
+A close look at the coffee bush reveals that it requires adequate soil moisture to carry out its physiological and biochemical functions during dry spells. Just as the coffee bush cannot tolerate water logged conditions, so also the bush cannot tolerate a low moisture regime for an extended period of time. The coffee bush quickly reacts to moisture stress affecting its physical as well as physiological components.
+
+Mitchell, (1988) has carried out extensive work on the critical period for irrigating coffee. They are as follows:
+
+At the time of flowering.
+
+Period of berry expansion (7 to 17 weeks after flowering)
+
+The period of dry matter development when the beans fill and become solid.
+
+Depending on the agro climatic region, Coffee forests are known to receive from a modest 30 inches of rainfall per annum to a high of 300 inches. However, a well distributed annual rainfall is a prerequisite for growing economically sound Arabica and Robusta coffee’s.
+
+Summer months, especially the Mid February to May months are very crucial for the growth and development of the Coffee Bush. During these months the Plantations should have an ideal moisture status and at no point of time should the plants be stressed for water.
+
+![](2017-march-23-de-series-facebook-S317-2-1024x576.jpg)
+
+Summer months are ideal for irrigation. For Robusta, the ideal time is February 20th to March 15th. For Arabica irrigation is generally delayed up to April end. The soil moisture should be minimum. After the 15 day rest period, the plant should undergo a period of STRESS. Stress is clearly visible by the physical appearance of the plant. The leaves start drooping and from a distance it looks as if the whole bush is wilting. This clearly reveals that the bush is ready for receiving blossom showers. Three showers characterize the coffee landscape-Blossom, post blossom and backing showers. Each of these showers has unique properties and triggers a set of responses towards the ultimate success of the blossom.
+
+Apart from the irrigation timing, the coffee bush is also very very sensitive to the quantity of water irrigated. Our earlier understanding on the quantity of water required to induce blossom showers was such that a good blossom requires one and a half inches of artificial rain or one inch of natural rain. If the moisture status of the soil is in excess of what is required by the plant then the bud movement ceases and the photosynthates are diverted towards vegetative development, but such a phenomenon rarely occurs in nature.
+
+For some reason the amount of irrigation or amount of rainfall is inadequate, then the flowers wither away and the crop is lost for the coming year. Once the blossom showers are over, the flowering is complete, but for fruit set, backing showers are a must and one should give backing showers after twenty one days from the first shower. If this shower is delayed then the fruit setting drops significantly.
+
+### A new approach for optimizing soil moisture and improving water use efficiency.
+
+However, with continuous research and development (R&D) for many years and with modern equipment we have in place a new set of protocols for optimizing an efficient water regime for Robusta Coffee. We are not sure if this set of protocols is applicable to all plantations. One needs to modify it depending on their terrain and nature of soil.
+
+1.  Induce blossom showers at half an inch per acre, instead of one and a half inches.
+2.  After two days of flower opening, provide another half an inch of water.
+3.  Repeat this cycle every fortnight.
+
+### Significance of this protocol
+
+1.  Inducing blossom showers with half an inch of water will result in a tight blossom which has a better ability to withstand long periods of drought.
+2.  The irrigation cycle is completed in a far shorter period of time.
+3.  In summer months, this type of irrigation will result in an ideal soil moisture regime where the surface feeders will actively function because of optimum moisture and good aeration.
+4.  The irrigation ponds will not get drained at one go, instead the tanks will get sufficient time for the springs to maintain a certain level of water.
+
+![](2016-DEC-21-C-1024x646.jpg)
+
+After the first post blossom shower, the bush requires a continuous flow of moisture until the onset of monsoon. The nature of the bush is such that flower buds at various stages of development results in a multiple blossom giving rise to different sized berries on the same node. Though this is a undesirable trait, evolution has to sort it out.
+
+### New Clearings/Young Plantations
+
+Newly opened plantations need to be frequently irrigated during dry months. It is crucial that the amount of sprinkler irrigation should not create water logging conditions in the field because the young seedlings are highly susceptible to excess moisture. As such the duration of sprinkling should be regulated and the intervals between irrigation schedules maintained such that the young plants and introduced tree saplings are provided with the right amount of moisture to carry on their physiological activities.
+
+### Conclusion
+
+Despite the fact that there are more than 100 species of Coffee, worldwide, only two species, namely Coffea Arabica (Arabica) and Coffea canephora (Robusta) are economically cultivated. In India, Robusta occupies a major portion, and nearly 70 % of the area cultivated comes under Robusta and the balance 30 % under Arabica. On a global scale, the trend is reverse. Arabica accounts for almost 80 % of the world’s coffee production and the remaining 20 % by Robusta. The yield per acre in Robusta farms is twice compared to Arabica farms and this is possible only because of irrigation. Coffee farmers are aware that irrigation can give assured crops, but they need to be enlightened on effective irrigation management practices to maximize yields. For e.g. If excess of irrigation is provided during drought conditions, then the plants become highly susceptible to the very same life giving water.
+
+![](2016-DEC-21-A-1024x645.jpg)
+
+We also need to develop efficient tools to monitor water use efficiency in terms of how efficient are coffee plants in using water so that we can arrive at meaningful conclusions regarding on farm water losses and more water per tonne of coffee produced.
+
+### References
+
+Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume-1.
+
+Bopanna, P.T. 2011.The Romance of Indian Coffee. Prism Books ltd.
+
+[Companies must address water use](https://www.theguardian.com/sustainable-business/water-use-coffee-sustainable-profitable)

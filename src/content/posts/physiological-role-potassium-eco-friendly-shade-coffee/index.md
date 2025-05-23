@@ -1,0 +1,115 @@
+---
+id: "physiological-role-potassium-eco-friendly-shade-coffee"
+title: "Physiological Role of Potassium in Eco-friendly Shade Coffee"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "coffee-physiology"
+category: "Coffee Physiology"
+publishedDate: "2017-01-01T12:21:00"
+updatedAt: "2020-04-13T12:21:54"
+wordpressId: 3612
+---
+
+Coffee production requires a well-balanced and adequate supply of nutrition in the form of major elements such as Nitrogen, Phosphorus and Potash and other minor and trace elements. Among all the essential elements, potassium is the third most likely, to limit coffee growth and productivity. In Plantation crops like coffee, potassium is commonly considered as the quality nutrient for increased fruit set and dry weight and volume. Coffee is known to harvest large amounts of potassium throughout its life cycle because of the high amount of energy required in terms of building of productive woods and berries. Hence, it is classified as a macro-nutrient.
+
+[![](2017-Physiological-role-of-K-SLIDE-2-3-1024x662.jpg)](http://ecofriendlycoffee.org/?attachment_id=3628)
+
+Availability of potassium at the right time leads to higher yields and better quality. Application of potassium fertilizers stimulates early growth, increases leaf area and influences both Arabica and Robusta bean size. Since potassium plays a vital role in the synthesis of various organic compounds, it plays a significant role in the cupping quality.
+
+[![](2017-Physiological-role-of-K-SLIDE-10-1024x576.jpg)](http://ecofriendlycoffee.org/?attachment_id=3622)
+
+Understanding, the nature of potassium is very important, which in turn helps the coffee farmer in making the right choice in the application of fertilizers. Many soil scientists have clearly elucidated the role of potassium and are of the view that potassium is present in the soil solution as a positively charged cat ion, K+. Vegetative growth, stem size, productive woods, flower setting. Fruit setting, fruit development, ripening of berries and other biological processes are catalyzed by enzymes which in turn are primarily influenced by the presence of potassium. Potassium enhances the activity of various enzymes and keeps them active over a longer period of time, thus extending the ripening period of fruits and improving fruit quality.
+
+**Advantages**
+
+Like phosphorus, potassium does not form any gases that could be lost to the atmosphere. Its behaviour in the soil is influenced primarily by soil cat ion exchange properties and mineral weathering and not mediated by microbial processes. The advantage of potassium is that it does not contaminate the soil or water systems by way of leaching or residual toxicity.
+
+[![](2017-Physiological-role-of-K-SLIDE-3..-2-1024x768.jpg)](http://ecofriendlycoffee.org/?attachment_id=3629)
+
+**Role of Potassium**
+
+It is very important to understand that potassium promotes photosynthesis and increases leaf chlorophyll content.
+
+K regulates the opening and closing of stomata and therefore regulates carbon dioxide uptake.
+
+It activates those enzymes which are involved in the energy transfer, in the build-up of adenosine tri phosphate (ATP) which stores the energy needed for carbon dioxide assimilation and the synthesis of sugar, starch, proteins.
+
+ATP is the major carrier of energy in plant metabolism.
+
+Potassium plays a pivotal role in osmo regulation. Recent findings suggest that potassium improves the tolerance of the plant to various stress situations like drought, low temperatures or salinity.
+
+Potassium favors the production of proteins.
+
+Potassium speeds up the flow of assimilates in the plant system.
+
+Potassium intensifies the storage of assimilates.
+
+[![](2017-Physiological-role-of-K-SLIDE-4-2-1-1024x768.jpg)](http://ecofriendlycoffee.org/?attachment_id=3634)
+
+Potassium improves the effect of nitrogen fertilizers. In simple terms high rates of nitrogen can be utilized by the plant and transformed into high yields only in the presence of high potassium levels.
+
+Since coffee forests are associated with a large population of heterogeneous trees, herbs, shrubs, many of them nitrogen fixing, potassium is known to play a positive role in enhancing the fixation of atmospheric nitrogen fixation through a process called biological nitrogen fixation (BNF).
+
+Adequate application of potassium helps in efficient utilization of soil moisture in comparison to plots deficient in potassium.
+
+A balanced availability of potassium helps in improving the beverage quality.
+
+Coffee blocks with good amounts of potassium availability improves the coffee foliage and helps in maintaining the regular size of the bean which in turn helps in the post-harvest operations.
+
+Potassium plays an important role in building up resistance against fungal diseases and other insects.
+
+Potassium improves the plants tolerance to the impact of climate change.
+
+[![](2017-Physiological-role-of-K-SLIDE-11-2-1024x812.jpg)](http://ecofriendlycoffee.org/?attachment_id=3632)
+
+**Role of Potassium in Water Use Efficiency**
+
+Review of literature clearly shows that potassium improves water use efficiency by increasing the osmotic pressure of the plant cells. This in turn plays a key role in the opening and closing of the stomata, which regulates the transpiration of water.
+
+In plants which are water stressed, application of adequate amounts of potassium, help in the closing of stomata, thus preventing excessive water loss.
+
+Plants having an optimum water regime, in such cases the stomata open wide and carbon dioxide assimilation is high.
+
+**Deficiency of Potassium**
+
+[![](2017-Physiological-role-of-K-SLIDE-9-2-1024x655.jpg)](http://ecofriendlycoffee.org/?attachment_id=3624)
+
+Potassium affects the plant shape, size, and color of fruit, leaves, and other biological measurements attributed to healthy produce. Fruits which are half filled and empty and those smaller in size is to the deficiency of potassium. Beginning of necrosis on the leaf tip, with a yellow halo limiting it, is a typical symptom of potassium deficiency in plants. Other symptoms associated with deficiency include brown scorching and curling of leaf tips as well as chlorosis (yellowing) between leaf veins. Purple spots may also appear on the leaf undersides. Plant growth, root development, and seed and fruit development are usually reduced in potassium-deficient plants. Often, potassium deficiency symptoms first appear on older (lower) leaves because potassium is a mobile nutrient, meaning that a plant can allocate potassium to younger leaves when it is K deficient.
+
+[![](2017-Physiological-role-of-K-SLIDE-7-2-768x1024.jpg)](http://ecofriendlycoffee.org/?attachment_id=3625)
+
+**Potassium Fertilizers**
+
+The most widely used potassium fertilizer is potassium chloride (muriate of potash). Other inorganic potassium fertilizers include potassium nitrate, potassium sulphate, and monopotassium phosphate.
+
+**Conclusion**
+
+Coffee production continues to be constrained by a number of factors that can reduce crop yield and influence both the quantitative as well as qualitative aspect of coffee. This is the second article that we have written on potassium to highlight the role of potassium as an essential macro-nutrient that affects most of the biochemical and physiological processes that influence plant growth and metabolism.
+
+[![](2017-Physiological-role-of-K-SLIDE-5-2-1024x683.jpg)](http://ecofriendlycoffee.org/?attachment_id=3626)
+
+Although potassium is not assimilated into organic matter, potassium deficiency has a strong impact on the entire coffee physiology, especially stress. Although plant responses to potassium deficiencies are well documented at the physiological and transcriptional levels, the regulatory mechanisms underlying these changes are still obscure.
+
+We hope that the Coffee Board Scientists will undertake further research to understand and evaluate the potential for improving plant stress resistance by modifying potassium fertilizer applications in the package of practices for coffee cultivation.
+
+**References**
+
+Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume-1.
+
+Bopanna, P.T. 2011.The Romance of Indian Coffee. Prism Books ltd.
+
+Dr. G. Kemmler and H.Hobot, Ing.agr.,Buntehof Agricultural Research Station, Hannover, Fed. Rep. of Germany. Potassium in Plant Production.
+
+Dr. G. Kemmler and H.Hobot, Ing.agr.,Buntehof Agricultural Research Station, Hannover, Fed. Rep. of Germany. Potassium dynamics in the soil.
+
+CCRI (2003) Coffee Guide, Central Coffee Research Institute, Chikmagalur
+
+[Potassium deficiency (plants)](https://en.wikipedia.org/wiki/Potassium_deficiency_\(plants\))
+
+[Potassium for crop production](https://web.archive.org/web/20180618235218/http://www.extension.umn.edu:80/agriculture/nutrient-management/potassium/potassium-for-crop-production/)
+
+[Potassium Deficiency Disorder in Coffee](http://farmextensionmanager.com/coffee-deficiency/)
+
+[Nutrient Management](http://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/newsroom/features/?cid=nrcs143_023538)

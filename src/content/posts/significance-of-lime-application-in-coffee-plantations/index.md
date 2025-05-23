@@ -1,0 +1,107 @@
+---
+id: "significance-of-lime-application-in-coffee-plantations"
+title: "Significance of Lime Application in Coffee Plantations"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "coffee-physiology"
+category: "Coffee Physiology"
+publishedDate: "2004-04-01T07:00:00"
+updatedAt: "2015-10-28T10:54:24"
+wordpressId: 71
+---
+
+Indian coffee plantation belts are all located in heavy rainfall regions and receive in excess of hundred inches of rainfall per annum. More importantly, coffee soils are well drained soils because of the inherent nature of coffee plants which cannot tolerate waterlogged conditions. Hence, all coffee Plantations in India, may they be Arabica or Robusta plantations are grown on slopes of mountains ranging from an altitude of 550 meters to 1600 meters main sea level.
+
+Due to the steep slopes and often inhospitable terrain, the coffee bush enjoys the hospitality of well drained soils but on the other hand the slopes results in the runoff of soil, nutrients, organic matter, which finally results in the formation of acidic or alkaline soils.
+
+This in turn adversely affects the physical and chemical properties of the soil. The traditional coffee belts experience up to 150 to 200 inches of rain and by all standards this is indeed a very heavy rainfall and that too in a short span of four months. The rainfall factor results in leaching of nutrients below the level of root zone and is an important contributing factor in the formation of soil acidity. Further, these leachates namely Aluminum and Magnesium, finally reaches groundwater as phosphates, sulphates and nitrates and accumulate as carcinogens (cancer producing compounds) which are detrimental for human beings. It also affects the quality of irrigation water.
+
+Hydrogen ion concentration acts like a catalyst in maintaining plant growth by the mechanism of optimum plant nutrients uptake. Both plant and microbial enzymes are greatly influenced by pH. Soil drainage, texture, porosity, adsorption, absorption are all affected by pH. Maintaining a proper pH level improves the physical, chemical and biological properties of the soil.
+
+### Understanding Hydrogen Ion Concentration {pH)
+
+pH in simple terms refers to the hydrogen ion concentration of soil. The pH values of the soil reflect the health status of the soil as to whether it is fit for cultivation or not. Scientists over the years have clearly formulated a table and have classified crops based on their tolerance to acidity, alkalinity and salinity. Acidity results in the accumulation of excess H+ ions and alkalinity in the excess of OH (MINUS) ions. When we say that the soils have a neutral pH, it represents an equal activity of hydrogen and OH ions.
+
+For the convenience of the farming community and also to understand the complex behavior of all living systems scientists have put forth a universally accepted pH scale ranging from ZERO to FOURTEEN. The midpoint of the pH scale, namely 7.0 represents a neutral reaction. pH zero pertains to the highest limit of active acidity and pH 14 , the highest degree of basicity. Hence when one speaks of a pH value of less than 7.0 , it represents acidity and a pH value of more than 7.0 represents alkalinity. A further classification enables the coffee farmer to categories his soils such that proper amendments could be carried out.
+
+SOILS HAVING pH range of:
+
+6.5 TO 7.5 are broadly classified as NEUTRAL SOILS.  
+6.5 & 6.0 as SLIGHTLY ACIDIC.  
+6.0 & 5.0 as MODERATELY ACIDIC.  
+5.0 & 4.0 as STRONGLY ACIDIC.  
+< 4.0 as EXTREMELY ACIDIC.  
+7.5 & 8.0 as SLIGHTLY ALKALINE.  
+8.0 & 9.0 as MODERATELY ALKALINE.  
+9.0 & 10.0 as STRONGLY ALKALINE.  
+\> 10.0 as EXTREMELY ALKALINE
+
+![DSC05027_300](DSC05027_300.jpg) ![DSC05033_300](DSC05033_300.jpg)
+
+Coffee Plants, especially the Robustas are quite remarkable in the sense that they adapt to quite a high degree of environmental variations. But when it comes to pH all coffee varieties show higher uptake of nutrients , robust growth, development and productivity only in a narrow range of pH , generally referred to as the NEUTRAL ZONE. The coffee farmers are a trifle lucky, because the genetic make up of the coffee bush is such that it adapts reasonably well to a gradual dip in soil pH values.
+
+To get best results proper care should be exercised to maintain the optimum pH. We also cannot look at the coffee bush in isolation as regards to its pH requirement. Maintaining pH values is of absolute importance to the surrounding biotic community comprising of plants, shrubs, trees, and microorganisms. Hence pH has a direct as well as indirect influence on the productivity status of the farm.
+
+![DOLOMITE_BROADCASTING300](DOLOMITE_BROADCASTING300.jpg)
+
+Rainfall and temperature play an active role in the build up of soil pH. Rain shadow regions have the benefit of neutral pH. However the major cause for worry in Plantations is the repeated use of ACIDIC chemical fertilizers year in and year out which drastically alters the stable pH. The above mentioned factors like constant addition of chemicals to the soil, coupled with high temperature, acid rain, industrial effluents getting into irrigation water and excessive rainfall or severe drought results in severe acidity build up in the soil system and affects the nutrient uptake of the coffee plantation.
+
+For instance; if there is a sudden downpour inside the coffee farm, just after the application of fertilizers, then a part of the fertilizer starts leaching downward, beyond the root zone of the coffee plant and ultimately reaches groundwater. The loss is not so much for the coffee bush, but the resultant accumulation of no degradable toxic metabolites within the soil system that can have a ripple effect on the flora and fauna of the region.
+
+### Plantation Health
+
+The health of the coffee plantation directly depends on the availability of nutrients. Inturn, the uptake of plant nutrients depends directly on the prevailing pH zones within the Plantation and are bound to vary from one block to the other. Generally. Micronutrients like iron, copper, zinc and manganese are available more to the plant in acid soils rather than in alkaline soils. Uptake of major nutrients like phosphorus is reduced in acid soils. In calcareous and alkaline soils the availability of potassium is markedly decreased.
+
+One has to look far beyond and look at the plantation as an mosaic of biodiversity , where in all biotic communities freely interact with each other, always complimenting and only in case of a man made intervention supplementing one another. Stress has to be laid on the biological activity of each and every living system both from the micro and macro habitat. Each system is an entity by itself capable of switching on the biological clocks and performing numerous functions.
+
+All these functions work in synchrony, like the philharmonic orchestra or like a clock where in the hour hand, the minute and second hand have to work in a beautiful combination to give accurate time. For some reason, if the balance is altered, then it will have serious consequences for the other partners in the intricately webbed world of biological diversity which is the heart of the fragile coffee plantation.
+
+Nature in its own way tries to balance the change in soil ph by the production of mineral and organic acids. Since most of these acids liberated are weak acids the damage to soil and its surroundings are negligible. To mention a few mineral acids, like phosphoric acid, carbonic and organic acids such as humid, citric, lactic, acetic, bring about neutrality in soil pH.
+
+### Consequences of Low pH
+
+Biological nitrogen fixation exceeds industrial fixation of nitrogen by over four times. The biological pool of nitrogen takes place from the energy flowing through the biotic community without depleting natural resources or by polluting the environment. Just to describe the serious consequences by way of example; Most of the BIOLOGICAL NITROGEN FIXATION carried out in nature is by free-living, associative and symbiotic microorganisms. These microorganisms express their maximum potential in a pH range from neutral to slightly alkaline conditions.
+
+For some reason if there is a shift in pH to either highly acidic or alkaline conditions, then the entire system either comes to a standstill or fix poor amounts of atmospheric nitrogen or simply get destroyed. Just like any biological system, human beings too are governed by pH. Maintaining the correct pH is of absolute importance for the growth and development of all cell organelles. Due to undesirable variation in pH levels lyses of the cell occurs. Plasmolysis refers to bursting of cells and plasmoptysis refers to collapse of cells. Every food is also characterized by a definite pH.
+
+![DOLOMITE_BAGS300](DOLOMITE_BAGS300.jpg)
+
+Apart from, rainfall , drought or temperature fluctuations the most important contributing factor towards shift in soil pH values within the plantation is due to the fact that coffee being a perennial crop ,constant use of fertilizers year in and year out leaves behind acidic soils which are not desired by the coffee plants. GROWING THE SAME CROP on the same piece of land over a long period of years also results in the depletion of a particular nutrient or depletion of a number of major and minor nutrient elements.
+
+Most planters are concerned of major nutrient uptake and recycling, but fail to give importance to the micronutrient depletion. This disturbs the surrounding ecological niche and if the pH of the soil is not corrected over a long period of time, then the rapid build up of pest population takes place. In simple language, since the soil is biodynamic, variation in pH may either result in no availability of nutrients in the available form to the coffee bush, non availability of nutrients due to adsorption to clay complex of soil, or excessive availability of a particular nutrient , resulting in unbalanced growth of the coffee bush or starvation of a particular nutrient.
+
+### How to Overcome Acidity
+
+The practical way of overcoming acidity in soils is by using lime calcium oxide, calcium carbonate, calcium hydroxide,/ dolomite , calcium magnesium carbonate as a soil amendment. By adding sufficient quantities of the above material, depending on soil analysis, it is possible to restore the normal pH levels of the soil. The above mentioned minerals react with soil carbon dioxide and the formation of soluble bicarbonates takes place.
+
+They in turn react with the colloidal complex of the soil and rapidly the hydrogen ions in the soil are replaced by calcium and magnesium till a equilibrium results in favor of setting up a calcium complex. Ultimately the acidic pH starts climbing back to the neutral range. Liming also accelerates the decomposition of organic matter and inturn production of mild organic acids.
+
+The calcium humus complex produced inside the coffee farm is believed to be a very effective cementing agent in binding loosely bound soil particles. Hence best results are obtained if the soil is periodically limed in small quantities. The best time to apply lime is during December to February, when the moisture status of the soil is adequate. Broadcasting of lime followed by scuffle digging gives the best results.
+
+After the application of lime, it is advisable to wait for 12 inches of rain before applying chemical fertilizers. Inspite of the application of external inputs to rectify the soil pH, there is nothing like maintaining the soil ph by the natural way by improving the humus content of the soil and the formation of organic acids and mineral acids by the activity of beneficial microflora.
+
+![DOLOMITE_APPLICATION300](DOLOMITE_APPLICATION300.jpg)
+
+### Precautions That Need to be Taken By Coffee Farmers
+
+Liming is a must in acidic soils. There are no two ways about it. But lime needs to be added with caution. Over liming the farm will have adverse effects. Firstly, in an over limed soil, the pH races past the 7.0 mark and the availability of nutrient uptake is hampered. This immediately results in nutritional disorders. Plant population and Soil microflora too is affected and organic matter decomposition ceases.
+
+Nature has gifted mankind with a set of efficient biological indicators {NATIVE PLANTS} which indicate the ph levels of the soil. If only the coffee farmer were to keep his ears and eyes close to the rhythm of nature, one can easily decipher the pH levels by simply observing the type of plant growth.
+
+![FERNS300](FERNS300.jpg)
+
+### Conclusion
+
+It is worthwhile to remember that all Indian coffee plantations are shade grown and are present inside forests. In fact they compliment one of the best last remains of the Western Gaht preserve of biodiversity. This mutual relationship has survived the test of times and has been beneficial to both the partners.
+
+However, the alarm bells are ringing loud and clear. The coffee farmer due to the pressures of globalization and all time low in global coffee prices has to survive , either by increasing the unit productivity of the farm to make up for the increased cost of cultivation or the shortcut method is make a living by felling trees .
+
+In the Indian context, the coffee farmer finds no other resources other than going in for large scale felling of timber within the plantation instead of going in for SELECTIVE felling and massive replanting. Already, the survey indicates that the majority of coffee farmers are fighting a loosing battle by employing such techniques. The gains are only temporary and the destruction lasts a lifetime. The FOREST GROUND COVER with diverse tree foliage and continuous shedding of leaves is the best bet for building up a BUFFER soil system with an optimum pH for coffee.
+
+The success of any agricultural ecosystem lies in the accumulation of biomass in the soil. In coffee plantations the bulk of the biomass comes from forest tree leaf litter and once trees are felled then the soil system is exposed to direct sunlight which kills most of the beneficial microflora. The events that follow result in the drastic shift of hydrogen ion concentration. In the ultimate analysis when Nature strikes back, the consequences are for all to see. Before it is too late we need to be sensitized to nature and gain rare insights into the way plants trees, animals, birds etc contribute towards a stable environment.
+
+We need to focus our mind to see what lies hidden from the untrained eye. This will enable us to read nature more clearly and in a expanding way and ultimately decipher Natures story. Alternatives exist, but for the convenience of the rich and powerful are excluded. Business interests take precedence. The sacred land of our ancestors is becoming too dangerous to live. This decay has to stop at any cost. It is time we started getting tuned to the gentle ways of nature.
+
+*The authors wish to express their grateful thanks to Mr. H.R. Basanna , Coffee Planter , Anemahal Estate , Sakleshpur Taluk, Hassan District for gifting the pH meter.*

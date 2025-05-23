@@ -1,0 +1,47 @@
+---
+import SectionLayout from "../../layouts/SectionLayout.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+	const allPosts = await getCollection("posts");
+
+	// Get unique category slugs from all posts
+	const uniqueCategories = [
+		...new Set(
+			allPosts.flatMap((post) => {
+				if (post.data.categorySlug) return [post.data.categorySlug];
+				return [];
+			})
+		),
+	];
+
+	return uniqueCategories.map((categorySlug) => {
+		// Find the display name for this category slug
+		const categoryDisplayName =
+			allPosts.find((post) => post.data.categorySlug === categorySlug)?.data.category ||
+			categorySlug;
+
+		return {
+			params: { slug: categorySlug },
+			props: {
+				categorySlug,
+				categoryDisplayName,
+			},
+		};
+	});
+}
+
+const { categorySlug, categoryDisplayName } = Astro.props as {
+	categorySlug: string;
+	categoryDisplayName: string;
+};
+
+const allPosts = await getCollection("posts");
+---
+
+<SectionLayout
+	title={categoryDisplayName}
+	description={``}
+	posts={allPosts}
+	categorySlug={categorySlug}
+/>

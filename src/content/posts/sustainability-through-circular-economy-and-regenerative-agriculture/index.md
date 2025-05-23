@@ -1,0 +1,104 @@
+---
+id: "sustainability-through-circular-economy-and-regenerative-agriculture"
+title: "Sustainability through Circular Economy and Regenerative Agriculture"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "general"
+category: "General"
+publishedDate: "2023-11-05T07:12:48"
+updatedAt: "2023-11-05T07:12:48"
+wordpressId: 48408
+---
+
+We recently attended the 5th World Coffee Conference and Expo, 2023 held at Bangalore, India (25 – 28 September 2023 | Bengaluru, India). We had a chance to interact with scientists, policy makers and coffee Planters from different coffee growing Countries. Thanks to the efforts of the Coffee Board of India, we were fortunate that this mega event was held at Bangalore, hardly 200 kms from the coffee hinterland.  
+The CEOs and global Leader’s forum at the 5th World Coffee Conference gave first-hand information and stressed adapting and embracing new policies at the core of their businesses to achieve a sustainable circular economy through regenerative agriculture and recycling models for the coffee production sector globally. Both approaches involve a strong planters community working hand in hand with nature. Taking part in the plenary session on the topic of “Circular Economy and Regenerative Agriculture Perspective for Global Coffee Sector, lead speakers like Professor Gunter Pauli, Father of Blue Economy concepts, who is also an entrepreneur and author, stressed on abiding ‘ethics for the global industry to build policies at the core of their businesses that enables them to achieve ‘Zero’ wreckage, Zero emission and Zero accidents globally. He further stressed the need for building Green Factories, that will help build a circular and sustainable regenerative economy, that not only enables entrepreneurs to gain profits but at the same time, helps sustain the entire supply chain ecosystem, benefiting all stakeholders right from the farmers, industries and end consumers. Apart from Professor Gunter, another lead speaker Michelle Burns, Executive Vice President- Global Coffee, Social Impact & Sustainability, Starbucks, spoke on the need for a holistic approach and stressed the need for working with farmers to help them train on the soil, fertilizers and water management by adapting innovative techniques and new technology that will enable them to achieve good coffee seed harvest even in tough climatic conditions. “For initiating and scaling up the regenerative agriculture in the coffee sector we give more stress on holistic approach right from farmers awareness, enhancing production, protecting the environment, research and development, improving quality and looking forward for increasing partnerships will all like-minded people that will enable to sustainable growth,” observed the Starbucks Global VP. Another speaker Harald Friedl, CEO, Green Leadership (Netherlands) highlighted that amongst all the industries only 7 per cent are adopting the circular economy model, while more than 90 per cent are wasting their valuable resources. Suggesting how the Coffee sector can adopt a circular global economy said that entrepreneurs and policymakers must learn lessons from other industries like food and cement. Stressing further to attain a circular regenerative sustainable economic model Dr Friedl felt there is a need for increasing investment in new technologies and promoting innovative ideas. Apart from countries from the African Continent, India is also stepping in to implement the circular economy. For the Coffee sector, it is high time that entrepreneurs come up with Paradigm shift initiatives. The coffee sector players need to embrace new operating systems by bringing fundamental changes and unlocking new values in their companies and truly design products that the word ‘waste’ should not be found in the future.
+
+![](IMG_20230926_130651-1024x768.jpg)
+
+### What is Circular Economy
+
+Scientists have different definitions regarding Circular Economy. However, the underlying principle remains the same. To Reduce, Reuse and Recycle. A circular economy is a system where materials never become waste and nature is regenerated. It is a model of production and consumption that involves sharing, leasing, reusing, repairing, refurbishing and recycling existing materials and products for as long as possible. A circular economy aims to reduce the environmental impact of human activities and create a more sustainable and resilient economy.  
+Circular economy is a new production and consumption model that ensures sustainable growth over time. With the circular economy, we can drive the optimization of resources, reduce the consumption of raw materials, and recover waste by recycling or giving it a second life as a new product.  
+The aim of the circular economy is therefore to make the most of the material resources available to us by applying three basic principles: reduce, reuse and recycle. In this way the life cycle of products is extended, waste is used and a more efficient and sustainable production model is established over time. The idea arises from imitating nature, where everything has value and everything is used, where waste becomes a new resource. In this way, the balance between progress and sustainability is maintained.  
+Some other scientists are of the view point that in a circular economy, things are made and consumed in a way that minimizes our use of the world’s resources, cuts waste and reduces carbon emissions. Products are kept in use for as long as possible, through repairing, recycling and redesign – so they can be used again and again.
+
+### What are the benefits of a circular economy?
+
+Reusing and recycling products would slow down the use of natural resources, reduce landscape and habitat disruption and help to limit biodiversity loss. Another benefit from the circular economy is a reduction in total annual greenhouse gas emissions.
+
+### What is regenerative agriculture?
+
+According to the World Economic Forum, Regenerative agriculture is a way of farming that focuses on soil health. When soil is healthy, it produces more food and nutrition, stores more carbon and increases biodiversity – the variety of species. A teaspoon of soil contains six billion microbes says Australia’s New South Wales Government. Healthy soil supports other water, land and air environments and ecosystems through natural processes.
+
+### Why is regenerative agriculture needed?
+
+Traditional agriculture (Less or no mechanization) is giving way to Corporatizing Agriculture which involves heavy machinery, Drones, and modern equipment that dispenses high volumes of fertilizers and pesticides. The direct impact of this is the Soil. Fertile soils are losing their fertility, through loss of beneficial microbes and degradation.  
+Our Forefathers practiced Extensive Cultivation where in the pressure on the farm resources was minimum and the system played along with Nature. However, today every Plantation is intensively cultivated, the end result being, pollution of water bodies through excess nitrate application, trees being felled for a livelihood, contributing to carbon dioxide release into the atmosphere, there by accelerating global warming and impact of climate change. Agriculture accounts for over a third of greenhouse gas emissions globally, according to the United Nations (UN).
+
+### Climate Smart and Regenerative Agriculture
+
+Measures designed to put farmers at the centre can improve crop yields and turn farmland and pastures into carbon sinks, reverse forest loss, optimize the use of nitrogen-based fertilizers and rethink global and local supply chains to be more sustainable, reducing waste.
+
+### What are Regenerative Farming Practices?
+
+Regenerative agriculture is a farming method that focuses on regenerating and revitalizing soil health through practices such as reduced tillage, cover cropping, and crop rotation. It refers to combining sustainable farming techniques to restore and boost the farmland’s ecosystem. It is a farming philosophy meant to heal the earth and regenerate natural resources, primarily soil, instead of exhausting them.
+
+### The six core principles to regenerative agriculture are:
+
+• Context  
+• Minimise Soil Disturbance  
+• Diversity  
+• Protect Soil Surface  
+• Maintain Living Roots  
+• Livestock Integration
+
+### Challenges
+
+The challenge of transitioning from a linear to a CE model is still ongoing.  
+Protocols need to be set up at every stakeholder level.  
+New cutting-edge technology which should be freely passed on from Developed Countries to developing Countries without Royalty and Intellectual property rights.  
+Development of new knowledge starting from the bottom of the pyramid.  
+Innovative Technologies.  
+limited acceptance among coffee planters  
+Sustainability  
+Ethical Practices
+
+The foundations of the coffee Industry balance on a three-legged stool. The principles of sustainability are the foundations of what this concept represents. Therefore, sustainability is made up of three pillars: the economy, society, and the environment. These principles are also informally used as profit, people and planet. All stake holders in the coffee supply chain need to be accountable and transparent for their actions. The coffee supply chain is complex as beans pass through the hands of growers, traders, processors, exporters, roasters, retailers until finally reaching the consumer. Most farmers have little idea of where their coffee goes or what price it ends up selling for. Our experience in the Coffee Plantation tells us that, despite the fact that several companies are pioneering the integration of circular economy and sustainable agriculture practices, they do not pass on the benefits to the coffee Planters. The coffee Planters are the most neglected in the value chain and despite ecofriendly sustainable practices, they do not receive the price they deserve. May it be Rainforest certification, Carbon credits, integrated Farming practices, water use efficiency, big corporates transfer a pittance to the coffee Planters and that too through intermediaries.
+
+### Conclusion
+
+Since coffee is grown in the so-called coffee belt, it is the third world countries or the developing countries that cultivate coffee at great risks. At global level, 25 million people directly make a living from the crop, but it is estimated that around 100 million people are involved in this agricultural sector. Plus, 70% of the farms are held by smallholders who own less than 10 hectares. Coffee Planters are often at the mercy of weather or fund operators who pump in huge amounts of money and distort the market, directly affecting the coffee planter. Now is the time for the International coffee Organization to build a separate fund exclusively to help coffee Planters implement the Sustainability through Circular Economy and Regenerative Agriculture not only in concept but in practice at the farm level.
+
+### References
+
+Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume-1.
+
+Bopanna, P.T. 2011. The Romance of Indian Coffee. Prism Books ltd.
+
+[Coffee Sustainability](https://tracextech.com/coffee-sustainability/#:~:text=Circular%20economy%20reduces%20waste%20and,as%20soil%20health%20and%20water).
+
+[Circularity in Agriculture](https://tracextech.com/circularity-in-agriculture/#:~:text=Circular%20agriculture%20practices%20that%20improve,diseases%2C%20and%20support%20plant%20growth).
+
+[Regenerative Agriculture Practices](https://tracextech.com/regenerative-agriculture-practices-for-climate-action/)
+
+[Regenerative Agriculture- Principles & Practices](https://www.cropin.com/blogs/regenerative-agriculture#:~:text=Regenerative%20agriculture%20is%20a%20farming,and%20boost%20the%20farmland's%20ecosystem).
+
+[What is regenerative agriculture](https://climatechampions.unfccc.int/what-is-regenerative-agriculture-and-how-can-it-help-us-get-to-net-zero-food-systems-3-industry-leaders-explain/#:~:text=Climate%2Dsmart%20and%20regenerative%20agriculture,be%20more%20sustainable%2C%20reducing%20waste).
+
+[What is regenerative](https://www.weforum.org/agenda/2022/10/what-is-regenerative-agriculture/#:~:text=Regenerative%20farming%20practices%20can%20improve,greenhouse%20gas%20emissions%20from%20agriculture).
+
+[Circular economy](https://www.europarl.europa.eu/news/en/headlines/economy/20151201STO05603/circular-economy-definition-importance-and-benefits)
+
+[What is circular economy?](https://www.repsol.com/en/sustainability/sustainability-pillars/environment/circular-economy/index.cshtml#:~:text=Circular%20economy%20is%20a%20new,life%20as%20a%20new%20product).
+
+[The Circular Economy Imperative](https://www.weforum.org/pages/circular-economy-videos#:~:text=Nothing%20that%20is%20made%20in,indicate%20a%20trillion%2Ddollar%20opportunity).
+
+[Circular economy and regenerative agriculture important to sustain global coffee sector](https://nuffoodsspectrum.asia/2023/09/26/circular-economy-and-regenerative-agriculture-important-to-sustain-global-coffee-sector.html)
+
+> [FROM THE SEEDS TO YOUR CUP:Global coffee production, in 5 key facts & figures](https://livelihoods.eu/from-the-seeds-to-your-cupglobal-coffee-production-in-5-key-facts-figures-2/)
+
+[Sustainable circular agriculture](https://plantae.garden/en/sustainable-circular-agriculture/)
+
+[Towards the circular economy:](https://www.weforum.org/reports/towards-circular-economy-accelerating-scale-across-global-supply-chains/)

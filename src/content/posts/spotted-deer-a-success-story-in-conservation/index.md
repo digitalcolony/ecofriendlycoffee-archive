@@ -1,0 +1,163 @@
+---
+id: "spotted-deer-a-success-story-in-conservation"
+title: "Spotted Deer. A Success Story In Conservation"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "biodiversity"
+category: "Biodiversity"
+publishedDate: "2021-11-01T01:24:33"
+updatedAt: "2021-10-29T09:14:34"
+wordpressId: 48141
+---
+
+Coffee forests are harbingers for wildlife conservation. Despite the fact that there exists a significant human population pressure in general when it comes to allocating land for wildlife habitats and human developmental activities, coffee Planters have done well in terms of wildlife conservation. Coffee Planters have realized that life cannot be sustained anywhere in the world without maintaining a fine ecological balance. Their strong focus that Development must be environmentally sound and sustainable, without any constraints to quality of life has enabled the Planting community in wildlife conservation for the present and future generations. We would also like to highlight a very significant fact, often overlooked by Policymakers and common citizens, who often criticize the Planters for the Wrong Reasons. When a large section of the population shows less concern for wildlife in view of the large number of people living below the poverty line in India, Coffee Planters provide biological diversity inside coffee forests, even when they face economic loss due to wildlife trespassing and destroying their crops. It’s unjust that the costs of conserving biological diversity are paid disproportionately to the people who live closest to the forests. It is indeed an irony that coffee planters who live amidst the greatest biological wealth tend to be the poorest of the poor.
+
+![](1-7-1024x683.jpg)
+
+### **Scientific Classification** *Cervus axis*
+
+### **Common Name** Spotted deer
+
+KINGDOM [Animalia](https://animalia.bio/animalia)
+
+PHYLUM [Chordata](https://animalia.bio/chordata)
+
+SUBPHYLUM [Vertebrata](https://animalia.bio/vertebrata)
+
+CLASS [Mammalia](https://animalia.bio/mammalia)
+
+ORDER [Artiodactyla](https://animalia.bio/artiodactyla) more recently Cetartiodactyla
+
+SUBORDER [Ruminantia](https://animalia.bio/ruminantia)
+
+FAMILY [Cervidae](https://animalia.bio/cervidae)
+
+SUBFAMILY [Cervinae](https://animalia.bio/cervinae)
+
+GENUS Axis
+
+SPECIES Axis axis
+
+Male Name. Doe/Hind
+
+Female Name. Buck/Stag
+
+Baby Name. Fawn
+
+### **Physical Description**
+
+Chital also called Spotted Deer, or Axis Deer, or Asiatic deer are resident inside eco-friendly shade coffee either in pairs or in a herd numbering 25 to 40. They live in grasslands and forests in India and Sri Lanka in herds of up to 100 or more. It stands 90–95 cm (35–37 inches) at the shoulder. While males weigh 30–75 kg, the lighter females weigh 25–45 kg. Shoulder height is 75-100 cm, Tail length: 20-30 cm.
+
+The body of Axis deer is bright golden brown in color while the head is a bit lighter shade of the same color. Around their eyes, they have stripes of fur that are paler in color.  Its spotted coat is reddish-brown above and whites below. The chital has a prominent white patch on its throat. The upperparts are golden to rufous, completely covered in white spots. The abdomen, rump, throat, insides of legs, ears, and tail are all white. A conspicuous black stripe runs along the spine (backbone). The male chital has branching, usually three-tined antlers up to 100 cm long.
+
+The group name of spotted deer is herd/ mob/ gang.
+
+### **Ecology and behavior**
+
+Spotted deer are highly sociable animals. They are active during the mornings and late afternoon. They rest under the coffee bushes during the hot afternoons and resume grazing on tank bunds in the evenings. Adult females with their fawns from the present and previous year usually form matriarchal herds. On the other hand, males live in a hierarchical system with larger and older males dominating smaller and younger ones. While the herd is grazing one of the elders of the family takes turns in watching for predators. The minute they sense a predator they keep their heads erect and stamp the ground with a loud thud.
+
+### **Distribution.** 
+
+Most of the Axis deer population is concentrated in the forests of India. The major area of their distribution is Sri Lanka and India. They tend to live in shady areas with heavy and dense forests. The Axis deer also prefer open grasslands and semi-evergreen forests. Over the years, the spotted deer have adapted well inside shade coffee. Spotted deer are sexually dimorphic.
+
+### **Elevation**
+
+The spotted deer is found at altitudes ranging from sea level up to 2,000 m to 2500 meters main sea level. (9,800 ft.)
+
+**Size**
+
+Chital is a lightly-built species; males are larger and heavier than females.
+
+### **Speed**
+
+65 Km/hr.
+
+### **Markings**
+
+Marking behavior is pronounced in males. Males have well-developed [preorbital glands](https://en.wikipedia.org/wiki/Preorbital_gland) (near the eyes). They stand on their hind legs to reach tall branches and rub the open preorbital glands to deposit their scent there. Urine marking is also observed.
+
+### **Unique Characteristics**
+
+Antlers are present only in males. The chital has well-developed preorbital glands (near the eyes) with stiff hairs. It also has well-developed metatarsal glands and pedal glands located in its hind legs.
+
+### **EyeSight And Hearing**
+
+Their sense of sight is not very good but their sense of hearing is excellent.
+
+### **Communication**
+
+The prominent means of communication is vocalization, they are very vocal during the mating seasons.
+
+### **Feeding**
+
+The axis deer are herbivores. Their diet includes herbs, shrubs, foliage, fruits, and [forbs](https://en.wikipedia.org/wiki/Forb). They usually eat tender shoots and freshly sprouted grass and flowers of a few wild plants. They also include mushrooms in their diet which are rich in proteins and nutrients.
+
+### **Mating**
+
+![](1-2-1024x683.jpg)
+
+Polygny    (Male can mate with more than one female)
+
+**Reproduction**
+
+Bellowing indicates the beginning of breeding. Breeding takes place in April or May
+
+Gestation period: 225-235 days.
+
+Litter size: 1, twins are very rare.
+
+Weaning: Begins around three months; all young fully weaned by 6 months.
+
+Sexual maturity: Females as early as 9-10 months, males at 14 months.
+
+Adult weight: 45-55 kg (females), 65-85 kg (males)
+
+**Threats**
+
+Not many threats except for a few stray incidents of stray dogs attacking the herd.
+
+### **Conservation Status**
+
+The IUCN rates the species Lower Risk, Least Concern.
+
+Population size Unknown.
+
+### **Life Span**
+
+18 to 20 years
+
+### **Conservation**
+
+### **IUCN Red List:** According to IUCN, the Axis deer is widespread throughout its range. Least Concern
+
+Spotted deer are hunted for their meat and skin.
+
+### **Coffee Ecology**
+
+Due to their habit of destroying trees by ripping off the bark for food, they are considered a pest in some regions. This in turn can lead to a loss of food sources as well as a loss of wood that can be used as timber value.
+
+### **Special characteristics**
+
+Spotted deer play a significant ecological role in the web of life. They act as primary consumers. They maintain the ecological balance by feeding upon weed plants that are undesirable inside shade coffee.
+
+### **Conclusion**
+
+Historically, the protection of forest wealth formed an ardent article of faith, reflected in the lives of Coffee Planters. Wildlife conservation comes with numerous benefits for both animals and humans. Coffee Planters have from the very beginning realized that conserving flora and fauna greatly enhances ecological stability and helps in the smooth functioning of the food chains and the web of life. However, a very disturbing fact is that the spotted deer population is exponentially growing because it has no predators. In fact, the pleasure of watching them has turned to dismay as they are causing economic devastation that has a severe bearing on the economic wellbeing of coffee planters. The population growth of spotted deer has literally grown out of hand and has started to affect both the environment and the people living inside coffee forests. Our observations point out that certain kinds of tree saplings are preferred by the deer and due to the excess population of deer, these types of trees are effectively removed from the coffee plantation, affecting the overall integrity of coffee forests. In addition, due to overgrazing, deer allow ferns to take over, preventing the native grasses from regenerating. It’s time that the wildlife conservation Act is amended so that they give permission, either to relocate wildlife or allow planters to harvest excess deer through permits.
+
+### **References**
+
+Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume-1.
+
+Duckworth, J.W.; Kumar, N.S.; Anwarul Islam, M.; Sagar Baral, H.; Timmins, R. (2015). [“*Axis axis*“](https://www.iucnredlist.org/species/41783/22158006). [*IUCN Red List of Threatened Species*](https://en.wikipedia.org/wiki/IUCN_Red_List).
+
+[Green National Accounts in India](https://www.cbd.int/financial/hlp/doc/literature/Green_National_Accouts_in_India_1may13.pdf)
+
+[Chital](https://en.wikipedia.org/wiki/Chital)
+
+[Axis axis deer](https://animaldiversity.org/accounts/Axis/classification/)
+
+[Axis axis](http://www.ultimateungulate.com/Artiodactyla/Axis_axis.html)
+
+[Chital or Cheetal, Axis deer, Spotted deer](https://animalia.bio/axis-deer)

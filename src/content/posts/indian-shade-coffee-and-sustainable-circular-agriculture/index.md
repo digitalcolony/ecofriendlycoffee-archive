@@ -1,0 +1,205 @@
+---
+id: "indian-shade-coffee-and-sustainable-circular-agriculture"
+title: "Indian Shade Coffee And Sustainable Circular Agriculture"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "global-warming"
+category: "Global Warming"
+publishedDate: "2023-12-22T21:07:08"
+updatedAt: "2023-12-22T21:07:08"
+wordpressId: 48414
+---
+
+In the recent past Ecofriendly Shade Coffee has undergone various transformations, both in terms of package of practices as well as Marketing of Single Origin Coffee’s. On one hand coffee cultivation has become a challenge due to global warming and on the other hand customers are demanding both socially and environmentally sustainable coffee’s right at their door step. The humble coffee bean as well as the small coffee farmer are facing unprecedented challenges.  This change is no ordinary. It is in fact ground breaking. The area of major concern is regarding Sustainability, especially when coffee growers world-wide face tough regulations in terms of chemical and chemical residue of many banned substances. The growth of agriculture has also been driven by more intensive use of chemical fertilizers and synthetic pesticides, which over time has eroded the quality of land for cultivation. Compounding this problem is the belief of the Coffee Planters that the resources inside the coffee ecosystem are infinite and can regenerate in the shortest possible time. This thinking is obsolete. We need a new awakening, a paradigm shifts in leaving behind the linear economy and quickly adopting the circular economy, especially, with the world having breached five of nine “planetary boundaries” that measure environmental health.
+
+Switching to a new concept called Sustainable circular agriculture model is widely considered to be the way forward. Various challenges impact sustainability in the coffee sector such as climate change, increasing cost of production, scarce labor supply, unskilled workers, high cost of finance and volatile prices. The way we live now is using 60% more resources than the earth can provide and creating too much waste, according to experts. Regenerative agriculture helps to create a more holistic, sustainable, and productive farming system that benefits both the land and coffee farmers.
+
+![](editedIMG_20231130_110115-1024x768.jpg)
+
+The idea of writing this paper is to try to understand and address these challenges and exchange ideas and knowledge regarding Sustainable circular agriculture and its impact on coffee planters.
+
+### **Circular economy**
+
+The first principle of the circular economy is to eliminate waste and pollution.
+
+The second principle of the circular economy is to circulate products and materials at their highest value.
+
+The third principle of the circular economy is to regenerate nature.
+
+### **What is circular agriculture?**
+
+The key to circular agriculture is related to the 3Rs (reduce, recycle, reuse).
+
+Circular agriculture means that we keep the biological resources within the coffee ecosystem such as residuals of agricultural biomass (Coffee Pulp, Husk, Wood shavings, leaf litter, cattle dung, other wastes within the food system as renewable resources. Instead of continuously degrading nature, we build natural capital. There by we allow nature to rebuild soils and increase biodiversity, and return biological materials to the earth. By being much more conscious to the finite resources and recycling them into nutrient rich compounds through composting, a major part of the nutrients is met in house. This practice reduces the complete dependency on chemical-based fertilizers and helps maintain the ecological integrity of the farm. In short, circular agriculture focuses on using minimal amounts of external inputs, closing nutrients loops, regenerating soils, and minimizing the impact on the environment. In the circular economy model, materials are divided into two categories: technical materials and biological materials. Biological materials, like paddy straw residues, coffee husk, leaflitter, poultry manure, cattle manure, sheep manure, can be returned to the biosphere and biodegrade over time to return energy rich nutrients to the environment. Biogas plants/Biodigesters can convert pulper waste into electricity and nutrient rich compost. The farm can achieve self-sufficiency through in house resources or by pooling resources.
+
+Technical materials must be designed to be durable and reusable or easily upgradeable. The idea is to repeatedly use it through the economy, continually creating further value. To support this, technical products can be rented or leased through cooperatives or big firms, rather than owned, encouraging maintenance and repair, and discouraging disposal. For products where this is not possible, incentives can be created to ensure the return and reuse of the product at the end of its use life.
+
+### **Areas of concern in Circular Agriculture**
+
+Agroforestry Model with multiple crops that are specially bred to harvest less nutrients but produce a reasonable yield on a sustainable basis.
+
+Package of Practices. Identification of areas that cause environmental degradation and pollution.
+
+Post Harvest Technology (Pulping, Recycled water, BOD)
+
+Energy efficiency and utilization of green energy to run plant and machinery (To slowly phase out fossil fuels by way of solar/hydroelectric/wind. Biogas etc)
+
+Respect for Environment/Stewards of the Environment
+
+Save resources (Rain water Harvesting….Tanks, Ponds, Infiltration pits, Roof top rain water harvesting, Ground water discharge)
+
+Emphasis on product quality.
+
+Updating technology on a regular basis.
+
+### **Circular agricultural practices.**
+
+According to the United Nations, in circular agriculture, all steps of the food system from growing, harvesting, packing, processing, transporting, marketing, consuming and disposing food are designed with a view to promoting sustainable development.
+
+### **Different Types of Circular Agriculture Models**
+
+Multi cropping in coffee through Agroforestry
+
+Recycling of coffee wastes through Composting
+
+Symbiosis through Crop Rotation
+
+### **Advantages**
+
+Integrated Farming reducing the inputs of chemicals
+
+Better Ecological Practices in Tune with Nature
+
+Cover Crops such as legumes which fix atmospheric nitrogen through nodule symbiosis.
+
+Nitrogen fixing trees capable of fixing atmospheric nitrogen.
+
+Cover crops that protect the ground from direct sun light and soil erosion.
+
+Emphasis on Soil health
+
+Build-up of beneficial soil microbes
+
+Low soil disturbance with the use of heavy machinery, there by avoiding compaction of soil.
+
+Improving soil organic matter and improving soil fertility.
+
+Build-up of Natural flora (Indigenous microflora) which can thrive if left relatively undisturbed.
+
+Encouraging crop rotation that are antagonistic to pest and disease build up.
+
+Promoting crop diversity
+
+Promoting Biodiversity. Biodiversity enhances ecosystem resilience because each has a unique role in connecting with various biotic partners.
+
+Improving water holding capacity of soils
+
+Increased stress tolerance. (Drought tolerance, Drought Avoidance, Drought Escape)
+
+Enhanced nutrient retention and absorption through soils.
+
+Carbon sequestration
+
+Reduction in greenhouse gases
+
+Integration of livestock into farming systems.
+
+Living roots, surface, subsurface and deep roots. Living roots are important for plant-plant and plant-soil communications via root exudates.
+
+### **Positive Environmental Impact**
+
+Improved soil health
+
+Mitigating impact of Climate Change through carbon sequestration
+
+Promoting wildlife conservation and other forms of biodiversity.
+
+Increased economic safety to Coffee Planters
+
+Food Security
+
+Water Security
+
+Minimizing Waste
+
+Reducing Pollution
+
+### **Achieving Sustainable Circular Agriculture**
+
+Each Coffee Plantation is unique and different from the other in terms of location, topography, water, soil, climate, livestock, visions and strategies. Understanding the context of Individual coffee plantations, means Sustainable Circular Agriculture can be implemented in line with individual farm operations.
+
+Use of precision agriculture technologies through satellites, drones, sensors.
+
+Use of Artificial Intelligence (AI), Big Data to help coffee Planters understand market dynamics, to get intelligence reports on demand and supply, Number of bags each country is producing, new areas of cultivation, expansion and models for future growth and production. and how much each country is producing.
+
+Conversion of wastes into energy rich nutrients.eg. Coffee Husk to mushrooms. Piggery waste for aquaculture, molasses for ethanol production, etc.
+
+### **Social benefits of circular agriculture**
+
+Improved living conditions
+
+Gainful employment to unskilled workforce
+
+Better waste management.
+
+Reduced use of natural sources.
+
+less environmental pollution.
+
+Alternate source of income
+
+Acts as a insurance against crop failure
+
+### **Challenges**
+
+Impact of climate change (Global warming)
+
+Acute shortage of labor (Both skilled and unskilled)
+
+Limits to Mechanization because of the forest factor
+
+Access to resources
+
+Too many Certifying agencies with different parameters
+
+Expensive cost of certification
+
+Yield variations due to global warming
+
+High Borrowing costs
+
+Intellectual Property rights
+
+Technical knowledge to implement technology
+
+Policy decisions  that are not in tune with current trends.
+
+### **Conclusion**
+
+Circularity is not a maiden concept in India. Our forefathers practiced it in letter and in spirit. In-fact it is intrinsic to the fabric of Indian Agriculture. However, with the winds of liberalization, and high economic growth, the challenges of increasing yields at any cost has escalated. The resources inside shade coffee are fast dwindling and the fertility status of the soil is rapidly declining due to a multitude of factors, some beyond the understanding of the farming community. In certain pockets the destruction of the ecology is irreparable and irreversible. At times we see negative environmental impacts. For many coffee planters, however, this is a question of need – rather than choice.
+
+Another important aspect that needs to be addressed is that with the fourth wave of coffee, consuming countries in Europe and North America have benefited the most from the explosive economic growth of the coffee industry. However, the profits have not trickled down to the coffee Planters. We ask for a level playing field so that the profits are shared with the coffee planters who painstakingly nurture their plantations in tune with nature.
+
+### **References**
+
+Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume-1.
+
+Bopanna, P.T. 2011. The Romance of Indian Coffee. Prism Books ltd.
+
+[Sustainable circular agriculture](https://plantae.garden/en/sustainable-circular-agriculture/)
+
+[Circular agriculture](https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/publication/PB_105.pdf)
+
+[Department of Economic and Social Affairs](https://www.un.org/development/desa/dpad/publication/un-desa-policy-brief-105-circular-agriculture-for-sustainable-rural-development/)
+
+[What is Circular Agriculture?](https://www.hars.com.tr/en/what-is-circular-agriculture)
+
+[Circular Agriculture in Low and Middle Income Countries](https://knowledge4food.net/circular-agriculture-low-middle-income-countries/)
+
+[What is circular agriculture and why is it important?](https://willicroft.com/blogpage/2021/4/2/the-dutch-plan-to-be-leaders-in-circular-agriculture-by-2030)
+
+[Are big coffee roasters intentionally vague about sustainability?](https://intelligence.coffee/2023/09/coffee-roasters-sustainability/#:~:text=While%20there%20are%20certainly%20improvements,specific%20with%20their%20sustainability%20strategies).
+
+[Agriculture and the Circular Economy](https://ceat.org.au/agriculture-and-the-circular-economy/)

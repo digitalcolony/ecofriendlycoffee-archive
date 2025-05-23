@@ -1,0 +1,147 @@
+---
+id: "bird-friendly-coffee-forests-and-the-vernal-hanging-parrot"
+title: "Bird Friendly Coffee Forests And The Vernal Hanging-Parrot"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "bird-friendly-shade-coffee"
+category: "Bird friendly shade coffee"
+publishedDate: "2024-04-07T10:13:59"
+updatedAt: "2024-04-07T10:13:59"
+wordpressId: 48439
+---
+
+### **Introduction**
+
+The Vernal Hanging-Parrot, also known as the Indian Lorikeet, is a charming and vibrant bird species native to the Indian subcontinent and parts of Southeast Asia. Scientifically classified as Loriculus vernalis, these small parrots are renowned for their stunning plumage, unique behavior, and ecological significance. Fourteen species of hanging parrots’ range throughout south and Southeast Asia.
+
+![](IMG_3876-1024x735.jpg)
+
+### **Scientific Classification**
+
+Domain:      Eukaryota
+
+Kingdom:    Animalia
+
+Phylum:      Chordata
+
+Class:  Aves
+
+Order: Psittaciformes
+
+Family:        Psittaculidae
+
+Subfamily:  Agapornithinae
+
+Genus:        Loriculus
+
+Blyth, 1849
+
+### Type species
+
+Psittacus galgulus (blue-crowned hanging parrot)
+
+Linnaeus, 1758
+
+Species
+
+### **Habitat**
+
+Hanging Parrots are endemic to the western ghats. They are a common sight often observed in pairs are a small flock of 10 to 12 birds inside shade coffee.  Most favor lightly-wooded areas and forest edges, and often appear in parks, gardens, orchards and plantations, especially when food trees are flowering.
+
+### **Description**
+
+These birds are stunningly beautiful in coloration. This is a small, mainly green hanging parrot that is very well camouflaged by the foliage. It is only 5 inches (~13 to 14 cm) long with a short tail, and averages 1 oz (28g) in weight.
+
+### **Males:** The adult has a distinctive red rump and bill, and blue throat patch.
+
+### **Females**: Look similar to the male, except the blue on the throat is less visible or entirely absent.
+
+### **Appearance**
+
+The male and female birds exhibit similar colouring, making it challenging to distinguish between the sexes based on appearance alone. However, some subtle differences may exist in terms of behaviour and vocalizations.
+
+### **Behaviour And Ecosystem Roles**
+
+One of the most fascinating aspects of the Vernal Hanging-Parrot is its unique feeding behavior. Unlike many other parrot species, which primarily feed on fruits and seeds, these hanging-parrots have evolved to specialize in a diet consisting mainly of nectar, pollen, and soft fruits. Their specialized brush-tipped tongues are adapted for extracting nectar from flowers, allowing them to efficiently feed on a variety of flowering plants. This ecological niche makes them important pollinators in their native habitats, contributing to the reproductive success of numerous plant species.
+
+In addition to feeding on nectar and pollen, Vernal Hanging-Parrots also consume small fruits, berries, and occasionally insects. Their agile and acrobatic flight enables them to maneuver adeptly through the forest canopy in search of food. Despite their small size, they are known for their energetic and playful behaviour, often hanging upside down while feeding or perching on branches.
+
+### **Beak**
+
+Adults have soft red bills.
+
+### **Distribution/Range**
+
+The **Vernal Hanging Parrot** (*Loriculus vernalis*) – also known as Indian Hanging Parrot, Indian Lorikeet, Indian Hanging Lorikeet or Green Hanging Parrot – is relatively common in its territory from South-western India eastwards to Southeast Asia.
+
+### **Communication and Perception**
+
+### **Calls / Vocalization**
+
+Hanging parrots are known for mimicking whistles, but they don’t talk. When perched, they make twitters and short squeaky warbles that sound similar. The most common vocalizations are a high-pitched “tzeet…tzeet” double and a fast triple-noted “tzee-zee-zeet”. They also make high-pitched “see” notes and combinations thereof.
+
+###  **Courtship/Breeding**
+
+During the breeding season, which typically occurs from March to June, Vernal Hanging-Parrots form monogamous pairs and engage in courtship displays characterized by aerial acrobatics and vocalizations. There are usually two to three white eggs in a clutch, which are incubated by the female for about 20 days. The young fledge when they are about 33 days old. Both parents participate in feeding and caring for the chicks until they fledge, which usually occurs after 5 to 6 weeks.
+
+### **Nesting**
+
+Vernal Hanging Parrots nest in tree cavities.
+
+### **Diet/Feeding**
+
+Its natural diet consists of fruit, seeds, buds and blossoms.
+
+Hanging parrots often feed in a head-down position, and favor soft fruits, figs, berries and, especially, nectar. Seeds and insects are taken by some species as well.
+
+### **Flight**
+
+ Its flight is described as swift.
+
+### **Migration**
+
+It undergoes local movements, driven mainly by the availability of the fruit, seeds, buds and blossoms that make up its diet.
+
+### **Threats**
+
+Hanging Parrots are smuggled as Pets
+
+### **Conservation Status**
+
+While the Vernal Hanging-Parrot is still relatively abundant in many parts of its range, certain populations face threats due to habitat loss and degradation. Deforestation, primarily driven by agricultural expansion, logging, and urbanization, has resulted in the loss of critical forest habitats for these birds. Additionally, the capture of wild birds for the pet trade poses a significant threat, particularly in some parts of Southeast Asia where illegal trapping continues to occur.
+
+[Least concern (LC)](https://animalia.bio/least-concern-lc)
+
+### **Cultural Significance**
+
+In addition to their ecological importance, Vernal Hanging-Parrots hold cultural significance in many communities across their range. In India, for example, they are sometimes depicted in traditional art and folklore, symbolizing beauty, vitality, and the natural world.
+
+**Lifespan/Longevity**
+
+Have a longevity of 14 years
+
+### **Conclusion**
+
+The Vernal Hanging-Parrot, with its striking appearance, unique feeding behavior, and ecological importance, stands as a testament to the rich biodiversity of the Indian subcontinent and Southeast Asia. While facing various threats, concerted conservation efforts offer hope for the continued survival of this charismatic bird species. By safeguarding their habitats and raising awareness about their importance, we can ensure that future generations have the opportunity to admire and appreciate the beauty of the Vernal Hanging-Parrot in the wild.
+
+Efforts to conserve the Vernal Hanging-Parrot and its habitat include the establishment of protected areas, habitat restoration initiatives, and community-based conservation programs. Public awareness campaigns aimed at highlighting the ecological importance of these birds and the need for their protection have also played a crucial role in conservation efforts.
+
+### **References**
+
+[Hanging parrot](https://en.wikipedia.org/wiki/Hanging_parrot)
+
+[Bat-like Birds: Meet Asia’s Brilliant Hanging Parrots](http://blogs.thatpetplace.com/thatbirdblog/2009/04/08/bat-like-birds-meet-asias-brilliant-hanging-parrots-genus-loriculus/#:~:text=Hanging%20Parrots%20as%20Pets,sensitive\)%20calm%2C%20quiet%20surroundings).
+
+[SRI LANKA HANGING PARROT](https://animalia.bio/sri-lanka-hanging-parrot)
+
+[Psittaciformes Psittaculidae Vernal Hanging-Parrot](https://ebird.org/species/vehpar1?siteLanguage=en_IN)
+
+Vernal Hanging-Parrot – Indian Lorikeet – Loriculus vernalis – Birds of India (birding.in)
+
+[Green Hanging Parrots](https://beautyofbirds.com/vernal-hanging-parrots/)
+
+[Indian Lorikeets](https://www.birdsofindia.org/loriculus-vernalis)
+
+[Vernal Hanging](https://ebird.org/species/vehpar1?siteLanguage=en_IN)

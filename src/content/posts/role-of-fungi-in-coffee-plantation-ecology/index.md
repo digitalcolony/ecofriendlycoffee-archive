@@ -1,0 +1,327 @@
+---
+id: "role-of-fungi-in-coffee-plantation-ecology"
+title: "Role of Fungi in Coffee Plantation Ecology"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "microorganisms"
+category: "Microorganisms"
+publishedDate: "2005-04-01T07:00:00"
+updatedAt: "2015-10-28T14:03:26"
+wordpressId: 51
+---
+
+In our previous article we had explained the role of bacteria in maintaining the coffee plantation ecology. This article highlights the role of yet another important microorganism namely, FUNGI in shaping the coffee mountain ecology. Fungi are a group of diverse and widespread unicellular and multicellular eukaryotic microorganisms.
+
+Fungal species are commonly found in soil, in water, on plant debris, and as symbionts, parasites, and pathogens of animals, plants, and other microorganisms. Saprophytic species are important in the decomposition of plant litter and in the recycling of organic matter. Scientists have reported that in nature fungal colonies have been known to continue growing for 400 years or more.
+
+![fungi1](fungi1.jpg)
+
+Many fungi are involved in symbiotic associations with various biotic partners within the coffee mountain. Classical examples are mycorrhizae, lichens, and mycetocytes.
+
+The systematic study of fungi dates back to the early part of the 17th century. The ancient Greeks and Romans were experts in wine fermentation but they had no modern tools to understand and imply that fungi were largely responsible for these transformations.
+
+Fungus (pl.fungi) constitutes a group of living organisms devoid of chlorophyll. Fungi resemble plants in structure and are capable of utilizing inorganic nitrogen compounds but appear to be more related to animals in requiring oxygen in their metabolism and eliminating carbon dioxide. They have definite cell walls, usually non motile, (they may have motile reproductive cells) and they reproduce by means of spores.
+
+Next to Bacteria, fungi are the most dominant group of microorganisms in soil. The primary role of fungi in coffee plantations is to degrade the vast amounts of complex organic molecules generated from time to time due to the addition of mature plant residues, green manures, organic manures, leaf litter, and convert them into simpler compounds necessary for plant growth and development. Coffee farmers need to understand that most of the biomass available on the coffee farm is relatively free from toxic materials and can be used as stimulants for growth and development of beneficial fungi.
+
+![fungi2](fungi2.jpg)
+
+Fungi are important agents in the bio degradation of cellulose, hemi cellulose, starch, pectin, organic acids, disaccharides, fats and lignin which is particularly resistant to bacterial degradation. Fungi are known to adapt themselves to even the most complex of food materials. Fungi are largely responsible in the formation of ammonium and simple nitrogen compounds in soil. Many species of fungi form symbiotic association with plant roots and help in plant growth. Fungi are capable of utilizing simple substances and build them into compounds of higher molecular weight bearing great complexity.
+
+Secondly, We need to appreciate the role of fungi in improving soil texture and in soil aggregation. Many fungi are known to produce substances similar to humic substances there by energizing the humic content and organic matter content of the soil. The biomass and organic matter on the forest floor is composed of polysaccharides of varying complexity. Fungi use starch as an excellent source of carbon, chitin is used both as a carbon and nitrogen source by few species of streptomyces. Lipids are attacked by moulds. Complex proteins and polypeptides are further broken down with the help of enzymes.
+
+![fungi6](fungi6.jpg)
+
+**TYPE OF INTERACTION**
+
+**PLANT OR SOIL INVOLVEMENT**
+
+**MICROORGANISMS INVOLVED**
+
+ORGANIC MATTER DECOMPOSITION
+
+SOIL
+
+DIFFERENT GENERA OF FUNGI
+
+BIOLOGICAL CONTROL
+
+SOIL/PLANT
+
+Trichoderma species
+
+NITROGEN IMMOBILIZATION
+
+SOIL
+
+DIFFERENT GENERA OF FUNGI
+
+ECTOMYCORRHIZAE
+
+FOREST TREES
+
+BASIDIOMYCETOUS FUNGI
+
+ENDOMYCORRHIZAE
+
+COFFEE
+
+PHYCOMYCETES
+
+RHIZOPLANE
+
+ALL BIOTIC PARTNERS-ROOT SURFACE
+
+DIFFERENT GENERA OF FUNGI
+
+RHIZOSPHERE
+
+ALL BIOTIC PARTNERS-ASSOCIATED WITH ROOTS
+
+DIFFERENT GENERA OF FUNGI
+
+HISTOSPHERE
+
+ASSOCIATED WITHIN ROOTS
+
+DIFFERENT GENERA OF FUNGI
+
+PHYLLOSPHERE
+
+ASSOCIATED WITH LEAF SURFACE
+
+DIFFERENT GENERA OF FUNGI
+
+![fungi3](fungi3.jpg)
+
+Fungi consist of filamentous mycelium composed of individual hyphae. The hyphae may be uni or multinucleate and with or without cross walls. The length of fungal mycelium ranges from 50 to 100 meters per gram of surface soil and few microbiologists have recorded values up to 500 meters.
+
+Based on filament diameter, specific gravity and mycelial length the weight of fungi ranges from approximately 500 to 6000 kg per hectare of surface soil. The fungal mycelium spreads like a mat and is closely attached to soil particles. These figures indicate the importance of fungi in coffee plantation ecology.
+
+The coffee farm consists of well drained and well aerated soils for the simple reason that coffee cannot tolerate water logged conditions. Luckily, for the coffee farmer, these soil characteristics, together with a thick cover of leaf biomass favors the growth and proliferation of beneficial fungi. Because of their large diameter and underground net work of filaments they contribute significant amounts of total microbial protoplasm, to the coffee soil economy.
+
+![fungi16](fungi16.jpg)
+
+### MYXOMYCOTA:
+
+Myxomycetes are also known as SLIME MOULDS. The characteristic feature of these slime fungi is that they colonize decaying wood, leaf litter, and other organic residues on the floor of the coffee forest. They profusely produce spores known as SPORANGIA. During favorable conditions the spores germinate and the fungal mycelium spreads rapidly attacking the organic debri.
+
+![fungi4](fungi4.jpg)
+
+### EUMYCOTA:
+
+### MASTIGOMYCOTINA:
+
+They are also referred to as algal fungi. This group comprises several moulds, saprophytes, soil forms, parasites and pathogens. Some are known to be parasitic on insects. The asexual spore bearing structure is called SPORANGIUM. They may germinate directly giving rise to germ tubes which form hyphae and mycelium. The fungus is also capable of sexual reproduction. Some species of fungi are known to be plant pathogenic. E.g. Phytophthora infestans.
+
+![fungi7](fungi7.jpg)
+
+### ZYGOMYCOTINA:
+
+Mucor, Rhizopus and Pilobolus are the common genera under this group. They obtain their nutrients from the substrate. In the evolutionary ladder this group consists of advanced morphological characters and sexual forms of reproduction. Zygomycetes and Trichomycetes are the two classes of fungi under this group.
+
+![fungi9](fungi9.jpg)
+
+### ASCOMYCOTINA:
+
+They are also referred to as sac fungi because their spores are formed in a sac called ascus. Some fungi are unicellular like yeasts and some like Morchella are highly developed with large fleshy structures. Ascomycetes are very important from the agricultural view point because they are adapted to varied habitats. There are over 35,000 species under this sub division. They are more advanced than the Phycomycetes.
+
+![fungi8](fungi8.jpg)
+
+### YEASTS:
+
+Yeasts are spherical, ovoid, or rod shaped unicellular fungi. They are widely distributed in coffee soils and sometimes present even on plant parts. They reproduce by the budding mechanism but under certain circumstances a few of them may grow into filamentous forms.
+
+### BASIDIOMYCOTINA:
+
+This group of fungi too is important from the coffee farmer’s perspective because some are saprophytes and others are parasitic. There are more than 15,000 species under this sub division. Basidiomycetes are highly developed fungi. They bear a reproductive structure known as BASIDIUM. The fungi included in this group are mushrooms, toadstools, puffballs, rust, smut fungi, etc.
+
+![fungi13](fungi13.jpg)
+
+### DEUTEROMYCOTINA:
+
+Fungal species which produce only asexual spores and not sexual spores are considered to be imperfectly understood, hence called Fungi Imperfecti (DEUTEROMYCETES). Some of the fungal species under this subdivision are the Aspergillus, Trichoderma, Rhizoctonia, Penicillium, and Gleosporium. The above mentioned fungi commonly inhabit coffee soils and most of them are of great commercial value in the preparation of microbial inoculants.
+
+![fungi12](fungi12.jpg)
+
+### GROWTH AND REPRODUCTION:
+
+There are two phases in the life cycle of fungi. They may take place simultaneously or in succession. Way back in 1900 Klebs reported that the reproduction in FUNGI is governed by 4 laws.
+
+1.  Growth and reproduction are life processes, which depend upon different sets of conditions; in the lower organism’s external conditions mainly, determine whether growth or reproduction takes place.
+2.  Reproduction in the lower organisms does not occur as long as characteristic external conditions which are favorable for reproduction are always more or less unfavorable for growth.
+3.  The process of growth and reproduction differ in that growth may take place under a wide range of environmental; conditions than reproduction; growth may take place , therefore under conditions which inhibit reproduction and
+4.  Vegetative growth appears to be mostly a preliminary step for reproduction in that it creates a suitable internal environment for it.
+
+The pioneering work done by Klebs holds good even today.
+
+![fungi5](fungi5.jpg)
+
+### EXTERNAL INFLUENCES ON FUNGAL GROWTH AND DEVELOPMENT
+
+### ORGANIC MATTER STATUS:
+
+The quality and quantity of organic matter plays a major role in the abundance of fungi. The number of filamentous fungi in soil varies depending on the amount of utilizable organic matter present in coffee soils. Addition of organic matter stimulates fungal activity and is maximum during the initial period of decomposition.
+
+### HYDROGEN ION CONCENTRATION:
+
+Fungi are dominant in acid soils because acidic environment is not favorable for the growth and multiplication of either bacteria or actinomycetes. This special evolutionary mechanism to tolerate highly acidic conditions results in the power of adaptation to hostile environments, including highly acidic soils. However, fungi can also grow in neutral or alkaline soils and some species can tolerate hydrogen ion concentrations beyond pH values of 8.0.
+
+![fungi17](fungi17.jpg)
+
+### MOISTURE:
+
+The moisture requirement varies from species to species. Soils which have relatively high moisture regimes, suppress the growth and development of certain fungi. Fungi belonging to Basidiomycetes multiply profusely in wood containing less than 20 % moisture. On the other hand the Phycomycetous fungi require very high moisture content for its growth and multiplication. Various moisture regimes determine the fate of spore germination. In general, a high level of moisture facilitates the germination of spores and other reproductive structures of the fungus.
+
+### AERATION:
+
+Coffee soils which are well aerated contain abundant fungi because most of the fungal species are aerobic.
+
+### TEMPERATURE
+
+Most fungal species are mesophilic (25 to 35 degree centigrade). However in coffee compost pits, the presence of thermophilic fungi is commonly observed. Thermophilic fungi multiply at 50 to 60 degree centigrade but not at 65degree centigrade.
+
+### SEASON:
+
+Since coffee plantations are exposed to different seasons, it has a very deleterious effect on the fungal population. The rainy season provides ideal conditions for the proliferation of fungi but in heavy rainfall regions receiving in excess of 200 inches per annum the growth of fungi are restricted. December and January are winter months in the plantation area and fungi are at low ebb during these months.
+
+### TYPE OF VEGETATION:
+
+Incorporation of crop residues, green manures and carbonaceous materials improves the microbial load, particularly the fungal growth. Certain species dominate initially, but subsequently their numbers decline. Some species maintain high population levels for relatively long periods after the incorporation of plant residues.
+
+![fungi11](fungi11.jpg)
+
+### DEPTH:
+
+Different species of Fungi are known to occupy different ecological niches. They exhibit selective preferences for various depths of soil. At different soil horizons different species of fungi reside. In coffee soils, fungi are most numerous in the surface layers. A great number of species occur on the surface, and sub surface of coffee soils than in deeper layers of soil. The influence of depth on the distribution and abundance of fungal species may be due to the availability of organic matter and the composition of soil atmosphere.
+
+### FARM PRACTICES:
+
+Fertilizers, chemicals, weedicides, nematicides, algaecides, pesticides and insecticides influence the type of fungal flora. Ammonium fertilizers are commonly applied in coffee farms. The addition of ammonium fertilizers increases the fungal population and diminishes the bacterial and actinomycete population.
+
+### NUTRITION:
+
+Most fungi are heterotrophs and to date there are no reports of fungi having the pigment chlorophyll to manufacture their own food. The nutrients enter the fungal cell / hypha in solution. Some fungi can use any of the wide range of compounds as sources of carbon and energy while others have highly specific nutritional requirements. A number of fungi require specific growth factors.
+
+Inside the coffee mountain fungi obtain their food either as PARASITES (infecting living organisms) or by attacking dead organic matter as SAPROBES. Fungi that live on dead matter and are incapable of infecting living organisms are called OBLIGATE SAPROBES ; those capable of causing disease or of living on dead organic matter, according to circumstances are referred to as FACULTATIVE SAPROBES, and those that cannot live except on living protoplasm are called OBLIGATE PARASITES.
+
+![fungi15](fungi15.jpg)
+
+### COFFEE MOUNTAIN & CHAIN REACTIONS:
+
+The coffee eco system increasingly relies on natural processes for decomposition of organic matter, recycling of nutrients, maintenance of humus, regulation of pest population, and the control of disease causing microorganisms. It in this context that the coffee farmer can appreciate the role of FUNGI in maintaining equilibrium within the coffee habitat.
+
+The fungal interactions with the inhabitants of the coffee mountain are essential for the effective transformations of various elements, especially insoluble rock phosphate ultimately leading to release of nutrients for most of the biotic partners. Fungi are also important in the mobilization of nitrogen and phosphorus. Some species of fungi are known to impart drought tolerance to plants.
+
+### MOST COMMONLY ENCOUNTERED SOIL FUNGI:
+
+Fusarium, Aspergillus, Pencillium, Acrostalagmus, Trichothecium, Alternaria, Pythium, Rhizopus, Botrytis, Verticillium, Pullularia, Trichoderma, Cephalosporium, Gliocladium, Scopulariopsis, Cladosporium, Spicaria, Absidia, Monilia, Cunninghamella, Mortierella, Rhiozoctonia, Chaetomium, Mucor, Dematium, Helminthosporium, Humicola, Metarrhizium.
+
+### CHEMICAL COMPOSITION OF THE FUNGAL CELL ON DRY WEIGHT BASIS
+
+The major constituent is water to the extent of 90 %. The ash content varies.  
+CARBON 45-55%  
+NITROGEN 5-8%  
+An assay of fungal cells may yield carbohydrates ranging from 5-60%, 2-10% chitin, 15-40% protein, 5-20%lipids.
+
+### FUNGAL SPORES:
+
+Two types of spores are produced by fungi. namely SEXUAL and ASEXUAL. Asexual reproduction does not involve the union of sex cells or sex organs. Sexual reproduction is characterized by the union of two nuclei. Asexual reproduction is considered to be more important for the propagation of the species because it occurs several times during a season, where as sexual multiplication generally occurs only once a year.
+
+Most of the fungal species are capable of producing spores in great masses. Because of their light weight, spores are easily dispersed to great distances by wind and air currents. These spores are highly resistant to unfavorable environmental conditions such as high temperatures, heat, extreme cold, desiccation, ultra violet light, extremes of hydrogen ion concentration, and low nutrient supply. The spores are more resistant to heat than the fungal mycelium. The specialized structures that permit survival of the population are conidia, sclerotia, oospores, chlamydospores, sporangiospores, ascospores, sporangia, and rhizomorphs.
+
+![fungi14](fungi14.jpg)
+
+### TABLE 2: Persistence of Viable Fungal Structures in Soil
+
+\[Alexander Martin, 1975. Microbial Ecology 2:17-27.\]
+
+**Structure**
+
+**Fungus**
+
+**Persistence in Years**
+
+CHLAMYDOSPORE
+
+TILLETIA
+
+\> 5
+
+OOSPORE
+
+APHANOMYCES
+
+\>10
+
+SCLEROTIUM
+
+PHYMATOTRICHUM
+
+\>12
+
+MICROSCLEROTIUM
+
+VERTICILLIUM
+
+14
+
+### FUNGI AS BIOCONTROL AGENTS:
+
+The coffee soils are known to contain different species of nematodes. The root lesion nematode, Pratylenchus coffeae is known to cause great economic damage in Arabica plantations. Robusta farms are tolerant.
+
+Some species of fungi have developed a mechanism to entrap nematodes and devour them. It has taken millions of years for fungi to develop tentacles helpful in fooling predators. It appears that a normal microflora has an important protective function against pathogenic and opportunistic microorganisms. Other species of fungi are known to predate over protozoans.
+
+### A PEEP INTO THE FUTURE:
+
+A number of fungi present within the coffee farm have medicinal, therapeutic and high protein value. Coffee farmers can easily exploit their usefulness by simply learning the behavior of such fungi. An interesting fact about fungi is that they can be easily mass cultured inside the coffee farm itself without any sophisticated laboratory equipment. The raw material or the substrates on which the fungus grows is abundantly available on the farm itself.
+
+Farmers have to take extreme care only in the isolation and identification of pure cultures. Once the pure culture is isolated, the farmer should inoculate a sample flask or a glass container having the requisite medium with the fungal culture and store it in a refrigerator for further mass multiplication. This saves precious time and energy in subsequent field isolations.
+
+### CONCLUSION:
+
+Microbial inhabitants find comfort in the coffee forest sanctuary. At JOE’S SUSTAINABLE FARM, KIREHULLY, Nature employs microbes on a higher scale to establish and maintain a balance among the diverse forms of life inside the coffee mountain. The presence of different species of microorganisms inside the coffee mountain is a symbol of co existence.
+
+Fungi play a pivotal role in the slow but constant changes taking place inside the coffee mountain. Fungi are key drivers in the recycling of important chemical elements that, without their activity, would remain forever locked up in dead plant and animal bodies. They transform abundantly available leaf litter and wood wastes to worthwhile end products containing high nutrient value.
+
+![fungi18](fungi18.jpg)
+
+Fungi are more beneficial to the coffee plantation ecology compared to many other microorganisms. Every day new techniques are being discovered which are relatively easy to perform at the farm level itself. There is little doubt that basic and applied research with microorganisms within the coffee mountain will continue to provide valuable information and technology of economic value to the coffee farmers. This knowledge can be used for improvements of commercial cultures for improving the productivity of the farm.
+
+The presence of fungi inside the coffee mountain signals a technique that can distinguish between healthy and diseased or abnormal plant tissues. These techniques are of immense value in reducing the time required to identify genetic defects and mutations. Coffee farmers world wide should be convinced that the beneficial activities of fungi can be exploited in increasing the overall productivity of the ecofriendly farm.
+
+German scientist Albrecht Kaupp , has this to say. The human being is, after all, one of the most poorly optimized combustion engines of this planet. For thousands of years the design has remained unchanged. We continue to burn the most expensive energy, in a completely inefficient body. There are too many of us and our numbers are growing fast. On the other hand just look at Fungi; They form an invisible network of mycelial mats that are so small and highly efficient in converting non edible crop residues into energy rich nutrients, there by supplying the needs of the entire biotic community.
+
+Of great significance are certain fungi that form mycorrhizal associations with both forest trees and coffee, providing valuable phosphorus and other essential nutrients for growth and development. Certain species of fungi impart drought tolerance to various plant species. In addition several fungal species act as natural bio-control agents against a diverse array of disease causing organisms within the coffee farm.
+
+### References
+
+-   [ecofriendlycoffee.org/role-of-bacteria-in-coffee-plantation-ecology/](http://ecofriendlycoffee.org/role-of-bacteria-in-coffee-plantation-ecology/)
+-   [Farm Coffee Organic Manures](http://ecofriendlycoffee.org/farm-coffee-organic-manures/)
+-   [The Fine Art of Composting In Coffee Plantations](http://ecofriendlycoffee.org/the-fine-art-of-composting-in-coffee-plantations/)
+-   [Organic Matter Decomposition In Coffee Plantations](http://ecofriendlycoffee.org/organic-matter-decomposition-in-coffee-plantations/)
+-   [Soil Water Conservation in Coffee Plantations](http://ecofriendlycoffee.org/soil-water-conservation-in-coffee-plantations/)
+-   [ecofriendlycoffee.org/microbial-inoculants/](http://ecofriendlycoffee.org/microbial-inoculants/)
+-   [ecofriendlycoffee.org/biological-control-of-soil-borne-pathogens/](http://ecofriendlycoffee.org/biological-control-of-soil-borne-pathogens/)
+-   [ecofriendlycoffee.org/endomycorrhizae/](http://ecofriendlycoffee.org/endomycorrhizae/)
+-   Alexander, M. 1974. Microbial Ecology. New York. John Wiley and sons.
+-   Alexander, M. 1977. Introduction to soil Microbiology. 2nd edition. New York. John Wiley and sons.
+-   Alexopoulous, C.J. and C.W. Mims 1983. Introductory Mycology.Third Edition, Wiley Eastern Limited. India.
+-   Atlas, R.M. and R. Bartha. 1993. Microbial Ecology: Fundamentals and application. Third edition. Benjamin/Cummings Pub. Co. New York.
+-   Brock. T. D. 1979. Biology of Microorganisms. Third Edition. Englewood Cliffs. Prentice-Hall.
+-   Coffee Guide. Sixth edition, 2000. Central Coffee Research Institute, Coffee research station, Chickmagalur District. Karnataka.
+-   Harle, J. L. 1971. Fungi in ecosystems. J. Ecology 59: 627-642.
+-   Kendrick, B. 1992. The fifth kingdom. Focus Texts. Newburyport, Mass.
+-   Klebs, G. 1898-1900. Zur Physiologie der Fortpflanzung einiger Pilze. Jahrb. Wissen. Bot. 32: 1-70
+-   Peter J. Bottomley, 2002. Microbial Ecology (chapter 8). In Principles and applications of soil microbiology. Edited by David M Sylvia, J.J. Fuhrmann, Peter G Hartel and David A Zuberer. Prentice Hall. Upper Saddle River, NJ 07458
+-   Rangaswami, G and Bagyaraj, D. J. 2001. Agricultural Microbiology. Second edition. Prentice-Hall of India Private Limited. New Delhi.
+-   Salle, A. J. 1983. Fundamentals Principles of Bacteriology. Seventh edition. Tata McGraw Publishing Company LTD. New Delhi.
+-   Subba Rao, N.S. 2002. Soil Microbiology (fourth edition of soil microorganisms and plant growth) Oxford and IBH Publishing CO. PVT. LTD. New Delhi.
+-   Paul, E.A. and Clark. F. E. 1996. Soil Microbiology and Biochemistry. Academic Press.
+-   Miller, R.M . and J.D. Jastrow. 1992. The role of mycorrhizal fungi in soil conservation. In Mycorrhizae in sustainable agriculture. Edited by Bethlenfalvay .G.J and R.G. Linderman. ASA special publication number 54. American Society of Agronomy. Madison, Wis.
+-   Mehrotra, R. S. 1980. Plant Pathology. Tata Mc Graw-Hill Publishing Company Limited. New Delhi.
+-   American Type Culture Collection, Catalogue of strains, 1. 1978. 13TH Edition. Rockville, Maryland : American Type Culture Collection.
+-   Martin, S.M. and V.B.D. Skerman eds. 1972. World Directory of collections of cultures of Microorganisms. New York: John Wiley and Sons.
+-   Paul Singleton and Diana Sainsbury. 1981. Dictionary of Microbiology. WIE Edition April 1981.

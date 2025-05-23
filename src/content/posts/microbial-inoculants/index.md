@@ -1,0 +1,166 @@
+---
+id: "microbial-inoculants"
+title: "Microbial Inoculants"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "microorganisms"
+category: "Microorganisms"
+publishedDate: "2004-08-01T07:00:00"
+updatedAt: "2015-10-28T11:05:05"
+wordpressId: 44
+---
+
+In the early 1870’s the coffee leaf rust caused by the fungus Hemileia vastatrix, wiped out coffee plantations in Sri Lanka. In spite of the pioneering work of the English pathologist, H.Marshal Ward, no biological or chemical cure could be found to save the coffee plantations. Hence, the coffee production was abandoned in Sri Lanka and shifted to the Western hemisphere.
+
+In the early days, the British pioneers who opened up coffee plantations restricted themselves in growing the Arabica variety. Coffee cultivation reached its peak in the 1860’s and it was at this point that the major outbreak of pests and diseases took place. Hemileia vastatrix-coffee leaf rust, root rot, berry blotch, collar rot, white stem borer -Xylotrechus quadripes, mealybugs, green bugs, berry borer, shot hole borer, red borer, thrips etc.
+
+In search of remedies, number of toxic chemicals was tried out and even today the list of chemicals is ever growing. Chlorinated hydrocarbons, mercury laced compounds, lead, Some of these chemicals were developed in the Western world and directly applied under Indian conditions without screening; resulting in resistance build up.
+
+Over the years the target organism has evolved new races or mutations which are tolerant to more powerful chemicals with inbuilt resistance. Planters never bothered to use pesticides diligently. We are suggesting a simple, yet effective approach of integrated pest management (IPM) in controlling and not eliminating pest and disease incidence.
+
+![Dsc01261](Dsc01261.jpg)
+
+This article simplifies many aspects about microbial inoculants and tries to give an in-depth information on the nature friendly biological system.
+
+### Microbial Inoculants
+
+Microorganisms can be effectively used as a safe and alternative method in controlling insect pests. Microorganisms that affect insects are termed ENTOMOPATHOGENS. Microbial inoculants or bio agents are Entomogenous microorganisms and or their products that cause pathologies and are usually fatal to their insect hosts.
+
+Almost 1500 insect pathogens have been isolated worldwide but unfortunately less than one per cent has been exploited for commercial value. About 5 or 6 of them have been tried commercially. Their role includes disease initiation in target insects or to suppress harmful insect population directly or in combination with chemical insecticides or pesticides. Entomopathogens multiply in nature if the environment is conducive and cause infections on the target organism. Scientists have proved that microbial inoculants pose little human or environmental damage.
+
+![Dsc01550](Dsc01550.jpg)
+
+### Prerequisites of Microbial Inoculants
+
+-   Bio inoculants should be highly virulent to the target organism.
+-   Should be stable to the stress of nature.
+-   Virulence should be confined to the species of insects for which it is treated (Should be host specific).
+-   Should neither damage the crop, nor harm beneficial insects and micro flora and predators and animals.
+-   Should be easily mass culturable.
+-   Should be stable for a long period of time.
+
+![Dsc01792](Dsc01792.jpg)
+
+### Advantages of Microbial Inoculants
+
+-   They are environment friendly and leave behind no toxic residues.
+-   Most of them target the specific insect and in turn protect beneficial insects.
+-   Most inoculants are easily culturable in the lab, with minimum space.
+-   Inexpensive to produce large quantities of inoculum.
+-   Slowness in developing resistance to microbial pathogens.
+-   Can control insect in cavities where chemical insecticides cannot reach.
+-   In a way, we try to mimic nature by releasing them into an open environment.
+
+![Dsc01901](Dsc01901.jpg)
+
+Microbial inoculants can be used in two ways.
+
+1.  SHORT TERM CONTROL: For a particular season (annual) or by using highly virulent pathogens.
+2.  LONG TERM CONTROL: Generally used for perennial crops and less virulent pathogens are preferred.
+
+### Disadvantages of Microbial Inoculants
+
+-   Necessity for careful and correct time of application.
+-   Host specificity of most pathogens, narrows down its use.
+-   Necessity of maintaining a pathogen in a viable condition, until the insect is contacted.
+-   Difficulty in producing some obligate and facultative pathogens on a large scale.
+-   Requirement of favorable environmental conditions for the pathogen to act, multiply and execute its mode of action.
+-   Tendency of dead insects remaining attached to the host.
+
+![Dsc02222](Dsc02222.jpg)
+
+### Bacteria
+
+There are approximately 100 species of bacteria pathogenic to insect pests but hardly one per cent among these is used as biocontrol agents. Bacteria belonging to the family Bacillaceae, Lactobacillaceae, Micrococcaceae, Pseudomonadaceae and Enterobacteriaceae are generally found pathogenic to insect hosts. For example the most commonly used Bacteria in biological control of insect pests, Bacillus thuringiensis which is a spore former, was first isolated by a German by name Berliner in 1915 and was subsequently known to control several insect pests. Even today it is known as one of the most virulent bacterial pathogen which kills many larval forms of lepidopterous insects. It affects more than 175 larval species that include some of the most important economic pests. It can also be mixed with a number of commercial insecticidal formulations and is gaining ground in integrated pest management.
+
+There are many other species of bacteria which are used in biological control of insect pests such as Aerobacter aerogenes and Escherichia coli, Bacillus popilliae, Bacillus sphaericus, Bacillus moritai, Bacillus lentimorbus are already used in commercial preparations. These bacteria form a toxic crystal protein which acts as a stomach poison inside the insect host resulting in the quick death of the insect. The above mentioned genus of bacteria attack mostly members of the insect family belonging to Hemiptera, Diptera, Coleoptera and Lepidoptera.
+
+Some species of bacteria in addition to forming toxic spores produce crystalline inclusions within the sporulating cell which aids in killing the target insect. Bacillus popilliae and Bacillus lentimorbus when sprayed in the field invade the insect and gains entry into the blood system. This acts as a good medium for the growth and proliferation of the microorganism. The bacteria sporulates causing imminent death of the insect and once death occurs the bacterial spores are released into the atmosphere and soil and remain there for extended periods of time. These spores may in turn infect newly hatched beetle larvae and in turn infect it.
+
+![Dsc02515](Dsc02515.jpg)
+
+### Fungi
+
+Fungi belonging to the family Deuteromycetes and Entomopthora causes mycosis in insects. More than 800 fungal species comprising of 125 genera have been reported to infect insects. Probing a little deeper into this vast number of fungal species reveals that most harmful pests are associated with one fungi or the other. However, more work needs to be done in developing fungal biocontrol agents. They attack mostly members of the family Hemiptera, Lepidoptera and coleoptera. Approximately 100 genera of fungi are pathogenic to insects. Fungi penetrate the body directly. They invade insect’s body walls and spread in the softer tissues of insect body. Fungi infected insects show a thick mycelial mat covering the entire body of the insect.
+
+In nature the insect may either be exposed to the thick mycelial mat found on plants, leaf or soil or may also be exposed to toxic fungal metabolites either by cuticular contact by ingestion or by injection into the blood stream known as haemocoel.Beauvaria bassiana the white muscardine fungus is a potential bio inoculant against 700 species of insect pests. The green muscardine fungus Metarhizium anisopliae has been reported to effectively control a large number of target organisms.
+
+![Dsc03663](Dsc03663.jpg)
+
+### Viruses
+
+Insect viruses fall into five major groups. They belong to the family Baculoviridae.
+
+1.  NUCLEOPOLYHEDROSIS VIRUSES {NPV}
+2.  GRANULOSIS VIRUSES {GV}
+3.  CYTOPLASMIC POLYHEDROSIS VIRUSES {CPV}
+4.  NON INCLUSION VIRUSES {NIV}
+5.  ENTOMOPOX VIRUSES {EPV}
+
+![Dsc02641](Dsc02641.jpg)
+
+More than 800 viruses have been isolated that target ARTHROPOD insect pests. Since insect viruses are absent in vertebrates and plants, they are safe not only to human beings, but also to no target organisms. Insect viruses are obligate parasites and hence need to be cultured in living hosts. The target pest is reared in the laboratory or factory and mass multiplying the virus by inoculating it. Nucleopolyhedrosis virus is the most commonly used for insect pest control.
+
+When viral biocide is sprayed in the field, the viral particles get attached to the foliage and the insect larvae feed and in turn ingest the polyhedral inclusion bodies (PIB). The pib in turn multiply inside the midgut and bring about larval mortality. These protein crystals are insoluble in water and are produced in geometrical proportions and after killing the insect, get released into the surrounding atmosphere. The crystals can reinfect live insects and retain their infectivity even after long storage outside the living tissue of plants.
+
+### Protozoa
+
+Protozoa belonging to the family Nosematidae has shown great promise as a bio inoculant. Approximately 375 species of protozoa have been found to be pathogenic on various harmful insects. Nosema locustae has been tried out in the control of grasshoppers.
+
+![Dsc04168](Dsc04168.jpg)
+
+### Nematodes
+
+Nematodes parasitic on insects like rootworms, grubs, caterpillars have been recorded from early times.
+
+### Mode of Action
+
+The two main factors in controlling the disease are by INVASIVENESS AND INITIATION of disease. The site of entry of bio inoculants may be broken or bruised integuments or by feeding habits of the insects or other openings. When attacking any insect the quantity and quality of inoculum is important. In essence the control of the disease depends on the capacity of the microbial inoculum to rapidly establish itself and multiply in large numbers, resulting in severe infection of the pathogen concerned.
+
+The time lag between the entrance of microorganisms into the body of the insect and the incubation period within varies from pathogen to pathogen and insect to insect. Proliferation and disease control are controlled by environmental factors to a large extent and internal host characteristics to a small extent. The mode of action may be due to the production of ENDO or EXO toxins.
+
+![Dsc05572](Dsc05572.jpg)
+
+Broadly bioagents which attack insect pests can be classified as follows.
+
+1.  OBLIGATE BIOAGENTS: These bio agents in nature are associated with a specific insect disease and are difficult to culture in artificial media. E.g. Bacillus popilliae causing milky diseases of white grubs and Bacillus larvae causing American foulbrood of bees.
+2.  SPORE FORMING BIO AGENTS: The protein crystals formed by these sporulating bio inoculants are highly toxic to the target agent. E.g. Bacillus cereus produces such toxins.
+3.  DETERMINATIVE BIOAGENTS: The bio agents get activated; once inside the host. They multiply in the haemocoele of insect and produce lethal septicemia.
+4.  FACULTATIVE BIOAGENTS: The host tissue is damaged by the invasion of the bio agent but they are not obligate parasites.
+5.  PREDACEOUS BIOAGENTS : The bio agent either secretes a sticky substance or builds up.
+
+![Dsc06394](Dsc06394.jpg)
+
+### Conclusion
+
+We are certain that mankind has not provided adequate resources in terms of money, research and time in search for naturally occurring or safe alternate methods of pest control. It is simply because our mind is tuned towards shortcuts and profits. The use of bio inoculants or their by products is under exploited. The dangers of chemical poisons are there for all to see, right from water bodies to food chains, all of nature too is affected. Due to the accumulation of toxic metabolites in the air as well as soil system, it will result in creating immunity to dangerous pests.
+
+The genetic population of future generation will be the one, where less susceptible individuals are left to breed. They leave behind untold miseries for the future children of this planet including wild life habitat, birds, fish, mammals etc. Their long term effect on the environment cannot be quantified by scientists sitting in the laboratories. We need a more intelligent way of using chemicals. On the other hand if we can only apply ourselves to the fact that evolution has all the answers to our problems, it will only be a short time before we discover natural agents which will aid in biological control of pests and diseases. This approach will make the world a better place for all to live and share.
+
+MICROBIAL INOCULANTS result in much greater protection for both flora and fauna. It is like a NATURAL system taking place in nature. We do not imply that modern technology should be abandoned. On the contrary we need to focus on INTEGRATED PEST MANAGEMENT which will give us a better hope for tomorrow. This technology has been successfully tried out in many developed countries like the U.S.A., Canada, and Germany where it is used on several agricultural crops, trees and ornamental shrubs. It has been found to be economically viable and most importantly environment friendly. Microbial inoculants open up a world of opportunities. They create living spaces which bring about harmony in nature. We are blessed people to live on this bio diverse rich planet.
+
+![Dsc08394](Dsc08394.jpg)
+
+### References
+
+Alexander ,M. 1974 . Microbial Ecology. New York. John Wiley and sons.
+
+Alexander ,M. 1977 . Introduction to soil Microbiology. 2nd edition. New York. John Wiley and sons.
+
+Adams, P. B. 1990 . The potential of mycoparasities for biological control of plant diseases. Annu. Rev. Phytopathol. 28: 59-72.
+
+Burges, H. D and N.W. Hussey . 1971 . Microbial control of insects and mites. Academic press. London.
+
+Coffee Guide. Sixth edition,2000. Central Coffee Research Institute, Coffee research station, Chickmagalur District. Karnataka.
+
+Duffy, B. K., A. Simon, and D.M. Weller. 1996. Combinations of Trichoderma koningii with fluorescent pseudomonads for control of take -all on wheat. Phytopathology 86 : 188-194.
+
+Fravel, D. R ., J.J. Marois,, R. D. Lumsden, and W.J. Connick. 1985. Encapsulation of potential biocontrol agents in an alginate-clay matrix. Phytopathology 75 : 774-777.
+
+Graham,H. J and J.M. Mitchell , 2002. Biological control of soil borne plant pathogens and nematodes (chapter 19 ). In Principles and applications of soil microbiology. Edited by David M Sylvia, J.J. Fuhrmann, Peter G Hartel and David A Zuberer. Prentice Hall. Upper Saddle River, NJ 07458.
+
+Harman. G. E., A.G. Taylor, and T.E. Statz. 1989. Combining effective strains of Trichoderma harzianum and solid matrix priming to improve biological seed treatments. Plant Dis 73 : 631-637.
+
+National Academy of Sciences. 1981. Microbial Processes : Promising Technologies for Developing Countries. N.A.S. Washington, D.C.

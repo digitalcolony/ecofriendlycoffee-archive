@@ -1,0 +1,38 @@
+---
+import { getCollection } from "astro:content";
+import BaseHead from "../../components/BaseHead.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+import CardList from "../../components/ui/CardList.astro";
+
+// Simple metadata
+const title = "Authors";
+const description = "Browse all authors on INeedCoffee";
+
+// Get authors from the content collection
+let authors: { slug: string; displayName: string }[] = [];
+try {
+	const fetchedAuthors = await getCollection("authors");
+	authors = fetchedAuthors
+		.map((author) => ({
+			slug: author.data.authorSlug,
+			displayName: author.data.author || author.data.authorSlug.replace(/-/g, " "),
+		}))
+		.sort((a, b) => a.displayName.localeCompare(b.displayName));
+} catch (error) {
+	console.error("Failed to fetch authors collection:", error);
+}
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<CardList items={authors} title="EcofriendlyCoffee Authors" basePath="author" />
+		</main>
+		<Footer />
+	</body>
+</html>

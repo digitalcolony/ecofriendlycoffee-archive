@@ -1,0 +1,95 @@
+---
+id: "eco-friendly-coffee-and-bird-communication"
+title: "Eco-friendly Coffee And Bird Communication"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "bird-friendly-shade-coffee"
+category: "Bird friendly shade coffee"
+publishedDate: "2020-07-06T09:43:17"
+updatedAt: "2020-07-06T09:43:17"
+wordpressId: 47876
+---
+
+At the outset. We would like to inform the readers that we have worked on the bird biodiversity of eco-friendly Indian Coffee Plantations for over three decades. This has resulted in the publication of our first volume, titled Eco-friendly Shade Coffee, in the year 2009. We have recorded more than 125 species of birds inside shade coffee. This article in particular highlights, Bird Communications pertaining to Birds inside shade coffee Plantations.
+
+Shade-grown eco-friendly Indian coffee forests are a part of the Western Ghats, a hot spot of biodiversity in terms of harboring rare flora and fauna. There are over 508 species of birds reported from Karnataka. A bulk of these is from the Western Ghats and sixteen species of these are endemic to this region.
+
+Indian Bird-friendly coffee Plantations are situated at high altitudes and are shade-grown under a diversified selection of forest trees. One look at these coffee forests and hidden inside the canopy of a three-tiered shade system is the famous school of life comprising of birds of various species. Inside these unique coffee forests, one can witness an incredible variety of rare, exotic, native, and endangered species of birds.
+
+![](2014Aug.-Dancing-Peacock-Slide-3-1024x575.jpg)
+
+We have observed bird behavior, especially the way birds communicate among and between species and were wonderstruck with their advanced levels of communication. The song of birds can be soothing and inspiring. A close look at birds and one can see how birds use a song, call notes, and behavior to communicate with each other. For Example. The black-rumped flame back, also known as the lesser golden-backed woodpecker or lesser golden back, is a woodpecker found widely distributed inside coffee forests. It is one of the few woodpeckers that has a characteristic rattling-whinnying call. At first, we were under the impression that the tapping sound made by the woodpecker was a result of the impact of the hammering onto the trees. Only when we spoke to bird experts, did we know that woodpeckers do not have vocal cords. Both the males and females have the ability to peck trees, and none of them has vocal cords, so they use the pecking as a way of communication as well. In fact, Woodpeckers advertise their presence by drumming rapidly on a tree. Different species have different time intervals between knocking. Another classical example is that of the Racket-tailed drongo. This bird can mimic the call of over two dozen bird species, either to warn them of impending danger or to associate themselves in a symbiotic relationship. Drongos don’t restrict mimicry to their breeding season alone. They make good use of this skill to invite babblers to stir up insects hidden in the foliage. These are just two examples, but we have many more which will be covered at a later date.
+
+Before understanding bird communications, it is important to distinguish between a bird call and a bird song. A bird call is distinguished from a bird song by being shorter in length and less musical. Typically a call is used as a form of alert or marker of location. At other times, birds make sounds to each other during flight, called flight calls. The Audubon society mentions that songs are used to defend territory and attract mates. Therefore, it’s the males that sing the most—usually during the breeding season. Songs are usually more complex and carry a clear pattern. Calls, on the other hand, tend to be shorter and simpler—often just one syllable long.
+
+### Why do birds communicate?
+
+Birds use songs, call notes, and other notes to primarily communicate with each other. At times birds use alarming sounds to scare off predators or to warn other birds about the danger. Especially during mating season, birds make various sounds to attract a mate or to defend their territory. Some use their voices to reclaim territory, staying in touch with flocks, warning chicks of impending danger, or for begging food as in chicks.
+
+Avian research data throws light on one very important aspect of bird behavior. It pertains to their vocalizations. Of approximately 10,000 bird species in the world, those categorized as songbirds represent about half. And many more birds make other vocalizations and mimic human sounds. Bird communication using sound includes singing, calls, squeaks, squawks, gurgles, warbles, trills, rattles, gulps, pops, whines, clicks, croaks, whistles, howls, tremolos, thumps, honks and many other sorts of sounds. Some birds make non-vocal sound by beating the air with their wings. Bird communication also happens through external displays, through feathers. All in all, birds use both visual and sound-based behaviors to communicate. Though some birds communicate largely through visual displays or sound, most birds use some combination of both.
+
+Bird communication changes with the seasons and times of the year in any given location. It’s at its peak during the winter months, because of thousands of migratory birds flock inside shade coffee from all over the world. Coffee Plantations act as refueling stops for these birds.
+
+We would like to quote from a very interesting article written by Jason Knight, Director at Alderleaf Wilderness College, titled “Using Bird Sounds to Locate Animals”. Jason writes that the first step in learning to interpret bird sounds is understanding how to recognize the difference between alarm calls and what is often referred to as baseline behaviors. Most songbird sounds can be categorized into one of five major categories of calls. The first four are considered baseline behaviors, while the fifth type of vocalization indicates a break in the baseline, where potential danger is being communicated. According to Jason, the five categories of Bird Sounds are Song. Companion Call, Juvenile Begging Calls, and Bird to bird aggression calls, and Alarm call.
+
+### Song
+
+Songs are generally longer vocalizations and often include a variety of notes in a sequence. A song indicates normal baseline behavior.
+
+### **Companion Call**
+
+Call notes are short communications, often single notes. They are generally used between mates or members of a flock to signal each other’s whereabouts and to point out food. These notes are commonly used when a group of birds is traveling and/or feeding. Companion calls are also considered baseline behavior.
+
+### **Juvenile Begging Calls**
+
+Baby birds in a nest will make a racket as they beg for food. Even after young birds have matured into juveniles, they will often follow the parent birds around while making distressed calls to beg for food.
+
+### **Bird to Bird Aggression Calls**
+
+Birds often compete for territory, mates, and food sources. It is quite common for two individuals of the same species to trade aggressive call notes back and forth, perform posturing, and even chase one another. While these aggression calls can sound very intense, they are yet another form of baseline behavior.
+
+### **Alarm Call**
+
+This type of call is what indicates that the bird has identified a potential danger/predator on the landscape. These calls are often short and can be louder and/or higher in pitch than companion calls.
+
+### Conclusion
+
+Over the past two decades, an increasing number of field studies combined with more scientific research has revealed that many species of birds have the ability to communicate with their own species as well as others by way of an elaborate language system through vocalizations and sonations, which humans find it difficult to decipher. The acoustic structures of avian calls show a high degree of variation in pitch, duration, shape, and repetition rate. What may just appear as bird calls or singing, in fact, may actually be discrete calls made of acoustically distinct individual sounds that carry a particular message. Hence, Understanding bird communications will in the long run help us in the conservation efforts, especially those of migratory and endangered birds.
+
+### References
+
+Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume-1.
+
+Bopanna, P.T. 2011.The Romance of Indian Coffee. Prism Books ltd.
+
+[Bird Communication](https://www.birds.cornell.edu/k12/bird-communication/)
+
+[Bird Communication: An Introduction](https://www.wildernesscollege.com/bird-communication.html)
+
+[Using Bird Sounds](https://www.wildernesscollege.com/bird-sounds.html)
+
+[How and Why Birds Sing](https://academy.allaboutbirds.org/birdsong/)
+
+[A Beginner’s Guide](https://www.audubon.org/news/a-beginners-guide-common-bird-sounds-and-what-they-mean)
+
+[Welcome To Your Online Guide To Birds And Bird Watching](https://www.allaboutbirds.org/news/)
+
+[All About Birds](https://www.allaboutbirds.org/news/how-to-listen-to-bird-song-tips-and-examples-from-the-warbler-guide/)
+
+[Bird vocalization](https://en.wikipedia.org/wiki/Bird_vocalization)
+
+[Western Ghats](https://en.wikipedia.org/wiki/Western_Ghats)
+
+[How Do Birds Communicate?](https://sciencing.com/birds-communicate-4567063.html)
+
+[How Can Coffee Help Or Harm Birds?](https://www.allaboutbirds.org/news/how-can-coffee-help-or-harm-birds/)
+
+[How can coffee plantations be more bird-friendly?](https://www.nationalgeographic.com/animals/2019/04/shade-trees-coffee-plantations-effect-bird-biodiversity/)
+
+[Bird vocalization](https://en.wikipedia.org/wiki/Bird_vocalization)
+
+[Western Ghats Coffee Plantations](https://www.conservationindia.org/articles/western-ghats-coffee-plantations-sustain-high-bird-diversity-in-india)
+
+[A Beginner’s Guide to Common Bird Sounds](https://www.audubon.org/news/a-beginners-guide-common-bird-sounds-and-what-they-mean)

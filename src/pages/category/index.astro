@@ -1,0 +1,42 @@
+---
+import BaseHead from "../../components/BaseHead.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+import CardList from "../../components/ui/CardList.astro";
+
+// Page metadata
+const title = "Sections";
+const description = "Browse all content categories on EcofriendlyCoffee";
+
+const category = [
+	{ slug: "biodiversity", displayName: "Biodiversity" },
+	{ slug: "bird-friendly-shade-coffee", displayName: "Bird friendly shade coffee" },
+	{ slug: "butterflies", displayName: "Butterflies" },
+	{ slug: "coffee-physiology", displayName: "Coffee Physiology" },
+	{ slug: "fertilizers", displayName: "Fertilizers" },
+	{ slug: "general", displayName: "General" },
+	{ slug: "global-warming", displayName: "Global Warming" },
+	{ slug: "mechanization", displayName: "Mechanization" },
+	{ slug: "microorganisms", displayName: "Microorganisms" },
+	{ slug: "multiple-cropping", displayName: "Multiple Cropping" },
+	{ slug: "organics", displayName: "Organics" },
+	{ slug: "pesticides", displayName: "Pesticides" },
+	{ slug: "pollination", displayName: "Pollination" },
+	{ slug: "reptiles", displayName: "Reptiles" },
+	{ slug: "soils", displayName: "Soils" },
+	{ slug: "water", displayName: "Water" },
+].sort((a, b) => a.displayName.localeCompare(b.displayName));
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<CardList items={category} title="EcofriendlyCoffee Categories" basePath="category" />
+		</main>
+		<Footer />
+	</body>
+</html>

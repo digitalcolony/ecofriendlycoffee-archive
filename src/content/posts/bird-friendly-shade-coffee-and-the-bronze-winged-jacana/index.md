@@ -1,0 +1,113 @@
+---
+id: "bird-friendly-shade-coffee-and-the-bronze-winged-jacana"
+title: "Bird Friendly Shade Coffee and the Bronze Winged Jacana"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "biodiversity"
+category: "Biodiversity"
+publishedDate: "2014-01-04T08:00:00"
+updatedAt: "2023-09-09T08:35:22"
+wordpressId: 29
+---
+
+All coffee Plantations in India are Shade grown under the canopy of a three tiered shade system, both native and introduced tree species. Robusta plantations have a fewer number of trees and the Arabica Plantations have a significantly higher level of a heterogeneous tree population.
+
+At any given point of time the day time temperatures are cool and due to the abundance of various wild fruit trees, the bird population is relatively high compared to monocultured coffee plantations. In recent years , the coffee forests are undergoing a sea change in terms of monocultured tree populations. This can spell disaster to the symbiotic partners which includes both the coffee community as well as the wildlife.
+
+![2014 BRONZE WINGED JACANA SLIDE-6-11725507593](2014-BRONZE-WINGED-JACANA-SLIDE-6-11725507593-1024x682.jpg)
+
+Scientific Name: Metropidious indicus
+
+Common Name: Bronze winged jacana
+
+Local name: Jal pipi
+
+We would once again like to stress that we have been deeply involved in studying the flora and fauna inside coffee forests for over 25 years. Our ultimate aim is to help the Coffee community to identify and conserve the biological riches within the confines of the coffee forests. The larger picture In mind is to help connoisseurs of coffee worldwide understand and appreciate the value of shade grown ecofriendly Indian coffee and pay the growing community a reasonable premium for the efforts in preserving biodiversity.
+
+We are happy that our passion for coffee ecology has translated into many positive aspects. Due to the fact that we have shared our scientific expertise to the world wide community involved in coffee and allied activities, it has helped people from all walks of life understand the role of the Indian coffee planter in maintaining the delicate ecological balance.
+
+![2014 BRONZE WINGED JACANA SLIDE-15-11725114964](2014-BRONZE-WINGED-JACANA-SLIDE-15-11725114964-1024x683.jpg)
+
+Today, many coffee planters have started documenting the flora and fauna inside their respective plantations and write to us in helping them identify different species of wildlife may it be mammals or reptiles or birds. Many Research organizations both Local and global are now tracking the abundance of wildlife species within the confines of the coffee forests.
+
+This is a welcome trend because very little work has been done in identifying the flora and fauna right up to the species level and a lot more needs to be done. Very recently we had a team of wildlife experts who visited our Plantation, requesting us to help organize a visit to coffee plantations located in different agroclimatic regions in mapping the abundance of bird species. On the local and International front , there is very little scientific data on the abundance of bird species inside shade grown ecofriendly Indian coffee forests.
+
+![2014 BRONZE WINGED JACANA SLIDE-4-11726069276](2014-BRONZE-WINGED-JACANA-SLIDE-4-11726069276-1024x683.jpg)
+
+### Wildlife Refuge
+
+Every Plantation acts as a wildlife sanctuary. Rare species of birds and a multitude of migratory birds often nest inside the coffee plantations. All estates have waterholes for the purpose of irrigation. In fact, our Estate known as KIREHALLI, literally translates to “Estate full of lakes or tanks”. At present, we have six Tanks; each measuring one and a half acres and 20 feet in depth. These tanks act as watersheds and attract different species of aquatic and semi aquatic bird species both resident and migratory.
+
+This brief article provides insights with respect to the Bronze Winged Jacana’s behaviour which is commonly observed in both aquatic and semi aquatic habitats.
+
+### IDENTIFICATION
+
+Head, neck and breast of Bronze winged jacana are glossy black while back and wings are metallic greenish bronze in color. It has bronze coloured wings with chestnut stub tail. There is a broad white stripe behind the eyes to the nape. Toes are spider like that helps the jacana to walk in leaves over the water. Also known as leaf walker.
+
+![2014 BRONZE WINGED JACANA SLIDE-5-11726047366](2014-BRONZE-WINGED-JACANA-SLIDE-5-11726047366-1024x682.jpg)
+
+The Bronze winged Jacana are commonly observed in both big and small irrigation ponds and are also known to inhabit still or slow flowing bodies of water like streams and rivulets and wetlands. and are easily distinguishable by their bronze coloured wings, long legs and elongated toes. The striking feature of these birds is that they have a well distributed body weight due to their long legs, allowing them to walk freely on lotus or on any floating aquatic vegetation.
+
+The females are larger than the males.These birds are not great flyers due to the fact that they have short wings. When disturbed they immediately take off and glide to a nearby isolated spot. Just in case the bird is startled to find some one too close, it immediately sits motionless on the surface of lotus or reeds and tries to cover itself with vegetation so as to camouflage its appearance. This strategy works very well and we have observed that it is almost impossible to trace the bird once it goes into hiding, even though it may be sitting right in front of ones eyes. The female lays four black-marked brown eggs in a floating nest.
+
+The males, as in some other wader families like the phalaropes, take responsibility for incubation. Can be single or in a group. The female jacana is polyandrous (it can mate with two or more males at the same time).
+
+Status: Least Concern according to ICUN
+
+![2014 BRONZE WINGED JACANA SLIDE-11-11725227853](2014-BRONZE-WINGED-JACANA-SLIDE-11-11725227853-1024x683.jpg)
+
+### JUSTIFICATION (BIRD LIFE INTERNATIONAL)
+
+This species has an extremely large range, and hence does not approach the thresholds for Vulnerable under the range size criterion (Extent of Occurrence <20,000 km2 combined with a declining or fluctuating range size, habitat extent/quality, or population size and a small number of locations or severe fragmentation). The population trend is not known, but the population is not believed to be decreasing sufficiently rapidly to approach the thresholds under the population trend criterion (>30% decline over ten years or three generations). The population size is very large, and hence does not approach the thresholds for Vulnerable under the population size criterion (<10,000 mature individuals with a continuing decline estimated to be >10% in ten years or three generations, or with a specified population structure). For these reasons the species is evaluated as Least Concern.
+
+![2014 BRONZE WINGED JACANA SLIDE-1-11725379375](2014-BRONZE-WINGED-JACANA-SLIDE-1-11725379375-1024x682.jpg)
+
+Diet: The bird is mainly carnivorous and feeds on insects, small fish, molluscs, beetles, larvae, earthworms, millipedes, snails, spiders grasshoppers and crickets. They also feed on seeds of aquatic plants.
+
+Social Behaviour: We have observed a flock of six to eight Jacanas sharing the same territory. The birds also closely feed in the presence of other aquatic and semi aquatic birds like the purple moorhen, egrets, pond herons, whistling teals, and the white breasted water hen.
+
+### Conclusion
+
+Birds are the most conspicuous and significant component of freshwater wetland ecosystem. Presence or absence of birds may indicate the ecological conditions of the wetland area. We have noticed varied Bronze Winged Jacana populations from year to year and this fluctuation in population needs to be studied further. This study is important because bird population parameters such as species richness, abundance, decline, relative density and diversity are often used by researchers as indicators of ecosystem health.
+
+We are of the opinion that since most of the ponds and water bodies within the confines of the coffee plantation are situated at the lower end of the landscape, there is every chance that these water bodies could get contaminated with nitrates and phosphates which are frequently applied as a chemical fertilizer for multi crops inside coffee. Wild birds as biological indicators of environmental pollution has the potential to warn us of the possible threats to the coffee ecosystem. Further research will enable us to establish a direct link between chemical pollution and environmental health.
+
+![2014 BRONZE WINGED JACANA SLIDE-12-11725263603](2014-BRONZE-WINGED-JACANA-SLIDE-12-11725263603-1024x682.jpg)
+
+### References
+
+[Full gallery](http://www.flickr.com/photos/108766628@N08/sets/72157639340967905/)
+
+[http://ecofriendlycoffee.org/eco-friendly-indian-coffee-a-profile/](http://ecofriendlycoffee.org/eco-friendly-indian-coffee-a-profile/)
+
+[http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-brahminy-kite/](http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-brahminy-kite/)
+
+[http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-pied-kingfisher/](http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-pied-kingfisher/)
+
+[http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-black-crowned-night-heron/](http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-black-crowned-night-heron/)
+
+[http://ecofriendlycoffee.org/a-symphony-of-birds-inside-coffee-forests/](http://ecofriendlycoffee.org/a-symphony-of-birds-inside-coffee-forests/)
+
+[http://ecofriendlycoffee.org/aquatic-birds-of-the-western-ghats/](http://ecofriendlycoffee.org/aquatic-birds-of-the-western-ghats/)
+
+[http://ecofriendlycoffee.org/coffee-forests-and-green-national-accounts/](http://ecofriendlycoffee.org/coffee-forests-and-green-national-accounts/)
+
+[http://ecofriendlycoffee.org/coffee-forest-symbiosis/](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+
+[http://ecofriendlycoffee.org/coffee-forests-and-wildlife-credits/](http://ecofriendlycoffee.org/coffee-forests-and-wildlife-credits/)
+
+[http://thewebsiteofeverything.com/animals/birds/Charadriiformes/Jacanidae/Metopidius-indicus](http://thewebsiteofeverything.com/animals/birds/Charadriiformes/Jacanidae/Metopidius-indicus)
+
+[http://sta.uwi.edu/fst/lifesciences/documents/Jacana\_jacana.pdf](http://sta.uwi.edu/fst/lifesciences/documents/Jacana_jacana.pdf)
+
+[http://www.bhopalbirds.com/bird/Bronze%20winged%20jacana](https://web.archive.org/web/20160317170454/http://www.bhopalbirds.com/bird/Bronze%20winged%20jacana)
+
+http://www.birdlife.org/datazone/speciesfactsheet.php?id=3073
+
+Bopanna, P.T. 2011.The Romance of Indian Coffee. Prism Books ltd. Perrins, C. (Ed.). (2003).
+
+Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume-1.
+
+BirdLife International (2014) Species factsheet: Metopidius indicus. Downloaded from [http://www.birdlife.org](http://www.birdlife.org)

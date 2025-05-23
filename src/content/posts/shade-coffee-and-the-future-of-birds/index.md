@@ -1,0 +1,193 @@
+---
+id: "shade-coffee-and-the-future-of-birds"
+title: "Shade Coffee and The Future of Birds"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "biodiversity"
+category: "Biodiversity"
+publishedDate: "2015-08-02T10:22:10"
+updatedAt: "2019-01-15T17:53:15"
+wordpressId: 1322
+---
+
+India’s shade grown Ecofriendly Coffee zones are experiencing extremes in weather conditions due to the human induced climate change.
+
+![2015 Aug. Shade & future of birds- (1)](2015-Aug.-Shade-future-of-birds-1-1024x683_f_improf_604x403.jpg)
+
+Our field observations in various coffee Agro climatic conditions spread over 25 years, clearly reveals a startling picture.
+
+![2015 Aug. Shade & future of birds- (5)](2015-Aug.-Shade-future-of-birds-5-1024x683.jpg)
+
+It’s a wakeup call to tackle the crisis head on. Habitat conditions over the years has steadily declined.
+
+![Black-rumped Flameback](2015-Aug.-Shade-future-of-birds-6-1024x683_f_improf_604x403.jpg)
+
+In many coffee zones, decline in habitat conditions is due to excess of precipitation during the summer or winter months and drought like conditions during the monsoon period.
+
+![2015 Aug. Shade & future of birds- (2)](2015-Aug.-Shade-future-of-birds-2-1024x683.jpg)
+
+These climatic changes has profoundly impacted the fruit set in many wild fruit bearing trees. It has also had a chain effect.
+
+![Glossy Ibis](2015-Aug.-Shade-future-of-birds-3-1024x683_f_improf_604x403.jpg)
+
+Unfortunately, the future does not look promising for birds. As climate impacts birds and other wildlife, they have to move to uncharted territory and adapt quickly to the changing situations.
+
+![2015 Aug. Shade & future of birds- (4)](2015-Aug.-Shade-future-of-birds-4-1024x683.jpg)
+
+In most cases lack of food, water, predators and dwindling natural resources compound the problem.
+
+![2015 Aug. Shade & future of birds- (7)](2015-Aug.-Shade-future-of-birds-7-1024x683.jpg)
+
+We are certain that similar problems exist in every corner of the globe.
+
+![Black Headed Ibis](2015-Aug.-Shade-future-of-birds-8-1024x683.jpg)
+
+The Earth is undergoing profound changes to its climate.
+
+![2015 Aug. Shade & future of birds- (9)](2015-Aug.-Shade-future-of-birds-9-1024x683.jpg)
+
+Global warming has raised the planet’s average surface temperature about 1.5 degrees Fahrenheit since the Industrial revolution.
+
+![2015 Aug. Shade & future of birds- (10)](2015-Aug.-Shade-future-of-birds-10-1024x683.jpg)
+
+This impact on Climate Change is largely driven by human greed rather than human need.
+
+![2015 Aug. Shade & future of birds- (11)](2015-Aug.-Shade-future-of-birds-11.jpg)
+
+In our opinion, Humans are directly responsible for most of the threats to wildlife. Some of these threats include habitat loss, land degradation and fragmentation, pollution and overexploitation of the Planet’s finite natural resources.
+
+![2015 Aug. Shade & future of birds- (12)](2015-Aug.-Shade-future-of-birds-12-1024x683.jpg)
+
+In the coming years, human induced global warming may be the most serious threat, not only to wildlife but to all of humanity, jeopardizing the life sustaining ability of our Green Planet .
+
+![2015 Aug. Shade & future of birds- (13)](2015-Aug.-Shade-future-of-birds-13-1024x683.jpg)
+
+Bird populations around the world are excellent bio indicators which provide crucial insights into the effects of climate change on ecosystems.
+
+![Stork-billed Kingfisher](2015-Aug.-Shade-future-of-birds-14-1024x683_f_improf_604x403.jpg)
+
+All species of birds appear to be very sensitive to changes in climate, and evidence seems to indicate that this sensitivity makes them primary indicators of global climate change.
+
+![2015 Aug. Shade & future of birds- (15)](2015-Aug.-Shade-future-of-birds-15-1024x682.jpg)
+
+They are among the best studied and monitored for changes occurring due to the impact of global warming. Scientists have found declines of up to 90% in some bird populations, as well as total and unprecedented reproductive failure in others.
+
+![2015 Aug. Shade & future of birds- (16)](2015-Aug.-Shade-future-of-birds-16-1024x683.jpg)
+
+Currently, there are 10,425 known living species of birds, 21 percent of which are currently prone to extinction due to a wide variety of threats.
+
+![2015 Aug. Shade & future of birds- (17)](2015-Aug.-Shade-future-of-birds-17-1024x683.jpg)
+
+Climate change is already having a strong negative impact on birds, affecting bird’s behaviour, distribution and population dynamics across Europe, say a group of scientists publishing their findings to create the world’s first indicator of the climate change impacts on wildlife at a continental scale.
+
+![2015 Aug. Shade & future of birds- (18)](2015-Aug.-Shade-future-of-birds-18-1024x683.jpg)
+
+More than 350 of the Planet’s most important sites for nature are threatened according to a new report by Bird Life International. Bird and biodiversity areas are places of International significance for the conservation of the world’s birds.
+
+![Greater Egret](2015-Aug.-Shade-future-of-birds-19-1024x683.jpg)
+
+In the Indian context, 10 important bird and biodiversity areas (IBA’s) are in grave danger, especially the Western Ghats bird endemic areas.
+
+![2015 Aug. Shade & future of birds- (20)](2015-Aug.-Shade-future-of-birds-20-1024x683.jpg)
+
+It’s only going to get worse, since extreme weather events are becoming more severe.
+
+![2015 Aug. Shade & future of birds- (21)](2015-Aug.-Shade-future-of-birds-21-1024x683.jpg)
+
+Many birds are forced to shift their predictable ranges to survive and in this battle of quick adaptation, one can often see more losers than winners, resulting in significant loss of bird species which are already threatened or fail to adapt to a new environment.
+
+![2015 Aug. Shade & future of birds- (22)](2015-Aug.-Shade-future-of-birds-22-1024x683.jpg)
+
+Impact of climate change has an interesting paradox too. On one hand, the endangered and rare species suffer but on the other some species may benefit.
+
+![2015 Aug. Shade & future of birds- (23)](2015-Aug.-Shade-future-of-birds-23-1024x683.jpg)
+
+Both resident and migratory birds considered relatively safe may also suffer decline in populations. As the climate continues to change, some species won’t be able to find suitable habitats.
+
+![2015 Aug. Shade & future of birds- (24)](2015-Aug.-Shade-future-of-birds-24-1024x683.jpg)
+
+### **Effects of Climate Change**
+
+-   Birds are exposed to Harsh winters making it difficult for them to survive.
+
+![2015 Aug. Shade & future of birds- (25)](2015-Aug.-Shade-future-of-birds-25-1024x725.jpg)
+
+-   Migratory birds may have to change their migration routes, which is no easy task.
+
+![2015 Aug. Shade & future of birds- (26)](2015-Aug.-Shade-future-of-birds-26-1024x697.jpg)
+
+-   Wetlands which often act as refueling stops for migratory birds may vanish resulting in food shortage
+
+![2015 Aug. Shade & future of birds- (27)](2015-Aug.-Shade-future-of-birds-27.jpg)
+
+-   Many fruit and flowering trees have a delayed fruit set resulting in food shortages which force birds life cycle out of synchrony with plants upon which they depend.
+
+![2015 Aug. Shade & future of birds- (28)](2015-Aug.-Shade-future-of-birds-28-1024x683.jpg)
+
+-   Food shortages are already causing many bird species to starve to death, resulting in population decline.
+
+![2015 Aug. Shade & future of birds- (29)](2015-Aug.-Shade-future-of-birds-29-1024x628.jpg)
+
+-   Birds endemic (Present in a particular location) to the Western Ghats may find it difficult to cope up with the shortage of food supply and may be forced to nest at different times in response to changing availability of food they depend on to feed the young.
+
+![2015 Aug. Shade & future of birds- (30)](2015-Aug.-Shade-future-of-birds-30-1024x683.jpg)
+
+-   Birds nesting close to river banks or low lands will have their nests washed away by increased flooding due to sudden down pours.
+
+![2015 Aug. Shade & future of birds- (31)](2015-Aug.-Shade-future-of-birds-31-1024x683.jpg)
+
+-   Salt water ingression into fresh water ecosystems will damage fragile aquatic habitats, killing fish and other insect life, there by affecting the birds that depend on them.
+
+### Conclusion
+
+![2015 Aug. Shade & future of birds- (32)](2015-Aug.-Shade-future-of-birds-32-1024x683.jpg)
+
+Since birds are excellent bioindicators of climate change, more studies need to be carried out with respect to the adaptation of both migratory and resident birds.
+
+![5](2015-Aug.-Shade-future-of-birds-33-1024x683_f_improf_604x403.jpg)
+
+We quote from the article “Bird Migration-The Future” written by “Liz McKenzie”.  Quote ” One of the most interesting forms of tropical agriculture is shade-grown coffee plantations.
+
+![2015 Aug. Shade & future of birds- (34)](2015-Aug.-Shade-future-of-birds-34-1024x683.jpg)
+
+Many species—including familiar North American backyard songbirds—thrive on these traditional farms.
+
+<figure id="attachment_1367" aria-describedby="caption-attachment-1367" style="width: 604px"><img loading="lazy" decoding="async" src="2015-Aug.-Shade-future-of-birds-352-1024x785.jpg" alt="Rock Bush Quail (Male)"><figcaption id="caption-attachment-1367">Rock Bush Quail (Male)</figcaption></figure>
+
+But newly developed coffees are grown in full sunlight, so the shady forests essential for wintering birds are being cut down.
+
+![2015 Aug. Shade & future of birds- (36)](2015-Aug.-Shade-future-of-birds-36-1024x683.jpg)
+
+Today, even the largest buyers of coffee beans only use shade grown coffee in a small percentage of their coffee products, if at all.
+
+![2015 Aug. Shade & future of birds- (37)](2015-Aug.-Shade-future-of-birds-37-1024x683.jpg)
+
+But we can vote with our pocketbooks. Every time we buy or drink coffee, we can help the birds by asking for shade-grown varieties.
+
+![2015 Aug. Shade & future of birds- (38)](2015-Aug.-Shade-future-of-birds-38-683x1024.jpg)
+
+We can help migratory birds in other ways, too. For example, runoff from herbicides, pesticides and fertilizers affects many habitats that are important to birds and their growing young—forests, farmlands, wetlands, rivers, and lakes.
+
+![Pied Kingfisher](2015-Aug.-Shade-future-of-birds-39-1024x768_f_improf_604x453.jpg)
+
+Even lawn care products can be harmful for birds that feed in our yards or nest nearby. Small decisions we make each day can help to bring the colour of birds and the beauty of their songs into our lives”.
+
+![Lesser Yellownape](2015-Aug.-Shade-future-of-birds-40-1024x683_f_improf_604x403.jpg)
+
+### Acknowledgement
+
+These birds inside Shade Grown Ecofriendly Coffee Forests were shot by **Mr. Ashley Rasquinha,** “Jt. Managing Director”, Electropneumatics and Hydraulics, during his visits to different wildlife Sanctuaries and his wanderings in Nature. Ashley is a avid Bird watcher and brings out a calendar on Wildlife each year to help people understand the value of wildlife conservation.
+
+### References
+
+Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume – 0ne.
+
+http://www.isfoundation.com/news/flight-change-journey-future-birds
+
+[http://futureofbirds.blogspot.in/](http://futureofbirds.blogspot.in/)
+
+[http://www.popsci.com/article/science/birds-future-avian-winners-and-losers-2075](http://www.popsci.com/article/science/birds-future-avian-winners-and-losers-2075)
+
+[http://www.encountersnorth.org/wildexplorer/birdmigration/in-our-hands.html](https://www.encountersnorth.org/bird-migration-summary/2017/8/2/in-our-hands-the-future-of-migratory-birds)

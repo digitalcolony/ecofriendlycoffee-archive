@@ -1,0 +1,135 @@
+---
+id: "flying-dragon-and-eco-friendly-shade-coffee"
+title: "Flying Dragon And Eco – friendly Shade Coffee"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "biodiversity"
+category: "Biodiversity"
+publishedDate: "2019-04-01T23:23:16"
+updatedAt: "2019-12-11T10:54:23"
+wordpressId: 4367
+---
+
+Eco-friendly Coffee Plantations in India are located in the **Western Ghats** also known as the Sahyadri (Benevolent mountain) mountain ranges that runs parallel to the western coast of the Indian peninsula, located entirely in India. It is a UNESCO World Heritage Site and is one of the eight “hottest hot-spots” of biological diversity in the world. The Western Ghats include a diversity of ecosystems ranging from tropical wet evergreen forests to montane grasslands containing numerous medicinal plants and important genetic resources such as the wild relatives of grains, fruit and spices. They also include the unique shola ecosystem which consists of montane grasslands interspersed with evergreen forest patches. We had started mapping the biodiversity of the western Ghats in relation to coffee Plantations for over three decades and have compiled a book titled Eco-friendly shade coffee, Volume 1.(2009). The book documents the rich flora and fauna present inside coffee forests and how these forests are vital links in terms of migratory corridors for mammals and refuelling stops for birds.
+
+This particular paper throws light on the morphology and habitat of the flying lizard that is present inside coffee forests. Despite the fact that these lizards are quite high in numbers it is difficult to spot them because they live on very tall trees and blend very well with the bark of trees.
+
+### Common Name
+
+Draco Lizard (Flying Dragon)
+
+### Scientific Name
+
+Draco volans
+
+### Type
+
+Reptiles
+
+### Diet
+
+ Insectivores
+
+### Size
+
+Up to 8.4 in (female, including tail)
+
+### Morphology
+
+Flying draco (or dragon) lizards live in Southeast Asia, where they can grow up to 8 inches long, including tail. They have flattened bodies, which also aid in flight, and are a mottled brown in color. The undersides of their wings are blue in males and yellow in females. They also have a flap of skin on the bottom of their necks called a dewlap. This is bright yellow in males and bluish grey in females.
+
+![](IMG_0440-1024x683.jpg)
+
+### **Arboreal**
+
+They don’t actually fly but can glide up to 30 feet through the air, thanks to ribs that extend outward and skin membranes that serve as wings. They use this technique to travel between trees for mating, hunting and defense against both predators and interlopers.
+
+### **Species Diversity**
+
+The flying lizards of the genus *Draco* (family Agamidae) are widespread in Southeast Asia and southwest India. The genus is composed of approximately 45 species, with 39 currently recognized and several new species awaiting description.
+
+### **Habitat**
+
+Tall evergreen trees. All species of flying lizards are arboreal. Rarely come down to the ground. They spend most of their time in trees, favoring tropical rainforests and other wooded areas in the western ghats.
+
+### **Home Ranges**
+
+Jimmy A. and Robert Dudley (2011) in their research paper on the biology of gliding in flying lizards are of the strong opinion that Flying lizards are highly territorial and their home ranges generally encompass one to several trees (Alcala 1967; Mori and Hikida 1993, 1994). These trees are actively patrolled by males, with females moving freely among territories (Alcala 1967). Furthermore, it is apparent that males lacking territories move about the landscape in search of unoccupied territories; Mori and Hikida (1993) found that suitable territories were claimed soon (i.e., within a few hours) after a dominant male was removed. These horizontal movements through the landscape are almost entirely accomplished via gliding, as males only rarely come to the ground on their own volition.
+
+### **Behavior**
+
+The Flying Lizard is a diurnal species. This lizard is active from approximately 8:00 AM to 11:00 AM and then again after 1:00 PM into the afternoon. Between 11:00 AM and 1:00 PM, the lizard takes a break from normal activity. This is believed to allow the lizard to avoid the greatest light intensity during the day (Hairston, 1957). Males are generally more active then females during the day.
+
+![](IMG_0442-1024x683.jpg)
+
+### **Gliding**
+
+Even though they are referred to as flying lizards, they are not capable of powered flight but can efficiently glide from one tree to another. Their ribs and connecting membranes, extend to create wings, with flattened hind limbs and wing like in cross section, and a flap on the neck which serves as horizontal stabilizers. Scientific literature states that, these lizards can glide up to 200 feet. They use this technique to travel between trees for mating, hunting and defense against both predators and interlopers.
+
+### **Mating**
+
+The male and female run around the trees with short calls and opens up their flaps on the neck in a mock display and then mate. In times of danger too, a similar display has been observed.
+
+### Reproduction
+
+The female lizard descends to the ground and lays her eggs in the soil. She makes a nest hole by forcing her head into the soil.
+
+### **Eggs**
+
+Two to five eggs. The female guards the eggs for only 24 hours and then leaves everything to Mother Nature’s care. Then she returns to her tree, and the eggs hatch around a month later.
+
+### **Diet and Population Range**
+
+Flying Draco lizards tend to be active through the morning and afternoon hours although, during the brightest parts of the day, the lizards seem to prefer remaining in shade, avoiding intense sunlight, high temperatures or both. They prey on ants and termites, either racing up and down in pursuit of food or choosing a spot, perching with their heads facing upward and grabbing any insects that approach.
+
+### **Threats**
+
+![](IMG_0439-1024x683.jpg)
+
+Flying lizards live in tropical rain-forests. Habitat destruction negatively affects number of flying lizards in the wild. Luckily, population of flying lizards is stable and they are not on the list of endangered species.
+
+### IUCN Red List Status?
+
+Not Evaluated
+
+### Current Population Trend
+
+Unknown
+
+### Life Span
+
+Lifespan of flying dragons is unknown.
+
+### Conclusion
+
+There seems to be very little scientific data on the flying lizard of the Western Ghats. Many gaps, in terms of habitat preference, survivability and life span needs to be looked into.A indepth study on population and other aspects of the flying lizard will provide the planting community with an better understanding of the extent and underlying causes of their abundance or decline in any agro climatic zone. Loss of insects is certain to have adverse effects on ecosystem functioning, as insects play an pivotal role in a variety of processes.
+
+### References
+
+Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume-1.
+
+Bopanna, P.T. 2011.The Romance of Indian Coffee. Prism Books ltd.
+
+Hairston, Nelson G. 1957. Observations on the Behavior of Draco volans in the Philippines. Copeia No. 4, pp. 262-265.
+
+Jimmy A. McGuire Robert Dudley. (2011),The Biology of Gliding in Flying Lizards (Genus *Draco*) and their Fossil and Extant Analogs.
+
+*Integrative and Comparative Biology*, Volume 51, Issue 6, 1 December 2011, Pages 983– 990,
+
+[The Biology of Gliding](https://doi.org/10.1093/icb/icr090)
+
+[HABITAT OF A FLYING DRACO LIZARD](https://animals.mom.me/habitat-flying-draco-lizard-4088.html)
+
+[Flying lizards (draco) Facts](http://www.softschools.com/facts/animals/flying_lizards_draco_facts/451/)
+
+[Draco (genus)](https://en.wikipedia.org/wiki/Draco_\(genus\))
+
+[Western Ghats](https://www.wwfindia.org/about_wwf/critical_regions/western_ghats2/western_ghats/)
+
+[The Biology](https://academic.oup.com/icb/article/51/6/983/616030)
+
+[Draco Lizard](https://web.archive.org/web/20191107055437/https://www.nationalgeographic.com/animals/reptiles/d/draco-lizard/)
+
+[Draco volans Common Flying Dragon](https://animaldiversity.org/accounts/Draco_volans/)

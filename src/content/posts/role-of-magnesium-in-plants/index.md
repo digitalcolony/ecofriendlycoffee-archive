@@ -1,0 +1,71 @@
+---
+id: "role-of-magnesium-in-plants"
+title: "Role of Magnesium in Plants"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "fertilizers"
+category: "Fertilizers"
+publishedDate: "2021-06-15T22:43:11"
+updatedAt: "2021-06-15T22:43:11"
+wordpressId: 48071
+---
+
+We often apply Nitrogen, Phosphorus, and Potash as major nutrients in enhancing the yield of coffee and multiple crops associated with coffee. Many Coffee Planters, also use micronutrient combinations, either separately or in combination with straight fertilizers. Most Planters are aware that both major and minor nutrients are required for increased yields in coffee. However, there are three Secondary nutrients, namely Calcium, Magnesium, and sulfur which coffee needs. The important point is that these three elements are not considered as major but secondary nutrients because, the plant requires them in smaller quantities than nitrogen, phosphorus, and potash but in much higher quantities than all the micronutrients. Magnesium is one of the thirteen mineral nutrients which is vital to plant growth and health. Magnesium is involved in many physiological and biochemical processes in coffee and other crops. Magnesium comes from the soil and plays a pivotal role in the physiology of coffee and allied crops. When magnesium is dissolved in water, the roots absorb the magnesium ions and provide the necessary nutrition for plant growth and development.
+
+### Magnesium Absorption
+
+Magnesium is absorbed as the Mg2+ ion and is mobile in plants, moving from the older to the younger leaves.  
+Magnesium Leaching  
+It leaches from the soil like calcium and potassium.  
+Importance of Magnesium  
+Magnesium is the powerhouse behind photosynthesis and is the central element of the chlorophyll molecule. Its availability determines the efficiency of photosynthesis, with each molecule containing 6.7% magnesium.  
+Magnesium plays an important role in imparting the green color to leaves.  
+It is necessary for cell division and protein formation.  
+It acts as a precursor for different enzymes involved in respiration, plant growth, and development.  
+It is a constituent of many enzyme systems.  
+It is an essential component in nucleic acid synthesis.  
+It helps in phosphate metabolism and acts as a carrier of phosphate compounds through the plant.  
+It facilitates the translocation of sugars and starch and enhances the production of oils and fats.  
+Magnesium is responsible for cell membrane stabilization in all plants.  
+Induces heat stress-tolerance
+
+### Factors affecting Magnesium
+
+Soil texture, cation exchange capacity, agronomic practices, mixed cropping.  
+Causes for Deficiency  
+Since coffee is grown under an agroforestry model, coffee is associated with herbs, shrubs, and other plantation crops. Some of these crops are intensively cultivated and depending on the type of crop, the magnesium uptake is high. Magnesium which is taken up is not easily replenished annually, causing deficiency in soils.
+
+### Symptoms of Deficiency
+
+Magnesium is a mobile element, hence the lower or older leaves show symptoms of deficiency first. Older leaves show interveinal chlorosis. Chlorotic leaves develop spotted areas of dead tissue and leaves tend to curl. Leaves become yellow between the veins and around the edges. In acute cases of deficiency, the leaves may turn purple, red, or brown.  
+Magnesium deficiency in plants is noticeable in soils that are poor in organic matter.  
+Heavy rains can cause magnesium deficiency by leaching the magnesium out of sandy or acidic soils.  
+In Soils that are high in potassium, the plants tend to overlook magnesium, in favor of potash absorption, leading to deficiency of magnesium.
+
+### How to Overcome Deficiency
+
+The best way of addressing this problem is to provide compost every alternative year. In heavy rainfall areas, Coffee Planters use dolomite to correct the hydrogen ion concentration in acidic soils. By applying dolomite, it also provides magnesium. However, in instances, where dolomite is not required and soils show magnesium deficiency, then the best way to address the problem is to provide soluble sources of magnesium.
+
+### Fertilizer Magnesium
+
+The most common soluble sources of magnesium to use as fertilizer are magnesium sulfate (containing 10% Mg and 14% S, also known as Epsom salt), sulfate of potash magnesia (containing 11.2% Mg, 22% S, and 22% K2O, commercially sold as K-Mag), and magnesium oxide (containing 55% Mg, also known as magnesia).  
+Important Point to be noted  
+Calcium and magnesium both increase soil pH, but sulfur from some sources reduces soil pH.
+
+### Conclusion
+
+Magnesium plays a critical role in maintaining crop productivity in coffee plantations. Magnesium released from soil minerals is generally small compared with the amounts needed to sustain high crop yield and quality. Hence, the correct dosage of fertilizer magnesium should be added. Thus, an optimal supply of Mg is required to improve crop tolerance to various stresses and to increase the yield and quality parameters of harvested products. Magnesium deficiency decreases the sustainability of agricultural production and development and causes long-term negative impacts on productivity. Mg deficiency frequently occurs in crops, especially at their critical developmental stage, during which it is too late to rectify the problem. Hence both soil and leaf analysis will go a long way in suitably prescribing the right amount of magnesium for qualitative and quantitative production of crops based on the agroforestry system.
+
+### References
+
+Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume-1.  
+Anand Titus Pereira & Gowda. T.K.S. 1991. Occurrence and distribution of hydrogen dependent chemolithotrophic nitrogen-fixing bacteria in the endorhizosphere of wetland rice varieties grown under different Agro-climatic Regions of Karnataka. (Eds. Dutta. S. K. and Charles Sloger. U.S.A.) In Biological Nitrogen Fixation Associated with Rice production. Oxford and I.B.H. Publishing. Co. Pvt. Ltd. India.  
+Cakmak, I. (2013): Magnesium in crop production, food quality, and human health. Plant Soil. 368:1–4.  
+[Magnesium for crop](https://extension.umn.edu/micro-and-secondary-macronutrients/magnesium-crop-production)  
+[Secondary Plant Nutrients](http://extension.msstate.edu/publications/secondary-plant-nutrients-calcium-magnesium-and-sulfur)  
+[The role of magnesium](https://www.iclfertilizers.com/magnesium)  
+[The Role of Magnesium in Improving Crops](https://organicfarmermag.com/2020/08/the-role-of-magnesium-in-improving-crops-and-yields-2/)  
+[MAGNESIUM FOR BALANCED CROP NUTRITION](https://www.cropnutrition.com/resource-library/magnesium-for-balanced-crop-nutrition)  
+[Role of magnesium fertilisers](https://bioone.org/journals/crop-and-pasture-science/volume-66/issue-12/CP15104/Role-of-magnesium-fertilisers-in-agriculture-plantsoil-continuum/10.1071/CP15104.short)

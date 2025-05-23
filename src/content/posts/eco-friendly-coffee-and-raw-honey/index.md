@@ -1,0 +1,129 @@
+---
+id: "eco-friendly-coffee-and-raw-honey"
+title: "Eco-friendly Coffee and Raw Honey"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "pollination"
+category: "Pollination"
+publishedDate: "2020-06-01T00:55:17"
+updatedAt: "2020-06-02T06:20:49"
+wordpressId: 47858
+---
+
+We have extensively written on the role of various pollen vectors involved in cross-pollination inside coffee forests. Having sufficient understanding of these pollination agents enables the coffee Planters to maximize both productivity and quality of multi crops. That apart, we often overlook a very important aspect of raw honey that is abundantly available inside the coffee forests. Wild honey is directly collected by the workforce by locating the beehives, either on tall trees or caves or abandoned buildings and consumed raw.
+
+This article in particular is written especially to honor the father of Apiculture Anton Jansa. The UN General Assembly proclaimed World Bee Day on 20th December 2017. However, this year, May 20th was selected as World Bee Day, as it marks the birth of Anton Jansa, the father of modern beekeeping techniques and one of the pioneers of apiculture on a global scale.
+
+More than 20,000 species of bees, organized into seven families, are known to exist in the world. Bees act as crucial links in maintaining ecosystem resilience, food security, and global Biodiversity. This article highlights the health benefits of raw honey.
+
+India can boast of being a center of origin of the world’s honeybee species. Out of the five honey-producing bee species, four have occurred in India since ancient times. All the species are present in the Western Ghats.
+
+We often confuse the term Apiculturist and Beekeeper when we speak about honeybees. Apiculturist is a beekeeper while beekeeper is a person who maintains hives and keeps bees, especially for the production of honey.
+
+### **Regular Honey**
+
+Regular, or pasteurized honey, is clear and smooth. The pasteurization process improves the honey’s appearance, increases its shelf-life, and kills yeast cells that can affect the taste of the honey. Commercial honey is pasteurized (heated at about 70 degrees Celsius followed by rapid cooling). This makes it easy to filter, handle, and package and gives the liquid a cleaner and smoother finish but a lot is lost in the process.
+
+![](2020-SLIDE-2..-HONEYBEES.jpg-1024x683.jpg)
+
+### **Raw Honey**
+
+Raw honey has been used for at least 10,000 years playing a vital role in health, healing, religious and cultural traditions. Raw honey is the most original honeyed liquid directly collected from beehives. It is collected fresh after being produced by honeybees with the nectar they sip from flower blossoms. It is unheated, unpasteurized, and unprocessed, unlike the honey sold on a commercial scale which is processed and pasteurized. Raw honey is cloudier than regular honey. This is why we may find bee pollen or some fibers still in our honey but they don’t really pose a problem to our health and also the color or texture may be slightly different every time because honey is obtained through a natural process. Nothing is added to it. No artificial flavors or synthetic sugar.
+
+### **Impurities in Raw honey**
+
+Raw honey directly collected from hives contain fine crystals and flecks of bee pollen, honeycomb bits and even broken bee wing fragments since it is extracted and cleaned by hand. It is cloudier.
+
+### **Properties**
+
+Raw honey has high levels of antioxidants and crystallizes to a thick consistency very soon. Raw honey is alkaline in nature (unlike processed honey) which simply means that it does not ferment in the stomach and can be used to neutralize acid indigestion.
+
+### **Raw honey may offer extra health benefits.**
+
+Raw, unprocessed honey contains the widest variety of health-supportive substances ( Amino acids, Vitamins, minerals, and Enzymes). Raw Honey has many native yeasts and a large number of friendly bacteria (6 species of lactobacilli and 4 species of bifidobacteria).
+
+Bee pollen. It is a source of proteins, vitamins, minerals, beneficial fatty acids, carotenoids, and bioflavonoids. Bee pollen contains over 250 active components, including a wide variety of antioxidants.
+
+Bee propolis. Bees make propolis with organic compounds they collect and it’s extremely rich in phenolic compounds, including 12 different flavonoids, plus many vitamins and minerals.
+
+Additionally, raw honey is alkaline-forming, as opposed to acid-forming, which means that it helps your body maintain a neutral alkaline balance.
+
+The unique plant chemicals in different pollens picked by bees and processed into sugar’s gives raw unique a unique taste as well as a high level of antioxidants. Antioxidants help to protect your body from cell damage due to free radicals.
+
+The medicinal properties like the presence of hydrogen peroxide act as an antiseptic in human beings.
+
+Raw honey has a number of chemicals that inhibit the growth of harmful fungi and bacteria. One antioxidant absent in pasteurized honey is pinocembrin, which is unique to honey and is currently being studied for its antibacterial properties.
+
+Certain scientific reports mention that raw honey aids in tissue regeneration.
+
+![](2020-SLIDE-8.-HONEYBEES.jpg-1024x768.jpg)
+
+It helps as a cough suppressant.
+
+Relieves sore throat
+
+Pain-relieving properties
+
+Weight watcher
+
+Immunity builder
+
+Used in curing digestive issues
+
+Amazing therapeutic and detoxifying properties.
+
+Commonly used to treat wounds and cuts.
+
+Boosting the staying power of endurance athletes.
+
+Reduces infection and helps quick healing.
+
+Raw honey is made up of building blocks of phytonutrients which boost the immune system and has anticancer benefits.
+
+### **Physical appearance**
+
+Raw honey tends to have a mixture of colors and a cloudy or creamy appearance.
+
+### **Caution**
+
+Raw honey should never be given to an infant less than a year old because raw honey can carry harmful bacteria Clostridium botulinum.
+
+### **Conclusion**
+
+First and foremost we need to understand that honey has been used as a source of food as well as medicine, since ancient times. But in the good old days, when commercial honey was not available on supermarket shelves, people used to consume honey, directly collected from wild bees in the forest. Back in the 1800s, honey came in a comb packed in a wooden box. Honey stored in the honeycomb was the purest, rawest form of honey. As time went by, food safety laws did not permit the sale of harvested raw honey.
+
+![](2020-SLIDE-14.-HONEYBEES.jpg-1024x575.jpg)
+
+Raw honey should be permitted for sale by smaller-scale honey producers with a special food safety label. They should be exempt from needing these licenses under as required by the food safety laws by doing the bottling through cooperatives. However, honey sold through these cooperatives should carry Cooperative Food safety labels and their quantity of sale closely monitored.
+
+### **References**
+
+Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume-1.
+
+Bopanna, P.T. 2011.The Romance of Indian Coffee. Prism Books ltd.
+
+[José Miguel Alvarez-Suarez](https://www.researchgate.net/profile/Jose_Alvarez-Suarez).2010.Contribution of honey in nutrition and human health: A review *in* [Mediterranean Journal of Nutrition and Metabolism](https://www.researchgate.net/journal/1973-7998_Mediterranean_Journal_of_Nutrition_and_Metabolism) 3(1):15-23 ·
+
+Suvro Saha.2015. Honey-The Natural Sweetener become a Promising Alternative Therapeutic:A Review. South Indian Journal of Biological Sciences.Vol.1.
+
+[50 Benefits of Raw Honey](https://visual.ly/community/Infographics/health/50-benefits-raw-honey)
+
+[How are raw honey and regular honey different?](https://www.medicalnewstoday.com/articles/324966#raw-honey-vs-regular-honey)
+
+[Why Raw Honey](https://food.ndtv.com/food-drinks/why-raw-honey-and-not-just-honey-1684391)
+
+[There Are Shocking Differences Between Raw Honey](https://www.permaculturenews.org/2014/02/08/shocking-differences-raw-honey-processed-golden-honey-found-grocery-retailers/)
+
+[What are the health benefits](https://www.medicalnewstoday.com/articles/324997)
+
+[https://www.healthline.com/nutrition/10-benefits-of-honey#section5](https://www.healthline.com/nutrition/10-benefits-of-honey#section5)
+
+[Healing properties](http://www.chm.bris.ac.uk/webprojects2001/loveridge/index-page3.html)
+
+[Honey](https://en.wikipedia.org/wiki/Honey)
+
+[Boosting transparency](http://www.fao.org/3/x0083e/X0083E04.htm)
+
+[Sweet on Honey](https://www.everydayhealth.com/diet-nutrition/diet/honey-nutrition-facts-health-benefits-types-more/)

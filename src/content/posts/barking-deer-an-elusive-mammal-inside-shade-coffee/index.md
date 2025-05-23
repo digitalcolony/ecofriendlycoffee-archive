@@ -1,0 +1,155 @@
+---
+id: "barking-deer-an-elusive-mammal-inside-shade-coffee"
+title: "Barking Deer: An Elusive Mammal inside shade coffee"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "biodiversity"
+category: "Biodiversity"
+publishedDate: "2021-08-05T08:51:13"
+updatedAt: "2021-08-05T08:52:32"
+wordpressId: 48086
+---
+
+Indian shade-grown eco-friendly coffee plantations are home to a large number of wildlife species. This is due to the fact that the area under coffee cultivation is positioned in the biodiversity hot spot of the Western Ghats, at the convergence of wildlife sanctuaries and the Nilgiri biosphere region. These plantations provide a variety of habitats with varying Ecozones which are ideal habitats for rare and endangered fauna and flora. Due to the variations in altitude and rainfall, many endangered and threatened species flourish inside the coffee forests.
+
+This article throws light on the shy and elusive Barking deer. Barking deer is a solitary and forest-dwelling ruminant. It is a widespread species, but least known of all mammals in the Indian Subcontinent. The Indian muntjac is known as barking deer due to the bark-like sound for the alarm.
+
+Male muntjac called bucks, females does and the young fawn.
+
+### **Scientific Classification**
+
+INDIAN MUNTJAC
+
+**Common Name**
+
+Mastreani deer, Barking deer, Kakar, Bornean red muntjac, Red muntjac, Sundaland red muntjac
+
+KINGDOM [Animalia](https://animalia.bio/animalia)
+
+PHYLUM [Chordata](https://animalia.bio/chordata)
+
+SUBPHYLUM [Vertebrata](https://animalia.bio/vertebrata)
+
+CLASS [Mammalia](https://animalia.bio/mammalia)
+
+ORDER [Artiodactyla](https://animalia.bio/artiodactyla) more recently Cetartiodactyla
+
+SUBORDER [Ruminantia](https://animalia.bio/ruminantia)
+
+FAMILY [Cervidae](https://animalia.bio/cervidae)
+
+SUBFAMILY [Cervinae](https://animalia.bio/cervinae)
+
+GENUS [Muntiacus](https://animalia.bio/muntiacus)
+
+SPECIES Muntiacus muntjak
+
+![](2019-OCT-24-BARKING-DEER-1024x683.jpg)
+
+### Physical Description
+
+The Barking deer limbs are dark to reddish-brown and the coat color seasonally varies from darker brown to yellowish and grayish-brown and is white ventrally. Its ears have much less hair, but otherwise are the same color as the rest of the head. Male muntjacs have short antlers, about 10 cm (3.9 in) long, that protrude from long body hair-covered pedicels above the eyes. Females have tufts of fur and small bony knobs instead of antlers.
+
+### Ecology and behavior
+
+Rarely observed in open areas, it is difficult to spot the deer also because it either feeds during early dawn or at dusk. The only clue in locating the spotted deer is that they never wander far from water bodies.
+
+### Elevation
+
+The Common Muntjac or the Barking deer is found at altitudes ranging from sea level up to 3,000 m (9,800 ft.)
+
+### Size
+
+Just under two feet in height, body length of three-to-four feet, and an average weight of 30 kg — this is certainly one of the smaller deer species found in India.
+
+### Tusks
+
+One thing that sets the muntjac apart from our native deer is that male muntjacs have ‘tusks’. Males have canines, short antlers that usually branch just once near the base. These are actually downward-pointing canine teeth and come in useful when in a fight for territory. Males have short, simple antlers that shed each year. Females have miniature bony structures instead of antlers on their heads. Both males and females have tusks-like canine teeth. They are longer in males and used to fight against other males.
+
+![](2018-DEC-28-BARKING-DEER-1024x683.jpg)
+
+### Unique Characteristics
+
+Another way to tell if a muntjac is really a muntjac is by the very visible glands on their face. All muntjac have two pairs and they all are used for marking of territories.
+
+### EyeSight And Hearing
+
+Muntjacs have excellent eyesight and a sense of hearing. These senses are mainly used for the detection of predators.
+
+### Communication
+
+Muntjacs are also referred to as “barking deer” due to the deep bark-like sounds they are known to make when on alert. This means of communication is important for this forest-dwelling species, which is often found in areas of poor visibility.
+
+### Feeding
+
+Omnivorous. Peak activity is at dawn and dusk. They are considered both browsers and grazers
+
+### Reproduction
+
+The Indian muntjacs are polygamous animals. Females sexually mature during their first to the second year of life. The gestation period is 6–7 months and they usually bear one offspring at a time, but sometimes produce twins. The weight at birth is between 550 and 650 g. The young leaves its mother after about 6 months to establish its own territory. Males often fight with one another for possession of a harem of females.
+
+### Threats
+
+While barking deer are common inhabitants of India’s jungles, they are nevertheless always under threat. Prey animals for carnivores like tigers, leopards, and dholes in India.
+
+### Territory Marking
+
+Muntjac is generally solitary or found in pairs (doe with fawn or buck with doe) although pair-bonding does not occur. Males acquire territories that they mark with scent markers by rubbing their preorbital glands (located on their face) as well as by scraping the ground, grass, and tree bark; males are known to use both their hooves and canines. These scent markers allow other muntjacs to know whether a territory is occupied or not. Males often fight with each other over these territories. Bucks defend small exclusive territories against other bucks whereas does’ territories overlap with each other and with several bucks.
+
+### Conservation Status
+
+The IUCN rates the species Lower Risk, Least Concern.
+
+### Population size Unknown.
+
+### Life Span
+
+18 to 20 years
+
+### Conservation
+
+The Indian Muntjac is an important source of bushmeat. Selected body parts and the fetus are also used in traditional medicine.
+
+Muntjacs are hunted for their meat and skin.
+
+Overall, their numbers are decreasing because of uncontrolled hunting and habitat destruction.
+
+### Coffee Ecology
+
+Due to their habit of destroying trees by ripping off the bark for food, they are considered a pest in some regions. This in turn can lead to a loss of food sources as well as a loss of wood that can be used as timber value.
+
+### Special characteristics
+
+Muntjacs are amongst the world’s smallest species of deer.
+
+The deer’s antlers are shed each year between May and June. Their new ones are fully grown between August and September.
+
+They rely on their sense of smell to locate predators or females. They have a special sixth sense, using the vomeronasal organ, which is in the upper part of their mouth and is able to detect scents left by any other animals.
+
+### Conclusion
+
+Coffee ecosystems and biodiversity sustained over a number of decades are now threatened by various drivers of change such as timber harvesting, intensive Chemical farming, sun-loving coffee, high-density planting, grazing by cattle and other livestock, and agricultural expansion, and above all, climate change. We have often stressed home the point that effective conservation and management of biodiversity can be achieved only with prior knowledge of species diversity, distribution, and abundance, so as to detect significant changes for appropriate management interventions. Hence it is important to map the biodiversity of coffee forests through efficient and reliable methods for rapid assessment of species richness and abundance and then determine key conservation priorities.
+
+![](2018-JUNE-15-BARKING-DEER-1024x682.jpg)
+
+### References
+
+Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume-1.
+
+[The barking deer enigma](https://india.mongabay.com/2019/05/the-barking-deer-enigma/)
+
+[Barking deer](https://www.thainationalparks.com/species/indian-muntjac)
+
+[ANIMALIA](https://animalia.bio/indian-muntjac)
+
+[ABOUT MUNTJAC DEER](https://www.bds.org.uk/information-advice/about-deer/deer-species/muntjac-deer/)
+
+[Barking Deer or Indian Muntjac](https://sustain.round.glass/species/barking-deer/)
+
+[Muntiacus muntjak Indian muntjac](https://animaldiversity.org/accounts/Muntiacus_muntjak/)
+
+[Chinese muntjac](https://www.folly-farm.co.uk/zoo/meet-the-zoo-animals/chinese-muntjac/)
+
+[Indian muntjac, Southern red muntjac,](https://seaworld.org/animals/facts/mammals/indian-muntjac/)

@@ -1,0 +1,126 @@
+---
+id: "global-warming-in-coffee-plantations"
+title: "Global Warming in Coffee Plantations"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "global-warming"
+category: "Global Warming"
+publishedDate: "2004-06-01T07:00:00"
+updatedAt: "2015-10-28T10:49:58"
+wordpressId: 42
+---
+
+The past decade has witnessed phenomenal changes in global climate. Drought in the southern hemisphere and floods in the northern hemisphere. A record rise in temperature or a sudden cold wave, heavy cloud bursts, bushfires, earthquakes, or severe drought; have resulted in significant changes both at the micro and macro habitat.
+
+Livestock, plants, insects, and humans dying, either due to a sudden drop in temperature or unbearable heat waves. None was ever spared. Coffee farmers in India were in for a rude and unexpected shock when they felt the impact of El Nino and La Nina.
+
+All coffee farmers took it for granted that any change in the global environment will be slow and will take ages to happen. Moreover, why should they bother when changes that may happen over a long period of time, not affect them immediately, but the future generations? They were so casual and confident that nature would never let them down. Today, all that is old hat.
+
+The inevitable man made changes is affecting the entire planet and think of it, there is no other planet so close that we can take shelter. We may call climate change by different names, but today no matter what you call it, global warming has emerged as a clear and potential danger threatening mother earth and all its inhabitants.
+
+![BIRDPOPULATION](BIRDPOPULATION.jpg)
+
+Due to the seriousness of the problem, for the very first time people all over the world came together collectively to find solutions to man made problems. The scientific fraternity were groping for answers in the dark and then their conscious slowly opened up to the hard fact that unwarranted man made changes in one country will have severe repercussions to all countries. Slowly and steadily scientists were convinced that GLOBAL CLIMATE CHANGE was the concern of one and all and that it could not be tackled in isolation.
+
+Professor Martin Beniston of the University of Fribourg in Switzerland has made an in-depth study of the 2003 heat wave and reports the findings in the journal geophysical research letters. He states that the heat wave is unlike anything seen in the past 100 years. He ran two computer simulations to analyze the heat wave. The first recreated European temperatures between 1961 and 1990, and the second predicted them for the period 2071 to 2100 after taking into account global warming. He then compared these with data recorded in Basel last July, august and September. Maximum temperatures last summer were about 6 degrees cesius higher than the 1961 to 1990 average, hotter than at any time since 1901.
+
+Coffee Plantations world wide, especially, Shade grown Indian coffee plantations were the first to be affected by this sudden change. Looking back, coffee plantations in India are basically rich biodiversity parks located in the ecologically sensitive westernghat reserve. One can find an incredible array of rare herbs and shrubs in the most remote of places. Coffee has mutually coexisted with the native flora and fauna and infact satellite images have thrown light that wherever coffee plantations exist, the biodiversity of the region has also been enriched.
+
+This peaceful coexistence has continued for centuries in a complimentary set up, where in the energy levels of the biotic community is proportionately balanced. Think of it, Loss of one species will have a tremendous bearing on the other. This heritage site is a lodge for the survival of thousands of species of trees, herbs, shrubs, wildlife and so on. Most species of plant and insect life have disappeared before they were discovered. Even though the Westernghat reserve was shrinking at an alarming rate, Institutions world wide realized the importance of this vital link for the future existence of man and nature, and hence protected it as one among the 18 hotspots of the world.
+
+![DSC04850](DSC04850.jpg)
+
+### Greenhouse Effect
+
+All man made activities involve the consumption of nonrenewable energy resources like coal, gas, oil, hydrocarbons to the extent of 75% and only 25% of the energy needs are met by renewable energy resources. The burning of these fossil fuels coupled with the emission of toxic gases from industries results in the release of greenhouse gases.
+
+Ultimately, the greenhouse gases along with carbon dioxide, nitrous oxide, sulphur oxide, trap a large part of the sun’s heat within the earth’s atmosphere. The norm is that Planet earth absorbs solar radiation and reflects back a small amount at a low energy scale (in the infrared part of the spectrum).
+
+However greenhouse gases present in the atmosphere are opaque to this radiation resulting in the buildup of heat within. In moderation this would be fine, but over a period of time the amount of gases in the atmosphere increases and reaches a trigger point where in temperature build up takes place. As a consequence more carbon dioxide and carbon monoxide is formed resulting in greenhouse gases. Millions of vehicles by way of exhaust gases release tiny particles {referred to as aerosols) into the atmosphere. These aerosols reflect sunlight back into space instead of absorbing it, resulting in the cooling effect.
+
+![DSC04855](DSC04855.jpg)
+
+### Why This Sudden and Drastic Change
+
+The most alarming point to be seriously understood is that carbon dioxide increase in the planet is a direct consequence of industrialization and not because of any natural BIOLOGICAL PROCESS. Worldwide the forest cover is dwindling at an alarming rate. Reports from the world resources Institute indicates that more than 80% of the planet’s natural forests have already been destroyed. The developing economies are catching up with the west in terms of carbon dioxide emissions into the atmosphere.
+
+Research pouring in from different parts of the globe states that carbon dioxide is responsible for about 60% of net radioactive increase between 1750 and 2000 AD. Carbon dioxide emissions from industries have increased from 1.6 Pg-C per year in 1950 to 6.6Pg-C per year in 2000. Present levels of carbon dioxide accumulation in the atmosphere are around 3.0 Pg-C per year, about half of that was emitted in the 1990s.
+
+Forests act as sinks for carbon storage. They approximately hold 650 billion metric tons of carbon. Each acre of forest stores roughly about 225 metric tons of carbon. Due to deforestation the carbon stored in the tree trunks combines with atmospheric oxygen and is released as carbon dioxide. Developing countries are fast turning towards industrialization and this will also lead to higher carbon dioxide levels.
+
+The number of vehicles in the western world has reached the saturation point. Now is the time for the third world countries to increase their share of the world’s automobile market. It is no secret that diesel and petrol have high amounts of lead which are cause for great concern. Yet Governments worldwide have not shown the zeal to pump in money into greener technologies like the hydrogen fuel celled car or electric or solar powered vehicles which leave absolutely no traces of emissions or pollutants.
+
+![GREENHOUSE_GASES](GREENHOUSE_GASES.jpg)
+
+### Greenhouse Effect & Global Warming
+
+Direct and Indirect Consequences to the Coffee Farm:
+
+1.  A small degree rise in temperature or dip in temperature from the normal will affect the biochemical constituents of the soil.
+2.  The naked eye can perceive soil cracking up and exposing the micro flora and surface feeder roots to direct sunlight.
+3.  The brunt of the damage is borne by phyllosphere microflora and histosphere microflora.
+4.  Water holding capacity of the soil decreases.
+5.  Drought will set in early in summer and excessive wetness of soil will occur in the rainy season. The coffee bush is extremely sensitive to both.
+6.  In severe cases wilting of plant takes place, especially in Arabica where in the outer layer of the leaf cannot tolerate temperature stress.
+7.  The surrounding biotic community is in a confused state. Instead of contributing, it struggles to survive and death in millions of numbers takes place.
+8.  Stability and balance of nature is affected.
+9.  The coffee bush over generations of evolution is a self programmed plant. Due to global warming the bush is in an utter state of confusion. There is considerable delay in the production of productive woods, flower primordia, and the entire biological clock of the coffee plants goes for a toss.
+10.  Pollination is the key for higher yields and honey bees are the primary pollinator agents. Honey bees population is drastically altered resulting in poor flower setting.
+11.  The coffee farmer in duress will apply excess chemical inputs just to achieve average levels of productivity. Resultant Toxicity will build up in the soil.
+12.  Outbreak of pest and disease incidence, the abnormal weather patterns favors the proliferation of insect pests and fungal pathogens because the thread of life is altered.
+13.  The coffee bush produces a running blossom spread over a period of three months which is very taxing to the plant.
+14.  The blossom results in the development of three varied sized berries, uneven ripening and at harvest time only one set of berries among the three will reach maturity. This results in sudden drop in production levels.
+15.  Qualitatively, the berries are of poor quality.
+16.  The most dangerous trend is the development of new virulent strains of micro organisms which will be resistant to broad spectrum antibiotics and fungicides and will have the potential of migrating from plants to animals and finally expressing themselves in human beings. For E.g. SARS VIRUS, AIDS VIRUS, AVIAN FLU VIRUS has all attacked human beings.
+
+![OZONE_HOLE](OZONE_HOLE.jpg)
+
+### Rainfall
+
+Coffee forests can be called the cooling links of the earth. Evaporation and transpiration recycle millions of gallons of water, favoring cloud formation, leading to abundant rainfall. However, a loss of forest cover results in less evaporation and more of solar energy hitting the earth’s surface, resulting in immediate rise in temperatures.
+
+Coorg with its dense evergreen forests and misty mountains is the heartland of Indian coffee. However, global warming has affected this coffee belt the most. Coorg records the highest rainfall in the state of Karnataka. The annual rainfall is 2717 mm. In 2000 the annual rainfall recorded was 2655.5 mm; in 2001 it was 2279.2 mm; in 2002 it was 2078.4 mm and 2003 it was 1810.9 mm. In other coffee growing belts too there has been a drastic reduction in rainfall. In JOE’S SUSTAINABLE FARM the average rainfall used to be 80 inches. For the past three years it has not crossed 45 inches.
+
+![SOILCRACKING](SOILCRACKING.jpg)
+
+### Temperature
+
+Since coffee plantations are mountainous and hilly regions the weather remains pleasant even in summer months. In fact our forefathers could simply tell by the feel of the weather, whether,it would rain or not. The past five years have resulted in erratic weather patterns. For the first time coffee plantations experienced temperatures of 35 to 38 degree centigrade during summer months (unheard of temperatures). The temperatures continued to rise for a prolonged period of time and the end result was high pest and disease incidence.
+
+In fact the problem with Indian Arabica plantations was so acute , that the Coffee Board paid monetary incentive to growers to trace the white stem borer in all its forms (pupae, larva and adult beetle). The record shows that millions of beetles were collected wiping out almost 35 per cent of the Arabica plantations. In Robusta plantations which are generally robust as the name suggests, due to the hardy nature of the stem, the infestation by stem borer is difficult. But the beans were attacked on all sides with the coffee berry borer.
+
+![UNEVEN_RIPENING_FLOWERING](UNEVEN_RIPENING_FLOWERING.jpg)
+
+### Water Spots
+
+Our forefathers had great respect for nature. Almost all plantation zones were harbingers of moist zones in a select few areas inside the plantation. It was common sight to see water oozing out from these water spots during the peak summer months. Today one can hardly see any water spots. The present generation of coffee farmers have either covered them up with soil with the fond hope of planting more coffee plants and others have neglected them in Toto. These developments have had a telling effect on the flora and fauna of the region.
+
+South Coorg is dominated by Robusta plantations. The Planters there are a proud lot who find that there is no need for artificial lakes or tanks which are a prerequisite for facilitating irrigation for blossom showers because , nature has never failed the plantation by bringing in timely rains. Today, that seems like an old story. The rains have failed and bore wells or tube wells which were literally unheard off are mushrooming in every plantation, there by reducing the groundwater table.
+
+### Rainfall Patterns
+
+Previously a particular temperature rise in the plantation and with certainty the planter could predict rains. Today, inspite of the increase in relative humidity, the rains are not certain.
+
+Our ancestors followed nature’s rules and made a calendar of events and accordingly the monsoon was characterized into 8 rain patterns, each pattern of rain was different with change in droplet size, intensity, angle and velocity. These rains either acted as a tonic for the entire progress of the biotic community or simply to retard the growth of pathogens. It was nature’s way of thanking our ancestors for being eco friendly citizens.
+
+### Wind Patterns
+
+So also was a calendar for wind patterns. Easterly winds would help in the ripening of berries and westward winds were responsible for powerful wind currents. These powerful wind currents were so very important for the health of the plantation because the tall evergreen trees with a canopy of almost half an acre used to sway from end to end resulting in the loosening of the soil beneath.
+
+This facilitated the Robusta plantation with surface feeders to make inroads into the loose soil and establish itself. Percolation of water within was also due to the loosening of soil and mind you no mechanization can substitute nature’s ways.
+
+![ROCKET_EMISSION](ROCKET_EMISSION.jpg)
+
+Our ancestors without modern tools used to pick excellent crops and made us believe that at the time of flowering one could hear the hum of the honey bees for miles. Today with chemical inputs the honey bee population has drastically come down and has affected the pollination prospects of not only coffee but of various flowering species.
+
+### Conclusion
+
+All fingers point out that climate change is by and large driven by human activities. At no point of time has it been due to a natural phenomenon. As such a big experiment of nature is unfolding in front of us. Are we sensitive enough to read NATURE with respect? Biologists have discovered about 10,000 species of butterflies, which range from less than an inch in size to a wingspan of about 10 inches. They are commonly referred to as flying jewels and are an important link in crop productivity by way of helping pollination.
+
+The global warming effect can simply wipe away these sensitive creatures and snap a vital link of nature. All have the right to live. This cardinal rule is fundamental to our existence. There will be no shortage of challenges in the months ahead. We need to stabilize carbon dioxide abundance in the earth’s atmosphere. The only sensible way out is to mimic nature. Firstly we have to reduce the use of fossil fuels. Biofuels is an appropriate alternative to fossil fuel which is non renewable. Biofuels are a renewable energy resource and most importantly ecofriendly, biodegradable and non hazardous. They can also bring down the green house emissions significantly.
+
+India has around 130 million hectares of wastelands of which 40 million hectares are available for reclamation through growing of biofuel plantations. Simultaneously, we need to have an action plan to find alternate and clean energy resources to drive our economy. One way of looking at it is to employ solar power in tropical countries, wind power in coastal areas and hydrogen as a fuel in cars. These technologies are fairly advanced and have the scale of economics. It will definitely bring down the level of greenhouse gases.
+
+The global study points out that the rich nations {G-8 COUNTRIES} are responsible for one fourth of the worlds greenhouse emissions. Trade and commerce should be governed by environmental conscience and just not by profits. We need to pledge our support to the KYOTO protocol which states that in the next five years all countries will have to significantly bring down their greenhouse emissions. Only then will the world be a safe place to live in.

@@ -1,0 +1,71 @@
+---
+id: "rain-water-harvesting-in-coffee-plantations"
+title: "Rain Water Harvesting in Coffee Plantations"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "general"
+category: "General"
+publishedDate: "2003-10-01T07:00:00"
+updatedAt: "2015-10-26T10:09:51"
+wordpressId: 35
+---
+
+Rapid Industrialization, accelerated urbanization and increasing demographic pressure on our natural resources have had a negative impact on our environment. The problems of environmental degradation and ecological imbalance have assumed critical proportions and demand urgent and committed action. As such our growing concern for the environment calls for creation of opportunities for study of the environment and taking remedial action to check its deterioration.
+
+A consequence of water runoff and soil erosion not only affects individual countries but other countries too. Man has cleared much of the natural forests and grasslands. He has established a large number of industries and is responsible for depleting enormous amounts of water resources. Further he has introduced unnatural abiotic factors like radioactive wastes, pesticides and other chemicals. These pollutants have also adversely affected our water ecosystem.
+
+![a300](a300_f_improf_300x266.jpg)
+
+Water is THE CRITICAL element for survival of Coffee Plantations. In fact, water is the basis of all life. Life began in the water and continues to be the essence of all living beings. All biological elements are made up of water to the extent of 70 to 80 per cent body weight. Water also plays a pivotal role in the weathering and soil formation. The microorganisms in the soil also require water for their metabolic activities.
+
+No matter where, all coffee Plantations are located on slopes of Mountains and hills for the simple reason that coffee Plantations cannot tolerate waterlogged conditions. But the inherent truth is that Coffee Plants love water and the geographical regions where Plantations are located receive from a modest 75 inches of rainfall to almost 175 inches of annual rainfall. In fact when one thinks of coffee estates one thinks of heavy rainfall regions famous for its lush green forests and the grandeur of rainfall. More so in the Indian context, coffee is grown at an altitude ranging from 800 meters main sea level (MSL) to almost 1500 meters MSL.
+
+The sad part of the story is that due to global climatic changes and the El Nino and La Nina effect; have played havoc in plantation areas resulting in unprecedented drought or floods in most Plantation areas. This in turn has resulted in silting of rivers and choking the river beds. The rainfall has almost declined to half causing high temperatures which in turn affect the MACRO and MICRO climate resulting in low productivity. The truth is that there is no scarcity of water really. The problem is how to harness water from rains and floods. Rain water harvesting in simple terms is conserving and directing rain water into definite predetermined paths for immediate or later use. There is nothing new in this concept.
+
+![b300](b300.jpg)
+
+There exists a direct correlation between the origin of rivers and coffee forests. A well maintained coffee forest (thousands of hectares) with six inches of humus could result in infiltration of significant amount of water which would ultimately give birth to rivers. For e.g. Birth of the river Hemavathi is in the heartland of coffee, located at Mudigere taluk in Karnataka STATE. So also the birth of the world famous CAUVERY RIVER is in the coffee slopes of Coorg (KODAGU DISTRICT) of Karnataka.
+
+Many waterfalls inside the coffee Plantation generally flow into valleys downstream and through embankments much of this water needs to be harvested. In some places if the drop is very high, mini hydroelectric projects provide electricity to the local community. Most of the coffee zones are MOIST zones because of the small orifices within the soil system. These invisible pores act as capillary tubes in bringing up subsurface water to the root zone and maintaining soil moisture constants. This network is interlinked in the most elaborate manner, such that a small disturbance at one sector can cause severe depletion of water in other Plantation miles away. Hence one strongly needs to understand that Rain water harvesting is not the business of one Planter, but it should be a collective effort.
+
+![c300](c300.jpg)
+
+In coffee farming, water acts as a solvent and a carrier of food nutrients for carrying out its physiological functions. The xylem cells inside the coffee plant acts as water carriers and phloem acts as food conducting tissue. Water by itself also acts as a nutrient for coffee plants. Water has a significant effect on all components of the coffee ecosystem (plants, trees, microorganisms, flora and fauna). Principally it affects the metabolic rate and various physiological processes and in particular the individual coffee bush. It is worthwhile to remember that coffee plants transpire large quantities of water in the range of 500 to 1000lb. for every pound of dry matter produced. Hence conservation of water is the key for higher productivity. To achieve this one needs to create optimum moisture conditions in the entire coffee belt.
+
+![d300](d300.jpg)
+
+We have undertaken the most difficult task of sourcing the origin of water paths in terms of arteries, veins and tributaries within the plantation area. Our conclusions are recorded herein for the most simple, yet profound reason that we cannot take our water availability for granted. Man will fight his next war, not for annexation of land, but for water resources.
+
+In a study for over a decade inside the Plantation we have observed that no matter what the topography is, water creates its own DEFINITE PATHS and need not necessarily trickle down to the lowest point of the mountain. But what is definite is that the water which percolates inside the coffee mountain creates a network of arteries and veins, resulting in moisture ZONES within the entire mountain. The topmost point of kirehully estate is around 200 feet. We have excavated around six water tanks covering an area ranging from one hectare to two hectares, along various slopes of the coffee hill.
+
+Some of these tanks are located right at the top of the hill and some are adjacent to one another right in the middle of the hill and some are placed way below the hill. Every drop of rain water is conserved by way of trenches, infiltration pits, and check dams and so on and this process has been an on going process for the past two decades. However there is no evidence to point out that tanks located at the higher end have more seepage into the lower tanks. On the contrary water creates its own specialized network and may simply pass outside the zone of the lower tanks and recharge the ground water.
+
+In summer most of the tanks are three fourths full of water and the recharging by way of SPRINGS is pretty high. The main reason for the water retention in summer is due to the rejuvenated activity of springs. Our finding points out that the origin of water springs takes place at a higher level. The cooler the region, the better chances for formation of water springs. The village too has been enormously benefited in the long dry months by the volcanic activity of springs which has a ripple effect all along the terrain.
+
+The reason for highlighting this particular experiment is that it has taught us by experience that the best way of going about rain water harvesting is to start from the top of the mountain or hill. Also our coffee farm is located on the fringe of a desert where hardly from an aerial distance of 10 kms ; starts a zone which receives a rainfall of just 20 inches and our annual average crosses 75 inches. This is primarily due to very dense forest covers which have the capacity to attract huge water bearing clouds that result in heavy rainfall. On the contrary, areas known as barren hills hardly receive an annual rainfall of 25 inches.
+
+![e300](e300.jpg)
+
+All Plantations are also equipped with drying yards and worker quarters ranging from 5000 square feet to 25,000 square feet. The runoff water from these drying yards and roof water is lead into channels and accordingly lead to storage reservoirs for subsequent use.
+
+Previous generation of coffee planters had earmarked sensitive spots inside the plantation as hot beds for water retention. These spots exist even today and in spite of drought they still remain moist and wet. Also, every planter may he be the owner of a big or small plantation had tanks to collect rain water. Just 10 years back the water table in most coffee plantations was very high (50 Feet ). But today, with massive tree felling and loss of precious ground cover, the ground water table is below 250 feet. Our equation shows that 10 % of the coffee farm should be earmarked for construction of ponds or tanks and this will suffice the irrigation and other water needs of the plantation. It also directly helps in recharging ground water. The side benefits are many. One, it acts as waterholes for wildlife and two fish rearing which is a worthwhile side income as well as a protein source for the labor force.
+
+The sad part is in recent years, due to the selfish nature of MAN, and the availability of low cost technology Coffee farmers have indiscriminately dug bore wells, at every nook and corner of the estate, some as deep as 400 feet with the fond hope of harvesting ground water. This greed has resulted in the blocking of underground springs, cross connecting ground water paths , drying off of time tested water arteries and veins within the soil system which took millions of years to build resulting in drying up of bore wells on one hand and resulting in direct injury to the sustaining soil system on the other. In the interest of the farming community, a long strategy has to be drawn out so as to space these bore wells miles apart such that they be given adequate time to heal and recharge them. How many of us have realized that , after all ground water is water that needs to be harvested only in an emergency based on effective legislation and concern for the fragile ecosystem.
+
+![f300](f300.jpg)
+
+The recent developments to augment deficit rainfall are by a method known as cloud seeding. One has to bear in mind the enormous costs as well as the risks involved in this uncertain technology. Instead, if proper rain harvesting techniques are followed, we confidently state that it will meet the water requirement of the entire farm. During cloud seeding, depending on the wind velocity there is every likelihood that the precipitation may take place in the wrong place. Also, cloud seeding can result in a cloud burst causing enormous runoff before the water can be harvested, damaging precious top layer soil.
+
+### CONCLUSION
+
+As we stand on the edge of tomorrow and look light years ahead, we need to introspect on the past to save the future by conserving the most precious commodity on earth, namely water. It is for sure that the past will always be more relevant to us for many reasons. One outstanding reason is that all our ancestors looked at WATER with proper respect and by their wisdom and knowledge harvested rain water and shared it among others. Secondly, it will also help us measure as to how far we have progressed and in the present difficult situation how we redefine our objectives. It is high time we change our lifestyle. All future developments should be sensitive to ecologically fragile coffee parks which form crucial watersheds, providing livelihood to millions, especially the underprivileged. Obviously there is a need for a rethink. There have been unconventional ideas mooted in the past like interlinking of rivers. However they do not find much favor due to high costs and environmental damage.
+
+It is worth remembering the words of Kofi Annan Global …freshwater consumption rose six fold between 1900 and 1995 – more than twice the rate of population growth. About one third of the world’s population already lives in countries considered to be ‘water stressed’ – that is, where consumption exceeds 10% of total supply. If present trends continue, two out of every three people on Earth will live in that condition by 2025.
+
+![g300](g300.jpg)
+
+Water is VANISHING in front of our very own eyes. It’s a wonderful feeling to learn that 70% of the earth is covered by water, which is why it is called the BLUE PLANET. It is frightening to know the facts that only 2.5% of the world’s water is fresh, while 97.5% is found in our oceans. Only 0.3% of this freshwater is available from rivers, lakes and reservoirs, 30% from the ground water, while the rest is stored in distant glaciers, ice sheets and inaccessible areas.
+
+Nothing on Earth can live without freshwater. A human will die within three days without it. In fact, natural rainwater harvesting is not very different from the current concepts, except that, the same has been broken into its elements for the purpose of simplicity so that coffee farmers can adopt their own method which suits their terrain. Governments too should take stock of the situation and foster community based resource management in areas where rapid environmental degradation takes place. Government’s world wide are hiring the best brains in the world and spending billions of dollars sending lunar probes to distant planets just to know the presence of WATER. It is simply because water is life and life is water.

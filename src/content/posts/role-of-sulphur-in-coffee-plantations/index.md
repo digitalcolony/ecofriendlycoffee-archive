@@ -1,0 +1,148 @@
+---
+id: "role-of-sulphur-in-coffee-plantations"
+title: "Role of Sulphur in Coffee Plantations"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "fertilizers"
+category: "Fertilizers"
+publishedDate: "2023-05-31T06:23:23"
+updatedAt: "2023-05-31T06:24:42"
+wordpressId: 48331
+---
+
+Traditional Coffee Plantations in India are associated with some of the most fertile soils, rich in organic matter. Over the years, coffee cultivation spread out to non-traditional areas like lowland rice fields, plains and hills, which are low in organic matter. It’s a fact that soils rich in organic matter are also rich in sulphur. At some point of time, coffee Plantations in India were subjected to some sort of exploitation in terms of high chemical inputs to increase the per-acre yield of coffee, both Arabica and Robusta. This led to widespread deforestation in terms of thinning out shade (Shade regulation). As a result, the amount of biomass on the floor of the forest is significantly depleted. The end result was a drastic loss of soil carbon and more importantly, soils becoming sick and unresponsive.
+
+Coffee Planters have often paid importance to nitrogen, phosphorus and potash in their package of practices. The most commonly applied fertilisers include DAP fertilizers, urea and muriate of potash. However, sulphur, the fourth essential element in soil nutrition, which is often ignored by farmers, is resulting in a widespread deficiency of this element in the soil. Coffee Robusta and Arabica vary largely in the sulphur requirement, and adequate and balanced sulphur nutrition is crucial for their production, quality and health. In our opinion, traditional coffee varieties require low amounts of sulphur in comparison to high-yielding varieties.
+
+This article is written to highlight the importance of Sulphur for the round development of shade coffee and better nutrient uptake.
+
+Sulphur is one of the 17 essential plant nutrients required for coffee and multiple crops. Sulfur, Calcium and Magnesium make up a group called “secondary nutrients,” which means that the quantity of each is vital to the life of a plant.
+
+Sulphur may be present in soil in a variety of organic and inorganic forms. Sulphur is absorbed through the roots in the sulphate (SO4) form.
+
+**Role of Sulphur in Plant Growth and Development**
+
+Sulphur is also involved in the photosynthesis process, in the energy metabolism of the plant and in the production of carbohydrates.
+
+Sulphur increases the activity of enzymes in plants.
+
+Sulphur is an essential part of amino acid
+
+These are essential for chlorophyll formation in leaves.
+
+It is helpful in oil and enzyme formation in plants.
+
+Sulphur increases N-use efficiency and helps in the uptake of phosphorus and potassium.
+
+Sulphur promotes biological nitrogen fixation.
+
+In leguminous crop, they are helpful in root formation.
+
+Sulphur plays an important role in the defence of plants against stresses and pests.
+
+Sulfur metabolites such as glutathione provide protection of plants against oxidative stress, heavy metals and xenobiotics.
+
+Sulphur is also an excellent soil conditioner — it helps lessen the salt content in the ground.
+
+**Symptoms of Sulphur deficiency in crops**
+
+Sulphur deficiency reduces the greenness of plants.
+
+Sulphur deficiency prevents the growth of plants.
+
+Sulphur deficiency turns the colour of plants yellow and this deficiency begins with the upper part of the plants or on the new leaf.
+
+In the absence of Sulphur, the plants turn yellow, green, thin and small in size and the stem of the plant becomes thin and hard.
+
+The symptoms of sulphur deficiency is quite similar to N deficiency as plants show a pale yellow colour. However, in the case of S deficiency the youngest leaves are affected first due to the poor mobility of S in the plant
+
+**Types of Sulphur**
+
+There are three types of Sulphur  
+Non-metal sulphate  
+Metal sulphate  
+Organic sulphate, which are found in form of granular, powdered and liquid.
+
+**Sulphur & Organic Manures.**
+
+Organic fertilizers such as cattle/pig slurry contain low levels of total S (0.3 to 0.4 kg/m3 ) while poultry manures contain relatively higher S levels (layer manure 2.5 kg/t).
+
+**Reasons associated with Sulphur deficiency**
+
+Soils having low organic matter content.
+
+In areas which have high levels of rainfall during winter.
+
+In coffee zones where winter months are prolonged.
+
+Sulphur is a negatively charged anion & easily leached.
+
+ In areas which are at a considerable distance from industrial centres.
+
+**Drawbacks**
+
+Scientific literature states that there is no soil test available to accurately predict S deficiency in soils. The plant S concentration and the plant N to S (N:S) ratio are useful indicators for assessing the likelihood of a response to applied S fertilizers. The S content in healthy plant material should be greater than 0.2% in dry matter, and the N:S ratio should be less than 15:1.
+
+**Role of sulphur in soils**
+
+Varying degrees of sulphur are present in nearly all soils. Clay and gravel soils generally have more sulphur present, which is due in part to the composition of the original parent rock. Organic sulphur, which is mineralised into plant-available sulphate sulphur, is more prevalent in soils with high clay and gravel content. Sandier soils from higher rainfall areas do not have any ability to restrict the leaching of water-soluble sulphate sulphur. Coarse-textured, soils that are well-drained and low in organic matter are most prone to sulphur deficiency.
+
+**Sulphur Deficiency**
+
+Sulphur deficiency symptoms is yellowing on the youngest leaf.
+
+**Relationship of Sulphur and Nitrogen**
+
+Healthy plants have a balance between the quantity of sulphur and the quantity of nitrogen. If you’re using a nitrogen-rich, water-soluble fertilizer, this may cause the comparative level of sulphur to drop below the optimal level.
+
+The assimilation of sulphur and nitrogen are strongly interrelated and sulphur deficiency in plants can be diagnosed by the nitrogen-to-sulphur ratio of plant tissue. Scientists are of the opinion that for every kilogram of sulphur deficiency in the soil, fifteen kilograms of nitrogen will no longer be assimilated by the plants. Nitrogen application efficiency requires a proportional increase in sulphur fertilisation, otherwise, this nitrogen will not be assimilated by the plant.
+
+In agricultural ecosystems, the occurrence of sulphur deficiency of soils can easily be corrected by the application of sulphur fertilizers, which additionally prevents negative environmental side effects such as leakage of nitrate to drainage water.
+
+ Another interesting development was the opening of the economy and the availability of different combinations of synthetic fertilizers from foreign countries.
+
+**Conclusion**
+
+Until the 1990s, sulphur deficiencies in agricultural crops were extremely rare. This was mainly due to the fact that the availability of sulphur was guaranteed by the industrial SOx emissions generated by fuel combustion, by the well-known acid rain. Increasingly intense agriculture have caused a sharp decrease in the availability of sulphur for plants in cultivated crops. This phenomenon explains why sulphur deficiencies in crops are quite frequent today, even though they were rare 20 years ago. In India, where intensive farming has led to a lack of nutrients in the ground, almost half the soil tested around the country suffers from sulphur deficiency, according to the US-based non-profit The Sulphur Institute.
+
+In this sense, a sulphur deficiency is more likely to occur. Nowadays, soil chemists, plant physiologists, and agronomists from all over the world stress the need to consider the extra contribution of sulphur as a macronutrient, similar to NPK, given its essential importance for the optimum growth and development of crops.
+
+### References
+
+Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume-1.
+
+Anand Titus Pereira & Gowda. T.K.S. 1991. Occurrence and distribution of hydrogen-dependent chemolithotrophic nitrogen-fixing bacteria in the endo rhizosphere of wetland rice varieties grown under different Agro-climatic Regions of Karnataka. (Eds. Dutta. S. K. and Charles Sloger. U.S.A.) In Biological Nitrogen Fixation Associated with Rice Production. Oxford and I.B.H. Publishing. Co. Pvt. Ltd. India.
+
+Subba Rao. N. S. 1998. Soil Microorganisms And Plant Growth. Oxford and IBH Publishing Co.
+
+Bopanna, P.T. 2011.The Romance of Indian Coffee. Prism Books ltd.
+
+Brady, N., and Weil, R. 2010. “Nutrient cycles and soil fertility,” in *Elements of the Nature and Properties of Soils, 3rd Edn*, ed V. R. Anthony (Upper Saddle River, NJ: Pearson Education Inc.), 396–420.
+
+[Role of Sulphur](http://agropedia.iitk.ac.in/content/role-sulphur-plants)
+
+[Sulphur – The Crop Nutrient](https://www.sulphurinstitute.org/about-sulphur/sulphur-the-fourth-major-plant-nutrient/)
+
+Sulfur Forms.
+
+[Benefits of Sulphur](https://www.agrilcareer.com/benefits-of-sulphur-in-crops/)
+
+[Benefits](https://www.agrilcareer.com/benefits-of-sulphur-in-crops/)
+
+[Role of Sulfur](https://link.springer.com/chapter/10.1007/978-1-4020-6863-8_21)
+
+[What are the benefits of sulphur](https://www.afepasa.com/en/topicalities/what-are-the-benefits-of-sulphur-as-a-macro-nutrient-in-agriculture)
+
+[sulphurcycle](https://www.sulphurinstitute.org/pub/?id=30177057-bc30-5bd9-0719-6380f37c76f9)
+
+[Sulphur (S)](https://www.summitfertz.com.au/field-research-agronomy/sulphur)
+
+[What is the Function of Sulfur](https://www.greenwaybiotech.com/blogs/gardening-articles/what-is-the-function-of-sulfur-in-plants)
+
+[All you need](https://kcenter.lallemandplantcare.com/en/canada/increase-your-yields/sulfur-in-agriculture/)
+
+[The-Role-of-Sulphur-in-Crop-Production](https://www.fertilizer-assoc.ie/wp-content/uploads/2023/01/The-Role-of-Sulphur-in-Crop-Production-Tech-Bulletin-no.-6.pdf)
+
+[Sulfur: The 4th Macronutrient](https://kegriver.com/why-keg-river/sulfur-agronomy/)

@@ -1,0 +1,126 @@
+---
+id: "farm-coffee-organic-manures"
+title: "Farm Coffee Organic Manures"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "organics"
+category: "Organics"
+publishedDate: "2004-03-01T08:00:00"
+updatedAt: "2015-10-28T10:59:17"
+wordpressId: 39
+---
+
+Indian coffee plantations are characterized by small land holdings and a majority of coffee farmers own less than ten hectares of land. In such a situation, the farmer needs to constantly innovate to maintain the sustainability of the farm. The coffee farmer finds an opportunity to utilize farm organic wastes and residues commonly found within the farm. Hence, it is not uncommon to find the set up of a functional unit of a dairy, piggery, poultry, fishery etc inside the plantation.
+
+These units in tandem tend to take care of more than 60 per cent fertilizer needs of the farm. Creation of wealth from organic wastes brings about a holistic healing within the farm and helps maintain a perfect balance between the beneficial and harmful micro and macro fauna and also between man and nature. It is something of a live and let live approach. On the other hand, accumulation of organic wastes results in the build up of complex biologically stable toxic molecules which can cause serious health hazards and environmental pollution.
+
+It is a matter of great satisfaction that the Indian coffee farmer is enlightened with the technology of converting organic wastes into precious manure and there by maintain the equilibrium of nature. In fact, a visit to any of the coffee plantation that of a small grower, will reveal a story of a biodynamic farm.
+
+Farm wastes, cattle dung, forest litter, poultry, sheep, piggery waste, fish toppings, biogas slurry, green manures and so on are converted into energy rich nutrients which are easily assimilated by coffee plants. Coffee bush is a perennial plant and requires a constant supply of nutrients throughout the year. Recycling organic wastes and addition of organic manures is the right answer to significantly fulfill the plants nutritional requirements from time to time.
+
+### Coffee Pulp / Husk
+
+Most of the coffee farmers own pulper machines which aid in removing the mucilaginous outer cover of the fruit. This outer cover is often referred to as coffee pulp. If dry coffee is processed, then the outer layer is referred to as husk. Both pulp and husk have high amounts of nutrients. Husk contains 1.5% nitrogen, 0.5% phosphorus and 2.2% potash.
+
+For every ton of clean coffee produced, one ton of dry matter is obtained either as cherry husk or fruit pulp. 7000 kg of fruits results in a net gain of 15 kg nitrogen, 3kg phosphorus and 35kg potash. Pulp or husk has to be composted and only then applied to the field. (Refer to [The Fine Art of Composting In Coffee Plantations](http://ecofriendlycoffee.org/the-fine-art-of-composting-in-coffee-plantations/)). Undecomposed or fresh husk may lead to production of acids and thus bring down the ph of the soil.
+
+![SLIDE-4](SLIDE-4.jpg)
+
+### Straw
+
+Coffee farms are blessed with enormous quantities of straw and crop residues which can be easily recycled. They contain approximately, 0.5% nitrogen, 0.4% phosphorus and 1.5% potash. Straw can also be used as mulch in young plantations to conserve moisture or passed through a shredder and used as a blending material in preparation of organic manure.
+
+![SLIDE1](SLIDE1.jpg)
+
+### Cattle Dung
+
+Just a decade back it was a common sight to see a medium sized herd of cattle (20 – 25 in number) in each and every plantation. Slowly with rapid industrialization, machine packed milk from urban based dairies started gaining importance in villages. Urban milk used to cost much less and also due to shrinkage in pasture and grazing land, farmers had no place to graze even a small herd of cattle.
+
+All these factors in combination literally destroyed the rearing of cattle inside the farm and this had serious consequences for the farmer. Our ancestors reared cattle PRIMARILY for the manorial value of dung. Dung consists of 70% moisture, 20% organic matter, 3% mineral matter and both major and micro nutrients. It has an excellent C:N ratio and is used as a bulk material in recycling crop residues.
+
+### Urine Fraction
+
+We have constructed a small cement tank, very close to the cattle shed and the size of the tank is such that it holds approximately ten thousand liters of water. All the urine and cattle shed washings are automatically collected in this tank. The urine fraction is directly lifted to the estate by means of a slurry pump. Apart from small amounts of nutrients present in the water soluble form, the major advantage is that the fraction has antagonistic properties against many harmful viral pathogens and disease causing agents.
+
+### Coffee Sewage & Sludge
+
+Coffee plantations can make use of sewage and sludge by way of preliminary treatment with lime and cattle dung along with microbial enzymes. The biological oxygen demand is very high in the initial stages and when additives are used, it rapidly comes down. However, if untreated sewage and sludge is used, it may contaminate the plantation with harmful pathogens. Properly treated sewage and sludge can be safely used to enhance yield.
+
+### Night Soil
+
+Night soil can be converted into effective manure by properly conserving it. Night soil is extensively used as manure in China. With proper additives, night soil contains almost 1% nitrogen, 2%phosphoric acid and 4% potash. Firstly the night soil is dehydrated and admixtures such as ash, soil, sawdust, wood shavings, or charcoal are added. This results in a powdery material which can then be added to cattle or poultry wastes and applied to the field.
+
+### Green Manuring
+
+New clearings or establishment of Plantations in marginal lands is a long drawn process and takes almost a decade in the establishment of a Robusta Plantation and around 6 years for Arabica. In such a situation, the normal practice followed is the introduction of green manuring crops like daincha, sun hemp, fodder legumes, sesbania grandiflora, sesbania aculuta, red gram. The soil is loosely tilled and the seeds of the green manure crops are broadcasted into the field. In about 10 days time the seedlings emerge and are allowed to grow for a period of 10 to 12 weeks and thereafter incorporated into the soil.
+
+Since the green manure crops have nodules on the roots (Sesbania grandiflora has root as well as stem nodules), nitrogen fixing bacteria harvest atmospheric nitrogen and make it available to the plant. Once the crop is incorporated into the soil, the subsequent mineralization of nutrients takes place and the coffee plant is benefited by slow release of nutrients as well as improvement in the organic matter content of the soil.
+
+1.  Green manure in situ application: Refers to growing green manure crops and burying them in the same field either as a pure crop or as an intercrop. The subsequent mineralization releases nutrients which coincide with the nutrient requirement of the plant.
+2.  Green leaf manure: Generally, the valleys associated with coffee plantations are used to growing green manuring trees or shrubs like Glyricidia maculate, Pongamia pinnata, etc. These leaves are incorporated into the soil or recycled into compost pits to bring down the C:N ration for quick multiplication of beneficial microorganisms.
+
+### Coirpith
+
+This is the raw material obtained from coconut. It is available in plenty and also the cost is reasonable. Acts as excellent mulch in young plantations and conserves moisture during the drought months. It has the capacity to absorb moisture many times over its weight and is used in composting and nursery preparation. It has high amounts of silica and hence should be sparingly applied.
+
+![SLIDE-7](SLIDE-7.jpg)
+
+![SLIDE-8](SLIDE-8.jpg)
+
+### Neemcake & Oil Cake
+
+As a matter of rule, it is better to apply these organic constituents in the rainy season. Due to their inherent nature of having oil within, these manures have the added advantage of releasing nutrients slowly and periodically there by avoiding loss of nitrogen by volatilization and leaching. Also the oil cakes are not readily soluble in water and rely on the action of microbes to breakdown into simpler compounds. Commonly used cakes are castor and groundnut or peanut cakes. All the above mentioned cakes have an appreciable content of nitrogen and phosphorus required for plant growth and development.
+
+### Poultry
+
+Poultry droppings are a peculiar organic waste because both urine and solid excreta are excreted together. Hence there is no loss of nitrogen from urine. These poultry droppings make excellent organic manure because of their excellent C:N ratio as well as high amounts of phosphorus and potash. The manure is also rich in uric acids. Generally for every 25 tons of cattle dung, 7 tons of poultry droppings are mixed along with straw and green manure, composted and broadcasted in the field.
+
+![SLIDE3](SLIDE3.jpg)
+
+![SLIDE6](SLIDE6.jpg)
+
+### Sheep & Goat Manure
+
+The presence of a medium or large herd of goats or sheep is rare inside the plantation. However, in the dryer belts, not too far away from the vicinity of the Plantation belt in a radius of about 100 kms abundant quantities of the above mentioned organic manure is available. The manure from sheep and goat is particularly helpful in quick decomposition of organic residues because of their small size and large surface area. The microbial activity is enhanced resulting in quick breakdown of residues into energy rich nutrients. The nitrogen content is almost 2.75%.
+
+![SLIDE-9](SLIDE-9.jpg)
+
+### Fishmeal, Bonemeal, Bloodmeal
+
+Since the plantations are located within 100 kms radius from the Arabian Sea, large quantities of NONEDIBLE fish are available. Generally such fish are dried, powdered and the nutrient status of the heap enriched by the addition of traces elements. Though the manure is very expensive, it is a good source of major and minor plant nutrients, especially during the early stages of establishing plantations. Bone meal consists of two types; steamed and raw bone meal.
+
+### Steamed Bonemeal
+
+This is obtained by treating the bones with steam under pressure using an autoclave resulting in the increased percentage of phosphoric acid and the subsequent reduction of nitrogen content. Steaming also removes the fat and greasy substances enabling the powdering of bones. Further advantages of steaming are that the bone meal decomposes more rapidly in the soil compared to raw bone meal. Raw bone meal consists of only crushed bones. It takes a number of months for the release of nutrients from raw bone meal.
+
+### Sewage, Sludge and Sullage
+
+Due to population explosion in the villages, the production of sewage, sludge and sullage has reached unmanageable proportions. Sewage is broadly classified as SLUDGE (SOLID PORTION) & SEWAGE (LIQUID PORTION). Suspended solids and effluents constitute 99% of the sewage bulk. As such these materials should be allowed to settle down. Sludge is separately collected, dried and used as manure. Once the solid portion or sludge is removed, the sewage water can be used for irrigation either directly or by diluting it with fresh pond water.
+
+![SLIDE2](SLIDE2.jpg)
+
+### Aquatic Weeds: (Water Haycinth, Lotus)
+
+These free floating or shallow anchored aquatic plants grow luxuriantly in lakes and ponds in tropical countries like India. They can either be harvested and composted with other organic residues or simply used for mulching. However, coffee farmers are yet to realize the value of aquatic weeds as a source of nutrients. More importantly these weeds have the capacity of adsorption which aid in purifying contaminated water and improving the oxygen content of lakes for fish rearing.
+
+### Tank Silt
+
+since Plantation areas are characteristic of steep slopes, and heavy rainfall, invariably large quantities of silt, organic matter gets accumulated in ponds and river beds. Even though the quantity of nitrogen, phosphorus and potassium available is in the range of 0.3%, the application of silt acts as an excellent soil conditioner and aids in the better uptake of nutrients and better root aeration.
+
+![SLIDE-5](SLIDE-5.jpg)
+
+### Sugarcane Pressmud
+
+Sugarcane is used in the preparation of jaggery. The spent material after processing is known as press mud. It contains high amounts of cellulose and hemicelluloses which needs to be broken down into simpler constituents. Also press mud harbors pathogenic microorganisms which are spore formers and heat resistant. Hence, the raw material needs to be properly digested and composted before it is applied to the soil.
+
+### Conclusion
+
+In all our articles, we have emphasized the cardinal importance that human beings should be part of nature and not above it. Traditional Farmers living in villages are bubbling with old ideas which work magnificently on the farm, without depleting the balance of natural resources. Crop productivity throughout the world relies on the top six inches layer of fertile soil.
+
+If organic wastes are properly recycled or applied at the right time, it not only enhances the fertility status of the soil, but converts organic wastes and returns it back to the farm in a value added form. This is the least we can give back nature. Is it not true that the greatness of nature is in its simplicity? It is only man that has complicated nature and exploited it. We are locked in an economic race. The way, nonrenewable energy resources are plundered, the world may soon see shortages of food and water.
+
+Man made chemicals, hazardous nuclear waste and every synthetic item manufactured on the face of this planet leaves behind a tragic tale which future generations will experience. Farmers are lead into a false belief that higher productivity at any cost is the key for survival; however, this is not true. What is really true is that SHADEGROWN ECOFRIENDLY coffee Plantations in India are among the few places in the world living with the old rules of nature and nature has never let down the planter.
+
+So it is worthwhile to go back to centuries of traditions practiced by our great ancestors and analyze the hidden secrets buried within. Reapplying these principles and maintaining a sustainable world is the only gift that we can give future generations.

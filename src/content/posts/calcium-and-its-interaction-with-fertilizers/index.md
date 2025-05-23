@@ -1,0 +1,109 @@
+---
+id: "calcium-and-its-interaction-with-fertilizers"
+title: " Calcium And Its Interaction With Fertilizers"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "fertilizers"
+category: "Fertilizers"
+publishedDate: "2022-07-30T08:37:29"
+updatedAt: "2022-07-30T08:41:11"
+wordpressId: 48252
+---
+
+Coffee Agroclimatic regions significantly vary in terms of soil types and rainfall patterns. The soil types are deep friable, rich in organic matter, well-drained, and slightly acidic in reaction. The rainfall varies from 1000 mm to 2500 mm.
+
+Calcium is added to coffee plantations either as lime or Dolomite. This practice is carried out once in two years, depending on the rainfall pattern. The primary source of liming materials is calcium carbonate and magnesium carbonate. Gypsum is used when the soil needs correction for alkaline conditions and for supplementing calcium as a nutrient without correcting the soil acidity. But as a fertilizer, calcium is added to plants as a component of other nutrients, particularly phosphorus, as in superphosphate.
+
+**Calcium And other Fertilizers**
+
+Calcium levels enhance the uptake of nitrate, thus becoming interrelated with nitrogen metabolism.
+
+Fertilizer solutions with high levels of magnesium, sodium, or potassium can provoke a shortage of calcium in the plant because of cation uptake competition. Calcium uptake is progressively reduced by the presence of ammonium, magnesium, potassium, and sodium ions.
+
+Calcium also facilitates the uptake of potassium ions, preferentially over sodium ions. Therefore, an optimum ratio of potassium to calcium is important for a favorable water balance in plants.
+
+Phosphorus favors calcium uptake under acidic conditions. An increase in the Ph after excessive liming results in deficiencies of iron, manganese, boron or zinc, leading to subsequent chlorosis. Calcium and boron exhibit a synergistic effect in reducing plant disorders.
+
+A higher concentration or excess of calcium in the soil can cause a deficiency of potassium and some micronutrients, particularly, zinc.
+
+**Uptake of Calcium**
+
+Calcium is present in soils as its various forms viz. mineral particles, CaCO3, simple salts and exchangeable Ca. Ca2+ is present in three major forms in the soils: in solution, bound to exchangeable sites of clay minerals and organic matter, and as minerals.
+
+Calcium is taken up by roots from the soil solution and delivered to the shoot via the xylem (Water conducting tissue)
+
+**Important Note to Coffee Planters**
+
+Calcium concentration in the soil solution is present about 10 times greater than that of K concentration. In spite of the presence of a greater concentration of Ca in the soil solution, its uptake by plants is lower than that of K as the capacity of the uptake of Ca is limited to only young root tips.
+
+**Factors determining Calcium Availability in soils**
+
+Organic matter content of the soil.
+
+Soil Carbon
+
+Hydrogen ion concentration
+
+Cat ion exchange capacity
+
+Type of parent material in soils
+
+Nature, amount, and type of soil colloids
+
+The ratio of Ca to other cations in soils
+
+Percent saturation of Ca in soil colloids
+
+The external supply of Calcium to soils
+
+**Soil Type**
+
+Sandy soils generally tend to have a lower cation exchange capacity and in such soils the amount of calcium is too low to provide calcium for coffee and allied crops.
+
+Light textured soils suffer a greater loss of Ca than that of heavy textured soils.
+
+**Calcium Deficiency**
+
+Calcium is not mobile in plants, it does not easy to move from old to young leaves. Since calcium is immobile within the plant, deficiency symptoms appear on younger leaves.
+
+Deficiency, also Directly affects primary and secondary root system
+
+**Loss of Calcium**
+
+The quantity of calcium lost by leaching is 30 to 80 kg/acre/year. This loss is greater than that of sodium ions as the quantity of calcium present in the solution is higher and is in an exchangeable form.
+
+Calcium is also lost or neutralized from the soil by a number of other means. Rapid neutralization by acid-forming fertilizers, especially ammonium. Also by slow neutralization by acid formed by carbon dioxide in water due to decomposition of organic matter. Yet another important aspect pertains to soil erosion. Depending on the annual rainfall and type of multi-cropping. Small chances of acid rain, due to the surrounding factories can also cause calcium loss.
+
+**Food for thought**
+
+Coffee is a perennial crop, growing the same crop on the same piece of land over a long time scale, also results in the depletion of a particular nutrient or depletion of a number of major and minor nutrient elements. Hence, the application of calcium depending on the soil report is a good practice in replenishing the calcium taken up by coffee and allied crops.
+
+**How to Overcome Acidity**
+
+The practical way of overcoming acidity in soils is by using lime calcium oxide, calcium carbonate, calcium hydroxide,/ dolomite, and calcium magnesium carbonate as a soil amendment. By adding sufficient quantities of the above material, depending on soil analysis, it is possible to restore the normal pH levels of the soil. The above-mentioned minerals react with soil carbon dioxide and the formation of soluble bicarbonates takes place.
+
+They in turn react with the colloidal complex of the soil and rapidly the hydrogen ions in the soil are replaced by calcium and magnesium till equilibrium results in favor of setting up a calcium complex. Ultimately the acidic pH starts climbing back to the neutral range. Liming also accelerates the decomposition of organic matter and in turn production of mild organic acids.
+
+The calcium humus complex produced inside the coffee farm is believed to be a very effective cementing agent in binding loosely bound soil particles. Hence best results are obtained if the soil is periodically limed in small quantities. The best time to apply lime is from December to February when the moisture status of the soil is adequate. Broadcasting of lime followed by scuffle digging gives the best results.
+
+**References**
+
+Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume-1.
+
+Vasant Gowariker (Author and Chief Editor), V. N. Krishnamurthy, Sudha Gowariker and Manik Dhanorkar. The FERTILIZER ENCYCLOPEDIA. 2005 Vasudha Research & Publications (P) Ltd. Pune.411016. India.
+
+[The role of calcium](https://www.iclfertilizers.com/calcium#:~:text=Calcium%20\(Ca\)%20plays%20an%20extremely,that%20coordinate%20certain%20cellular%20activities)
+
+[Calcium—Nutrient and Messenger](https://www.frontiersin.org/articles/10.3389/fpls.2019.00440/full)
+
+[The Importance of Calcium](https://www.croplife.com/crop-inputs/the-importance-of-calcium-in-plant-nutrition/)
+
+[Calcium in crops](https://www.seipasa.com/en/blog/calcium-in-crops/#:~:text=Calcium%20in%20crops%20plays%20a,have%20resistant%20and%20healthy%20plants).
+
+[Let’s make the green](https://www.vaniperen.com/role-of-calcium-in-plant-growth/)
+
+[Influence on Growth, Stress Tolerance](https://www.frontiersin.org/articles/10.3389/fagro.2020.590892/full)
+
+[Cations Uptake](https://www.frontiersin.org/articles/10.3389/fagro.2020.590892/full)

@@ -1,0 +1,99 @@
+---
+id: "antivenom-why-its-so-precious"
+title: "Antivenom: Why it’s so precious"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "reptiles"
+category: "Reptiles"
+publishedDate: "2017-06-01T08:00:06"
+updatedAt: "2022-04-06T08:48:23"
+wordpressId: 3426
+---
+
+The Western Ghats, recognized world over as a center of biological diversity is also recognized for growing India’s finest shade coffees. Coffee Forests in India are by and large associated with wildlife sanctuaries and also form a part of the Nilgiri Biosphere region. These dense forests are located at elevations ranging from 750 meters right up to 1500 meters main sea level. These forests are known to host a rich source of diversified flora and fauna. The density of tree population varies with altitude and climatic variation. The outer giris (mountain ranges) have more of the introduced silver oak and at lower elevations the composition of the forest is a rich mix of native and introduced trees. Bamboo thickets are a common feature in all coffee Agro climatic regions. The topmost portions of the mountains are covered with rocks or by a thin soil cover with grasslands. The major forest types present in this region includes evergreen, semi evergreen, moist deciduous, dry deciduous, grassland, and shola (Tropical montane forest).
+
+[![2016-antivenom-slide-1](2016-ANTIVENOM-SLIDE-1-1024x768.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-1/)
+
+In short, these characteristic ecological niches provided by the coffee mountain are an ideal habitat for different species of reptiles because it provides for distinct ecological niches, climatic zones both macro and micro which varies with altitudinal changes.
+
+[![2016-antivenom-slide-2](2016-ANTIVENOM-SLIDE-2-1024x683.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-2/)
+
+The objective of writing this informative article is to help all Nature loving people to understand the role of snake venom in modern medicine & how it could save millions of precious lives worldwide.
+
+Even though wrongly misrepresented by Man, reptiles in general and snakes in particular are vital in maintaining the energy balances in terms of predator and prey. The fact of the matter is that 100,000 animals have evolved to produce venom with appropriate glands to house it and the apparatus to expel it; Snakes, scorpions, spiders, a few lizards, bees, sea creatures, octopuses and numerous species of fish. Today, with cutting edge molecular tools, the scientific community is only beginning to realize the immense potential of snake venom, not only for antivenin but also for cures. Already top medicines for heart disease and diabetes have been derived from snake venom. The potential is such that new treatments for autoimmune diseases, Cancer and pain should be available within a decade. Proteins and toxins within venom can provide key blue prints for treating a wider variety of ailments, including autoimmune disease, stroke and multiple sclerosis.
+
+### IMPORTANCE OF VENOM
+
+![morphology-venomous-snake-head](morphology-venomous-snake-head.jpg)
+
+Venom from snake fangs is one of nature’s most efficient prey killers. It consists of a complex soup with toxic proteins, peptides, short strings of amino acids similar to proteins. The molecules may have different targets and special effects but they work synergistically to either block the auto immune system or paralyze the nervous system or muscle. The end result is the same; the venom has a dilapidating effect on cells and tissue resulting in multi organ failure. Venom can kill by clotting blood and stopping the heart or by preventing clotting and triggering a killer bleed. Dozens, even hundreds of toxins can be delivered in a single bite. The difference between venom and poison is that venom is injected or dibbled into victims by way of specialized body parts and poison is ingested.
+
+[![2016-antivenom-slide-3](2016-ANTIVENOM-SLIDE-3-1024x576.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-3/)
+
+[![2016-antivenom-slide-4](2016-ANTIVENOM-SLIDE-4-1024x576.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-4/)
+
+Ironically, the properties that make venom deadly are also what make it so valuable for medicine. Many venom toxins target the same molecules that need to be controlled to treat diseases. These toxins and enzymes target particular molecules fitting into them like keys into locks (most medicines work that way) fitting into and controlling molecular locks to thwart ill effects. We aren’t talking about novel drugs, but entire class of drugs that will directly come from understanding the biochemical nature of venom. So far fewer than a thousand toxins have been screened for medicinal value and a dozen or so major drugs have made it to the market.  In reality there could be upwards of 20 million venom toxins waiting to be screened. Toxins from venom and poison sources are also giving a clearer picture of how proteins that control many of the body’s cellular functions work. More importantly, scientists are now manufacturing designer toxins for various therapeutic values. Crystallized venom from snakes is now a medical export from Azerbaijan.
+
+[![2016-antivenom-slide-5-2](2016-ANTIVENOM-SLIDE-5-2-1024x799.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-5-2/)
+
+### VENOM BASED CURES
+
+Venom based cures aren’t a new idea. They show up for example in Sanskrit texts from the second century A.D and around 67 B.C. Mithradates VI of Pontus, an enemy of Rome who dabbed in toxicology was supposedly saved twice on the battle field by Shamans who administered viper venom to his wounds. Cobra venom applied for centuries in traditional Chinese and Indian medicines was introduced to the west in the 1830’s as a homeopathic pain remedy. John Henry Clarkes “MATERIA MEDICA ” published around 1900, describes the venom as alleviating many ills, even those caused by venom. The author was also of the opinion that clinical applications of carefully diluted cobra venom included ‘ Angina pectoris, asthma, Dementia, Hay fever, headache and heart disease. His careful observations were such that “the curative dose is just within the limit of the pathogenic dose”. In such rare instances, the patient’s life was literally hanging on the edge of a knife.
+
+[![2016-antivenom-slide-6](2016-ANTIVENOM-SLIDE-6-1024x683.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-6/)
+
+[![2016-antivenom-slide-7](2016-ANTIVENOM-SLIDE-7-1-1024x767.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-7-3/)
+
+The science of transforming venom into cures took off in the 1960’s when an English clinician named Hugh Alistair Reid suggested that the venom of the Malayan pit viper might be used against deep vein thrombosis. He had discovered that one of the snake toxins, a protein called “ANCROD”, saps a fibrous protein from the blood, preventing clotting. “Arvin”, a clot busting drug derived from pit viper venom reached clinics in Europe in 1968. The Brazilian pit vipers venom led to the development in the 1970’s of a class of drugs called “ACE inhibitors” now widely used against hypertension. Heart patients owe gratitude to the eastern Green Mamba, whose venom impairs its victim’s nerves and blood circulation. A key peptide from the venom is used to make CENDERITIDE which lowers blood pressure and reduces fibrosis in a failing heart but also shields the kidneys from an overload of salt and water.
+
+### Conclusion
+
+The principal aim of documenting the flora and fauna inside Eco-friendly Indian Coffee Plantations is to help coffee Planters in India and abroad to support conservation and research programs that contribute to the survival of threatened species.
+
+[![2016-antivenom-slide-8](2016-ANTIVENOM-SLIDE-8-1024x683.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-8/)
+
+Our own experience of three decades in documenting the reptiles in general and snakes in particular has opened a world of possibilities in conservation of threatened reptiles and their habitats. Our work on conservation is also to help the local coffee community to be a part of the total conservation aspect of the biological riches of the coffee forest.
+
+[![2016-antivenom-slide-10-2](2016-ANTIVENOM-SLIDE-10-2-1024x683.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-10-2/)
+
+The larger picture involves preservation of all reptile species, which will hold a clue to the discovery of new drugs for potential medicinal treatments and cures. The therapeutic effects of a wide variety of venom, when used the right way, would be a life saver. After-all Life is very precious.
+
+[![2016-antivenom-slide-10](2016-ANTIVENOM-SLIDE-10..-1024x735.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-10-3/)
+
+### References
+
+Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume-1.
+
+Bopanna, P.T. 2011.The Romance of Indian Coffee. Prism Books ltd.
+
+[Venom As Medicine](http://www.medicaldaily.com/venom-medicine-how-spiders-scorpions-snakes-and-sea-creatures-can-heal-328736)
+
+[Reptiles](https://web.archive.org/web/20180605204528/http://www.bbc.co.uk:80/nature/life/Reptile/by/rank/all)
+
+[MECHANISM OF SNAKE BITE-TREATMENT](https://web.archive.org/web/20180906223624/http://www.biologydean.com:80/2015/12/mechanism-of-snake-bite-treatment.html)
+
+[Loss of Biodiversity](http://www.globalissues.org/article/171/loss-of-biodiversity-and-extinctions)
+
+[Amphibian Declines](http://amphibiaweb.org/declines/declines.html)
+
+[Everything you need to know about snake bites!](http://indiansnakes.org/content/everything-you-need-know-about-snake-bites)
+
+[Indiansnakes.org](https://www.facebook.com/Indiansnakes.org/photos/) (Facebook)
+
+[Indiansnakes.org,Facts,First Aid and Prevention](https://www.facebook.com/Indiansnakes.org/photos/a.1465307713496475.1073741829.285166914843900/1465307810163132/?type=3&theater) (Facebook)
+
+[Emergency : Snake bite , what to do and what not to do](http://www.auroville.org/contents/1675)
+
+[SNAKE BITE MANAGEMENT](http://www.slideshare.net/9489649295/snake-bite-management-43980824)
+
+[Venomous Snakes](https://web.archive.org/web/20170508054110/http://www.reptilegardens.com:80/reptiles/snakes/venomous/snake-venom.php)
+
+[What to do if bitten](https://web.archive.org/web/20170519032034/http://www.reptilegardens.com:80/reptiles/snakes/venomous/snake-bites.php)
+
+[Can Coffee Drinkers Save the Rain Forest?](http://www.theatlantic.com/magazine/archive/1999/08/can-coffee-drinkers-save-the-rain-forest/377733/)
+
+[morphology of a venomous snake: head](http://www.visualdictionaryonline.com/animal-kingdom/reptiles/snake/morphology-venomous-snake-head.php)
+
+[Snake Bite! – Firstaid, Facts & Prevention](http://www.slideshare.net/JoseLouies/snake-bite-firstaid-facts-prevention)

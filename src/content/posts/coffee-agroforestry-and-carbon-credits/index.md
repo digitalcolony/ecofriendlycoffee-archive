@@ -1,0 +1,93 @@
+---
+id: "coffee-agroforestry-and-carbon-credits"
+title: "Coffee Agroforestry And Carbon Credits"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "global-warming"
+category: "Global Warming"
+publishedDate: "2022-03-30T08:16:47"
+updatedAt: "2022-03-30T08:16:47"
+wordpressId: 48199
+---
+
+The recent global conference on Climate Change sponsored by the U.N. (COP26 ) and attended by almost 200 countries, recognized the global climate emergency and the urgent measures that need to be taken on a war footing to combat global warming. It expresses “alarm and utmost concern that human activities have caused around 1.1°C of global warming to date and that impacts are already being felt in every region.” Parties also recognize that the impacts of climate change will be much lower at a 1.5°C rise compared with 2°C, and resolved to pursue efforts to keep to 1.5°C. One way of tackling this problem head-on is by planting trees. India’s shade-grown coffee plantations can help mitigate carbon by sequestering carbon by removing it from the atmosphere through photosynthesis and incorporating it into the plant system. The entire Coffee Agroforestry ecosystem acts as a sink and helps combat the impact of global warming and the increase in rising temperatures. These Agroforestry systems are recognized for their potential to sequester large amounts of carbon, both above ground and below ground.
+
+### What does 1.5 C above pre-industrial levels mean?
+
+This means that warming in many regions has already exceeded 1.5°C above pre-industrial levels. At the present rate, global temperatures would reach 1.5°C around 2040. The stylized 1.5°C pathway shown here involves emission reductions beginning immediately, and CO2 emissions reaching zero by 2055.
+
+### Coffee And Carbon
+
+Mark Maslin and Carmen Nab, in their well-researched Paper on the Carbon cost of our daily cup and how to make it Climate-friendly, report that “Growing a single kilogram of Arabica coffee in either Brazil or Vietnam and exporting it to the UK produces greenhouse gas emissions equivalent to 15.33 kg of carbon dioxide on average. That’s raw, pre-roasted beans (otherwise known as “green coffee”) produced using conventional methods. They further stress that there are plenty of other ways to shrink the carbon footprint of sustainable coffee even further, like replacing chemical fertilizers with organic waste and using renewable energy to power farm equipment. Roasting coffee beans in their country of origin makes them lighter during transport too, so vessels can burn less fuel transporting the same amount of coffee.
+
+### Green House Gases And Coffee Farming
+
+We need to understand that Coffee Plantations are responsible for emitting greenhouse gases due to environmental impacts caused by primary agricultural and processing activities. Use of chemicals, fertilizers pesticides, weedicides, vehicular movement, power sprayers, power diggers, sprinkling engines, heavy machinery to excavate ponds, pulping, etc. produces indirect and direct emissions. Greenhouse gas emissions as a result of the activities inside the coffee plantation production system include carbon dioxide, nitrous oxide, and methane compounds. Sources of emissions come from fossil fuels, electricity, and the decomposition of organic matter. However, all these greenhouse gases can be offset by various means at the disposal of the Planter, which are described below.
+
+### Shade Coffee And Carbon Mitigation
+
+Carbon sequestration in coffee cultivation will likely only become more important in the years to come. India is perhaps the only country in the world growing all its coffee’s under the canopy of a heterogeneous tree population. The number of trees both native and introduced exceeds more than 200 in number in Arabica plantations and around 120 in Robusta plantations. Planting trees for forestry is currently the main carbon sink used in coffee plantations. Trees absorb carbon. About 50% of the dry weight of tree roots, branches, trunks, and leaves is carbon.  
+The percentage of Carbon in plant tissues of plantation crops is in the range of 39-50 %. The carbon will also be sequestered in soil as soil organic carbon in different soil fractions. The macroaggregates of soil are capable of storing large amounts of C because of the larger surface area.  
+Basically, Indian Coffee Plantations grow shade-grown coffee under the canopy of a three-tier shade system. A lot of care is taken in selecting the trees to be introduced. The primary shade or the lower shade is taken care of by nitrogen-fixing Erythrina indica or by Glyrecedia maculata. The secondary shade is that of trees like Jackfruit, white and red cedar. These trees are specifically selected because they act like factories providing tremendous biomass and thereby keeping the soil temperatures low. Lastly, the tertiary shade is of the hardwood species, which attract rain-bearing clouds. Carbon is stored in the biomass and other organic matter in the soil. Due to the constant supply of leaf litter due to leaf shedding and tree pruning, the soil is always covered with a thick layer of mulch which enhances microbial activity. This in turn helps in the fixation of atmospheric carbon dioxide.  
+Another important aspect overlooked by bureaucrats or policymakers is that the coffee ecosystem replicates a natural forest. Monocropping is the exception in Indian coffee Plantations. The rule is a range of simultaneously growing crops. No other Plantations in the world have the range of diversity as that seen in Indian Coffee plantations. The difference is the multiple, mixed cropping systems. Pepper vines are grown on shade trees, cardamom, Areca nut, Ginger, Citrus, Vanilla, and a few other spices are grown as multiple crops inside the Coffee Plantations.
+
+### Man-made Forests
+
+Marginal lands or grasslands are slowly and steadily converted to bio-rich coffee plantations by first growing a cover crop of legumes like Sesbania and Daincha, followed by growing millions of trees, which act as a shade for wildlife and birds.  
+These manmade forests also serve to harvest rain as well as preserve the sensitive ecology of the region. One acre of trees absorbs enough carbon dioxide per year to match that emitted by driving a car 26,000 miles. Meanwhile, urban neighborhoods with mature trees can be up to 11 degrees cooler in the summer heat than neighborhoods without trees. Furthermore, large trees remove 60-70 times more pollution than small trees.
+
+### How much carbon can coffee Plantations store?
+
+The scientific literature on measuring carbon storage varies because it is difficult to get the correct estimates due to the multiplicity of the coffee ecosystem in terms of plant genotypes, soil types, tree species, organic matter content, and other factors like rainfall, and elevation.  
+**Julie Craves, in her website “Coffee & Conservation,** “has published some very informative data on carbon sequestration in her paper titled “Coffee Farms and carbon sequestration”. She cites the following examples.  
+In the tropics, potential carbon sequestration rates for the smallholder, sustainable agroforestry systems range from 1.5 to 3.5 megagrams (tonnes) per hectare per year, or 2.1 billion megagrams annually worldwide.  
+It has been estimated that each hectare of sustainable agroforestry in the tropics could potentially offset 5 to 20 ha of deforestation.  
+Scientific literature presents varied estimates of the amount of carbon fixed by a tree.  
+Example. The amount of carbon in a tree of a particular size can be estimated. For example, a hardwood eucalypt tree with a circumference of 100cm measured at a height of 130cm above the ground represents 322kg of carbon or 1,182kg CO2-e.
+
+### Difficulties Faced By Planters
+
+Due to the difficulty involved in accessing the quantity of carbon fixed by various biological systems inside coffee forests, both by trees, plants, and soil microbes, it is difficult to accurately predict changes in the soil organic carbon pool. As a result of the complexity of assessing long-term soil organic carbon on the floor of the coffee forest, it had until recently been largely excluded from carbon accounting within land-based projects for International carbon markets, which tend to focus only on aboveground carbon as it is relatively easy to measure.
+
+### Parameters Influencing Carbon Fixation
+
+Planting of shade trees, species diversity, tree density, hardwood species, semi-hardwood species, and Jungle wood species. Nitrogen-fixing species, shallow-rooted, deep-rooted.  
+Age of trees, Systematic timber harvesting on a block by block basis.  
+Age of Coffee bush, variety, cultivar, local variety, Hybrid, High yielding varieties. Coffee, perennial crops, annual crops.  
+Replanting of coffee and multiple crops  
+Type of Shade. Heavy to Light.  
+Tree Pruning. Heavy Pruning or Light Pruning. Or no pruning at all as in timber species.  
+Coffee Pruning. Light to heavy.  
+Fertilizer. Type of chemical fertilizers or organic farming  
+Weedicides. Manual weeding or chemicals.  
+Soil Type  
+Digging. Scuffle digging, Trenching.  
+Elevation, steep slopes, Rainfall pattern, soil runoff.
+
+### Global Carbon Exchange
+
+The Chicago Climate Exchange (CCX) is the trading platform for carbon credits, trading them in large bundles. In order to sell credits on the CCX, landowners need to work through an aggregator. An aggregator combines credits with several landowners to create a bundle of credits large enough to trade on the exchange.
+
+### Understanding a Carbon Credit
+
+The ultimate goal of carbon credits is to reduce the emission of greenhouse gases into the atmosphere. As noted, a carbon credit is equal to one ton of carbon dioxide. According to the Environmental Defence Fund, that is the equivalent of a 2,400-mile drive in terms of carbon dioxide emissions. In other words, 1 carbon credit corresponds to 1 metric tonne of carbon dioxide prevented from entering the atmosphere.
+
+### Conclusion
+
+Earning Carbon credits is a complex process. Almost all coffee-growing Countries are poor or developing economies where a vast majority of the farmers find it difficult to make two ends meet. The rules governing carbon credits are framed by the Western countries to suit them. Transparency, accountability and dependency is a big questions mark when it comes to the trading of carbon credits. The entire process is complicated. Instead, the International Coffee Organization should facilitate carbon-neutral certifications which will help small, medium, and large coffee planters get a decent premium for their produce.  
+There are still issues around how we measure carbon, whether soil carbon is recognized, and whether all or only some land types and regions have the potential to sequester carbon.
+
+ Climate change is threatening the existence of the very plant. Most experts agree that the future of coffee is significantly at risk due to climate change. It is estimated that 50% of the land used to grow coffee will not be farmable by the year 2100. As over 80% of coffee growers are poor farmers in less developed countries, they will be faced with decreasing crop yield or increased pesticides. Ultimately, the quality and production of coffee will suffer.
+
+### References
+
+[Carbon credits with coffee: a how-to guide](https://www.coffeehabitat.com/2009/08/carbon-credits-with-coffee-a-howto-guide/)  
+[Coffee farms and carbon sequestration](https://www.coffeehabitat.com/2008/03/coffee-and-carb/)  
+[Climate Action](https://www.un.org/en/climatechange/cop26)  
+[Most Coffee Species At Risk](https://www.forbes.com/sites/trevornace/2019/01/17/most-coffee-species-at-risk-of-extinction-due-to-climate-change/?sh=32d2f863cddd)  
+[Why Scientists Say A Global Coffee Crisis Is Imminent](https://www.mashed.com/235657/why-scientists-say-a-global-coffee-crisis-is-imminent/)   
+[Carbon Footprint Calculation](http://www.ijstr.org/final-print/dec2019/Carbon-Footprint-Calculation-For-Gayo-Arabica-Coffee-Primer-Processing.pdf)  
+[Carbon Credit](https://www.investopedia.com/terms/c/carbon_credit.asp)  
+[Coffee: here’s the carbon cost](https://theconversation.com/coffee-heres-the-carbon-cost-of-your-daily-cup-and-how-to-make-it-climate-friendly-152629)

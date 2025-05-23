@@ -1,0 +1,803 @@
+---
+id: "coffee-forests-a-gateway-to-wildlife"
+title: "Coffee Forests – A Gateway To Wildlife"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "coffee-physiology"
+category: "Coffee Physiology"
+publishedDate: "2007-09-01T07:00:00"
+updatedAt: "2024-11-14T04:32:44"
+wordpressId: 82
+---
+
+Cradled by the verdant Western Ghats, coffee forests are an ecological wonderland, fed as it is by more than a dozen rivers, the majority, taking birth in the high ranges of the ghats. Most of the year, except during the monsoons, you will find it tranquil, almost gentle, yet the power behind the sight is unmistakable.
+
+Amidst untamed patches of greenery one can discover Coffee forests with their enchanting landscape teeming with varied flora and fauna. These coffee forests provide an incredible opportunity for the nature lover to study hundreds of species of endangered birds and animals. The great physical variations in topography from the high range mountains to the low lying plains and the formation of multiple watersheds is responsible for local variation in species diversity.
+
+![1.COFFEEFORESTS2007SLIDE-1](1.COFFEEFORESTS2007SLIDE-1.jpg)
+
+A study of the coffee forests reveals very interesting facts. Coffee forests have varied physical and climatic conditions and types of vegetation. Two factors play a key role in coffee forests accommodating distinctive types of flora and fauna. Firstly, most of the coffee forests are zones with an elevation ranging from 950 m MSL going up to 1500 m MSL receiving very high rainfall.
+
+These forests have three storied vegetation accommodating multi crops and various types of flora and fauna. The upper storey or top storey consists of tall evergreen trees which belong mostly to the hard wood species. More than 60% of the sunlight is trapped by this canopy of trees. Trees of medium growth belonging to the semi hard wood species form the middle tier. These trees grow luxuriantly in moderate shade. The third layer consists of erythrina or introduced species which are not permanent in nature. This three tiered shade system acts as a sanctuary for birds and animals of all kinds, both ground dwellers as well as tree dwellers by providing adequate food and protection.
+
+![2.COFFEEFORESTS2007SLIDE-2](2.COFFEEFORESTS2007SLIDE-2.jpg)
+
+The rainfall is widely distributed allowing for the succession of different species of trees, herbs, shrubs and climbers. The coffee forests are geographically characterized by topographical undulations which act as zoning barriers for the passage of animals from one forest to the other. In fact it is one of nature’s ways of creating special ecological niches for the proliferation of various animal, insect and microbial species with abundant food supply.
+
+![3.COFFEEFORESTS2007SLIDE-3](3.COFFEEFORESTS2007SLIDE-3.jpg)
+
+The flora and fauna of each region has developed adaptations to face the extremes of weather and severity of drought. Most importantly, for generations coffee farmers have adopted the sustainable model of development taking into account the economy, society and the environment.
+
+![4.COFFEEFORESTS2007SLIDE-4](4.COFFEEFORESTS2007SLIDE-4.jpg)
+
+The Western Ghats, one of the eight hottest hot spots of biodiversity are home to shade grown eco friendly coffee plantations. The exciting news is that these evergreen tropical forests are likely to be included in the list of world heritage sites (2009). To date there are six natural heritage sites in India which include the Valley of flowers and Nanda Devi Biosphere reserve, Kaziranga National Park, Manas Wildlife Sanctuary, Sunderban and Keoladeo National Park. These spectacular Ghats comprising of mountain ranges, steep valleys, rivers, rivulets and pristine forests cover an area of about 160,000 square kilometers and stretch forth 1,600 kilometers from the Southern tip at Kanyakumari to Gujarat.
+
+### TABLE: 1. PROTECTED FOREST AREA {as on September, 2006}
+
+(Wildlife Institute of India)
+
+-   Geographical Area of India = 32,87,263 km2
+-   Forest Area of India (FSI, 2003) = 778,229 km2
+-   Forest Area of Geographical Area of India = 23.68 %
+
+Current Protected Area Status
+
+Protected Area
+
+Number
+
+Area Covered
+
+National Parks
+
+95
+
+38,024.10 km2
+
+Wildlife Sanctuaries
+
+500
+
+118,913.47 km2
+
+Conservation Reserves
+
+2
+
+42.28 km2
+
+Total
+
+597
+
+155,979.85 km2
+
+Geographical Area of India
+
+Percentage
+
+National Parks
+
+1.16 %
+
+Wildlife Sanctuaries
+
+3.59 %
+
+Conservation Reserves
+
+0.001 %
+
+Protected Areas
+
+4.74 %
+
+According to the checklist of Indian Mammals (Nameer, P.O. 2000) there are four hundred and ten (8.86% of the World’s mammals) species of mammals known to exist in India, which are spread over 186 genera, 45 families and 13 orders. This includes two species that are locally extinct from India viz. Acinonyx jubatus and Rhinoceros sondaicus, 13 species of domestic animals that have a complete species status following Corbett & Hill (1992). Nearly 89 species are listed as threatened in the IUCN Red List of Threatened Animals (IUCN 2006).
+
+![6.COFFEEFORESTS2007SLIDE-6](6.COFFEEFORESTS2007SLIDE-6.jpg)
+
+### Table 2: Numbers of threatened species by major groups of organism {Source: [iucnredlist.org](http://www.iucnredlist.org/)}
+
+Number of described species
+
+Number of species evaluated in 2006
+
+Number of threatened species in 2004
+
+Number of threatened species in 2006
+
+Number threatened in 2006, as % of species described
+
+Number threatened in 2006, as % of species evaluated\*\*
+
+Vertebrates
+
+Mammals
+
+5,416
+
+4,856
+
+1,101
+
+1,093
+
+20%
+
+23%
+
+Birds
+
+9,934
+
+9,934
+
+1,213
+
+1,206
+
+12%
+
+12%
+
+Reptiles
+
+8,240
+
+664
+
+304
+
+341
+
+4%
+
+51%
+
+Amphibians\*
+
+5,918
+
+5,918
+
+1,770
+
+1,811
+
+31%
+
+31%
+
+Fishes
+
+29,300
+
+2,914
+
+800
+
+1,173
+
+4%
+
+40%
+
+Subtotal
+
+58,808
+
+24,284
+
+5,188
+
+5,624
+
+10%
+
+23%
+
+Invertebrates
+
+Insects
+
+950,000
+
+1,192
+
+559
+
+623
+
+0.07%
+
+52%
+
+Molluscs
+
+70,000
+
+2,163
+
+974
+
+975
+
+1.39%
+
+45%
+
+Crustaceans
+
+40,000
+
+537
+
+429
+
+459
+
+1.15%
+
+85%
+
+Others
+
+130,200
+
+86
+
+30
+
+44
+
+0.03%
+
+51%
+
+Subtotal
+
+1,190,200
+
+3,978
+
+1,992
+
+2,101
+
+0.18%
+
+53%
+
+Plants
+
+Mosses\*\*\*
+
+15,000
+
+93
+
+80
+
+80
+
+0.53%
+
+86%
+
+Ferns and allies\*\*\*
+
+13,025
+
+212
+
+140
+
+139
+
+1%
+
+66%
+
+Gymnosperms
+
+980
+
+908
+
+305
+
+306
+
+31%
+
+34%
+
+Dicotyledons
+
+199,350
+
+9,538
+
+7,025
+
+7,086
+
+4%
+
+74%
+
+Monocotyledons
+
+59,300
+
+1,150
+
+771
+
+779
+
+1%
+
+68%
+
+Subtotal
+
+287,655
+
+11,901
+
+8,321
+
+8,390
+
+3%
+
+70%
+
+Others
+
+Lichens
+
+10,000
+
+2
+
+2
+
+2
+
+0.02%
+
+100%
+
+Mushrooms
+
+16,000
+
+1
+
+—
+
+1
+
+0.01%
+
+100%
+
+Subtotal
+
+26,000
+
+3
+
+2
+
+3
+
+0.01%
+
+100%
+
+TOTAL
+
+1,562,663
+
+40,168
+
+15,503
+
+16,118
+
+1%
+
+40%
+
+The Western Ghats, otherwise referred to as the Sahyadri Hills are formed by the Malabar Plains and the mountains running parallel to the west coast of India .These pristine coffee forests are part and parcel of the massive protected NILGIRI BIOSPHERE( 5,520 square kilometers) reserve, which is India’s first biosphere reserve. The Bandipur National park ( 874 square kilometers) flanked by Nagarahole ( Rajiv Gandhi National park, 643.39 square kilometers ) , Madhumalai wild life sanctuary and Wayanad wildlife sanctuary, act as refuge for residential and endangered species.
+
+![7.COFFEEFORESTS2007SLIDE-7](7.COFFEEFORESTS2007SLIDE-7.jpg)
+
+Coffee forests provide unrestricted migratory routes for many migratory animals and support their need for forage, food, shade and water during dry spells. This reserve is a key breeding landscape for UMBRELLA species like tigers, elephants, sambars, and other mega fauna distributed across the three states of Karnataka, Kerala and TamilNadu. Umbrella species need large areas to live in. Protection of these species results in the protection of other smaller species both at the macro and micro level.
+
+![8.COFFEEFORESTS2007SLIDE-8](8.COFFEEFORESTS2007SLIDE-8_f_improf_450x336.jpg)
+
+### TABLE-3. FORESTS OF KARNATAKA STATE { Karnataka Forest Department, Government of Karnataka }
+
+-   Most of the dense forests are located along Western Ghats region of Karnataka.
+-   60% of the Western Ghats are located in Karnataka State.
+-   Karnataka State has a recorded forest area of 38,720 Sq. Km which is 20.18% of the total geographical area of the State.
+-   The land actually covered by forest is 32,460 Sq. Km which constitutes 16.93% of the total geographical area.
+-   Dense Forest (40% and above crown density) is 24,830 Sq. Km; Open Forest (10% to 40%) and Scrub Forest (less than 10% density) is 4,490 Sq. Km; and Mangrove forest is 3 Sq.Kms and rest of the forest land is not covered by forest.
+-   Home of world-famous sandal and rosewood trees.
+-   Supports 25% of India’s elephant population.
+-   Supports 10 % of India’s tiger population
+
+![9.COFFEEFORESTS2007SLIDE-9](9.COFFEEFORESTS2007SLIDE-9.jpg)
+
+For an easy understanding of the Western Ghats, they are categorized into various sections depending on the type of predominant vegetation.
+
+-   SCRUB FORESTS. They are located in low lying rain shadow areas and plains
+-   DECEDUOUS & TROPICAL RAIN FORESTS. The areas stretch up to around 1500 meters.
+-   MONTANE FORESTS & GRASS LANDS. This area extends above 1500 meters.
+
+The Western Ghats covers hardly five per cent of India’s geographical area, yet is home to 27% of all species of higher plants recorded in the Indian Region. This ecologically sensitive zone also houses more than half of the reptiles, one third of the plant species and more than 75 % of the amphibians known in India. About 100 mammal species, including around 5000 elephants, 200 tigers, over 450 bird species, 75 reptiles and 58 amphibians have been recorded in Karnataka.
+
+![10.COFFEEFORESTS2007SLIDE-1](10.COFFEEFORESTS2007SLIDE-1.jpg)
+
+### REVERENCE FOR MOTHER EARTH
+
+Our fore fathers had a deep bond with Mother Earth. Their agriculture system gave equal importance to production, profitability, protection and preservation. They understood that forests, rivers, streams and other natural elements like air, vegetation were sacred. Coffee farmers lived a life of harmony with a kind of renewable atmosphere with all the elements of nature.
+
+![11.COFFEEFORESTS2007SLIDE-1](11.COFFEEFORESTS2007SLIDE-1.jpg)
+
+Coffee farmers throughout the ages have played a vital role in protecting forests and wild life. They have practiced a sustainable system of agriculture that is economically sustainable and ecologically sound. The conservation of many plants and animals is a part of coffee culture, embedded in and perpetuated by customs and religious beliefs. Their production systems encompass the sacred forests, and the scared habitants reaching down to the smallest creature and plant life. The local farmers have been the guardians of nature all these years.
+
+### COFFEE BOARD
+
+The Coffee Board of India, which comes under the Ministry of Commerce has the world’s oldest research station; Central Coffee Research Institute (CCRI) solely dedicated for coffee research. This Institute is now renamed as the Indian Institute of Coffee Research (IICR) located at Balehonnur in the District of Chikmagalur, (Karnataka State). The Central coffee research Institute has done ground/path breaking work on various aspects of coffee. The Institute has grouped coffee growing regions into three distinct categories based on the ecology and eco friendliness of the region.
+
+1.  Traditional areas representing the southern States of Karnataka, kerala and Tamil Nadu.
+2.  Non – traditional areas comprising Andhra Pradesh and Orissa in the Eastern Ghats of the country.
+3.  The North Eastern region comprising the “Seven sister “States of Assam, Manipur, Meghalaya, Mizoram, Tripura, Nagaland and Arunachal Pradesh.
+
+They have developed REGIONAL logos for each and every region, depicting the most abundant natural flora and fauna of that region.
+
+### COFFEE GROWING REGIONS OF INDIA
+
+-   The ANAMALAYS with an elevation ranging from 1000-1400 m MSL and a rainfall of 2500-3000 mm is the abode of spotted leopards.
+
+![12](12.jpg)
+
+This region grows some of the finest high grown Arabic’s, including the exotic Kents. The main intercrops include pepper, orange and Banana. In addition to thick forests, the Anamalay’s have extensive grass lands tapering towards the fertile valleys which provide an ideal breeding ground for spotted leopards.
+
+-   AMBER VALLEY with an elevation ranging from 900-1100 m MSL and a rainfall of 1000-1200 mm is home to colorful parrots and other birds. This region specializes in growing the Arabic’s. The prominent varieties include S-795, Selection-4, Selection-5, and Cauvery. The main intercrops include pepper, mango, jackfruit and vegetables. The valley is characterized by deep valleys at regular intervals that break the continuity of the mountain ranges. The valley produces a great variety of vegetation types.
+
+![13](13.jpg)
+
+-   The BABABUDANGIRIS with an elevation ranging from 1000-1500 m MSL and a rainfall of 1750-2200 mm is full of spotted deer. These hill ranges are home to the finest Arabica milds. The main varieties cultivated are S-795, Selection-9, and Cauvery. Multi cropping includes pepper, cardamom and arecanut. The terrain consists of chain of hills with rolling grass lands.
+
+![14](14.jpg)
+
+-   The BILIGIRIS with an elevation ranging from 1500-2000 m MSL and a rainfall of 1100-1200 mm is noted for the sambar-the largest Indian deer with huge antlers. This region is home to full bodied Arabic’s. The main varieties grown are the S-795, Selection-9, and Cauvery. Intercrops include orange, banana and pepper.
+
+![15](15.jpg)
+
+-   The BRAHMAPUTRA region with an elevation of 800-1200 m MSL and a rainfall of 1500-2000 mm houses the famous Kaziranga National Park, which protects the endangered one-horned rhino. The main coffee grown consists of the Arabica milds (S-795, Cauvery) along with pineapple, pepper, jackfruit and vegetables as the main multiple crops.
+
+![16](16.jpg)
+
+RHINO: Rhinoceros unicornis Order: Perrisodactyla
+
+STATUS: Critically Endangered. The approximate number of the greater one horned rhino stands at 2500.
+
+The Indian rhino is one of the largest of all existing rhinoceroses. Many species of rhinos have become extinct and only five species exist today. The white and black rhino are only found in Africa; where as the greater one-horned (India), Javan and Sumatran are found in Asia. All the five species are threatened. Rhinos are odd-toed animals with three toes on each fore foot, supporting their massive weight.
+
+![17](17.jpg)
+
+BREEDING: Male rhinos mature in about 10 years and the females a few years earlier. After a gestation period of 16-18 months, one calf is born. At birth the calf weighs around 60 kg. The mother takes care of the calf for three years and is ready to mate again.
+
+HORN: Most people confuse the horn of the rhino to be made up of ivory. This is not true. The horns are made up of mass of tangled hair called KERATIN (just like our fingernails) fiber built upon a roughened area of the skull. The horn grows throughout the life time of the animal. Unfortunately, the rhino horn is extensively used in traditional Asian medicine as a potent aphrodisiac. In many south Asian Countries every part of a rhino is used: skin, hooves, horn, flesh, and bone, and blood, urine to cure diseases, ward off evil and bring good luck. In some countries like the Middle East, the horn is used as an as ornamental piece for decorations.
+
+### ROLE OF RHINO IN SAFE GUARDING THE ECOLOGY
+
+According to World Wildlife (WWF) REPORTS, RHINOS PLAY AN IMPORTANT ROLE IN ECO SYSTEMS BY SERVING AS “landscape architects “of their habitat. Rhinos consume large amounts of grass and shrubs, taking more than three days to digest a meal. This facilitates the distribution of seeds to different places and also helps in the germination of a few hard wood species.
+
+-   The CHIKMAGALUR region with an elevation ranging from 700-1200 m MSL and a rainfall of 1000-4500 mm supports many wild life sanctuaries. India’s National bird Peacock is the most dominant bird of this region. This region grows both the Arabica and Robusta varieties of coffee. The Arabica varieties include S-795, selection 5B & cauvery. The Robusta varieties include Peridenia, S-274 and CxR.
+
+MAIN INTERCROPS: Pepper, Cardamom, Arecanut, Orange, and Vanilla.
+
+The Chikmagalur coffee forests are unique with undulating topographies. High Rise Mountains and steep valleys is the characteristic feature of this region. At the base of the mountain are extensive grass lands dotted with patches of dense forests. These grasslands are known as the SHOLAS. The shoals play a very important role in providing shelter to sambar, gaur, tigers, elephants and leopards.
+
+![18](18.jpg)
+
+-   The COORG region with an elevation ranging from 750-1100 m MSL and a rainfall of 1000-2500 mm is famous for different species of honey bees. Infact coorg honey sold by nimble footed tribals has many medicinal qualities. The region has both the tropical moist deciduous to dry deciduous and scrub forests depending on the precipitation of rainfall. South Coorg which houses the Nagarahole National park has teak as the predominant species.
+
+ Main varieties: Arabica - S.795, Sln.6, Sln.9, Cauvery;  Robusta: S.274, CxR Main intercrops: Pepper, Cardamom, Orange, Banana, and Arecanut
+
+![19](19.jpg)
+
+-   The MANZURABAD region with an elevation of 900-1100 m MSL and a rainfall of 1000-2500 mm is the natural habitat for the jungle fowl.
+
+ Main varieties: Arabica - S.795, Sln.6, Sln.9, Cauvery  Robusta-S.274, CxR Main intercrops: Pepper, Cardamom, Orange, Arecanut, Banana
+
+![20](20.jpg)
+
+The spectacular plumage of the mail bird and its long colorful tail is indeed a pretty sight. The forests are composed of tall trees forming close canopies. The undergrowth has bamboo and canes on wet ground.
+
+![21](21.jpg)
+
+-   The NILGIRIS region with an elevation of 900-1400 m MSL and a rainfall of 1600-2600 mm is the ideal habitat for the spotted leopard. The dominant trees shed their leaves in the rainy season and spring forth a rich canopy during summer keeping the environs cool.
+
+ Main varieties: Arabica - S.795, Kent's, Cauvery Robusta: Peridenia, S.274, CxR Main intercrops: Pepper, Orange, Banana, Ginger, Vegetables
+
+![22](22.jpg)
+
+LEOPARD: Panthera pardus
+
+STATUS: Endangered.
+
+![23.COFFEEFORESTS2007SLIDE-2](23.COFFEEFORESTS2007SLIDE-2.jpg)
+
+In India, the leopard is the third largest cat. Three races are present in India with considerable color variation. They are territorial and solitary. It often carries its prey up a tree to eat.
+
+BREEDING: The female produces the first litter when three to four years of age. Usually the female gives birth to 2 to 4 cubs. The gestation period is slightly over three months.
+
+-   The PULNEYS region with an elevation of 600-2000 m MSL and a rainfall of 1000-1600 mm is home to one of the rarest flowers in the world, namely the bright, blue bell like KURINJI flower. This rare flower makes a dramatic appearance, once in 12 years. The tree canopy in these forests is uneven. Even though the forest consists of a large number of diverse species of trees, the canopy is not very dense.
+
+ Main Arabica varieties: S.795, Sln.5B, Sln.9, Sln.10, Cauvery Main intercrops: Orange, Banana, Pepper, Cardamom, Vegetables
+
+![24](24.jpg)
+
+-   The SHEVEROYS region with an elevation of 900-1500 m MSL and a rainfall of 800-1500 mm is famous for the Indian bison or Gaur. It denotes vigor and strength. The forests are moderately dense and support shrubs, herbs and climbers.
+
+ Main Robusta varieties: S.795, Cauvery, Sln.9 Main intercrops: Orange, Banana, Pepper
+
+![25](25.jpg)
+
+GAUR OR INDIAN BISON: Bos gaurus Order: Artiodactyla Family: Bovidae
+
+STATUS: Vulnerable.
+
+Gaurs inhabit evergreen and deciduous forests and associated grass clearings. They are very shy and timid animals. They live in herds of 10 to 30 individual containing only one mature bull. Adult bulls are solitary. A very striking feature observed in these animals is the muscular ridge upon its shoulders, which slope down to the middle of the back where it ends abruptly. They mainly feed on grass, leaves and bark of certain trees. They also visit salt licks which plays a role in digestion and elimination of intestinal parasites.
+
+MATING: There is no well defined season. In Karnataka, the new born are seen mainly from March to June. The cow separates from the herd when the calf is born and protects it for a few days. A fully grown cow can weigh up to 1000 kg.
+
+-   The Travancore region with an elevation of 400-1600 m MSL and a rainfall of 2000-4000 mm is dotted with the Indian National flower, namely the Lotus. These bright fragrant flowers with floating leaves and long stems grow in shallow waters. It symbolizes purity and beauty.
+
+ Main Robusta varieties: S.274, CxR Main intercrops: Pepper, Banana, Ginger, Vegetables, and Medicinal plants
+
+![26](26.jpg)
+
+-   The WAYANAAD region with an elevation of 600-900 m MSL and a rainfall of 1100-1200 mm is home to the majestic tiger-India’s National Animal. The forests are pretty dense and support big game.
+
+ Main Robusta varieties: Peridenia, S.274, CxR Main intercrops: Pepper, Banana, Ginger, Vegetables
+
+![27](27.jpg)
+
+TIGER: Panthera tigris
+
+STATUS: Endangered.
+
+Four species of large cats, tiger, lion, leopard and snow leopard, occur within the Indian sub-continent. Except for the leopard, they all have separate habitats and prey preferences. In all there are eight sub species of which the Caspian and Balinese are already extinct. The others are the Siberian, Chinese, Indo-Chinese, Sumatran, Javan and the royal Bengal tiger.
+
+![28](28.jpg)
+
+The tiger is the largest of all the great cats, weighing up to 375 kg. India is credited as having the largest tiger population in the world. According to the latest census the tiger population has alarmingly declined to less than 2000 in spite of earmarking 29 tiger reserves in the country. Each tiger has a unique pattern of stripes and facial markings. So also the pug marks, which are unique to each individual. Tigers are highly territorial and lead a solitary life except during the breeding season. The tiger is in danger of extinction due to poaching and habitat loss. Every part of the tiger is used by man for his selfish gain. The skin is considered as a symbol of royalty. Claws are considered as lucky charm, and the bones and other organs are supposed to possess aphrodisiacal powers.
+
+BREEDING: A tigress attains sexual maturity at three years and the male by 4 years. Because a tigress, even during the terminal days of her pregnancy has to hunt for herself, nature has gifted her with in built protection. It is for this reason that the gestation period is short and for about 105 days.
+
+Project Tiger was launched by the Government of India in the year 1973 to save the endangered species of tiger in the country. Starting from nine (9) reserves in 1973-74 the number has grown up to twenty nine (29) in 2006. A total area of 38,620 km2 is covered by project tiger areas, which is 1.17% of the total geographical area of the country.
+
+### MAJOR THREATS AFFECTING WILDLIFE
+
+-   SHRINKING HABITAT DUE TO TIMBER LOGGING
+-   OVER EXPLOITATION OF FORESTS FOR HERBS & MEDICINES
+-   DEGRADATION OF FORESTS & WETLANDS
+-   IMBALANCE IN THE NUMBER OF SPECIES
+-   POACHING
+
+![29a-1](29a-1.jpg)
+
+![29a-2](29a-2.jpg)
+
+-   INTRODUCED SPECIES OVERTAKING RESIDENT SPECIES
+-   INDESCRIMINATE USE OF FERTILIZERS & PESTICIDES
+-   DISRUPTION OF MIGRATORY ROUTES DUE TO DAMS, HYDRO ELECTRIC PROJECTS, RIVER DIVERSIONS
+-   OVERGRAZING BY NATIVE CATTLE POPULATIONS
+-   DISEASE SPREAD ( RINDER PEST, ANTHRAX, FOOT & MOUTH ) DUE TO PROXIMITY TO DOMESTIC CATTLE & SHEEP POPULATION
+-   SHRINKING GENE POOL ( INBREEDING MAGNIFIES THE DEFECTIVE GENE POOL )
+-   CREATION OF SPECIAL ECONOMIC ZONES Acquiring THOUSANDS OF ACRES OF LAND FOR SETTING UP INDUSTRY.
+
+![30.COFFEEFORESTS2007SLIDE-3](30.COFFEEFORESTS2007SLIDE-3.jpg)
+
+-   ACID RAIN FROM INDUSTRY & EFFLUVENTS WHICH ARE DIRECTLY PUMPED INTO RIVER BEDS.
+-   RAMPANT USE OF WILD LIFE SPECIES AS PETS ( Homes & Circus entertainment )
+
+### CONSERVATION EFFORTS
+
+-   Setting up of BREEDING stations.
+-   Setting up of RESEARCH & TRAINING stations.
+-   Setting up of eco tourism. Locals should be the prime beneficiaries.
+-   Promoting EDUCATION centers so that children and the Public are sensitized towards wildlife at an early stage.
+-   Conservation measures should benefit local communities.
+-   Coffee farmers should profit from carbon credits for planting thousands of trees.
+-   Earmarking large tracts of land as reserves for Umbrella species ( Tiger, elephant, Rhino )
+
+![31.COFFEEFORESTS2007SLIDE-3](31.COFFEEFORESTS2007SLIDE-3.jpg)
+
+ELEPHANT: Elephas maximus Order :roboscidea
+
+STATUS: Endangered. The Asian elephant numbers have significantly declined. South India houses a population of around 8000 and North India around 7000. In all there are 25,600 to 32,750 Asian elephants (in 13 range Countries) left in the wild with an additional 15,000 in captivity.
+
+Elephants are the largest living land animals and are highly intelligent. According to WWF reports, Asian elephants grow up to 21 feet long, stand up to 10 feet tall, and weigh up to 11,000 pounds. They have a matriarchal society (Female is the ruler of the herd) and a herd comprises of a nucleus of 2 to 3 mature cows. The African and Asian elephant are both threatened due to habitat loss and poaching for ivory trade. Elephants exert large pressure on the coffee forests because on an average an adult male consumes about 225 kg of green fodder (roots, grasses, leaves, bark, bananas, and sugarcane) everyday and probably expels an equal amount in the form of dung. They spend almost 12-14 hours a day on feeding.
+
+TUSKS: A male elephant’s most prized possession is the ivory tusks. The tusks are used in decorative arts, game pieces and musical instruments. Due to habitat loss elephants now enter wet lands and coffee estates resulting in human animal conflict.
+
+BREEEDING: Elephants that are 12-15 years old are sexually active. In the presence of several old bulls, they get a chance to mate only after the age of 25 years. The chances of successful mating increases with the size and age of the bull. The gestation period varies from 20 to 22 months and females will produce a calf every four to five years. An Asian elephant calf is about 260 pounds at birth. The reproductive rate in elephants is rather low. Asian elephants can live to be 60.
+
+WILD DOG {DHOLE}: Cuon alpinus Family: Canidae
+
+STATUS: Vulnerable.
+
+![32.COFFEEFORESTS2007SLIDE-3](32.COFFEEFORESTS2007SLIDE-3.jpg)
+
+The Indian wild dog is also commonly referred to as the Dholes. It weighs around 15 to 20 kg and live s in packs. Dholes prey mainly on medium sized animals like deer, wild boar and wild sheep. They have a highly developed sense of smell and eyesight and are mostly nocturnal hunters. Their mode of communication is by whistling.
+
+The population is in steep decline in most parts of India due to disease (virulent canine distemper and rabies) exacerbated by contact with domestic dogs.
+
+BREEDING: There is no fixed breeding season. Within the pack, the dominant male that gets to mate. The gestation period is about 70 days. The birth rate is quite high with large litters. Most of the species are said to pair for life, with the male taking an active role in bringing up the family.
+
+### ANTELOPE
+
+There are three kinds of antelopes, the blackbuck, chausingha, and nilgai. Their horns are usually marked with prominent rings. They have a gland under the eyes, which when swollen, attracts attention. These inguinal glands are pounced and aid in communication.
+
+BREEDING: Antelopes congregate in herds during the breeding season. Adult males are usually solitary, or clustered in groups known as bachelor herds. Only the best male gets to mate in a herd.
+
+BLACKBUCK: Antilope cervicapra
+
+![33.COFFEEFORESTS2007SLIDE-3](33.COFFEEFORESTS2007SLIDE-3.jpg)
+
+Blackbucks are ruminating herbivores and feed on grass and other crops. Blackbucks live in herds of 20 to 30. They have a moderate sense of hearing and smell but are gifted with keen eyesight and speeds. The blackbuck is the second fastest land animal, after the cheetah. It is gifted with a pair of beautiful spiral horns. Blackbuck males congregate in large herds known as “LEKS “. The females inspect these leks to choose their mate. They breed throughout the year, but the main rut takes place during February and March. Over the years their numbers have considerably declined and are now on the verge of extinction.
+
+### DEER
+
+India has the maximum number of deer species in the world. They congregate in large herds, although some may be solitary. They feed on grass, fruits, leaves and shoots. Due to their large numbers they play a very important role in the food chains, especially to large carnivores. Over all deer’s have a keen sense of of smell, hearing and sight.
+
+SAMBHAR: Cervus unicolor
+
+This is the largest deer and the stags are gifted with a pair of strong antlers. The deer wears a dull brown coarse and shaggy coat. The stag has a majestic look and forms a mane around the throat and neck. Sense of sight is moderate, where as the sense of hearing and smell is acute. Their size and color varies with the area in which they habit. Their food consists of grass, leaves and various kind of wild fruit. They feed mainly at night and retire at day break. Males exert territorial rights.
+
+Most stags cast their antlers between end march and mid April.
+
+BREEDING: Males and females pair in November and December. Young ones are born in May-June.
+
+JUNGLE CAT: Felis chaus.
+
+![34.COFFEEFORESTS2007SLIDE-3](34.COFFEEFORESTS2007SLIDE-3.jpg)
+
+The distinguishing feature of the jungle cats from all other cats is that it has long legs with a short tail. The color of its coat varies from sand grey to brownish grey. The tail is ringed with black towards the end, with a black tip. It preys on small mammals and birds. It breeds in January and February and the litter consists of three to four kittens.
+
+MARBLED CAT: Felis marmosata)
+
+![35.COFFEEFORESTS2007SLIDE-3](35.COFFEEFORESTS2007SLIDE-3.jpg)
+
+The cat has a marbled coat pattern made up of dark blotches lined with black. It is found in the dense forests of north east India and very little is known about its behavior. It is thought to be a forest cat of arboreal habits feeding on small mammals like rats and squirrels.
+
+INDIAN LANGUR: Presbytis entellus
+
+GOLDEN LANGUR: Presbytis geei
+
+LION TAILED MACAQUE: Macaca silenus
+
+![36.COFFEEFORESTS2007SLIDE-3](36.COFFEEFORESTS2007SLIDE-3.jpg)
+
+![37.COFFEEFORESTS2007SLIDE-3](37.COFFEEFORESTS2007SLIDE-3.jpg)
+
+There are 21 species of primates found in the Indian subcontinent. Although these primates are warm blooded they can also withstand periods of intense cold. They live in herds of 12 to 40. Most primates are vegetarian but some supplement their diet with insects, birds and eggs. The special feature of macaques is that they possess cheek pouches to store food and langurs have a special pouch inside their stomach that stores food.
+
+### BIRDS:
+
+![38.COFFEEFORESTS2007SLIDE-3](38.COFFEEFORESTS2007SLIDE-3.jpg)
+
+The Western Ghats has been drawing International attention of Bird Watchers. The coffee growing States of South India (Tamil Nadu, Karnataka & Kerala) which produces more than 95 % of the finest shade grown coffee is also a bird paradise. Some of the endemic bird species are present in this hot spot and it has been internationally recognized as the Western Ghat endemic Bird area (WG EBA). The area also acts as a key haven for migratory birds including rare and globally threatened species.
+
+![39.COFFEEFORESTS2007SLIDE-3](39.COFFEEFORESTS2007SLIDE-3.jpg)
+
+Table-4. Birds endemic to South India:
+
+Malabar Grey Hornbill
+
+White-cheeked Barbet
+
+Nilgiri Wood Pigeon
+
+Jerdon’s Courser
+
+White-bellied Treepie
+
+Crimson-backed Sunbird
+
+Nilgiri Flycatcher
+
+Black-and-orange Flycatcher
+
+White-bellied Blue Flycatcher
+
+White-bellied Shortwing
+
+Grey-headed Bulbul
+
+Yellow-throated Bulbul
+
+Broad-tailed Grassbird
+
+Wynaad Laughingthrush
+
+Nilgiri Laughingthrush
+
+Grey-breasted Laughingthrush
+
+Rufous Babbler
+
+Malabar Lark
+
+Nilgiri Pipit
+
+Malabar Parakeet
+
+### CONCLUSION
+
+On a global scale, nearly 525 million hectares of land world wide have been designated as nature parks, wildlife refuges and National reserves. The danger from our point of view is that the management of these game sanctuaries and biosphere reserves is based on political outlook rather than ecological considerations. It is high time that conservationists change their strategy in protecting wildlife. The natural biogeographical zones of an entire ecosystem, with its associated land, water, air and wildlife resources must be managed as a unit if we are to preserve the integrity of these ecologically sensitive hotspots.
+
+-   We should redouble our efforts in protecting wild life from the threats of illegal wildlife trade and loss of habitat. We must admit to the fact that due to deficiencies in planning and inadequate allocation of funds; wildlife population is declining. In many of the game sanctuaries and reserves, protection measures are weak due to the absence of measures to combat poaching, archaic communication net work, inadequate arms and ammunitions and poor intelligence network.
+-   The very slow disposal of cases related to wildlife crimes sends a wrong signal to the rich and powerful.
+-   Another very important reason contributing towards dwindling wild life is tree logging, creation of dams inside pristine forests, special economic zones, river diversion etc where wild life gets displaced and there is no contiguous corridor for migration.
+-   Many tribes still live inside sanctuaries. We need to find a way to satisfy their legitimate livelihood needs. But it is equally vital to ensure that such livelihood needs do not come at the cost of the wild animals.
+-   Educating the rural youth in particular, especially children can play an important role in reducing animal human conflict.
+
+![40.COFFEEFORESTS2007SLIDE-4](40.COFFEEFORESTS2007SLIDE-4.jpg)
+
+We also need to realize that wildlife cannot be safeguarded without mankind’s determined sacrifice to protect them for fear of living in a world of darkness.
+
+### REFERENCES
+
+Coffee Board of India
+
+[www.aasca.com/](http://www.aasca.com/)
+
+[www.iucnredlist.org/](http://www.iucnredlist.org/)
+
+http://www.wii.gov.in/
+
+[WWF Rhinos](http://www.worldwildlife.org/species/rhino)
+
+[101 Birds of Bandipur National Park](http://web.archive.org/web/20080603214130/http://www.karnatakawildernesstourism.org:80/default.asp?id=1)
+
+www.kolkatabirds.com
+
+[www.biodiversityhotspots.org](http://www.biodiversityhotspots.org)
+
+www.karnatakaforest.gov.in/
+
+[www.worldwildlife.org](http://www.worldwildlife.org)
+
+WWF: North Western Ghats
+
+WWF: South Deccan Plateau Karnataka National Geographic: Satellite map Nowak, R.M. (1991).
+
+Walker’s Mammals of the World, 5th edn. The John Hopkins University Press, Baltimore and London. 1629 pp.
+
+Thornback, J. (1983). Wild Cattle, Bison and Buffaloes: Their Status and Potential Value. Pub. By WCMC, Cambridge, U.K.
+
+S.K.Chakrabarti. 2003. A walk on the Wild Side. An information Guide to National Parks and Wildlife Sanctuaries of Karnataka. Karnataka Forest department-Wildlife Wing. Second Edition 2003.
+
+Richard Grimmett & Tim Inskipp. 2006- Birds of Southern India – Helm Field Guide
+
+Kokan and Malabar – Satish Pande et al. – Birds of Western Ghats, BNHS/Oxford – Conservation International.2000. Biodiversity Hotspots. Conservation International, Tewari, D. N. -1995. Western Ghats Ecosystem – International Book Distributors, Coffee & Cocoa International, 2007.Feb-March ’07
+
+### ACKNOWLEDGEMENT
+
+Our grateful thanks to Aveen & Yogitha Rodrigues (Coffee Planters, MELKODIGE Estate, Javali post, Chikmagalur District) who readily contributed many of the wild life pictures. Avin & Yogitha have completed their Masters programmee in Horticulture and remain keenly interested in the promotion of ecofriendly coffee. They maintain a beautiful plantation in the mountainous region of Chikmagalur.
+
+We are particularly grateful to Allen J Pais (Coffee Planter, “Pais Coffee Plantation”, Siddapur, Coorg, Kodagu) who has devoted considerable time in providing us with valuable pictures from time to time. His enthusiastic co-operation has enabled us to research more; for the benefit of the planting community. Allen is a progressive Planter and his plantation is a model of good planning and sound cultivation.

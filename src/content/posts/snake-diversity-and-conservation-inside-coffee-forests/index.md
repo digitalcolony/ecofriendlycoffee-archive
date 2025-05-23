@@ -1,0 +1,599 @@
+---
+id: "snake-diversity-and-conservation-inside-coffee-forests"
+title: "Snake Diversity and Conservation Inside Coffee Forests"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "biodiversity"
+category: "Biodiversity"
+publishedDate: "2007-01-01T08:00:00"
+updatedAt: "2015-11-04T13:02:16"
+wordpressId: 62
+---
+
+*Readers are requested to refer to our previous articles for a better understanding of the present article.*
+
+Shade grown Indian coffee plantations provide the perfect natural habitat for a variety of snakes, both native and endangered. The floor of the coffee forest as well as the tall evergreen tree canopy is a fitting home for snakes of all kinds; venomous and non venomous. Luckily of the many varied species inhabiting the coffee forests only a handful of snake species are poisonous.
+
+![1](1.jpg)
+
+The topography of the coffee forest has always played an important part in the distribution of snakes. Temperature decreases with altitude and this cool temperature favors the multiplication of snakes. In short, snakes have always been an integral part of the coffee ecosystem. However, since the opening of more virgin lands in the build up of coffee farms, the relationship between the coffee farmers and reptiles has been uneasy. We hardly see any snakes die of old age. For some strange reason, snakes have been relentlessly persecuted.
+
+Thanks, to Modern science, Farmers are now aware of the vital role played by snakes in balancing the energy flows inside the coffee eco system. Due to greater awareness many coffee farmers have also become believers in wild life conservation.
+
+Shade grown Indian coffee plantations are unique in many respects. The floor of the coffee forest is covered with vast amounts of biomass; all through the year due to the constant leaf shedding by a three tiered shade system that is unique to India. The thick mulch and the cool conditions prevailing inside the coffee mountain are ideal components for the presence of snakes. Snakes are cold blooded creatures and hence need to constantly regulate their body temperature. They do so by going through sun and shade.
+
+![2](2.jpg)
+
+Reptiles are generally a discarded lot. They continue to remain at a distance evoking awe and fear, more of the latter. Almost 3000 species of snakes crawl the earth. Snakes of India comprise of 275 species, included in ten families and 75 genera.
+
+### SNAKE MORPHOLOGY
+
+Snakes have an elongate body, roughly divided into head, body and a tapering region called the tail beyond the vent. The body is covered by scales which are imbricate in primitive snakes and form a distinctive mark in highly evolved snakes. Snake scales are made of keratin. The scales on the head are called shields.
+
+Snakes cast skin old skin often. They have eyes with a round or vertical pupil, but no eyelids. There is no external ear in snakes and the internal ear is primitive. The lower jaw is not a single bone, but is connected in front by an elastic ligament and is not properly articulated with the upper jaw. The tongue is bifid. The tongue gathers scent particles from the surrounding air and while the tongue is withdrawn, transfers them to a structure called Jacobson’s organ for perception. Teeth are modified which form fangs.
+
+![3](3.jpg)
+
+### SECRETION
+
+A number of snakes give out some odoriferous secretions. A rat snake emits a fairly foul smell. A krait emits a black secretion. A large number of female snakes secrete glandular discharges. The males are attracted to these secretions.
+
+During the long protracted period of feeding the snake is vulnerable for predation. Generally speaking, apart from man, reptiles have more to fear from their own kind. King Cobras are noted for feeding on other snakes. So also the branded krait.
+
+### SNAKE ADAPTATION
+
+Snakes inside the coffee forests have adapted to a range of environmental conditions. The skin colors and intricate patterns on the body match and blend with the coffee habitat. The same species may be dark colored in heavily textured soils and light in light textured soils. In higher altitudes they dawn protective colors, have matching body patterns with those of the surrounding environment and change their shape too. The body of the snake is often modified to suit its ecological conditions.
+
+Snakes depend on outside sources for their body heat. The burrowing snake shuns sunlight. These snakes are either blind or have very small eyes. The swimmers are characterized by the flattening of the tail. The arboreal snakes have an elongated tail and a supple body. The parrot green whip snake camouflages well with the green twigs. Ground snakes have various colorations to match the surrounding environment.
+
+### SKIN SHEDDING
+
+![4](4.jpg)
+
+Shedding in snakes is a periodic process and differs according to the age and sex of the snake. It is more frequent in the summer months and less during the colder season. At the time of shedding the snakes loose a great deal of body liquids. The skin takes on a dull and lifeless appearance and its eyes cloud over. It loses its appetite. An oily secretion is rubbed between scales and skin, while the skin is cast off like a coat taken inside out. We have observed that most snakes shed their skins close to lakes, ponds and streams since they require water to soak themselves.
+
+![5](5.jpg)
+
+### SNAKES and COFFEE FARMERS
+
+Numerous temples and farm houses in and around coffee farms set aside a small piece of land for snake worship. In every likelihood the idea originated from the belief that destruction of rats and other harmful pests by snakes, keeps the balance of nature in favor of the coffee farmers.
+
+![6](6.jpg)
+
+### SENSES
+
+COLOR: Snakes are considered to be color blind.
+
+VISION: Some species of snakes like the cobra, tree snakes and rat snakes have excellent vision.
+
+SMELL: The sense of smell is located in their nostrils and the snake tongue is engineered to pick up scents and odors in the atmosphere. The JACOBSON’S ORGAN located in the roof of the mouth is the primary site for the detection of odors.
+
+TEMPERATURE: Different species of snakes are equipped with varied heat sensing Mechanisms. According to Romulus Whitaker (Leading Herpetologist) the heat sensitive PITS between the nostril and the eye in pit vipers can detect temperature change as slight as three thousands of a degree centigrade. He further states that PITS are very helpful in finding warm blooded rodents or birds or even a slightly warm frog or toad on a cool dark night. Pythons have similar infrared receptors along their upper lips.
+
+### FEEDING
+
+All snakes are predatory in nature. The snake’s flexible engineered jaw helps it to swallow a prey bigger than its head. After eating its prey, the digestion takes many days. Enzymes and digestive juices in the snake stomach digest the soft tissues. Some snakes swallow their prey by constriction, others are egg eaters. The coffee forests have a well balanced ecological pyramid. Hence the supply of food is in abundance. Snakes, depending on their diet eat frogs, lizards, smaller snakes, fish, insects, rats, chickens, small animals and birds.
+
+![7](7.jpg)
+
+### MODE OF ATTACK
+
+Evolution has programmed the snake to strike in different ways. Some poisonous snakes have deadly venom which can paralyze their prey; in some others the venom can simply kill the prey instantaneously. In smaller snakes, the toxic saliva can subdue the prey and in bigger snakes like the python the common method of killing the prey is by constriction, resulting in the suffocation of the prey. New born venomous snakes have fully developed fangs and venomous glands.
+
+![8](8.jpg)
+
+![9](9.jpg)
+
+BREEDING: With respect to breeding snakes are classified into two categories; namely OVOVIVIPAROUS (Eggs develop internally) and one that give birth to young ones directly. More than 25% of Indian snakes are considered to be ovoviviparous.
+
+MATING: Since the seasons inside the coffee mountain are fairly well differentiated, the snakes too have a well defined mating season. The females emit pheromones or scent trails which are easily picked up by the males.
+
+Romulus Whitaker and Ashok Captain in their book Snakes of India (2004) report that the male has paired sex organs called the HEMIPENES. Each is referred to as hemipenis. During mating the male inserts one everted hemipenis into the females cloaca and copulation can last for hours. Gestation lasts between 30-50 days. The clutch of eggs or young ones vary from four to six in the case of smaller snakes to 40 or more in the case of a python or Russells viper. Eggs need high humidity and warm temperatures to develop.
+
+VENOM & FANGS: Depending on the type of snake species, the type of venom and fangs too vary. Some have backward curved teeth, others have curved fangs and others have hinged fans. Teeth and fangs are replaced regularly during the growth cycle of the snake.
+
+### BIOCHEMISTRY OF VENOM
+
+Venom is nothing but an extension of the saliva. The venom is a concentrate of a highly concentrated digestive juice. Venoms are good sources of enzymes. The toxic actions of venoms are attributed to proteolytic enzymes, phosphatidases and neurotoxins. Venom acts in two ways.
+
+NEUROTOXIC: Acts on the nervous system, paralyzing muscles of the heart or breathing apparatus or both.
+
+HAEMOTOXIC: Acts on the circulatory system, clotting blood cells and destroying capillary walls. Some snake venoms consist of both types.
+
+The venom of Russells viper can be used as a haemostatic agent on account of its coagulating principle.
+
+We have observed for the very first time THREE very RARE species of snakes. We have not identified the snakes based on the taxonomic approach but only on a visual basis.
+
+### COFFEE CORAL SNAKE
+
+![10](10.jpg)
+
+This snake is slender and long with alternate bands of brick red and black color. It is very agile. In our two decades of coffee field experience, we have observed this snake only twice; Once on the floor of the coffee forest and a second time on the coffee bush. Because it resembles the coral snake, we have named it as the COFFEE CORAL SNAKE.
+
+![11](11.jpg)
+
+![12](12.jpg)
+
+HABITAT: Coffee habitat
+
+DIET: Not observed.
+
+PREY: Not observed.
+
+### SLENDER CORAL LIKE SNAKE
+
+![13](13.jpg)
+
+The snake has a small and slender body. It grows to a length of about one foot. The color is light metallic pink and faintly speckled. The underside is uniform pinkish red, bright scarlet at vent and the underside of the tail is bluish.
+
+HABITAT: Scrub jungle, dried leaves and fallen trees.
+
+DIET: NOT OBSERVED
+
+PREY: NOT OBSERVED
+
+### SUN BEAM SNAKE
+
+![14](14.jpg)
+
+The snake appears highly iridescent. The head is flattened with very small eyes and a pointed tail. The scales beneath the body appear whitish.
+
+![15](15.jpg)
+
+HABITAT: Nocturnal & Found in valleys and paddy fields.
+
+DIET: Not observed.
+
+PREY: Not observed.
+
+### GREEN SNAKE Ahaetulla nasutus
+
+![16](16.jpg)
+
+The green snake is also commonly referred to as the common vine snake. It varies in length from 2 feet to six feet. The snake is light green to dark green, with a slender body and a pointed head. It is very commonly observed inside coffee forests, but camouflages well with its surroundings.
+
+![17](17.jpg)
+
+HABITAT: Coffee bush, low lying shrubs grassy patches.
+
+DIET: Insects like grasshoppers, beetles, moths, butterfly, garden lizards, frogs. Live bearers. Females are larger than males
+
+COMMON BRONZE BACK TREE SNAKE: Dendrelaphis tristis
+
+PAINTED BRONZE BACK TREE SNAKE: Dendrelaphis pictus
+
+These snakes have a beautiful bronze appearance. The snakes are medium sized slender snakes with wide brown or bronze dorsal stripe from head to tail. The average length of these snakes is three feet. The sides are dark brown or black with a wide bronze stripe down the centre of the back. The underside is whitish.
+
+HABITAT: Arboreal in nature.
+
+DIET: Frogs, lizards, mollusk
+
+Egg layers. Females are larger than males
+
+### COMMON KUKRI SNAKE: Oligodon amensis
+
+### RUSSELL’S OR VARIEGATED KUKRI SNAKE: Oligodon taeniolatus
+
+![18](18.jpg)
+
+![19](19.jpg)
+
+![20](20.jpg)
+
+These snakes are small in size with prominent cross bands and distinctive chevron marks found on the top of the head. The snakes has cylindrical, short, smooth and even sized body,; depressed head; short and blunt snout; short tail, some what compressed basally and one sixth to one seventh of the total length.
+
+HABITAT: Termite mounds, dead trees or fallen down logs, tree holes, crevices.
+
+DIET: Geckos, skinks, small mice, birds and reptile eggs.
+
+PREY: Constriction
+
+Egg layers. In some species males are larger, in others females grow larger.
+
+### INDIAN PYTHON: INDIAN ROCK PYTHON: Python molurus
+
+### RETICULATED PYTHON: Python reticulatus
+
+The Indian Python; Python molurus varies in length from 3 to 6 meters. The body of the python has a mosaic of yellowish and dark brown patches. The underside is pale white or yellowish. The head is lance shaped and the tail is short. Rudimentary hind limbs, as curved claw like processes on either side of anus are found which is more developed in males.
+
+![21](21.jpg)
+
+![22](22.jpg)
+
+![23](23.jpg)
+
+HABITAT: Dense forests, shrubs and grass lands, marshy lands, valleys and on banks of streams and rivulets.
+
+DIET: Warm blooded animals ranging in size from deer, jackals, birds, mice, rabbits
+
+PREY: kill their prey by constriction.
+
+Egg layers. Females are larger than males.
+
+### COBRA
+
+There are 12 species of cobras in the world. The venom is ejected through fixed fangs in front of the upper jaws. Three races of cobra are differentiated.
+
+1.  SPECTACLED/ BINOCELLATE COBRA: Naja naja naja
+2.  MONOCELLATE / MONOCLED COBRA: Naja naja kaouthia
+3.  BLACK COBRA /ACELLATE COBRA: Naja naja oxiana
+
+The binocellate cobra is yellowish or brownish above and the hood shows the classic design of a connected pair of rings. In monocled cobra only a single yellow or orange O shaped mark on the hood is found. General color is olive brown. The black cobra has no markings on the hood and their general color is light grey or brown.
+
+![24](24.jpg)
+
+A fully grown adult cobra can grow to be about six to eight feet. The Indian cobra is also commonly referred to as the spectacled cobra (Naga raja). In times of danger the snake responds by raising and spreading its hood. On the rear of its head, displayed on the hood are two circular patterns connected by a single line, creating an appearance of a pair of spectacles.
+
+![25](25.jpg)
+
+Cobras are oviparous and lay their eggs between the months of April and July. Females lay anywhere between 12 to 30 eggs in an underground nest. The eggs hatch in about 70 days. New born cobras are 8 to 10 inches and have actively functioning venom glands from the moment they emerge from the egg.
+
+![26](26.jpg)
+
+VENOM: The venom is neurotoxic in nature and generally paralyzes the muscles, leading to respiratory failure or cardiac arrest. The blood looses its clotting power. The destruction of red blood cells occurs very rapidly.
+
+HABITAT: Dense forests, thickets, bushes
+
+DIET: Rats, small rat snakes, frogs, lizards, toads, birds.
+
+PREY: Injecting toxin.
+
+### KING COBRA: Ophiophagus Hannah
+
+![27](27.jpg)
+
+![28](28.jpg)
+
+![29](29.jpg)
+
+![30](30.jpg)
+
+It is very rare to find a king cobra. The snake is pretty large and the average length is around ten feet but it can also grow up to fifteen feet. The overall color varies from blackish brown to light brown but the tail is black. The underside is lighter shade of body color. Yellow bands are found on the back of the body.
+
+HABITAT: Dense forests, thickets, bushes
+
+DIET: Rats, small rat snakes, frogs, lizards, toads, birds.
+
+![31](31.jpg)
+
+PREY: Injecting toxin.
+
+### FLYING SNAKE: Chrysopelea ornata
+
+Even though this snake is present inside coffee estates situated in high altitudes, it is rarely observed because it inhabits dense jungles and tall trees. The snake is small to medium sized, slender with a conspicuous bright pattern of black, yellow and red colors. The length of the snake varies from three feet up to five feet. The back is black in color, with yellow or white cross bands, speckles and red rosettes. The underside has a greenish appearance.
+
+![32](32.jpg)
+
+![33](33.jpg)
+
+HABITAT: Tall evergreen trees, dense jungle
+
+DIET: Frogs, lizards, insects, birds and eggs.
+
+PREY: Constrictor
+
+Egg layers.
+
+### COMMON TRINKET SNAKE: Elaphe Helena
+
+### COPPER HEAD TRINKET SNAKE: Elaphe radiate
+
+![34](34.jpg)
+
+![35](35.jpg)
+
+These snakes are large sized and slender. The entire length of the body has colorful markings. The lower part of the body has a tan color with two prominent dark stripes and checks on the forepart.
+
+The copper head trinket snake has a head with copper color.
+
+HABITAT: Termite mounds, crevices, small shrubs and bush lands.
+
+DIET: Rodents, birds, lizards, insects,
+
+PREY: is killed by constriction.
+
+Egg layers. Females are larger than males.
+
+### INDIAN RAT SNAKE: Ptyas mucosus
+
+![36](36.jpg)
+
+![37](37.jpg)
+
+![38](38.jpg)
+
+![39](39.jpg)
+
+![40](40.jpg)
+
+This snake is very commonly observed around ponds, lakes and streams. It is a fairly large snake with a broad neck, large eyes and cylindrical tail. The tail portion is almost one fourth the total length of the body. The average length of the snake varies from four feet up to eight feet. Depending on the seasons of the year, the snake appears dark green in color during the monsoon and yellowish green during the summer months. Scales on the posterior part irregularly margined with black forming a reticulate pattern with a tendency to form cross bars.
+
+HABITAT: Termite mounds, rock piles, crevices, small shrubs, jungles and coffee bush.
+
+DIET: small birds, lizards, rats.
+
+Egg layers. Males are larger than Females
+
+### DOG FACED WATER SNAKE: Cerberus rhynchops
+
+### SCHNEIDER’S SMOOTH WATER SNAKE: Enhydris enhydris
+
+![41](41.jpg)
+
+![42](42.jpg)
+
+### COMMON WOLF SNAKE: Lycodon aulicus
+
+### YELLOW SPECKLED WOLF SNAKE Lycodonjara
+
+### BARRED WOLF SNAKE: Lucodon striatus
+
+![43](43.jpg)
+
+![44](44.jpg)
+
+![45](45.jpg)
+
+These snakes are slender and small in size, with or without cross bars. Color varies from grey, brownish or black with 10-20 thin white or yellow bands.
+
+HABITAT: Hollow trees, dried bark of trees, and dead fallen down trees.
+
+DIET: Lizards and frogs.
+
+Egg layers. Females are larger than males
+
+### COMMON CAT SNAKE: Boiga trigonata
+
+### CEYLON CAT SNAKE: Boiga ceylonensi
+
+![46](46.jpg)
+
+![47](47.jpg)
+
+![48](48.jpg)
+
+These snakes have a thin and long body and a tail that tapers to a fine point. The average length varies from 2 feet but can grow up to four feet. The body color is light brown or tan with a darker pattern of zig zag markings. The top of the head has a clear Y mark.
+
+HABITAT: Arboreal in nature. Bushes, scrubs, trees,
+
+DIET: Geckos, other lizards, mice, small birds.
+
+Egg layers. Females are larger than males
+
+### STRIPED KEEL BACK: Amphiesma stolata
+
+![49](49.jpg)
+
+This snake has two distinct yellow stripes along the side of the body. It grows to an average length of one foot. The over all color is light or dark brown with two tan or yellow stripes running down the body length.
+
+HABITAT: Banks of streams, near ponds & lakes, rice fields, thick grass and dense bushes.
+
+DIET: Frogs, toads, lizards and rodents.
+
+![50](50.jpg)
+
+### OLIVACEOUS KEEL BACK WATER SNAKE: Atretium schistosum
+
+### GREEN KEEL BACK: Macropisthodon plumbicolor
+
+### CHECKERED KEEL BACK WATER SNAKE: Xenochropis piscator
+
+HABITAT: Water bodies
+
+DIET: small frogs, insects
+
+### FALSE COBRA
+
+This snake belongs to the keel back family. Its appearance is like that of a cobra. Instead of a spectacled or monocled mark like that in a real cobra, the false cobra has an inverted chevron on its hood.
+
+![51](51.jpg)
+
+HABITAT: Dense forests.
+
+DIET: Frogs, insects.
+
+Egg layers. Females are larger than males
+
+### COMMON INDIAN KRAIT: Bungarus caeruleus
+
+This snake in particular is considered as one of the most poisonous snakes inside coffee plantations. Its head is slightly wider than the neck; body is jet black above with distinct white cross lines, belly is white. The snake varies in length from three feet up to five feet.
+
+HABITAT: It is often observed on the floor of the coffee forest where thick weed growth occurs. It also inhabits low scrub jungles and newly cultivated coffee farms.
+
+DIET: Lizards, rodents
+
+VENOM: The venom is 15 times more toxic than that of a cobra and acts both as neurotoxin and haemotoxin, paralyzing the respiratory centre.
+
+Egg layers. Males are larger than Females.
+
+![52](52.jpg)
+
+![53](53.jpg)
+
+### BANDED KRAIT: Bungarus fasciatus
+
+This snake is alternately banded with broad canary-yellow and black bands, completely encircling the body. It grows to an average length of five feet.
+
+HABITAT: Termite mounds
+
+DIET: Rodents.
+
+VENOM: The venom is less toxic than that of a cobra.
+
+### BOAS: Whitaker’s Boa : Eryx whitakeri
+
+### COMMON SAND BOA: Gongylophis conicus
+
+The average size of boas varies from 50-75 cm. The common sand boa exhibits a yellowish – white color forming an uneven chain down the back. Where as the color of the red sand boa varies from reddish brown and speckled grey or yellow to black.
+
+HABITAT: Rat burrows and termite mounds.
+
+DIET: Rats, small snakes, birds, large insects.
+
+PREY: Both the red and common sand Boa kill their prey by constriction.
+
+Nocturnal, live bearers. Females larger than males
+
+![54](54.jpg)
+
+![55](55.jpg)
+
+![56](56.jpg)
+
+### BLACK HEADED SNAKE:
+
+![57](57.jpg)
+
+![58](58.jpg)
+
+![59](59.jpg)
+
+These snakes have a dark black colored head. They are small, slender and are active both during the day and night. They are also referred to as the “many -toothed “snake because of the numerous teeth in the upper jaw.
+
+HABITAT: floor of the forest.
+
+DIET: insects, small snakes and frogs.
+
+Egg layers.
+
+### VIPER:
+
+These snakes are categorized as RUSSELL’S Viper and PIT vipers.
+
+Russell’s viper is commonly observed inside coffee forests. It is brown with deep elliptical patches that run in three rows. They are active both during the day and night.
+
+![60](60.jpg)
+
+![61](61.jpg)
+
+![62](62.jpg)
+
+### MALABAR PIT VIPER: Trimeresurus malabaricus
+
+The snake has a triangular head and bears a typical white arrow mark on a brown back ground. The body is grayish brown with a series of pale marks forming a curve over the body. These pale spots numbering from 25-31 are edged with dark spots all over the body.
+
+![63](63.jpg)
+
+![64](64.jpg)
+
+### HUMP NOSED PIT VIPER: Hypnale hypnale
+
+The snake has a flat triangular head distinctly broader than neck. The color is pale grey with tiny brown or black specks.
+
+![65](65.jpg)
+
+### BAMBOO PIT VIPER: Trimeresurus gramineus
+
+This snake has a beautiful grayish green coloration. The head is triangular in shape with three yellowish white longitudinal lines on the body. one vertical and two lateral. Eyes with a golden iris and a black vertical pupil. It is a rare snake and it prefers bamboo vegetation.
+
+![66](66.jpg)
+
+![67](67.jpg)
+
+HABITAT: Dense jungles, coffee bush.
+
+DIET: Rodents, small snakes, birds, frogs.
+
+Live bearers. Males are larger than Females in case of Russell’s viper. Females larger in saw scaled vipers.
+
+### SIMPLE MEASURES RELATED TO SNAKE CONSERVATION:
+
+-   Avoid purchasing products made from snake skin.
+-   Celebrate snake festivals with snakes depicted on stone tablets.
+-   Snake charmers should be banned.
+-   School children should be sensitized about snake conservation at a young age. ( Knocking out the fear of snakes from their system )
+-   Banning snakes as pets inside homes.
+-   Educating the general public about snakes
+-   Depicting snake posters in schools, colleges and Government Institutions showing poisonous and nonpoisonous species of snakes.
+
+### VENOMOUS SNAKES VS NON VENOMOUS SNAKES
+
+-   Based on the type of snake bite, snakes can be identified as poisonous and non poisonous.
+-   A semi circular row of punctures is a clear indication that the bite is from a non venomous snake.
+-   If the wound has two bleeding points it is a bite caused by a poisonous snake.
+
+### FIRST AID
+
+1.  Immobilize the bitten part by tying a tourniquet.
+2.  The tourniquet should be tied only on single bones like thigh, upper arm, lower arm or elbow.
+3.  The tourniquet should not be tied for more than 45 minutes.
+4.  The tourniquet should be slackened every 7 minutes for 30 seconds to prevent the blood supply from being cut off.
+5.  The patient should be rushed to the near by hospital along with the snake.
+
+### CONCLUSION
+
+The coffee forest is home to important and endangered wildlife and different snake species. Some snakes are equally at home both on the floor of the coffee forest as well as on the tree canopy. Great changes have taken place in coffee farming over the last one decade. Although yields have increased, due to modern day practices, farmers and the coffee mountain ecology have had to pay the price for keeping up with this development. Tree cover is being thinned out at an alarming rate and the amount of biomass on the floor of the forest has dwindled.
+
+The undergrowth of the forest floor is a key factor in sheltering numerous snake species. Habitat destruction due to felling of coffee forests has resulted in a series of environmental changes. The forest has lost its precious ground cover and biomass accumulation because of the felling of trees. The direct consequence has been the significant increase in both ground and atmospheric temperatures which has altered the life style of snakes. How they cope up with this change is yet to be seen? Unfortunately, not all of the answers will come today. It may take years of research just to understand the basic needs of these reptiles.
+
+Globalization is catching fast in shade grown Indian coffee farms. Coffee farms are increasingly becoming dump yards of various complex pesticides, Chemicals and fertilizers.
+
+Around two decades back the lists of chemicals available were few and also restricted. But today globalization is bringing in a new set of dangerous chemicals which not only toxic but non biodegradable is resulting in the death of hundreds of reptiles. Mass applications of pesticides and chemicals have strong selective effects on the populations of predators and prey.
+
+Snake skin trade by smugglers too is affecting the snake population.
+
+If humans are not sensitive to the needs of reptiles, then we will have to face the prospect of living in a world without snakes. If we let the snakes disappear, it is a sure sign that we are ready to let all wilderness go. This in turn will likely one day make the world unfit for both men and snakes.
+
+Ultimately, man has to realize that the world’s food chains are a product of the plants, animals and reptiles in the habitat, as well as their arrangement in a number of ecological niches. We need to adopt practices that are more environmentally sound and that have the potential to contribute to the long term sustainability of coffee farms.
+
+### REFERENCES
+
+[Eco-Friendly Indian Coffee: A Profile](http://ecofriendlycoffee.org/eco-friendly-indian-coffee-a-profile/)
+
+[Invisible Communications in Coffee Plantations](http://ecofriendlycoffee.org/invisible-communications-in-coffee-plantations/)
+
+[Coffee Plantations A Multidisciplinary Approach](http://ecofriendlycoffee.org/coffee-plantations-a-multidisciplinary-approach/)
+
+[Global Warming in Coffee Plantations](http://ecofriendlycoffee.org/global-warming-in-coffee-plantations/)
+
+[Biodiversity In Relation To Coffee Plantations](http://ecofriendlycoffee.org/biodiversity-in-relation-to-coffee-plantations/)
+
+[Coffee Forest Symbiosis](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+
+[Significance of Microbial Interactions Within Coffee Plantations](http://ecofriendlycoffee.org/significance-of-microbial-interactions-within-coffee-plantations/)
+
+[Role of Antibiotics in Coffee Plantation Ecology](http://ecofriendlycoffee.org/role-of-antibiotics-in-coffee-plantation-ecology/)
+
+[The Ecodynamic Coffee Cube 3](http://ecofriendlycoffee.org/the-ecodynamic-coffee-cube-3/)
+
+[www.indiawildliferesorts.com](http://www.indiawildliferesorts.com/)
+
+[Table 1: Numbers of threatened species by major groups of organisms (1996–2004)](http://web.archive.org/web/20080914173057/http://www.iucnredlist.org:80/info/tables/table1)
+
+[Summary Statistics for Globally Threatened Species](http://web.archive.org/web/20080914173052/http://www.iucnredlist.org:80/info/stats)
+
+[WWF India – Forests Conservation](http://web.archive.org/web/20061206203612/http://wwfindia.org:80/about_wwf/what_we_do/forests_conservation/index.cfm)
+
+[en.wikipedia.org/wiki/Category:Snakes](https://en.wikipedia.org/wiki/Category:Snakes)
+
+[Snakes of South Carolina and Georgia](http://srelherp.uga.edu/snakes/)
+
+Archie Carr & the editors of Life. 1963. The Reptiles. Life Nature Library.
+
+P.J. Deoras. 1965. Snakes of India. National Book Trust. India.
+
+Chapman. J.L. & M.J. Reiss.1997. Ecology. Principles and applications. Cambridge University Press.
+
+Peter Farb & the editors of Life. 1963. Ecology. Life Nature Library.
+
+Mohanty-Hejmadi. P., S.K. Dutta and D.R. Rath.2002. Reptiles of India with special emphasis on their conservation. In BIODIVERSITY. (Monitoring, Management, Conservation & Enhancement). Editors.
+
+Ramamurthi Rallapalli & Geetha Bali. APH Publishing Corporation. New Delhi.
+
+Daniel, J.C.2002. The book of Indian reptiles and Amphibians. Bombay Natural History Society. Oxford University Press, Mumbai. 238 pp.
+
+Das, I. 2002. A photographic Guide to the snakes and other reptiles of India. New Holland Publishers (U.K.) Ltd. 144pp.
+
+Ernst C. and Zug, G. 1996. Snakes in question. Smithsonian Institution. 203 pp.
+
+Whitaker, R.1978. Common Indian snakes. : A Field Guide. Macmillan India Ltd. 154 pp.
+
+De Silva, A. 1990. A color guide to the snakes of Sri Lanka. R & A Publishing. U.K. 130 PP.
+
+Whitaker, R. & Ashok Captain.2004. Snakes of India. The Field Guide. Draco Books. India.
+
+### ACKNOWLEDGEMENT
+
+Dinesh has spent a lifetime in snake conservation. We extend our grateful thanks to Dinesh for helping us in the identification of various snake species. DINESH KUMAR K. P. PUTHIAPURA HOUSE, ADKATHBAIL, KASARGOAD.

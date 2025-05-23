@@ -1,0 +1,116 @@
+---
+id: "fine-art-coffee-cultivation-brisbane-5-year-plan"
+title: "The Fine Art of Coffee Cultivation in Brisbane (A 5 year Plan)       "
+status: "published"
+author: "Allen J Pais"
+authorSlug: "allen-j-pais"
+titleImage: undefined
+categorySlug: "general"
+category: "General"
+publishedDate: "2017-11-01T12:00:24"
+updatedAt: "2017-10-25T06:32:05"
+wordpressId: 3932
+---
+
+Having born to the Pais family of Coffee farming in Siddapur, Little did I know that Coffee can be grown in Brisbane, I had information through the web sites that there were Coffee farms in parts of Brisbane that was climatically correct to grow, I wanted to find out how I could grow Coffee through first-hand information by experimenting the growth & development myself. I knew that Siddapur was 564 m above sea level & a perfect place to grow coffee, unlike Brisbane which is 28.4 m above sea level where we live, I was aware also that the concept of growing Coffee in Brisbane may not work but it was a question of 2 plants & good manure with a manually monitoring system I may pull this off. The journey then began in **2013** with just some old limited knowledge from Siddapur.
+
+### **Initial Coffee Plant** Journey
+
+As I was walking through the markets here where plants were sold ,I one day came across Coffee plants in **September 2013**,The very look of the plant got me exited, I was unsure if it was a particular plant but Arabica was written on the label & I decided to buy them no matter what, it was a hard decision to make as I did not want to grow them to loose them, it was a decision to be made, we got the plants, that were then planted with a sizable hole in the ground, sufficient manure & a good soil PH maintained, the area we chose was under some shade of a tree.
+
+**![](BNE-Coffee-1-1024x768.jpg)**
+
+![](BNE-Coffee-2-1024x768.jpg)
+
+### The Time Process
+
+It took almost two full years to see the plant grow to a height of 1 m,there were days when there was hot weather with temperatures rising to 35 degrees centigrade, but a regular water  with some care to the trunk area where the soil needs to be soft for better penetration of water  was something that had to be monitored time to time, also we had to make sure there was not too much of water around the trunk of the plant. Each year in the month of September the plants had to be pruned with the removal of un wanted branches, leaves etc. This would give the plant more strength. The cycle of flowering and harvesting is very different surprisingly hear, unlike in Siddapur where picking season starts in December-January & the blossom happens in April depending on the weather condition, if the Coffee farmer is waiting on the rain Gods rather than creating his own rain.
+
+### The Blossom
+
+After 2 long years in **November 7th, 2015** we were happy to see the first Blossom, it was a day to remember to see the beautiful flowering with the aroma of lovely white flowers on each of the coffee plants that really gave me a good memory of Siddapur & also a stepping stone in the cultivation of Coffee in the backyard of a normal house hear. We then were sure that we will soon see the Coffee cherries and the road were getting closer. We made sure there were bees flying around the flowers so that pollination could take place for the cherry to form. We would not go closer to the plants to make sure the bees had done their process work accurately.it was two years waiting period but we found success coming closer.
+
+![](BNE-Coffee-3-768x1024.jpg)
+
+![](BNE-Coffee-4-768x1024.jpg)
+
+### **The Cherry Formation**
+
+In **January 2016** we saw the flowers forming into tiny green cherries and slowly growing to form a green cherry that eventually formed into a fully grown maroon ripe cherry ,The process is time taking to watch it gradually grow from a beautiful white fragrant flower into a firm green cherry, weather condition during this time of the year is peak summer over here, so a continuous watch is essential time to time, a good poultry manure with some water to the trunk will keep the roots healthy and will give additional support to the cherry to grow larger to its maximum achievable size. The approximate period from the flowering to a fully formed cherry is around 10 to 11 months.
+
+**![](BNE-Coffee-5-768x1024.jpg)**
+
+**![](BNE-Coffee-6-768x1024.jpg)**
+
+**![](BNE-Coffee-7-768x1024.jpg)**
+
+### **![](BNE-Coffee-8-768x1024.jpg)  
+**The Harvest
+
+In **September 2016,** it was time now for us to hand pick the coffee and gently either dry them or pulp them manually, we decided to dry them by later husking them manually by hand in 2016 and in 2017 we manually pulped the coffee and later sun dried the coffee parchment. Drying the cherry and then manually de-husking is a painstaking process it takes 2 weeks to dry depending on the sunlight, also takes a full day to unhusk a kilo of dried cherry, whereas manually pulping the coffee and drying the parchment is a three-day process for a kilo of coffee parchment. We achieved to get 2 kilos of coffee parchment with 2 plants which is sufficient for the entire years at the rate of 2 cups of coffee for 365 days. Honestly, there is absolutely no investment for this Coffee cultivation to drinking the coffee, except for the cost of water.
+
+In 2016 2 plants gave 1 kilo of Coffee bean & in 2017,we got 2 kilos of parchment.
+
+![](BNE-Coffee-9-768x1024.jpg)
+
+![](BNE-Coffee-10-768x1024.jpg)
+
+![](BNE-Coffee-11-768x1024.jpg)
+
+![](BNE-Coffee-12-768x1024.jpg)
+
+![](BNE-Coffee-13-768x1024.jpg)
+
+![](BNE-Coffee-14-768x1024.jpg)
+
+### Manual Pulping & Drying Process
+
+The ripe cherries are easy to manually de-skin, immerse the cherries in water for a day & un peal them the next day by hand, the cherry can also be put in a stone hand grinder by slowly rotating the stone without harming the bean to loosen the cherry jacket “SIPPO” ,then clean ,wash the parchment with clean water and sundry the parchment for 2 days. Manually check the parchment for dampness and later store in a jar, roast the parchment when required or the entire parchment can be roasted and stored in large jars. Too much of exposure to moisture to the parchment or bean or even the roasted Coffee powder is not advisable.
+
+Watch the youtube video to get a better understanding on how the entire process of Coffee Cherry to the Cup is shown.
+
+[https://www.youtube.com/watch?v=ae0E9C2rZ24](https://www.youtube.com/watch?v=ae0E9C2rZ24)
+
+**![](BNE-Coffee-15-768x1024.jpg)**
+
+**![](BNE-Coffee-16-1024x768.jpg)**
+
+**![](BNE-Coffee-17-768x1024.jpg)**
+
+**![](BNE-Coffee-18-1024x768.jpg)**
+
+**![](BNE-Coffee-19-1024x768.jpg)**
+
+### **![](BNE-Coffee-20-768x1024.jpg)  
+Roasting The Parchment**
+
+Hand clean the parchment and remove all the thin parchment layer from the bean as much as possible, then on a low flame spread the beans evenly on a roasting pan, keep gently steering the beans so that they get evenly roasted, when the beans are roasted sufficiently to a mild brown colour, it is time to remove the roasted beans, move the roasted beans to a blender, then mix well to a consistency that is equal to the normal coffee roasted powder that can be uses in a Coffee making machine, feel the consistency by using your fingers, roast the beans in batches to a quantity that can just sufficiently fill the blender, a few beans may not fully roast, that does not matter, as long as there are 70 % of sufficiently roasted beans present.
+
+**![](BNE-Coffee-21-768x1024.jpg)**
+
+**![](BNE-Coffee-22-768x1024.jpg)**
+
+**![](BNE-Coffee-23-768x1024.jpg)**
+
+### **![](BNE-Coffee-24-768x1024.jpg)  
+Making Your Coffee**
+
+Once the roasted powder is achieved, store the powder as required in bottles and jars, try not to expose the powder to the atmosphere, use a Coffee machine to make your cup of Coffee or you can also use the traditional method, where coffee powder is boiled in a kettle with hot water & poured into a cup leaving behind the residue, add fresh milk with sugar as required.
+
+![](BNE-Coffee-24-1-768x1024.jpg) ![](BNE-Coffee-25-768x1024.jpg)
+
+![](BNE-Coffee-26-768x1024.jpg)
+
+![](BNE-Coffee-27-768x1024.jpg)
+
+### References
+
+Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume-1.
+
+Bopanna, P.T. 2011.The Romance of Indian Coffee. Prism Books ltd.
+
+Written & experimented By:
+
+**Allen Pais**
+
+Brisbane (QLD)

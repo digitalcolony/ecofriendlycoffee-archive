@@ -1,0 +1,92 @@
+---
+import { getCollection } from "astro:content";
+import AuthorLayout from "../../layouts/AuthorLayout.astro";
+import SocialIcon from "../../components/ui/SocialIcon.astro";
+
+export async function getStaticPaths() {
+	const authorEntries = await getCollection("authors");
+	const posts = await getCollection("posts");
+
+	return authorEntries.map((author) => {
+		return {
+			params: { slug: author.data.authorSlug },
+			props: {
+				author: author,
+				posts: posts,
+			},
+		};
+	});
+}
+
+// Define the expected type for author
+interface AuthorEntry {
+	data: {
+		author: string;
+		authorSlug: string;
+		x?: string;
+		facebook?: string;
+		instagram?: string;
+		linkedin?: string;
+		youtube?: string;
+		url?: string;
+		[key: string]: any;
+	};
+	body: string;
+	[key: string]: any;
+}
+
+const { author, posts } = Astro.props as { author: AuthorEntry; posts: any[] };
+
+// Extract author metadata
+const authorData = author.data;
+const authorContent = author.body; // This contains the Markdown content
+---
+
+<AuthorLayout
+	title={authorData.author}
+	description={authorContent || ""}
+	authorSlug={authorData.authorSlug}
+	authorData={authorData}
+	posts={posts}
+>
+	<!-- Render the author's bio content -->
+	<div class="author-bio" set:html={authorContent} />
+
+	<!-- Optional: Display social links if available -->
+	{
+		authorData.x ||
+		authorData.facebook ||
+		authorData.instagram ||
+		authorData.linkedin ||
+		authorData.youtube ||
+		authorData.url ? (
+			<div class="author-social">
+				<div class="social-links">
+					{authorData.x && (
+						<SocialIcon href={`https://x.com/${authorData.x}`} title="X/Twitter" network="x" />
+					)}
+					{authorData.facebook && (
+						<SocialIcon href={authorData.facebook} title="Facebook" network="facebook" />
+					)}
+					{authorData.instagram && (
+						<SocialIcon
+							href={`https://instagram.com/${authorData.x}`}
+							title="Instagram"
+							network="instagram"
+						/>
+					)}
+					{authorData.linkedin && (
+						<SocialIcon href={authorData.linkedin} title="LinkedIn" network="linkedin" />
+					)}
+					{authorData.youtube && (
+						<SocialIcon href={authorData.youtube} title="YouTube" network="youtube" />
+					)}
+					{authorData.url && <SocialIcon href={authorData.url} title="Website" network="website" />}
+				</div>
+			</div>
+		) : null
+	}
+
+	<!-- Add spacing before article list -->
+	<div style="margin-bottom: 3rem;"></div>
+</AuthorLayout>

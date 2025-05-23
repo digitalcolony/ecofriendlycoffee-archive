@@ -1,0 +1,50 @@
+---
+id: "coffee-plantations-a-multidisciplinary-approach"
+title: "Coffee Plantations A Multidisciplinary Approach"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "general"
+category: "General"
+publishedDate: "2003-10-01T07:00:00"
+updatedAt: "2015-10-26T10:00:55"
+wordpressId: 34
+---
+
+*The full title of this article is Partners in Coffee Bio-Sustainability Coffee Plantations – A Multidisciplinary Approach Natural Selection in Coffee Plantations.*
+
+The Westernghats located in India are one among the 18 HOTSPOTS of the world known for its unexplored and underexploited plant genetic resources. Indian Coffee plantations are essentially located in this hotspot zone and can be called MULTIDIVERSITY parks because they act as hosts to a rich variety of biodiversity in the form of beneficial flora and fauna. They are a part of the Nation’s environmental heritage. A very disturbing fact is that in the coming decade the world would encounter a totally new situation, where in we would be faced with acute shortage of water, minerals, energy, and the best part of it all is that no single Country would be able to comprehend the situation single-handedly.
+
+It would require a tremendous effort from the global community to collectively think and solve this problem, taking into consideration Planet earth’s survival. This article essentially deals with the role of various multicrops and intercrops grown alongwith coffee and the synergistic role of different tree species in sustaining coffee (MONOCROPPING vs MULTICROPPING). But before getting into the subject proper, it is worthwhile to understand the term COFFEE ECOLOGY. It basically denotes the study of communities in relation to their environment. To simplify this aspect the ecosystem is divided into units of decreasing size namely
+
+1.  BIOSPHERE: That part of the earth and its atmosphere that is inhabited by living things.
+2.  BIOGEOGRAPHICAL REGIONS: Local geographical areas, with a set of animal and Plant populations.
+3.  BIOMES: Major regional ecological community of plants and animals extending over large natural areas.
+4.  HABITATS: Place with particular kind of environment inhabited by communities.
+
+![37_350](37_350.jpg)
+
+Communities do not appear out from the blue. They owe their existence to thousands of years due to a slow deliberate process where in they grow gradually by a NATURAL PROCESS in which one species is succeeded or replaced by another. This succession results eventually in the establishment of a stable climax community. That’s why the world community comprises of consumers, producers, and decomposers who have their establishment in food chains and food webs. All green plants are PRODUCERS; as they prepare their own food they are also called Autotrophs. Herbivores and carnivores are CONSUMERS; They are called heterotrophs as they depend on producers for their food. Fungi and Bacteria that decompose dead organisms are called DECOMPOSERS.
+
+In a multidiverse coffee Plantation (Trees, plants, shrubs, coffee, arecanut, pepper, vanilla, citrus), all partners involved should adapt to their surroundings in order to survive and pass on the genetic material from one generation to another. The power of NATURAL SELECTION aids in the very continuity of this complex multifaceted system where in every partner constitutes a microcosm, within the confines of the ecosystem. Abiotic components namely Four critical environmental inputs, namely solar radiation, temperature, nutrients and water determine or characterize the external coffee biosystem. Competition among and between the partners will result in some of the members or constituents slowly dying off. However, this is not true in case of a coffee ecosystem where all partners are commonly characterized by genetic diversity rather than uniformity. Basically, the coffee ecosystem is a self-supporting one because of the complimentary role played by all partners. Thus there exists a beautifully coordinated BIOLGICAL BALANCE within the coffee plantation.
+
+![27_250](27_250.jpg)
+
+An aerial view of the coffee plantations will reveal the canopy of tall evergreen trees, which essentially harvests the sunlight and filters the harmful ultraviolet rays from reaching the coffee canopy. The second tier of shade comprises of shorter trees that shed their leaves in winter and have a thick canopy in summer. Below these two tier canopies thrives the multi and mixed crops associated with coffee. The above two canopies have a direct role in the luxuriant growth of coffee. The most important one being the protection given in terms of avoiding transpiration loss of water from the leaf surface. As such there is a total dependence and interdependence among various tree species for both sunlight and nutrients. This is nicely taken care of due to the fact that various tree species found inside the plantation have different nutrient and water harvesting zones. The evergreen trees have a very deep-rooted system compared to the shallow rooted silveroak, grivelia robusta and so on. Again within the species of coffee, Coffee Robusta has a subsurface root zone compared to the Arabica coffee, which in comparison has a deep-rooted system. Thus in this coffee biosystem, the net effect of the diverse interrelationships among organisims is a well-balanced ecosystem, within it food and nutrients cycle continuously and more or less self-supporting.
+
+A very important mechanism that helps maintain the subtle system of ecological balance is species diversity. A mix up of various species at various depths in the soil would result in nutrients being drawn out from different soil profiles and thus maintain the chemical balance and vitality of the soil. Because of the varied number of tree species, inside the plantation it would enable the smooth flow of nutrients from different levels within the soil system. This would ensure the correct nutritional balance, thereby promoting healthy trees and healthy coffee along with multi crops. In such a multi diverse system, the mix of nutrients harvested by each species would stabilize over a period of time. On the other hand if the same species of trees existed over thousands of acres, then in the technical sense, MINING of a particular nutrient would take place, leading to a gradual absence or removal of the nutrient over a period of time, leading to a deficiency syndrome. This would adversely affect the biodiversity in the locality.
+
+A multidiverse tree species, would enable a diverse regime of microflora and fauna which in turn would aid in replenishing the major nutrients like Nitrogen through Biological nitrogen fixation, Phosphorus, through P Solubilisation and there by preserve the levels of nutrients adequate for all the dependent species growing in the same community.
+
+![20_350](20_350.jpg)
+
+Monocropped coffee plantations aid the buildup of parasite population beyond the economic threshold level. In contrast multidiverse plantations support the diversity of mutually supporting species of both predators and parasites in definite proportions and definite patterns. Monocropped Plantations would result in tremendous pressure on the land to perform without having the flexibility of a diverse multicropped system. For e.g. A small perceptible change in the macro or microenvironment resulting in say a slight increase or decrease in temperature. In such a situation the parasite population would shoot up instantly without checks and balances to counter the proliferation of the parasite in a monocropped plantation, as compared to a multicropped plantation.
+
+### Conclusion
+
+If one were to look at global statistics on rainforests, it is no secret that they are shrinking at an alarming rate due to large-scale deforestation and commercial interests. Forests are disappearing in front of our very own eyes. The same holds true of global coffee plantations where forest cover within the plantation is dwindling at an alarming rate. The reasons for this deterioration are many. Low prices, vested interests, exploitation of forest wealth, quick returns and so on. Again, MAN not NATURE is the culprit. At the end of it all, there is no justification in turning these sensitive biologically active coffee parks to deserts. I firmly believe that we owe future generations the splendor of nature where in all the hidden secrets are found inside it. Forests act as cooling links to the entire world.
+
+It is obligatory on our part to pass on this timetested effective system to future generations. After all they serve as LIVING LINKS between our ancestors. All over the world soils are slowly turning acidic in nature due to large scale monocropping. Billions of dollars are spent on reclamation of such soils. Multi cropped farms are known to be ecologically safe and sound. In the very beginning of the world there existed a multilayered, multitired system and it is Mans shortsightedness that has resulted in conflicts with nature. The reason for this may be that we have not been able to understand the delicate and orderly balance that exists in the natural ecosystems and in the biosphere. As such our growing concern for the environment calls for creation of ideas, opportunities and meaningful implementation to check the manmade deterioration. In other words we have to become old in a wise way.
+
+We need to sit up and look with the third eye at EVOLUTION that has answers to all our agriculture related problems.

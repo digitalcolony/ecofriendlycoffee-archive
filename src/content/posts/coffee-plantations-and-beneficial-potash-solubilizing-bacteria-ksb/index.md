@@ -1,0 +1,67 @@
+---
+id: "coffee-plantations-and-beneficial-potash-solubilizing-bacteria-ksb"
+title: "Coffee Plantations And Beneficial Potash solubilizing bacteria (KSB)"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "general"
+category: "General"
+publishedDate: "2022-09-30T06:43:46"
+updatedAt: "2022-09-30T06:43:46"
+wordpressId: 48266
+---
+
+Potassium is the third most important essential Major plant nutrient required by coffee and multiple crops associated with coffee. Potassium (K) is an essential macro-nutrient and also plays a vital role in plant growth and metabolism. The soil K reserves are generally large, but a considerable proportion of it is available in the form of insoluble K minerals. However, less than 2% of K in the soil exists in plant-available forms. Deficiencies in K result in Coffee plants with poorly developed roots, small seeds, and lower yields, and therefore the availability of this element is crucial for plant growth and development. Luckily coffee soils have large amounts of potassium, but unfortunately, high amounts of K present in soils correspond to insoluble forms from rocks and silicate minerals. The solubilization of K by microorganisms is then a reliable alternative to make available this element for coffee and multiple crops associated with coffee agroforestry. K solubilizing bacteria (KSB) could be isolated and used as soil inoculum to promote plant growth and yield.
+
+For the past three decades, we have successfully isolated various strains of bacteria and fungi involved in nitrogen fixation, and phosphorus mobilization. Our research shows promise in efficiently using Potassium solubilizing bacteria to augment the needs of potash for coffee and multiple crops.
+
+The type of soil where coffee is cultivated makes a significant difference in the availability of potassium. The more potassium ions are dissolved in the soil solution, the more, are available to the plants. The K concentration of the solution depends on the release of potassium from soil minerals.
+
+K is present in several forms in the soil, including mineral K, non-exchangeable K, exchangeable K, and solution K. Depending on soil type, from 90 to 98% of soil K is mineral K and most of this K is unavailable for plant uptake. Minerals containing K are feldspar (orthoclase and microcline) and mica (biotite and muscovite). The non-exchangeable form of K makes up approximately 1 to 10 % of soil K and is trapped between the layers or sheets of certain kinds of clay minerals.
+
+### **Role of Microorganisms in Potassium Availability**
+
+The scientific literature clearly spells out that some beneficial soil microorganisms, a wide range of saprophytic bacteria, fungal strains, and actinomycetes, could solubilize the insoluble K to soluble forms of K by various mechanisms including the production of inorganic and organic acids, acidolysis, polysaccharides, complexolysis, chelation, polysaccharides, and exchange reactions. Published data in peer-reviewed journals also mention that there is a considerable population of KSB in soil and in the plant rhizosphere. These include both aerobic and anaerobic microorganisms. Isolates that are present in the soil are mostly aerobic in nature. A considerably higher concentration of KSB is commonly found in the rhizosphere in comparison with non-rhizosphere soil.
+
+### **Soil microorganisms involved in potassium solubilization**
+
+A large number of saprophytic bacterial, fungal strains and actinomycetes, have been identified which solubilizes potassium from insoluble forms.
+
+1.  *mucilaginosus*, *B. circulanscan*, *B. edaphicus*, *Burkholderia, A. ferrooxidans*, *Arthrobacter*sp., *Enterobacter hormaechei*, *Paenibacillus mucilaginosus*, *P. frequentans*, *Cladosporium*, *Aminobacter, Sphingomonas, Burkholderia*, and *Paenibacillus glucanolyticus*
+
+Recent studies have shown that filamentous fungi like **Aspergillus, Penicillium, and Fusarium** can solubilize K through insoluble sources such as mica, illite, etc., under in vitro conditions.
+
+Among the soil bacterial communities, *B. mucilaginosus, B. edaphicus* and *B. circulanscan* have been described as effective K solubilizers.  KSB are usually present in all soils and have been isolated from rhizosphere soil, non-rhizosphere soil, paddy soil.
+
+### **Mode of Action**
+
+It is generally believed that microorganisms contribute to the release of K+ from K-bearing minerals by several mechanisms. Released H+ can directly dissolve the mineral K as a result of slow releases of exchangeable K, readily available exchangeable K. As occurs in the case of P solubilization, the major mechanism of K mineral solubilization is by production the of organic and inorganic acids and the production of protons (acidolysis mechanism) which are able to convert the insoluble K (mica, muscovite, and biotite feldspar) to soluble forms of K, easily taking up by the plant. The types of various organic acids such as oxalic acid, tartaric acids, gluconic acid, 2-ketogluconic acid, citric acid, malic acid, succinic acid, lactic acid, propionic acid, glycolic acid, malonic acid, fumaric acid, etc. have been reported in KSB, which are effective in releasing K from K-bearing minerals. It has also been known that the type of organic acid produced by KSB may be different. Among the different organic acids involved in the solubilization of insoluble K, tartaric acid, citric acid, succinic acid, α-ketogluconic acid, and oxalic acid are the most prominent acids released by KSB. Microbial decomposition of organic materials also produces ammonia and hydrogen sulphide that can be oxidized in the soil to form strong acids such as nitric acid (HNO3) and sulphuric acid (H2SO4). Hydrogen ions displace K+, Mg2+, Ca2+, and Mn2+ from the cation-exchange complex in soil. In addition to decreasing soil pH, organic acids produced by KSB can release of K ions from the mineral K by chelating (complex formation) Si4+, Al3+, Fe2+, and Ca2+ ions associated with K minerals.
+
+### **Conclusion**
+
+Potassium (K+) shows important functions in different metabolic processes and physiological functions associated with coffee Agroforestry and is the third crucial component of most crop fertilizers. KSB is usually present in all soils, although their number, diversity, and ability for K solubilization vary depending upon the soil and climatic conditions. Potassium Solubilizing Bacteria (KSB) solubilizes different types of K in the soil by secreting organic acids into available forms that boost plant growth, yield, and the soil’s fertility status. Recent investigations have shown that organic exudates of some microorganisms such as Pseudomonas spp;Burkholderia spp; *Pseudomonas* spp., *Burkholderia* spp., *Acidithiobacillus ferrooxidans*, *Bacillus mucilaginosus*, *B. edaphicus*, *B. megaterium*, and *Aspergillus* spp., and even plant roots play a key role in releasing non-available K+ from the minerals. The list of rhizosphere micro flora with potassium solubilization is increasing.
+
+### **References**
+
+Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume-1.
+
+Bopanna, P.T. 2011.The Romance of Indian Coffee. Prism Books ltd.
+
+Dr. G. Kemmler and H.Hobot, Ing.agr.,Buntehof Agricultural Research Station, Hannover, Fed. Rep. of Germany. Potassium in Plant Production.
+
+Dr. G. Kemmler and H.Hobot, Ing.agr.,Buntehof Agricultural Research Station, Hannover, Fed. Rep. of Germany. Potassium dynamics in the soil.
+
+> [The Soil Potassium Cycle](https://soilsisatgmc.wordpress.com/2017/05/04/the-soil-potassium-cycle/)
+
+[Potassium Solubilizing Bacteria](https://aiasa.org.in/wp-content/uploads/2020/09/25.pdf)
+
+[Potassium solubilizing bacteria (KSB)](https://scielo.conicyt.cl/pdf/jsspn/v17n4/art05.pdf)
+
+[Potassium solubilizing microorganisms as soil health](https://www.sciencedirect.com/science/article/pii/B9780323899734000077) !
+
+[Potassium solubilizing bacteria (KSB): Mechanisms, promotion of plant growth](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-95162017000400005#:~:text=It%20is%20known%20that%20potassium,.%2C%20Bacillus%20mucilaginosus%2C%20B).
+
+[future prospects ­ A review](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-95162017000400005)
+
+[Isolation and characterization of potassium solubilizing](https://www.tandfonline.com/doi/abs/10.1080/01490451.2021.1928800?journalCode=ugmb20#:~:text=Recent%20studies%20have%20shown%20that,vitro%20conditions%20\(Etesami%20et%20al).

@@ -1,0 +1,124 @@
+---
+id: "coffee-forests-and-microbial-interactions"
+title: "Coffee Forests And Microbial Interactions"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "microorganisms"
+category: "Microorganisms"
+publishedDate: "2022-04-23T02:11:15"
+updatedAt: "2022-04-23T02:14:16"
+wordpressId: 48220
+---
+
+The earliest inhabitants of Planet Earth have undoubtedly been microorganisms. From primitive prokaryotic unicellular microorganisms, evolved the higher forms of life. Microorganisms have thus been the earliest participants in shaping various life processes. Microorganisms have been largely responsible in changing the primordial atmosphere resulting in the formation of gaseous oxygen needed for plant growth.
+
+The primary purpose of writing this article is to help coffee Planters worldwide in understanding the basic premise on which soil microorganisms operate and the ways and means of carefully exploiting their potential to provide the coffee ecosystem with germplasm of different/ assorted microorganisms that will act on the substrates available on the field and convert them into energy-rich compounds available for plant growth and development. Microorganisms grow in concert, both in natural coffee soils and in artificial media. All organisms in an ecosystem are connected in one way or another.
+
+In fact, populations of different species generally interact in a complex web of relationships. Relationships between species in communities are important factors in natural selection and help shape the evolution of the interacting species. Microorganisms form various ecological relationships, ranging from mutualism to competition, that in addition to other factors shape microbial abundances.  Coffee Planters, through the application of biofertilizers, are trying to increase yields by replacing chemical fertilizers which are more eco-friendly and less harmful to the coffee ecosystem.
+
+### The uniqueness of Coffee Forests
+
+Each coffee mountain is unique and distinct and harbors a secret world of microbes. Individuals have different markings to recognize the species. It is important to understand that shade-grown Indian coffee farms provide a natural environment for the growth and proliferation of various microbial groups. For a number of reasons, the microbial inhabitants are in constant touch with both the macro flora and other inhabitants of the coffee mountain. It is this very complexity that has saved the evergreen coffee mountain from changing into a desert.
+
+The microflora has established a set of rules that favors the build-up of the desired species, such that the dynamic state of the entire coffee range is maintained at a level characteristic of the flora. More importantly, the biological equilibrium among and between microorganisms is regulated to a large extent by the overhead canopy of a three-tiered shade system which is unique only to India.
+
+### Role of Microorganisms
+
+A majority of the coffee Planters are unaware that the great majority of soil microbes are beneficial and absolutely necessary to convert farm wastes, organic debris, and other by-products into energy-rich compounds needed for plant growth and development. Plants and animals depend on the fertility status of the soil and this, in turn, is dependent on the activity of soil microorganisms. Plants cannot directly utilize organic compounds such as fatty acids, lipids, carbohydrates, and proteins. Microorganisms are a vital link in the mineralization of organic constituents and provide nutrients in the available form for plant growth and development.
+
+### Microbial Interactions
+
+Coffee Plantation soils are by and large covered with layers of leaf mulch and other organic debris constantly falling from the above three-layered tree canopies. As such the floor of the coffee forest as well as as the above-ground (foli­age) and below ground (roots) portions of plants con­stantly interact with a large number of microorganisms (e.g. bacteria, actinomycetes, fungi, amoebae, nematodes, and algae) and viruses, and develop several types of inter­relationships. A number of relationships exist between individual microbial species and between individual cells. The interrelations and interactions between and among various microbial species bring about a dynamic change in the soil properties. These interactions can be beneficial or detrimental to the coffee ecosystem, depending on the biological equilibrium created by the associations of individuals found in the community.
+
+Depending on the soil type, organic matter status, plant population, tree heterogeneity and agroforestry components, a number of possible interactions may occur. The microbial interaction between the same organisms is called intraspecific interaction. Similarly, the microbial interaction between the different organisms is known as interspecific interaction.
+
+### Type of Microbial Interactions
+
+There are two types of interaction based on positive and negative affect.
+
+### Positive Microbial Interaction
+
+It is the type of interaction, where both the individuals interact or cooperate to establish a positive relationship for each other’s mutual benefit. In positive interaction, the organisms of two different populations can build a consistent, transitory, and obligatory relationship. There are four types of positive interactions.
+
+### Symbiosis
+
+Symbiosis is the interaction between two different organisms living in close physical association.
+
+### Mutualism
+
+A symbiotic relationship where both organisms benefit. Mutualism describes an interaction that benefits both species. Mutualistic interaction patterns occur in three forms. Obligate mutualism is when one species cannot survive apart from the other. Diffusive mutualism is when one organism can live with more than one partner. Facultative mutualism is when one species can survive on its own under certain conditions.
+
+The relationship in mutualism is such that each organism in interaction gets benefits from the association. It is an obligatory relationship in which mutualist and host are metabolically dependent on each other. The effect of mutualism is positive for both the population.
+
+### Protocooperation
+
+Protocooperation is a type of ecological interaction where both the species involved in the interaction are benefitted, but the interaction is not obligatory for survival. The two interacting species in protocooperation are not dependent on each other, i.e. they only interact for the benefit they will get. The organisms involved in protocooperation do not share an obligatory relationship, i.e. the organisms are not closely dependent on each other.
+
+### Commensalism
+
+A symbiotic relationship where one organism benefits and one does not benefit but is unharmed. A Positive/Zero Interaction.
+
+This involves a long-term biological interaction (SYMBIOSIS) in which members of one species gain benefits while those of the other species neither benefit nor are harmed. In commensalism, the one organism associated with the other is benefitted called commensal, while the other organism is neither benefitted nor harmed.
+
+### Negative Microbial Interaction
+
+It is the type of interaction between the two microbial populations, in which the one population of the microorganisms is benefitted, while the other is affected. One organism either attacks or inhibits the other organisms for the survival and food source in a negative interaction.  
+There are four types of negative interaction
+
+### Competition
+
+When two or more organisms rely on the same environmental resource. The Double Negative.
+
+Competition between two populations tends to eliminate one of the populations from their common habitat, especially when competition is focused on a single resource and when the populations do not otherwise interact. However, a number of factors mitigate the severity of competition, and thus competitors often coexist. Competition occurs in nature, between living organisms that co-exist in the same environment. It is a type of negative interaction, where two different organisms compete with each other for the same resources. Due to competition for the same resources, there is a limitation of resources by which both the organisms are adversely affected. The competition between the same species’ organisms is called intraspecific competition and the competition between the organisms of different species is known as interspecific competition.
+
+### Amensalism
+
+A Negative/Zero Interaction. Amensalism describes an interaction in which the presence of one species has a negative effect on another, but the first species is unaffected. It also refers to the association between organisms of two different species in which one is inhibited or destroyed and the other is unaffected. There are two basic modes: competition, in which a larger or stronger organism excludes a smaller or weaker one from living space or deprives it of food, and antibiosis, in which one organism is unaffected but the other is damaged or killed by a chemical secretion. It is also called Antagonism. It is a type of negative interaction where one organism produces an inhibitory substance for the other. One population is either unaffected or benefitted, and the other is inhibited in ammensalism. It is a type of chemical inhibition.
+
+### Parasitism
+
+A symbiotic relationship where one organism benefits and one is harmed.
+
+It’s a relationship between two species of plants or animals in which one benefits at the expense of the other, sometimes without killing the host organism. It is a negative interaction, where one organism closely depends and lives upon the other to invade all the nutrients is called a parasite. The parasite that attacks the other organism is called a host. In parasitism, the host-parasite relationship is an obligatory interaction where a parasite strongly needs a long interaction for its growth and multiplication.
+
+The parasites living outside the host cell are called ectoparasites. The parasites living inside the host cell are called endoparasites. In parasitism, one organism (parasite) will be benefitted, and the host cell will be destroyed.
+
+### Predation
+
+Predation is the process by which one organism feeds on another, typically one animal eating another animal. One Wins, One Loses. It is a type of negative interaction, where one organism engulfs or attacks the other organism is called a predator. The predator that attacks the other organism is called prey. One organism (predator) is benefitted from predation, and the other (prey) is killed.
+
+### Neutralism
+
+Two microorganisms behave entirely independently. Neutralism occurs when microorganisms have no effect on each other despite their growth in fairly close contact. It is perhaps possible for neutralism to occur in natural communities if the culture density is low, the nutrient level is high, and each culture has distinct requirements for growth.
+
+### Antagonism
+
+### Syntropism
+
+It is an association in which the growth of one organism either depends on or is improved by the substrate provided by another organism.
+
+In syntrophism both organisms in association get benefits.
+
+### Parasitoidism
+
+This is similar to parasitism but the parasitoid has a free-living state and instead of just harming its host, it eventually ends up killing it.
+
+### Conclusion
+
+Now that we have simplified the many existing types of microbial relationships, we need to further probe the mechanisms underlying these complex interactions in order to better control microorganisms and exploit them in a wide variety of ways beneficial to the coffee plantation in terms of organic matter decomposition, nitrogen fixation, phosphorus solubilization, and other biological processes.
+
+### References
+
+Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume-1.
+
+[Microbial interaction](https://www.onlinebiologynotes.com/microbial-interaction-and-types-mutualism-syntropism-proto-cooperation-commensalism-antagonism-parasitism-predation-competition/)
+
+[Commensalism](https://en.wikipedia.org/wiki/Commensalism)
+
+[Five Types of Ecological](https://education.seattlepi.com/five-types-ecological-relationships-4019.html)
+
+[Five Types](https://sciencing.com/five-types-ecological-relationships-7786.html)
+
+[Community Relationships](https://bio.libretexts.org/Bookshelves/Human_Biology/Book%3A_Human_Biology_\(Wakim_and_Grewal\)/24%3A_Ecology/24.04%3A_Community_Relationships)

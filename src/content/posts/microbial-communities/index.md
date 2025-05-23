@@ -1,0 +1,253 @@
+---
+id: "microbial-communities"
+title: "Microbial Communities"
+status: "published"
+author: "Dr. Anand Titus and Geeta N. Pereira"
+authorSlug: "dr-anand-titus-and-geeta-n-pereira"
+titleImage: undefined
+categorySlug: "microorganisms"
+category: "Microorganisms"
+publishedDate: "2005-06-01T07:00:00"
+updatedAt: "2015-10-28T11:56:23"
+wordpressId: 54
+---
+
+*Readers are requested to refer the article [Coffee Plantations: A Multi-Disciplinary](http://ecofriendlycoffee.org/coffee-plantations-a-multidisciplinary-approach/) and [Microbial Interactions in Coffee Plantations](http://ecofriendlycoffee.org/significance-of-microbial-interactions-within-coffee-plantations/) for a better understanding of the present article.*
+
+The amazing fact about Indian Coffee Plantations is that they are steeped in a tradition of growing coffee under shade by a variety of trees. The coffee plants are surrounded by awesome tree canopy. Hundreds of species of herbs, shrubs, spices ands rare animals share the same habitat. The energy flows; in such a complex system, have distinctive characteristics and needs to be carefully monitored and tailored to suit the requirement of the farm.
+
+Luckily for the coffee farmer the energy flow in shade grown Indian coffee farms is always on the positive side and works to the best advantage of the coffee farmer. This energy flow is to a very large extent regulated by canopy photosynthesis and the dominant microflora.
+
+![1](1.jpg)
+
+The coffee habitat consists of several diverse groups of microorganisms in varying proportions. Their energy requirements varies from species to species. Some are efficient in obtaining their nutrients and others are fastidious in their energy requirements. The coffee bush in turn exerts tremendous influence on the soil micro flora. Since coffee soils have varied organic residues they selectively influence Microbial Communities (M.C.) Microbial Communities carry out a number of functions vital to the prosperity of the coffee mountain.
+
+We have taken great care to simplify the complexities involved in dealing with microbial communities so that it benefits the coffee farmer in adopting a SUSTAINABLE strategy for the future development of their coffee farms. A thorough understanding of this article will be of great help in predicting the effect of Microbial Communities on the coffee ecosphere including the biodiversity of the region.
+
+![2](2.jpg)
+
+The very fact that microorganisms are abundantly found inside the coffee mountain suggests an exciting possibility. For some scientists believe that hydrocarbons are a better solvent for life nourishing microbial communities. Microorganisms are not only found below the soil interface but are also found in the air. Because of their low weight they can be transported by air currents to long distances.
+
+Also, seldom does one realize that valuable energy is locked up due to the absence of a particular species of microorganisms; releasing the locked up energy on the floor of the forest is the ultimate challenge in achieving sustainability. For example a number of major raw materials such as cellulose, hemi cellulose, chitin can be utilized only by a community of microorganisms and in no way be broken down by a single species of microorganisms. The release of this energy is vital for the distribution of both flora and fauna.
+
+![5](5.jpg)
+
+Since coffee is grown on an elevation ranging from 750 feet to 5500 feet main sea level the coffee mountain is exposed to different weather patterns ranging from dry spells to very wet monsoons. The boundary between water and air changes dramatically in the rainy season. In winter for 2 months there is hardly any sign of life but like ants and termite colonies, microbes work day in and day out creating new communities. Our inferences point out to the fact that the path they choose is far from random.
+
+![17](17.jpg)
+
+Equally important is the availability of leaf biomass which again is seasonal and dependent on the type of tree species. Some tree species shed their leaves in summer and others during the onset of monsoon, but they do so in a synchronized manner such that the level of biomass required for the activity of microbial communities is always there.
+
+However, if this delicate balance is changed by undesirable man made activities then it is bound to alter the microbial equilibrium in soil at least temporarily. Hence,most of the times the visible and invisible biological inhabitants have to cope with a diverse set of unpredictable conditions either favorable or stressful. Ultimately, each coffee mountain harbors a unique set of micro flora perfectly designed for a harmonious relationship with coffee and its surroundings. Some microbial communities exhibit yearly rhythms. Some exhibit seasonal succession depending on the availability of substrates.
+
+![4](4.jpg)
+
+Microbial communities constantly camouflage their surroundings to protect themselves from other microorganisms and natural enemies. Before we understand the role of microbial communities involved in these transformations we need to understand the structure of the basic units of the pyramid which comprise or make up a microbial community.
+
+### Microbial Ecology:
+
+![11](11.jpg)
+
+Is the science which studies the interactions and interrelations among and between microorganisms and their environment. It Deals with the behavior of organisms in their natural habitats and with the relations between different organisms. The basic unit in ecology is the ecosystem. The ecosystem consists of Abiotic and Biotic components. The most influential of all biotic components is the Microbial Community. This in turn deals with the population of microorganisms.
+
+### Microbial Population:
+
+Consists of clones of one or several species of microorganisms. The presence of either a single species of microorganism or a mixture of diverse species either related or unrelated which occupy the same area and share the same resources.
+
+### Habitats:
+
+Place or locality with particular kind of environment inhabited by communities.
+
+### Microhabitat:
+
+Cluster of micro aggregates with associated water within which microbes function.
+
+### Microbial Niches:
+
+Relates to the functioning of a species or population of microorganisms within the community. ie.Functional role of a given organism within its habitat.
+
+### Microbial Community:
+
+![8](8.jpg)
+
+The microbial community consists of individual as well as population of microorganisms. All microorganisms that occupy a common habitat and interact with one another. The COMMUNITY is the highest biological unit in an ecosystem made up of individuals and populations of various microorganisms.
+
+### BIOCOENOSIS:
+
+An ecological community forming a self regulatory unit.
+
+### Bio Films:
+
+Microorganisms encased in an adhesive, usually a polysaccharide and attached to a surface. Various microbial populations within biofilms form a complex symbiotic bond paving the way for the exchange of nutrients and protection.
+
+### MICROCOSMS:
+
+A community or other unit that is representative of a larger unity
+
+### MICRO ENVIRONMENT:
+
+![7](7.jpg)
+
+Immediate physical and chemical surroundings of a microorganism.
+
+### Food Chain:
+
+The movement of nutrients from one life form to another as a result of the different feeding habits and dietary requirements of organisms in an ecosystem.
+
+### BIOTIC COMMUNITY :
+
+Consists of two or more species of organism living in the same habitat.
+
+### Events Unfolding Inside the Coffee Forest
+
+![3](3.jpg)
+
+The Pioneer Organisms are the very first to colonize the coffee forest. Microbial communities pass through various stages of evolution. This process is called succession. It all starts with Primary Succession: Colonization of a habitat by microbial populations not previously colonized. Then starts the Secondary Succession; Colonization after the Primary succession.
+
+Based on the season, prevailing climatic conditions, type of leaf litter and biomass; the floor of the coffee mountain shapes the formation of microbial communities. This key builds up of biomass results in a rich variety of microbial life. Hundreds of elements essential to life move back and forth between microbial communities and its surroundings. It is amazing to know that billions of microorganisms live in relative balance, each devising a unique strategy to propagate their species. At every stage of succession, one microbial community is replaced by another. The successive communities are each integrated units.
+
+This is an ongoing process ultimately leading to a stable microbial community. These stable units are termed Climax communities. The coffee mountain facilitates rapid successional changes because of the varied biomass like Decomposing leaves and other rich humus and organic matter on the forest floor. At each step of succession the micro and macro environment too gets modified.
+
+![10](10.jpg)
+
+The highly complex coffee habitat undergoes constant variations from time to time which in turn decide the destiny of microbial communities. Variation is at its greatest during periods of increase and mortality. Variation provides the raw material for natural selection. In a shifting soil ecosystem the initial microorganisms which colonize the area, establish rapidly and ward off competitors.
+
+At times there is a succession of populations, which is facilitated by the early habitants. The early inhabitants modify the habitat in a way that permits the new microbial communities to develop. In the real sense they exhibit tremendous adaptations to stabilize the microbial community.
+
+Stable microbial communities tend to have high diversities. Microbial Communities demonstrate a unique relationship with their natural environment. In spite of mind-boggling numbers that we speak off, microbial communities have their own distance of comfort.
+
+![6](6.jpg)
+
+Microbial Communities are involved in diverse functions.
+
+-   Biosynthetic compounds consisting of plant and animal residues are acted upon by microbial communities in a step by step process, by the activity of microbial enzymes
+-   The fragments produced at each step are precursors for the build up of new microbial communities
+-   Build up of soil microorganisms and subsequent death which results in available protein, polysaccharides and carbon for growth and development of coffee
+-   Transformation of various elements
+-   Mineralization and immobilization
+-   Slow release of nutrients
+-   Neutralizing toxic chemical residues
+-   Maintenance of a balanced energy flow.(Nutrient recycling)
+
+![18](18.jpg)
+
+Microbial communities have evolved mechanisms to survive the hardships of nature or that of man made activities and in many instances Microbial communities, latch on to the rocks or evergreen trees , providing an environment for luxuriant growth. Stable microbial communities are highly adapted in dealing with environmental stress and nutritional starvation. This critical period may result in fluctuations of their respective numbers.
+
+However, most microorganisms lay dormant for many years in the soil by producing heat resistant structures known as endospores. The spores germinate during favorable environmental conditions. This mechanism helps in the continuation of the species survival. Those which do not produce spores have the capacity to mutate. Mutations are of different types: Spontaneous mutations, Silent mutations, Back mutations and Individual mutations.
+
+Generally speaking mutations are recessive at first but due to persisting circumstances may turn dominant. In rare instances crosses of genetic pools may take place between closely related species resulting in hybridization. In every likelihood they may confer beneficial characteristics on the organisms.
+
+### Lessons at Joe’s Sustainable Farm (Kirehuly Estate, Sundekere, India)
+
+The lessons learned at Joe’s sustainable farm are invaluable in protecting the coffee mountain and all its wealth. The key lies in understanding the needs of microbial communities.
+
+There is growing evidence from our research that:
+
+1.  Inspite of significant undesirable changes in weather patterns over the past 4 years (2001, 2002, 2003, 2004) our observations have revealed interesting insights into the behaviour of M.C. Their activity in soil is greatly influenced by the availability of water, organic and inorganic nutrients. The lack of water means slow death. The fortunes of the microbial communities are as extremes as the seasons. Coffee blocks with low levels of organic matter and those which regularly received chemical inputs in the form of urea, Potash, Or ammonium fertilizers had a profound effect on the soil system. Not only were the plants stressed, they showed signs of decline and the overall productivity of the farm was significantly affected.
+
+![19](19.jpg)
+
+1.  Coffee Blocks which received regular amounts of compost together with large amounts of biomass in the form of leaf shedding remained healthy inspite of extremes of temperature. Coffee blocks with low organic matter content and low external inputs of organic amendments were the first to show signs of decline.
+2.  Thanks to the pioneering efforts of the British in opening up coffee Plantations in select areas crowded with forest trees bearing abundant wild fruits. These fruit trees constantly enrich the soil because they bear fruit twice a year and there by get incorporated into the soil leading to organic matter accumulation. Modern day coffee farmers are removing these trees and replanting them with quick yielding semi hardwood species trees like Mangium, Mesopsis, Acacia, Soobabul, etc with the fond hope of extracting timber in just 3 to 5 years. These trees donot yield fruits which are edible to both wild life as well as to microbes. Infact these trees are robbing the soils precious nutrients. As a result there is a decline in the wild life population as well as microorganisms.This practice results in a vital link being snapped away from the food chain and this will have a telling effect on future generations.
+
+![19](19.jpg)
+
+The activity of M.C. is conditioned by soil factors such as aeration and moisture. One among the several key factors in maintaining an equitable balance is the amount of aeration provided to coffee soils. Due to constant use of fertilizers and chemical poisons ; soil compaction takes place resulting in the formation of a hard pan, limiting the supply of oxygen to the primary and secondary roots. Secondly, Since Indian coffee plantations follow the high density of planting the number of plants in a given acre may range from 2000 to 1000.
+
+Over the years the primary feeder roots forms a dense mat resulting in the hardness of the soil. These intertwining roots lock into the soil colloidal complex and limit the free exchange of gases with the surrounding environment. Aerobic microbial communities get inhibited. Also the top 4 inch layer of soil is the most important for the growth of coffee. The maximum concentration of microbial communities is concentrated in this zone and reduces with soil depth. However, this concentration of M.C. is directly correlated to the amount of organic matter content available.
+
+### REMEDIAL MEASURES:
+
+![14](14.jpg)
+
+The above problems can be easily overcome by working with the soil in an environmentally friendly manner. To start with, the practice of scuffle digging every year followed by deep digging ( one foot ) once every three years is a must ,generally in the month of august and September. The harvested soil should be uniformly spread on the floor of the coffee forest.
+
+![16](16.jpg)
+
+This deep digging improves the soil conditions which in turn aerates the soil, loosens the crust formation, activates the soil pores, supplies oxygen, and increases the vigor of the bush favoring the setting up of microbial communities. External addition of poultry manure/ sheep manure/ neemcake/ cattle dung every alternate year brings about soil transformations and acts as a precursor for the growth and multiplication of microbial communities. Organic amendments need to be incorporated into the soil for better results.
+
+![12](12.jpg)
+
+Our ancestors always planted fig bearing trees because they used to bear fruits twice a year. These fruits when ripe used to fall on the forest floor and the resultant decomposition enriches the soil. Also these trees were storehouses for large quantities of water there by keeping the surrounding habitat always moist even in summer. After all water (MOISTURE) is the home element of microorganisms. Microorganisms are gifted with special breathing apparatus to breathe in moist soils. They show tremendous adaptability in conserving energy.
+
+![14](14.jpg)
+
+Farmers also used to plant trees with repeated leaf shedding with the sole purpose of enriching the soil and balancing the carbon nitrogen ratio. Modern day farmers have introduced quick yielding timber varieties which mine the soil and do not contribute to the ecology, rather rob the soil of its nutrients. The leaves are filled with phenols and non biodegradable constituents, upsetting the balance of nature.
+
+### Conclusion:
+
+The coffee mountain is a mountain full of mystery. For millions of years animals, insects and microbes have been living side by side. The relationship between and among the various biotic partners has always remained mutually satisfying. The undisturbed coffee mountain provides a valuable base for the establishment of microbes. However, with the advent of mechanization, the coffee mountain is increasingly being disturbed.
+
+At no other time in history has the coffee mountain been subjected to so much abuse. If remedial measures are not taken on a war footing the coffee sanctuary will not be able to support itself , but will also result in the loss of microbial communities.
+
+![13](13.jpg)
+
+Man’s continued assault on the environment has resulted in unrestrained exploitation of natural resources. Over the years the coffee landscape has changed dramatically. Felling of forest trees and the application of very high doses of chemical fertilizers and pesticides inside coffee plantations is like a disease spreading with no cure at sight. Increasing evidence regarding rising deforestation and decreasing ground cover are clear warnings that Microbial Communities cannot sustain themselves. These undesirable activities remove large amounts of organic matter from the microbial nutrient cycles. This accelerates the death and destruction of microbial communities.
+
+Globally, mankind is waging a war against nature. We need to quickly realize that the destiny of mankind is interlinked to the well beings of plants, animals and microbes. If we get it wrong, it would spell disaster . We need to change our life style to live sustainably. We cannot fight nature, but we can learn to predict nature. It is in these contexts that that we need to understand the role of microbial communities in building up stable relationships.
+
+### References:
+
+[ecofriendlycoffee.org/role-of-bacteria-in-coffee-plantation-ecology/](http://ecofriendlycoffee.org/role-of-bacteria-in-coffee-plantation-ecology/)
+
+[ecofriendlycoffee.org/role-of-fungi-in-coffee-plantation-ecology/](http://ecofriendlycoffee.org/role-of-fungi-in-coffee-plantation-ecology/)
+
+[ecofriendlycoffee.org/the-role-of-actinomycetes-in-coffee-plantation-ecology/](http://ecofriendlycoffee.org/the-role-of-actinomycetes-in-coffee-plantation-ecology/)
+
+[ecofriendlycoffee.org/significance-of-microbial-interactions-within-coffee-plantations/](http://ecofriendlycoffee.org/significance-of-microbial-interactions-within-coffee-plantations/)
+
+[ecofriendlycoffee.org/invisible-communications-in-coffee-plantations/](http://ecofriendlycoffee.org/invisible-communications-in-coffee-plantations/)
+
+[ecofriendlycoffee.org/coffee-plantations-a-multidisciplinary-approach/](http://ecofriendlycoffee.org/coffee-plantations-a-multidisciplinary-approach/)
+
+[ecofriendlycoffee.org/biodiversity-in-relation-to-coffee-plantations/](http://ecofriendlycoffee.org/biodiversity-in-relation-to-coffee-plantations/)
+
+[ecofriendlycoffee.org/endomycorrhizae/](http://ecofriendlycoffee.org/endomycorrhizae/)
+
+[ecofriendlycoffee.org/coffee-forest-symbiosis/](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+
+Ambrose, E.J. and D.M. Easty. 1970. Cell Biology. Addison-Wesley Publishing Company. Inc., Menlo Park, California.
+
+Andrews, J.H. 1984. Relevance of r- and k-theory to the ecology of plant pathogens. In M. J. Klug and C. A. Reddy (eds). Current Perspectives in Microbial Ecology. American Society for Microbiology, Washington, D. C.
+
+Andrews, J.H. 1991. Comparative Ecology of Microorganisms and Macro organisms. Springer-Verlag, New York.
+
+Atlas. R. M. 1984a. Diversity of microbial communities. Advances in Microbial Ecology 7 :1-47.
+
+Atlas. R. M. 1984b. Use of microbial diversity measurements to access environmental stress. In M.J. Klug and C.A. Reddy (eds). Current Perspectives in Microbial Ecology. American Society for Microbiology. Washington, D.C. PP.540-545.
+
+Atlas, R.M. and R. Bartha. 1993. Microbial Ecology: Fundamentals and application. Third edition. Benjamin/Cummings Pub. Co. New York.
+
+Black, S. 1973. A theory on the origin of life. Advances in Enzymology 38 :193.
+
+Bronk, J.R. 1973. Chemical Biology. Macmillan Inc., New York.
+
+Brock. T. D. 1979. Biology of Microorganisms. Third Edition. Englewood Cliffs. Prentice-Hall.
+
+Davis. B.D; R. Dulbecco; H.N. Eisen and H.S.Ginsberg. ( 1980 ). Microbiology. Third Edition. New York. Harper and Row.
+
+De Witt. W. 1977. Biology of the cell. An Evolutionary Approach. W.B. Saunders Company. Philadelphia , London , Toronto.
+
+Hans. G. Schlegel. 1988. General Microbiology. Sixth Edition. Cambridge University Press. Cambridge.
+
+Kotpal ,R.L. and N.P. Bali. 2003. Concepts of Ecology. : Environmental and field biology. Vishal Publishing Company, India.
+
+Killham. K . 1994. Soil Ecology. Cambridge University Press, Cambridge. England.
+
+M.B.V. Roberts. 1979. Biology. A Functional Approach. Students Manual. The English Language Book Society and Nelson.
+
+Paul. E.A. and Clark. F. E. 1996. Soil Microbiology and Biochemistry. Academic Press.
+
+Peter J. Bottomley, 2002. Microbial Ecology (chapter 8 ). In Principles and applications of soil microbiology. Edited by David M Sylvia, J.J. Fuhrmann, Peter G Hartel and David A Zuberer. Prentice Hall. Upper Saddle River, NJ 07458
+
+Pelczar. M.J.Jr; R.D. Reid and E.C.S. Chan. 1977. Microbiology. Fourth Edition. New York. Mc.Graw-Hill.
+
+Richard A.Goldsby. 1979. Biology. Second edition. Harper & Row, Publishers. New York, Hagerstown.
+
+Rangaswami . G and Bagyaraj, D. J. 2001. Agricultural Microbiology. Second edition. Prentice-Hall of India Private Limited. New Delhi.
+
+Subba Rao. N.S. 2002. Soil Microbiology (fourth edition of soil microorganisms and plant growth) Oxford and IBH Publishing CO. PVT. LTD. New Delhi.
+
+William.De Witt. 1977. Biology of the cell. An Evolutionary Approach. W.B. Sanders Company. Philadelphia.
+
+Wolfe, S.L. 1972. Biology of the Cell. Wadsworth Publishing Company. Inc., Belmont. California.

@@ -1,0 +1,160 @@
+---
+id: "monitoring-soil-ph-inside-coffee-plantations"
+title: "Monitoring Soil pH Inside Coffee Plantations"
+status: "published"
+author: "Allen J Pais"
+authorSlug: "allen-j-pais"
+titleImage: undefined
+categorySlug: "general"
+category: "General"
+publishedDate: "2006-04-01T07:00:00"
+updatedAt: "2015-10-28T17:41:06"
+wordpressId: 61
+---
+
+Worldwide, almost all coffee producing Nations grow coffee on the steep slopes of mountains. This is especially true of shade grown Indian coffee. These coffee mountains are often exposed to high velocity winds and also torrential downpours which result in the leaching of precious nutrients.
+
+Depending on the average rainfall, in a specific agro climatic zone, the hydrogen ion concentration of the coffee soil (pH)varies and needs to be corrected every two to three years for better uptake and assimilation of nutrients. Soil pH is important because of the many effects it has on biological and chemical activity of the soil, which affects the metabolism of your plants.
+
+### What is pH (Hydrogen ion concentration
+
+pH :It is important to understand the true meaning of exactly what pH is. pH is a true measure of how acidic or alkaline your soil is. Just like we use lbs., kilos to measure weight, we use the pH scale to classify the soil pH. This pH scale ranges from 0 to 14. The lower the number the more acidic, the higher the number the more basic with a pH of 7 being Neutral. The pH value reflects the relative number of hydrogen ions (H+) in the soil solution. The more hydrogen ions present, compared to the hydroxyl ions (OH-), the more acidic the solution will be and the lower the pH value. If you will notice the hydroxyl ion and the hydrogen ion combined will give you (H2O) water. So pure water has a neutral pH of 7. Once things are added this balance of ions will shift one way or the other to make the water acidic or basic.
+
+The scale is logarithmic meaning that a soil with pH of 5.0 is 10 times more acidic than a soil of 6.0 and a 100 times more acidic than a soil of 7.0.
+
+### pH Meter
+
+![ph-meters-443](ph-meters-443.jpg)  
+*pH Meter*
+
+This hand-held device is wonderful tool for serious coffee planters who would like to constantly monitor the health of their life supporting soil system by checking the pH level at regular intervals in their coffee plantation.
+
+Moreover, this pH meter is simple and easy to use. Its reliable, efficient and accurately tests your soil to determine the acidity or alkalinity. The pH scale ranging from 0 to 14 is used to indicate acidity and alkalinity. A pH of 7.0 is neutral, values below 7.0 are acid, and those above are alkaline. The lower the pH the more acid is the soil. The higher the pH, the more alkaline.
+
+The pH values of some common items are- pure water, 7.0- lemon juice, 2.2 to 2.4-orange juice, 3.4 to 4.0- fresh milk, 6.3 to 6.6- mild soap solution, 8.5 to 10.0-most Ontario soils, 4.5 to 8.0.
+
+### Why do we require to determine the soil pH
+
+We probably already realize that fertilizer is an important part of growing a productive Coffee plantation. Small vegetable plants are commonly at our back yard, but we are growing it for our selves to meet are own food requirement. So different plants are grown but the need for fertilizer remains the same. The need for fertilizer in a coffee plantation is basic knowledge that we all consider just common sense, however quite a few of us fail to recognize pH of the soil as another factor that is just as important if not MORE important than fertilizer.
+
+### How important is pH?
+
+VERY important! pH is more important than fertilizer and here is why. As you know some soils are more fertile than others (more nutrients available). To make our coffee plantation more productive we increase the amount of available nutrients by adding fertilizer. But what if I told you all of that expensive fertilizer (nutrients) that you dumped on your Coffee plantation would not be available to your plants. That is what can happen if your pH is low. Why and how does pH affect the availability? Well it gets a little more scientific so lets simplify it a little. The nutrients of a soil are bound up against the individual soil particles. The more acidic the soil the tighter they are bound (as if by a magnet) and hence the less available they are to the plants. So now you can see why pH is so important.
+
+### What is the pH of my soil and why
+
+We may be inclined to think that our soils have a good pH just by chance and that we don’t need to worry about pH. Well that fact is that with the exception of a few isolated areas in the southern part of INDIA almost all soils are lower in pH than what is needed by most plants to be very productive. Don’t forget healthier plants will be more attractive and more productive. Here is why soils are low in pH. One cause has to do with insect and the decay of matter by microorganisms.
+
+This activity over time will increase the acidity of the soil. This causes a big time affect on forest soils. So if your coffee plantations are on soil that was once forest then that will negatively affect pH. We did not realize that many fertilizers with a high first number such as Ammonia Nitrate can actually INCREASE the acidity of our soil. Sure that Ammonia Nitrate give a quick burst of growth but the long term affects if not countered are more acidic soils. Even rain or irrigation causes leaching (removing) of minerals which causes an increase in acidity.
+
+PERTINENT FACTS: You know how you think the grass doesn’t grow under your coffee plants very well because you think the tree is taking up all the water. Well just put some lime under those trees and you will be amazed at how well that grass will grow under a tree after the soil is brought back up to a more tolerable level. You see it is the insect and the decay of the leaves that drop the pH under your trees, which is the real culprit!
+
+### What pH are we looking for
+
+So now that we know that low pH soils are bad you will want to get the soil pH as high as possible to unleash all those nutrients to the plants. Well sort of although it is fairly uncommon soil can be to high in pH also. Here is why. Bacteria LOVE high pH conditions. If the soil pH gets to high then the bacteria will have a population explosion and they will use up organic matter at a very high rate and can actually deplete the balance needed for plants to grow. To high a pH and micronutrients will become unavailable. Micronutrients affected by pH include iron (Fe), manganese (Mn), zinc (Zn) and copper (Cu).
+
+Remember you can easily increase soil pH by adding lime but if you were to add to much that is something that is not as easily undone.
+
+The optimum range is 6.0 to 7.5 Since adjusting your soils pH cost money and since your soil likely has a naturally low pH you will want to bring the pH up to about 6.0 to 6.5 range.
+
+### How do we correct our soil Ph
+
+Although there are a million things you can add to the soil to adjust its pH there are probably only two that you will consider and both involve lime. Lime is basically calcium and it will raise the pH of your soil. Lime is commonly bought in two forms, palletized lime and powdered lime also know as agricultural lime.
+
+Powdered lime is by far the cheapest and is applied by a truck that the company you buy it from uses to apply it to your food plot. The other form is palletized lime and it is sold in 50-pound bags and is available at your local hardware store.
+
+So access and size of the coffee plantation will likely determine which method you choose.
+
+### How much lime do we add
+
+Here is where things can get complicated if you let them. pH alone doesn’t tell you how much lime you need to add. To get true figures you will need to get a soil sample tested. What your soil is made of and how much sand vs. clay is present will alter the amount of lime that is required to raise the pH of a given soil as well as how frequently it will need to be reapplied.
+
+Typically new coffee plantations will initially require a lot of lime per acre to bring the pH up into the desired range. After that smaller amounts of lime can be mixed in with fertilizer to maintain the desired pH. Most colleges with an agricultural dept will perform a soil analysis.
+
+These reports will tell you how much lime and fertilizer your soil needs. Or you can purchase your own pH meter and test your soils yourself. Just remember that you can always add more later. So you can forego the soil test if you will take samples test the pH. Add some lime then retest after the soil has had a couple of months to incorporate the lime. Do this until you get a grasp of how much your lime applications are affecting the soil pH. Remember it is best, even when you have the lab recommended amounts in hand, to apply half of the recommended amount then retest to make sure you don’t over do it. Then go back and add more until you bring the pH up to the desired level.
+
+### Below are some little Important Information for lime application
+
+-   A clay soil that measures pH 5.5 needs 24 oz of lime a sq. yard to reach pH 6.5
+-   A sandy soil that measure pH 5.5 needs 8 oz of lime a sq. yard to reach pH 6.5
+-   Clay soils require more lime initially but less lime to keep it there.
+-   Dolomite Limestone is slower acting then other forms of lime.
+-   Lime doesn’t travel around your coffee plantation so even application is important.
+
+### DOLOMITE-Miracle for Acidity Problems
+
+Most of the plantation crops like coffee, cardamom and pepper growing soils are ACIDIC, the majority of the crop plants produce less than their potential for the following reasons.
+
+-   Aluminium,Manganese and Iron Toxicity.
+-   Calcium,Magnesium,and Molybdenum Deficiency
+-   Very slow organic matter decomposition
+
+When there are nutrient imbalance in the soil, plants are subject to nutrient stresses that result in reduction in growth, production and quantity. A constant, balanced supply of nutrients to the plant is assential, otherwise nutrient deficiencies or toxicities will result in plant nutrient stresses.
+
+We should test the soil to determine the soil pH, E.C. and which Nutrients are deficient and by how much, nutrient balance in the soil can achieved by proper Fertilizer Management. For this SOIL ANALYSIS is an important diagnostic tool or evaluating and correcting or avoiding the problems.
+
+According to the soiled test based recommendation, soil can be neutralized with DOLOMITE (Calcium Magnesium Carbonate)
+
+### USES OF DOLOMITE
+
+-   The addition of Dolomite raises the pH, thereby eliminating most major problems of acid soils.
+-   Toxic soluble Aluminum, Iron and manganese are made insoluble
+-   Dolomite adds both Calcium and Magnesium.
+-   Dolomite makes phosphorus in acid more available.
+-   Dolomite makes Potassium more efficient and economic.
+-   Dolomite increases the availability of Nitrogen by hastening the decomposition of organic matter.
+-   Dolomite on acid soils increases available Molybdenum.
+
+### pH Paper
+
+At an early age our taste buds indicate to us whether something we eat is sour or bitter. These characteristics of a food can be described as acidic or basic and are due to the “chemical” nature of a substance.
+
+Some acids are rather weak and some are very strong. For example, small amounts of weak acids are found in our mouths and stomachs. These acidic solutions serve to help break down and digest the food we consume every day. A weak base is one of the major components found in dishwashing liquid and bath soap. Acids and bases are important in industry. Industrially, one of the most important acids is sulfuric acid. It is used in petroleum refining, steel processing and fertilizer production. Phosphoric and nitric acid are used in fertilizer production, too.
+
+It is important to understand the role of the acidic or basic nature of the soils in which coffee plants are grown. Some plants prefer acidic soils whereas others grow best in basic soil. The acidic or basic nature of the soil can even affect the color of the leaves and flowers as well as the overall health of the plant.
+
+    0----------------7---------------14 ACID----------NEUTRAL----------BASE
+
+How are pH values determined? Simple. One can use a special pH paper (called Hydrion pH Paper or pH test paper) which, when placed in a solution, turns a specific color depending upon the pH value of the substance. The color of the test strip is matched to a color chart, which gives the pH value. A pH tester can also be used to measure the pH of soil, water, or other substances.
+
+A pH tester is an instrument that has a probe, which is inserted into a soil or liquid sample and gives a “readout” concerning the pH of the substance tested. Knowing the pH of the soil can help a coffee farmer know what soil type is best.
+
+![ph-meter-450](ph-meter-450.jpg)
+
+### CONCLUSION
+
+It is high time that coffee planters awaken to the reality that maintaining a proper soil hydrogen ion concentration is vital for the over all establishment of the farm. A balanced hydrogen ion concentration not only enables the beneficial microorganisms to multiply rapidly, but also keeps the weed growth in check. There are a number of hand held devices, available in the market that measure the pH, but one needs to check the accuracy and reliability of these instruments.
+
+I wish to thank Dr Anand Titus Pereira for enlightening me on Coffee Farming.
+
+### REFERENCES
+
+[The Ecodynamic Coffee Cube 3](http://ecofriendlycoffee.org/the-ecodynamic-coffee-cube-3/)
+
+[Microbial Communities](http://ecofriendlycoffee.org/microbial-communities/)
+
+[The Role of Actinomycetes in Coffee Plantation Ecology](http://ecofriendlycoffee.org/the-role-of-actinomycetes-in-coffee-plantation-ecology/)
+
+[Role of Fungi in Coffee Plantation Ecology](http://ecofriendlycoffee.org/role-of-fungi-in-coffee-plantation-ecology/)
+
+[Role of Bacteria in Coffee Plantation Ecology](http://ecofriendlycoffee.org/role-of-bacteria-in-coffee-plantation-ecology/)
+
+[Neem Based Fertilizer Use Efficiency](http://ecofriendlycoffee.org/neem-based-fertilizer-use-efficiency/)
+
+[Significance of Microbial Interactions Within Coffee Plantations](http://ecofriendlycoffee.org/significance-of-microbial-interactions-within-coffee-plantations/)
+
+[Shade Coffee at the Altar of Sacrifice](http://ecofriendlycoffee.org/shade-coffee-at-the-altar-of-sacrifice/)
+
+[Coffee Forest Symbiosis](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+
+[Significance of Lime Application in Coffee Plantations](http://ecofriendlycoffee.org/significance-of-lime-application-in-coffee-plantations/)
+
+[Farm Coffee Organic Manures](http://ecofriendlycoffee.org/farm-coffee-organic-manures/)
+
+[The Fine Art of Composting In Coffee Plantations](http://ecofriendlycoffee.org/the-fine-art-of-composting-in-coffee-plantations/)
+
+[Organic Matter Decomposition In Coffee Plantations](http://ecofriendlycoffee.org/organic-matter-decomposition-in-coffee-plantations/)
+
+[Bio-fertilizers for Coffee Plantations](http://ecofriendlycoffee.org/bio-fertilizers-for-coffee-plantations/)
+
+[Role of Ectomycorrhizae In Coffee Plantations](http://ecofriendlycoffee.org/role-of-ectomycorrhizae-in-coffee-plantations/)
