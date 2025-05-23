@@ -80,27 +80,27 @@ We are of the opinion that since most of the ponds and water bodies within the c
 
 [Full gallery](http://www.flickr.com/photos/108766628@N08/sets/72157639340967905/)
 
-[http://ecofriendlycoffee.org/eco-friendly-indian-coffee-a-profile/](http://ecofriendlycoffee.org/eco-friendly-indian-coffee-a-profile/)
+[/eco-friendly-indian-coffee-a-profile/](/eco-friendly-indian-coffee-a-profile/)
 
-[http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-brahminy-kite/](http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-brahminy-kite/)
+[/bird-friendly-shade-coffee-and-the-brahminy-kite/](/bird-friendly-shade-coffee-and-the-brahminy-kite/)
 
-[http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-pied-kingfisher/](http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-pied-kingfisher/)
+[/bird-friendly-shade-coffee-and-the-pied-kingfisher/](/bird-friendly-shade-coffee-and-the-pied-kingfisher/)
 
-[http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-black-crowned-night-heron/](http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-black-crowned-night-heron/)
+[/bird-friendly-shade-coffee-and-the-black-crowned-night-heron/](/bird-friendly-shade-coffee-and-the-black-crowned-night-heron/)
 
-[http://ecofriendlycoffee.org/a-symphony-of-birds-inside-coffee-forests/](http://ecofriendlycoffee.org/a-symphony-of-birds-inside-coffee-forests/)
+[/a-symphony-of-birds-inside-coffee-forests/](/a-symphony-of-birds-inside-coffee-forests/)
 
-[http://ecofriendlycoffee.org/aquatic-birds-of-the-western-ghats/](http://ecofriendlycoffee.org/aquatic-birds-of-the-western-ghats/)
+[/aquatic-birds-of-the-western-ghats/](/aquatic-birds-of-the-western-ghats/)
 
-[http://ecofriendlycoffee.org/coffee-forests-and-green-national-accounts/](http://ecofriendlycoffee.org/coffee-forests-and-green-national-accounts/)
+[/coffee-forests-and-green-national-accounts/](/coffee-forests-and-green-national-accounts/)
 
-[http://ecofriendlycoffee.org/coffee-forest-symbiosis/](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+[/coffee-forest-symbiosis/](/coffee-forest-symbiosis/)
 
-[http://ecofriendlycoffee.org/coffee-forests-and-wildlife-credits/](http://ecofriendlycoffee.org/coffee-forests-and-wildlife-credits/)
+[/coffee-forests-and-wildlife-credits/](/coffee-forests-and-wildlife-credits/)
 
 [http://thewebsiteofeverything.com/animals/birds/Charadriiformes/Jacanidae/Metopidius-indicus](http://thewebsiteofeverything.com/animals/birds/Charadriiformes/Jacanidae/Metopidius-indicus)
 
-[http://sta.uwi.edu/fst/lifesciences/documents/Jacana\_jacana.pdf](http://sta.uwi.edu/fst/lifesciences/documents/Jacana_jacana.pdf)
+[http://sta.uwi.edu/fst/lifesciences/documents/Jacana_jacana.pdf](http://sta.uwi.edu/fst/lifesciences/documents/Jacana_jacana.pdf)
 
 [http://www.bhopalbirds.com/bird/Bronze%20winged%20jacana](https://web.archive.org/web/20160317170454/http://www.bhopalbirds.com/bird/Bronze%20winged%20jacana)
 

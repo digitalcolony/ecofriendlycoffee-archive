@@ -86,24 +86,24 @@ White-breasted Water hens have adapted well to human activity and are not endang
 
 [Full Gallery](https://www.flickr.com/photos/108766628@N08/sets/72157641785266114/)
 
-[ecofriendlycoffee.org/eco-friendly-indian-coffee-a-profile/](http://ecofriendlycoffee.org/eco-friendly-indian-coffee-a-profile/)
+[ecofriendlycoffee.org/eco-friendly-indian-coffee-a-profile/](/eco-friendly-indian-coffee-a-profile/)
 
-[ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-brahminy-kite/](http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-brahminy-kite/)
+[ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-brahminy-kite/](/bird-friendly-shade-coffee-and-the-brahminy-kite/)
 
-[ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-pied-kingfisher/](http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-pied-kingfisher/)
+[ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-pied-kingfisher/](/bird-friendly-shade-coffee-and-the-pied-kingfisher/)
 
-[ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-black-crowned-night-heron/](http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-black-crowned-night-heron/)
+[ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-black-crowned-night-heron/](/bird-friendly-shade-coffee-and-the-black-crowned-night-heron/)
 
-[ecofriendlycoffee.org/a-symphony-of-birds-inside-coffee-forests/](http://ecofriendlycoffee.org/a-symphony-of-birds-inside-coffee-forests/)
+[ecofriendlycoffee.org/a-symphony-of-birds-inside-coffee-forests/](/a-symphony-of-birds-inside-coffee-forests/)
 
-[ecofriendlycoffee.org/aquatic-birds-of-the-western-ghats/](http://ecofriendlycoffee.org/aquatic-birds-of-the-western-ghats/)
+[ecofriendlycoffee.org/aquatic-birds-of-the-western-ghats/](/aquatic-birds-of-the-western-ghats/)
 
-[ecofriendlycoffee.org/coffee-forests-and-green-national-accounts/](http://ecofriendlycoffee.org/coffee-forests-and-green-national-accounts/)
+[ecofriendlycoffee.org/coffee-forests-and-green-national-accounts/](/coffee-forests-and-green-national-accounts/)
 
-[ecofriendlycoffee.org/coffee-forest-symbiosis/](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+[ecofriendlycoffee.org/coffee-forest-symbiosis/](/coffee-forest-symbiosis/)
 
-[ecofriendlycoffee.org/coffee-forests-and-wildlife-credits/](http://ecofriendlycoffee.org/coffee-forests-and-wildlife-credits/)
+[ecofriendlycoffee.org/coffee-forests-and-wildlife-credits/](/coffee-forests-and-wildlife-credits/)
 
 www.arkive.org/white-breasted-waterhen/amaurornis-phoenicurus/
 
-[en.wikipedia.org/wiki/White-breasted\_Waterhen](https://en.wikipedia.org/wiki/White-breasted_waterhen)
+[en.wikipedia.org/wiki/White-breasted_Waterhen](https://en.wikipedia.org/wiki/White-breasted_waterhen)

@@ -17,7 +17,7 @@ The world has recognized the importance of the Western Ghats for the rich variet
 The Western Ghats is also recognized internationally as the “western Ghat Endemic Bird area” and is known to support some rare and globally threatened bird species. It is one of the best birding hot spots in India for variety, beauty, and eco friendliness. In fact, these evergreen forests account for over a third of the bird species endemic to India. The Indian region is home to over 2000 of the world’s 8650 species. In short, the Indian bird check list is twice the size of those of Europe and North America.
 
 ![aquatic-birds1](aquatic-birds1-1024x904.jpg)  
-*White Necked Stork*
+_White Necked Stork_
 
 There is nothing more colorful, lively and beautiful as birds. They are not just beautiful to behold, they also add immeasurable value to human lives. Their melodious calls and whistling tones are a wake up call to commence the day on a bright note. All birds have recreational value as bird watching. They add color and variety to any landscape, may it be a pond or a lake. Birds touch us in unexpected ways. In return we can repay them for giving us such enjoyment by providing them with natural habitats. They put forth no demands on mankind, yet as days go by they are threatened. We need to take serious note of their dwindling numbers.
 
@@ -175,11 +175,11 @@ The bird is a common winter visitor from as far north as Siberia.The bird has a 
 
 ### REFERENCES
 
-[ecofriendlycoffee.org/a-symphony-of-birds-inside-coffee-forests/](http://ecofriendlycoffee.org/a-symphony-of-birds-inside-coffee-forests/)
+[ecofriendlycoffee.org/a-symphony-of-birds-inside-coffee-forests/](/a-symphony-of-birds-inside-coffee-forests/)
 
-[ecofriendlycoffee.org/coffee-forests-a-gateway-to-wildlife/](http://ecofriendlycoffee.org/coffee-forests-a-gateway-to-wildlife/)
+[ecofriendlycoffee.org/coffee-forests-a-gateway-to-wildlife/](/coffee-forests-a-gateway-to-wildlife/)
 
-[ecofriendlycoffee.org/coffee-hotspots-an-inventory-of-biodiversity/](http://ecofriendlycoffee.org/coffee-hotspots-an-inventory-of-biodiversity/)
+[ecofriendlycoffee.org/coffee-hotspots-an-inventory-of-biodiversity/](/coffee-hotspots-an-inventory-of-biodiversity/)
 
 [www.pbs.org/lifeofbirds/](http://www.pbs.org/lifeofbirds/)
 

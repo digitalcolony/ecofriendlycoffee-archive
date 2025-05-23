@@ -12,7 +12,7 @@ updatedAt: "2023-09-09T08:30:22"
 wordpressId: 27
 ---
 
-*Kindly refer to our earlier article; [Bird Friendly Shade Coffee and the Pied Kingfisher](http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-pied-kingfisher/) for a better understanding of the Significance of Birds, inside shade grown ecofriendly coffee forests.*
+_Kindly refer to our earlier article; [Bird Friendly Shade Coffee and the Pied Kingfisher](/bird-friendly-shade-coffee-and-the-pied-kingfisher/) for a better understanding of the Significance of Birds, inside shade grown ecofriendly coffee forests._
 
 In writing this short article we have focused on two very important aspects. To highlight the avian fauna inside Shade Grown Ecofriendly Indian Coffee Forests and secondly to highlight the risks faced by migratory birds inside coffee forests.
 
@@ -92,19 +92,19 @@ Due to their wide geographic distribution, these birds play an important role in
 
 [Azolla, coffee and species preservation](http://theazollafoundation.org/features/azolla-and-coffee/)
 
-[A Symphony of Birds Inside Coffee Forests](http://ecofriendlycoffee.org/a-symphony-of-birds-inside-coffee-forests/)
+[A Symphony of Birds Inside Coffee Forests](/a-symphony-of-birds-inside-coffee-forests/)
 
-[Aquatic Birds of the Western Ghats](http://ecofriendlycoffee.org/aquatic-birds-of-the-western-ghats/)
+[Aquatic Birds of the Western Ghats](/aquatic-birds-of-the-western-ghats/)
 
-[Coffee Forests and Green National Accounts](http://ecofriendlycoffee.org/coffee-forests-and-green-national-accounts/)
+[Coffee Forests and Green National Accounts](/coffee-forests-and-green-national-accounts/)
 
-[Coffee Forests – A Gateway To Wildlife](http://ecofriendlycoffee.org/coffee-forests-a-gateway-to-wildlife/)
+[Coffee Forests – A Gateway To Wildlife](/coffee-forests-a-gateway-to-wildlife/)
 
-[Coffee Hotspots – An Inventory of Biodiversity](http://ecofriendlycoffee.org/coffee-hotspots-an-inventory-of-biodiversity/)
+[Coffee Hotspots – An Inventory of Biodiversity](/coffee-hotspots-an-inventory-of-biodiversity/)
 
-[Coffee Forest Symbiosis](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+[Coffee Forest Symbiosis](/coffee-forest-symbiosis/)
 
-[Coffee Forests and Wildlife Credits](http://ecofriendlycoffee.org/coffee-forests-and-wildlife-credits/)
+[Coffee Forests and Wildlife Credits](/coffee-forests-and-wildlife-credits/)
 
 [Quick guide to coffee certifications](http://www.coffeehabitat.com/certification-guide/)
 
@@ -112,11 +112,11 @@ Due to their wide geographic distribution, these birds play an important role in
 
 [www.birdwatchingdaily.com/featured-stories/the-true-cost-of-coffee/](http://www.birdwatchingdaily.com/featured-stories/the-true-cost-of-coffee/)
 
-[en.wikipedia.org/wiki/Bronzewinged\_Jacana](https://en.wikipedia.org/wiki/Bronze-winged_jacana)
+[en.wikipedia.org/wiki/Bronzewinged_Jacana](https://en.wikipedia.org/wiki/Bronze-winged_jacana)
 
 [www.rrbo.org/in-the-field/bird-stuff-you-should-know/coffee-for-the-birds/](https://web.archive.org/web/20171027035403/http://www.rrbo.org:80/in-the-field/bird-stuff-you-should-know/coffee-for-the-birds/)
 
-[www.coffeehabitat.com/2006/12/coffee\_and\_biod/](http://www.coffeehabitat.com/2006/12/coffee_and_biod/)
+[www.coffeehabitat.com/2006/12/coffee_and_biod/](http://www.coffeehabitat.com/2006/12/coffee_and_biod/)
 
 [www.coffeehabitat.com/2011/01/coffee-and-climate-change-updates/](http://www.coffeehabitat.com/2011/01/coffee-and-climate-change-updates/)
 
@@ -126,7 +126,7 @@ Due to their wide geographic distribution, these birds play an important role in
 
 [environmentalgeography.blogspot.in/2011/01/frozen-orange.html](http://environmentalgeography.blogspot.in/2011/01/frozen-orange.html)
 
-[nationalzoo.si.edu/scbi/migratorybirds/coffee/quick\_reference\_guide.cfm](https://web.archive.org/web/20170103001324/https://nationalzoo.si.edu/scbi/migratorybirds/coffee/quick_reference_guide.cfm)
+[nationalzoo.si.edu/scbi/migratorybirds/coffee/quick_reference_guide.cfm](https://web.archive.org/web/20170103001324/https://nationalzoo.si.edu/scbi/migratorybirds/coffee/quick_reference_guide.cfm)
 
 The Bird in your Backyard – Bronze Winged Jacana
 
@@ -136,11 +136,11 @@ The Bird in your Backyard – Bronze Winged Jacana
 
 [Annual Roadside Survey Results for Small Game](http://www.extension.iastate.edu/article/annual-roadside-survey-results-small-game-released)
 
-[en.wikipedia.org/wiki/Black-crowned\_Night\_Heron](https://en.wikipedia.org/wiki/Black-crowned_night_heron)
+[en.wikipedia.org/wiki/Black-crowned_Night_Heron](https://en.wikipedia.org/wiki/Black-crowned_night_heron)
 
 [Nycticorax nycticoraxblack-crowned night heron](http://animaldiversity.org/accounts/Nycticorax_nycticorax/)
 
-[birdweb.org/birdweb/bird/black-crowned\_night-heron](http://www.birdweb.org/birdweb/bird/black-crowned_night-heron)
+[birdweb.org/birdweb/bird/black-crowned_night-heron](http://www.birdweb.org/birdweb/bird/black-crowned_night-heron)
 
 [birding.about.com](http://birding.about.com/)
 

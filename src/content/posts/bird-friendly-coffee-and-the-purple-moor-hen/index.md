@@ -72,7 +72,7 @@ However, we have noticed varied colours, with some birds exhibiting deep purple 
 
 ### Behaviour
 
-We have studied this bird for quite a number of years, almost one decade. Irrespective of the size of the tank or lake or marshy habitat, it is quite common to find a dozen or more Purple Moor Hens living in close proximity with other aquatic and semi aquatic birds like common moor hen, Coot, Sand piper, [Bronze winged Jacana](http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-bronze-winged-jacana/), Glossy Ibis, Whistling teals, Egrets, Pond herons, Grey herons and Purple herons. They are good swimmers and can also fly long distances. It is relatively easy to photograph these birds in the wild because they they are quite used to the presence of human beings.
+We have studied this bird for quite a number of years, almost one decade. Irrespective of the size of the tank or lake or marshy habitat, it is quite common to find a dozen or more Purple Moor Hens living in close proximity with other aquatic and semi aquatic birds like common moor hen, Coot, Sand piper, [Bronze winged Jacana](/bird-friendly-shade-coffee-and-the-bronze-winged-jacana/), Glossy Ibis, Whistling teals, Egrets, Pond herons, Grey herons and Purple herons. They are good swimmers and can also fly long distances. It is relatively easy to photograph these birds in the wild because they they are quite used to the presence of human beings.
 
 ![Purple Moor Hen in shade coffee slide-5-11951304776](Purple-Moor-Hen-in-shade-coffee-slide-5-11951304776-1024x683.jpg)
 
@@ -100,25 +100,25 @@ The only major threat is from water pollution, especially toxic residues of fert
 
 [Full gallery](http://www.flickr.com/photos/108766628@N08/sets/72157639771683214/)
 
-[http://ecofriendlycoffee.org/eco-friendly-indian-coffee-a-profile/](http://ecofriendlycoffee.org/eco-friendly-indian-coffee-a-profile/)
+[/eco-friendly-indian-coffee-a-profile/](/eco-friendly-indian-coffee-a-profile/)
 
-[http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-brahminy-kite/](http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-brahminy-kite/)
+[/bird-friendly-shade-coffee-and-the-brahminy-kite/](/bird-friendly-shade-coffee-and-the-brahminy-kite/)
 
-[http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-pied-kingfisher/](http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-pied-kingfisher/)
+[/bird-friendly-shade-coffee-and-the-pied-kingfisher/](/bird-friendly-shade-coffee-and-the-pied-kingfisher/)
 
-[http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-black-crowned-night-heron/](http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-black-crowned-night-heron/)
+[/bird-friendly-shade-coffee-and-the-black-crowned-night-heron/](/bird-friendly-shade-coffee-and-the-black-crowned-night-heron/)
 
-[http://ecofriendlycoffee.org/a-symphony-of-birds-inside-coffee-forests/](http://ecofriendlycoffee.org/a-symphony-of-birds-inside-coffee-forests/)
+[/a-symphony-of-birds-inside-coffee-forests/](/a-symphony-of-birds-inside-coffee-forests/)
 
-[http://ecofriendlycoffee.org/aquatic-birds-of-the-western-ghats/](http://ecofriendlycoffee.org/aquatic-birds-of-the-western-ghats/)
+[/aquatic-birds-of-the-western-ghats/](/aquatic-birds-of-the-western-ghats/)
 
-[http://ecofriendlycoffee.org/coffee-forests-and-green-national-accounts/](http://ecofriendlycoffee.org/coffee-forests-and-green-national-accounts/)
+[/coffee-forests-and-green-national-accounts/](/coffee-forests-and-green-national-accounts/)
 
-[http://ecofriendlycoffee.org/coffee-forest-symbiosis/](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+[/coffee-forest-symbiosis/](/coffee-forest-symbiosis/)
 
-[http://ecofriendlycoffee.org/coffee-forests-and-wildlife-credits/](http://ecofriendlycoffee.org/coffee-forests-and-wildlife-credits/)
+[/coffee-forests-and-wildlife-credits/](/coffee-forests-and-wildlife-credits/)
 
-[http://en.wikipedia.org/wiki/Purple\_Swamphen](http://en.wikipedia.org/wiki/Purple_Swamphen)
+[http://en.wikipedia.org/wiki/Purple_Swamphen](http://en.wikipedia.org/wiki/Purple_Swamphen)
 
 Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume-1.
 

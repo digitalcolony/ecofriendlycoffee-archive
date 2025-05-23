@@ -186,14 +186,14 @@ CHLOROPHYLL-A
 
 ### RECOMMENDATIONS FOR RESEARCH
 
--   Establishment of azolla germplasm collection in coffee growing regions.
--   Characterization of various azolla isolates should be undertaken so as to determine their nitrogen fixing efficiency.
--   Package of practices for azolla production should be standardized.
+- Establishment of azolla germplasm collection in coffee growing regions.
+- Characterization of various azolla isolates should be undertaken so as to determine their nitrogen fixing efficiency.
+- Package of practices for azolla production should be standardized.
 
 ![AZOLLA2006SLIDE-9](AZOLLA2006SLIDE-9.jpg)
 
--   Development of techniques for the germination of azolla spores.
--   Since various azolla cultures are present in various agro climatic coffee regions, we need to develop techniques for the differentiation of Anabaena azollae strains.
+- Development of techniques for the germination of azolla spores.
+- Since various azolla cultures are present in various agro climatic coffee regions, we need to develop techniques for the differentiation of Anabaena azollae strains.
 
 ### CONCLUSION
 
@@ -239,24 +239,24 @@ Michelle and Jude Fanton. 1990. Azolla-fertilizer, mulcher and weed suppressant.
 
 Peters. G.A., Mayne. B.C., Ray.T.B. and R.E. Toia. Jr. 1979. Physiology and Biochemistry of Azolla- Anabaena symbiosis. In Nitrogen and Rice. International Rice Research Institute. Philippines.
 
-[Bio-fertilizers for Coffee Plantations](http://ecofriendlycoffee.org/bio-fertilizers-for-coffee-plantations/)
+[Bio-fertilizers for Coffee Plantations](/bio-fertilizers-for-coffee-plantations/)
 
-[Organic Matter Decomposition In Coffee Plantations](http://ecofriendlycoffee.org/organic-matter-decomposition-in-coffee-plantations/)
+[Organic Matter Decomposition In Coffee Plantations](/organic-matter-decomposition-in-coffee-plantations/)
 
-[The Fine Art of Composting In Coffee Plantations](http://ecofriendlycoffee.org/the-fine-art-of-composting-in-coffee-plantations/)
+[The Fine Art of Composting In Coffee Plantations](/the-fine-art-of-composting-in-coffee-plantations/)
 
-[Farm Coffee Organic Manures](http://ecofriendlycoffee.org/farm-coffee-organic-manures/)
+[Farm Coffee Organic Manures](/farm-coffee-organic-manures/)
 
-[Role of Bacteria in Coffee Plantation Ecology](http://ecofriendlycoffee.org/role-of-bacteria-in-coffee-plantation-ecology/)
+[Role of Bacteria in Coffee Plantation Ecology](/role-of-bacteria-in-coffee-plantation-ecology/)
 
-[Role of Fungi in Coffee Plantation Ecology](http://ecofriendlycoffee.org/role-of-fungi-in-coffee-plantation-ecology/)
+[Role of Fungi in Coffee Plantation Ecology](/role-of-fungi-in-coffee-plantation-ecology/)
 
-[The Importance of Neem For Sustainable Coffee Production](http://ecofriendlycoffee.org/the-importance-of-neem-for-sustainable-coffee-production/)
+[The Importance of Neem For Sustainable Coffee Production](/the-importance-of-neem-for-sustainable-coffee-production/)
 
-[Microbial Communities](http://ecofriendlycoffee.org/microbial-communities/)
+[Microbial Communities](/microbial-communities/)
 
-[The Ecodynamic Coffee Cube 3](http://ecofriendlycoffee.org/the-ecodynamic-coffee-cube-3/)
+[The Ecodynamic Coffee Cube 3](/the-ecodynamic-coffee-cube-3/)
 
-[The Role of Actinomycetes in Coffee Plantation Ecology](http://ecofriendlycoffee.org/the-role-of-actinomycetes-in-coffee-plantation-ecology/)
+[The Role of Actinomycetes in Coffee Plantation Ecology](/the-role-of-actinomycetes-in-coffee-plantation-ecology/)
 
-[Nitrogen Economy Inside Coffee Plantations](http://ecofriendlycoffee.org/nitrogen-economy-inside-coffee-plantations/)
+[Nitrogen Economy Inside Coffee Plantations](/nitrogen-economy-inside-coffee-plantations/)

@@ -82,25 +82,25 @@ More importantly, birds in any given environment are important indicators of the
 
 [Full Gallery](http://www.flickr.com/photos/108766628@N08/sets/72157638104241843/)
 
-[http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-pied-kingfisher/](http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-pied-kingfisher/)
+[/bird-friendly-shade-coffee-and-the-pied-kingfisher/](/bird-friendly-shade-coffee-and-the-pied-kingfisher/)
 
-[http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-black-crowned-night-heron/](http://ecofriendlycoffee.org/bird-friendly-shade-coffee-and-the-black-crowned-night-heron/)
+[/bird-friendly-shade-coffee-and-the-black-crowned-night-heron/](/bird-friendly-shade-coffee-and-the-black-crowned-night-heron/)
 
-[http://ecofriendlycoffee.org/a-symphony-of-birds-inside-coffee-forests/](http://ecofriendlycoffee.org/a-symphony-of-birds-inside-coffee-forests/)
+[/a-symphony-of-birds-inside-coffee-forests/](/a-symphony-of-birds-inside-coffee-forests/)
 
-[http://ecofriendlycoffee.org/aquatic-birds-of-the-western-ghats/](http://ecofriendlycoffee.org/aquatic-birds-of-the-western-ghats/)
+[/aquatic-birds-of-the-western-ghats/](/aquatic-birds-of-the-western-ghats/)
 
-[http://ecofriendlycoffee.org/coffee-forests-and-green-national-accounts/](http://ecofriendlycoffee.org/coffee-forests-and-green-national-accounts/)
+[/coffee-forests-and-green-national-accounts/](/coffee-forests-and-green-national-accounts/)
 
-[http://ecofriendlycoffee.org/coffee-forest-symbiosis/](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+[/coffee-forest-symbiosis/](/coffee-forest-symbiosis/)
 
-[http://ecofriendlycoffee.org/coffee-forests-and-wildlife-credits/](http://ecofriendlycoffee.org/coffee-forests-and-wildlife-credits/)
+[/coffee-forests-and-wildlife-credits/](/coffee-forests-and-wildlife-credits/)
 
 [http://www.coffeehabitat.com/2011/10/coffee-growing-in-india/](http://www.coffeehabitat.com/2011/10/coffee-growing-in-india/)
 
 [http://www.coffeehabitat.com/2010/11/bird-friendly-coffee-and-me-on-npr/](http://www.coffeehabitat.com/2010/11/bird-friendly-coffee-and-me-on-npr/)
 
-[http://en.wikipedia.org/wiki/IUCN\_Red\_List](https://en.wikipedia.org/wiki/IUCN_Red_List)
+[http://en.wikipedia.org/wiki/IUCN_Red_List](https://en.wikipedia.org/wiki/IUCN_Red_List)
 
 [http://www.birdlife.org/](http://www.birdlife.org/)
 

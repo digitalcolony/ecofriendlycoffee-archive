@@ -14,7 +14,7 @@ wordpressId: 286
 
 Millions of birds migrate each year into the Western Ghats which provides a safe haven for all types of wildlife, especially birds. We have observed migratory birds flying over distances of hundreds and thousands of kilometers in order to reach the Western Ghats to feed and breed. Shade grown ecofriendly coffee plantations with steep valleys, wetlands and  mountain tops not only provide suitable breeding grounds for all types of birds, but most importantly provide refueling stops for migratory birds to rest and feed.
 
-[![](2014-RED-IBIS-ineedcoffeeAPRIL-SLIDE-12_f_improf_630x355.jpg)](/wp-content/uploads/2014/05/2014-RED-IBIS-ineedcoffeeAPRIL-SLIDE-12.jpg)
+![](2014-RED-IBIS-ineedcoffeeAPRIL-SLIDE-12_f_improf_630x355.jpg)
 
 **World Migratory Bird Day (WMBD)** was initiated in 2006 and is a global awareness-raising campaign highlighting the need for the protection of migratory birds and their habitats. On the second weekend each May, people around the world take action and organise public events such as bird festivals, education programmes and bird watching excursions to celebrate World Migratory Bird Day and to help raise awareness around a specific theme.  This brief article is to raise awareness about the threats to migratory birds inside shade grown ecofriendly coffee forests.
 
@@ -44,17 +44,17 @@ Family:
 
 Genus:
 
-*[Pseudibis](http://en.wikipedia.org/wiki/Pseudibis)*
+_[Pseudibis](http://en.wikipedia.org/wiki/Pseudibis)_
 
 Species:
 
-***P. papillosa***
+**_P. papillosa_**
 
 ###  ![](2014-RED-IBIS-ineedcoffeeAPRIL-SLIDE-3_f_improf_604x339.jpg)
 
 ### Description
 
-The Red-naped Ibis (*Pseudibis papillosa*) also known as the Indian Black Ibis or just the Black Ibis, is a species of [ibis](http://en.wikipedia.org/wiki/Ibis) found in parts of the [Indian Subcontinent](http://en.wikipedia.org/wiki/Indian_Subcontinent). These birds are not very uncommon inside shade grown ecofriendly Indian Coffee Plantations, especially during the months of January and February. It is a medium sized bird of about 68 cm length with a wing span of about 38 cm having a 16 to 19 cm long tail.
+The Red-naped Ibis (_Pseudibis papillosa_) also known as the Indian Black Ibis or just the Black Ibis, is a species of [ibis](http://en.wikipedia.org/wiki/Ibis) found in parts of the [Indian Subcontinent](http://en.wikipedia.org/wiki/Indian_Subcontinent). These birds are not very uncommon inside shade grown ecofriendly Indian Coffee Plantations, especially during the months of January and February. It is a medium sized bird of about 68 cm length with a wing span of about 38 cm having a 16 to 19 cm long tail.
 
 ![](2014-RED-IBIS-ineedcoffeeAPRIL-SLIDE-4._f_improf_604x339.jpg)
 
@@ -84,7 +84,7 @@ The Ibis exhibits several kinds of feeding behaviour that can be broadly classif
 
 **[Conservation status](http://en.wikipedia.org/wiki/Conservation_status)**
 
-[Least Concern](http://en.wikipedia.org/wiki/Least_Concern) ([IUCN](https://en.wikipedia.org/wiki/IUCN_Red_List) 
+[Least Concern](http://en.wikipedia.org/wiki/Least_Concern) ([IUCN](https://en.wikipedia.org/wiki/IUCN_Red_List)
 
 ### Nesting
 
@@ -110,4 +110,4 @@ Conversion of wetlands into ginger and coffee, Marshy areas being planted with p
 
 [Full Gallery](https://www.flickr.com/photos/67484414@N08/sets/72157643113008025/)
 
-[Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume 0ne.](http://ecofriendlycoffee.org/textbook/)
+[Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume 0ne.](/textbook/)

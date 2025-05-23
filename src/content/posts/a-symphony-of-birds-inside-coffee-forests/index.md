@@ -12,7 +12,7 @@ updatedAt: "2023-09-09T08:39:11"
 wordpressId: 75
 ---
 
-*Readers are requested to refer to the article [COFFEE FOREST SYMBIOSIS](http://ecofriendlycoffee.org/coffee-forest-symbiosis/) and [BIODIVERSITY IN RELATION TO COFFEE PLANTATIONS](http://ecofriendlycoffee.org/biodiversity-in-relation-to-coffee-plantations/) for a better understanding of the present article.*
+_Readers are requested to refer to the article [COFFEE FOREST SYMBIOSIS](/coffee-forest-symbiosis/) and [BIODIVERSITY IN RELATION TO COFFEE PLANTATIONS](/biodiversity-in-relation-to-coffee-plantations/) for a better understanding of the present article._
 
 Indian coffee farms are situated at high altitudes and are shade-grown under a diversified selection of forest trees. One look at these coffee forests and hidden inside the canopy of a three tiered shade system is the famous school of life comprising of birds, animals, insects and man. Inside these unique coffee forests, one can witness an incredible variety of rare, exotic, native and endangered species of flora and fauna. The dense coffee forests often conceal a wide variety of song birds too.
 
@@ -66,7 +66,7 @@ These bird species travel hundreds of kilometers, in all directions from their n
 
 ### EVOLUTION AS A KEY PLAYER
 
-Millions of years of gradual evolution have helped the bird community to adapt, change and survive the sudden and drastic man made changes on planet Earth. However, there is one spectacular, unspoilt haven and undisturbed habitat in the form of [COFFEE FORESTS](http://ecofriendlycoffee.org/coffee-forest-symbiosis/) left for the proliferation and spread of birds. Shade grown coffee plantations are ideal bird sanctuaries, where birds of different species occupy every available niche inside the coffee forests.
+Millions of years of gradual evolution have helped the bird community to adapt, change and survive the sudden and drastic man made changes on planet Earth. However, there is one spectacular, unspoilt haven and undisturbed habitat in the form of [COFFEE FORESTS](/coffee-forest-symbiosis/) left for the proliferation and spread of birds. Shade grown coffee plantations are ideal bird sanctuaries, where birds of different species occupy every available niche inside the coffee forests.
 
 ![10](10.jpg)
 
@@ -74,7 +74,7 @@ One needs to understand that the coffee mountains are a range of mountains with 
 
 ![11](11.jpg)
 
-Birds inside the coffee forests have certainly developed a way of life, unique to the topographies of the coffee mountain. The same species of birds exhibit one particular color at a particular altitude and a different color at a higher altitude to blend, camouflage and regulate their metabolism. According to Dr.Salim Ali (The Book Of Indian Birds, 1979), the senses of sight and hearing are most highly developed in birds; that of taste is comparatively poor, while smell is practically absent. In rapid accommodation of the eye, the bird surpasses all other creatures. The focus can be altered from a distant object to a near one almost instantaneously; as an American Naturalist puts it *in a fraction of time the eye can change itself from a telescope to a microscope*.
+Birds inside the coffee forests have certainly developed a way of life, unique to the topographies of the coffee mountain. The same species of birds exhibit one particular color at a particular altitude and a different color at a higher altitude to blend, camouflage and regulate their metabolism. According to Dr.Salim Ali (The Book Of Indian Birds, 1979), the senses of sight and hearing are most highly developed in birds; that of taste is comparatively poor, while smell is practically absent. In rapid accommodation of the eye, the bird surpasses all other creatures. The focus can be altered from a distant object to a near one almost instantaneously; as an American Naturalist puts it _in a fraction of time the eye can change itself from a telescope to a microscope_.
 
 ![12](12.jpg)
 
@@ -176,21 +176,21 @@ From the scientific view point the presence and flight patterns of birds
 
 ![28](28.jpg)
 
--   Have helped the coffee farmers in deciphering the onset of monsoon.
--   Keeping in check the pest population.
--   Keeping in check the incidence of diseases.
--   Predicting drought patterns ( GLOBAL WARMING )
--   Act as bioindicators in signaling pollution and toxicity levels both in the atmosphere as well as in the ground.
--   Dispersal of seeds.
--   Favoring the build up of predators.
+- Have helped the coffee farmers in deciphering the onset of monsoon.
+- Keeping in check the pest population.
+- Keeping in check the incidence of diseases.
+- Predicting drought patterns ( GLOBAL WARMING )
+- Act as bioindicators in signaling pollution and toxicity levels both in the atmosphere as well as in the ground.
+- Dispersal of seeds.
+- Favoring the build up of predators.
 
 ![29](29.jpg)
 
--   Balancing the energy flows inside the eco friendly coffee cube.
--   Signaling the water table levels.
--   Destroyer of vermin
--   As scavengers
--   Promoting eco tourism
+- Balancing the energy flows inside the eco friendly coffee cube.
+- Signaling the water table levels.
+- Destroyer of vermin
+- As scavengers
+- Promoting eco tourism
 
 ### WASTE RECYCLING:
 
@@ -536,23 +536,23 @@ DIET: Food, seeds and fruits.
 
 ### REFERENCES
 
-[Eco-Friendly Indian Coffee: A Profile](http://ecofriendlycoffee.org/eco-friendly-indian-coffee-a-profile/)
+[Eco-Friendly Indian Coffee: A Profile](/eco-friendly-indian-coffee-a-profile/)
 
-[Invisible Communications in Coffee Plantations](http://ecofriendlycoffee.org/invisible-communications-in-coffee-plantations/)
+[Invisible Communications in Coffee Plantations](/invisible-communications-in-coffee-plantations/)
 
-[Coffee Plantations A Multidisciplinary Approach](http://ecofriendlycoffee.org/coffee-plantations-a-multidisciplinary-approach/)
+[Coffee Plantations A Multidisciplinary Approach](/coffee-plantations-a-multidisciplinary-approach/)
 
-[Global Warming in Coffee Plantations](http://ecofriendlycoffee.org/global-warming-in-coffee-plantations/)
+[Global Warming in Coffee Plantations](/global-warming-in-coffee-plantations/)
 
-[Biodiversity In Relation To Coffee Plantations](http://ecofriendlycoffee.org/biodiversity-in-relation-to-coffee-plantations/)
+[Biodiversity In Relation To Coffee Plantations](/biodiversity-in-relation-to-coffee-plantations/)
 
-[Coffee Forest Symbiosis](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+[Coffee Forest Symbiosis](/coffee-forest-symbiosis/)
 
-[Significance of Microbial Interactions Within Coffee Plantations](http://ecofriendlycoffee.org/significance-of-microbial-interactions-within-coffee-plantations/)
+[Significance of Microbial Interactions Within Coffee Plantations](/significance-of-microbial-interactions-within-coffee-plantations/)
 
-[Role of Antibiotics in Coffee Plantation Ecology](http://ecofriendlycoffee.org/role-of-antibiotics-in-coffee-plantation-ecology/)
+[Role of Antibiotics in Coffee Plantation Ecology](/role-of-antibiotics-in-coffee-plantation-ecology/)
 
-[The Ecodynamic Coffee Cube 3](http://ecofriendlycoffee.org/the-ecodynamic-coffee-cube-3/)
+[The Ecodynamic Coffee Cube 3](/the-ecodynamic-coffee-cube-3/)
 
 [www.kolkatabirds.com/south/bandipur1.htm](https://web.archive.org/web/20170618220023/http://www.kolkatabirds.com:80/south/bandipur1.htm)
 
@@ -560,7 +560,7 @@ DIET: Food, seeds and fruits.
 
 [www.indiawildliferesorts.com/wildlife-sanctuaries/assan-bird-sanctuary.html](http://www.indiawildliferesorts.com/wildlife-sanctuaries/assan-bird-sanctuary.html)
 
-[www.birds.cornell.edu/AllAboutBirds/conservation/planning/threats/document\_view](http://web.archive.org/web/20150412012854/http://www.birds.cornell.edu:80/AllAboutBirds/conservation/planning/threats/document_view)
+[www.birds.cornell.edu/AllAboutBirds/conservation/planning/threats/document_view](http://web.archive.org/web/20150412012854/http://www.birds.cornell.edu:80/AllAboutBirds/conservation/planning/threats/document_view)
 
 www.bdi.org/PublicKnowledge.htm
 
@@ -572,13 +572,13 @@ www.arkive.org/species/GES/birds/
 
 [Summary Statistics for Globally Threatened Species](http://web.archive.org/web/20080914173052/http://www.iucnredlist.org:80/info/stats)
 
-[www.birdlife.org/action/science/species/global\_species\_programme/red\_list.html](http://www.birdlife.org/worldwide/news/threat-amazon%E2%80%99s-birds-greater-ever-red-list-update-reveals)
+[www.birdlife.org/action/science/species/global_species_programme/red_list.html](http://www.birdlife.org/worldwide/news/threat-amazon%E2%80%99s-birds-greater-ever-red-list-update-reveals)
 
 [WWF India – Forests Conservation](http://web.archive.org/web/20061206203612/http://wwfindia.org:80/about_wwf/what_we_do/forests_conservation/index.cfm)
 
-[www.birdlife.org/action/science/species/global\_species\_programme/gtb\_forums.html](http://web.archive.org/web/20131014153201/http://www.birdlife.org/action/science/species/global_species_programme/gtb_forums.html)
+[www.birdlife.org/action/science/species/global_species_programme/gtb_forums.html](http://web.archive.org/web/20131014153201/http://www.birdlife.org/action/science/species/global_species_programme/gtb_forums.html)
 
-[www.birdlife.org/action/science/species/global\_species\_programme/whats\_new.html](http://web.archive.org/web/20131012065054/http://www.birdlife.org/action/science/species/global_species_programme/whats_new.html)
+[www.birdlife.org/action/science/species/global_species_programme/whats_new.html](http://web.archive.org/web/20131012065054/http://www.birdlife.org/action/science/species/global_species_programme/whats_new.html)
 
 Anonymous. 1992. The Illustrated Encyclopedia of Birds. Published by Treasure Press. London SW3 6RB.
 

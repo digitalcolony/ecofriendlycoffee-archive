@@ -12,7 +12,7 @@ updatedAt: "2018-10-25T15:09:13"
 wordpressId: 43
 ---
 
-*Readers are requested to refer the article [COFFEE PLANTATIONS -A MULTIDISCIPLINARY APPROACH](http://ecofriendlycoffee.org/coffee-plantations-a-multidisciplinary-approach/) for a better understanding of the present article.*
+_Readers are requested to refer the article [COFFEE PLANTATIONS -A MULTIDISCIPLINARY APPROACH](/coffee-plantations-a-multidisciplinary-approach/) for a better understanding of the present article._
 
 Coffee Planters are fortunate that the entire Western Ghats is considered one among the 18 hot spots of the globe. The Western Ghats runs along the West coast of South India and covers various places along the mountains – the Anamalais, the Pulneys, the Sahyadris, the Nilgiris, and the High Ranges. In the midst of nature coffee plantations grow luxuriantly and it is for this very reason that Indian coffee has occupied a place of pride as ecofriendly. Coffee has always maintained a symbiotic relationship with the surrounding biotic community. The supporting role played by coffee may explain as to why coffee is native to forests. There is no doubt that over thousands of years of evolution, coffee evolved as a natural beverage because of the ideal conditions prevailing inside the forest. As such there are quite a few invisible and visible ecological divisions within the coffee habitat. At higher elevations the Arabica varieties of coffee perform better under shade and at lower elevations the Robusta varieties of coffee perform better under open conditions.
 

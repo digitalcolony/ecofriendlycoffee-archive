@@ -12,7 +12,7 @@ updatedAt: "2019-07-11T09:32:38"
 wordpressId: 47
 ---
 
-*Readers are requested to refer the article [Microbial Inoculants](http://ecofriendlycoffee.org/microbial-inoculants/) for a better understanding of the present article.*
+_Readers are requested to refer the article [Microbial Inoculants](/microbial-inoculants/) for a better understanding of the present article._
 
 ### Early History
 
@@ -34,12 +34,12 @@ This article gives a broad outlook on how biological control could work in the S
 
 **The world over, commercially grown coffees are the Arabica’s and Robusta’s. Both these coffees are susceptible to a number of soil borne pathogens.**
 
--   Root diseases are of four types namely, Brown root disease caused by Fomes noxius.
--   Red root disease caused by Poria hypolateritia Berk , Black root disease caused by Rosellinia bunodes ( B. & BR. ) Sacc. , Rosellina arcuata Petch and Santavery root disease caused by Fusarium oxysporum f.sp.coffeae.
--   Coffee Trunk Canker ( coffee stem disease ) caused by Ceratocystis fimbriata EII & Halst.
--   Collar rot caused by Rhizoctonia solani Kuhn.
--   Black rot commonly referred to as koleroga and the casual organism responsible is Koleroga noxia.
--   Anthracnose of coffee caused by the fungus Colletotrichum gloeosporioides Penz. The fungus inhabits the bark of various trees and finally infects coffee.
+- Root diseases are of four types namely, Brown root disease caused by Fomes noxius.
+- Red root disease caused by Poria hypolateritia Berk , Black root disease caused by Rosellinia bunodes ( B. & BR. ) Sacc. , Rosellina arcuata Petch and Santavery root disease caused by Fusarium oxysporum f.sp.coffeae.
+- Coffee Trunk Canker ( coffee stem disease ) caused by Ceratocystis fimbriata EII & Halst.
+- Collar rot caused by Rhizoctonia solani Kuhn.
+- Black rot commonly referred to as koleroga and the casual organism responsible is Koleroga noxia.
+- Anthracnose of coffee caused by the fungus Colletotrichum gloeosporioides Penz. The fungus inhabits the bark of various trees and finally infects coffee.
 
 Baker and Cook define Biological control as the reduction of inoculum or disease producing activity of a pathogen in active or dormant state by one or more organisms accomplished naturally or through manipulation of the environment, host or antagonist or by mass introduction of more antagonists other than man.
 
@@ -120,23 +120,23 @@ Since soil borne pathogens are mostly associated with the roots of plants , the 
 
 The following list is a generalized list of microbial bio agents and not specifically intended for coffee.
 
--   **Bacteria**
-    -   Pseudomonas fluorescens
-    -   Pseudomonas spp
-    -   Pseudomonas putida
-    -   Agrobacterium radiobacter
-    -   Bacillus spp
-    -   Streptomyces spp
-    -   Pasteuria penetrans
--   **Fungus**
-    -   Trichoderma harzianum
-    -   Trichoderma viridae
-    -   Coniothyrium minitans
-    -   Sporidesmium sclerotivorum
-    -   Arthrobotrys
-    -   Dactylaria
-    -   Dactycella
-    -   Monacrosporium
+- **Bacteria**
+  - Pseudomonas fluorescens
+  - Pseudomonas spp
+  - Pseudomonas putida
+  - Agrobacterium radiobacter
+  - Bacillus spp
+  - Streptomyces spp
+  - Pasteuria penetrans
+- **Fungus**
+  - Trichoderma harzianum
+  - Trichoderma viridae
+  - Coniothyrium minitans
+  - Sporidesmium sclerotivorum
+  - Arthrobotrys
+  - Dactylaria
+  - Dactycella
+  - Monacrosporium
 
 ![11](11.jpg)
 
@@ -144,9 +144,9 @@ The following list is a generalized list of microbial bio agents and not specifi
 
 Biocontrol of soil borne pathogens is a direct result of the action of antagonists through one or more of the following mechanisms. These mechanisms reduce the infection level and bring about the desired results.
 
--   **ANTIBIOSIS:** It refers to the inhibition or destruction of the pathogen by the metabolic product of the antagonist. These products include lytic agents like enzymes, volatile compounds, toxic substances and antibiotics which result in the destruction, disintegration and decomposition of the pathogen.
--   **COMPETITION:** Occurs when the antagonist directly competes for the pathogens resources like nutrients, oxygen, space etc. E.g. Pseudomonas fluorescens is known to produce siderophores that bind strongly to iron, making it unavailable to other soil microorganisms which cannot grow for lack of it.
--   **PARASITISM; HYPERPARASITISM; MYCOPARASITISM:** The antagonist invades the pathogen by excretion of extra cellular enzymes, phenols, chitinases, cellulases and other lytic enzymes.
+- **ANTIBIOSIS:** It refers to the inhibition or destruction of the pathogen by the metabolic product of the antagonist. These products include lytic agents like enzymes, volatile compounds, toxic substances and antibiotics which result in the destruction, disintegration and decomposition of the pathogen.
+- **COMPETITION:** Occurs when the antagonist directly competes for the pathogens resources like nutrients, oxygen, space etc. E.g. Pseudomonas fluorescens is known to produce siderophores that bind strongly to iron, making it unavailable to other soil microorganisms which cannot grow for lack of it.
+- **PARASITISM; HYPERPARASITISM; MYCOPARASITISM:** The antagonist invades the pathogen by excretion of extra cellular enzymes, phenols, chitinases, cellulases and other lytic enzymes.
 
 ![12](12.jpg)
 
@@ -182,19 +182,19 @@ Experience teaches that all too often that the farmers look at immediate, effect
 
 Experimenting with nature with the fond hope of eradicating a pathogen is always stressful. Biological control of soil borne pathogens is a very slow and deliberate process, but the results are more stable and lasting compared to chemical control. We need to look at ecologically safe, economically viable and socially sound viable strategies such that minimum danger is caused to the environment.
 
-There is so much to introspect on the words of of RACHEL CARSON: *A truly extraordinary variety of alternatives to the chemical control of insects is available. Some are already in use and have achieved brilliant success. Others are in the stage of laboratory testing. Still others are little more than ideas in the minds of imaginative scientists, waiting for the opportunity to put them to test. All have this in common: they are BIOLOGICAL SOLUTIONS.*
+There is so much to introspect on the words of of RACHEL CARSON: _A truly extraordinary variety of alternatives to the chemical control of insects is available. Some are already in use and have achieved brilliant success. Others are in the stage of laboratory testing. Still others are little more than ideas in the minds of imaginative scientists, waiting for the opportunity to put them to test. All have this in common: they are BIOLOGICAL SOLUTIONS._
 
 ### References
 
-[The Fine Art of Composting In Coffee Plantations](http://ecofriendlycoffee.org/the-fine-art-of-composting-in-coffee-plantations/)
+[The Fine Art of Composting In Coffee Plantations](/the-fine-art-of-composting-in-coffee-plantations/)
 
-[Organic Matter Decomposition In Coffee Plantations](http://ecofriendlycoffee.org/organic-matter-decomposition-in-coffee-plantations/)
+[Organic Matter Decomposition In Coffee Plantations](/organic-matter-decomposition-in-coffee-plantations/)
 
-[Farm Coffee Organic Manures](http://ecofriendlycoffee.org/farm-coffee-organic-manures/)
+[Farm Coffee Organic Manures](/farm-coffee-organic-manures/)
 
-[Invisible Communications in Coffee Plantations](http://ecofriendlycoffee.org/invisible-communications-in-coffee-plantations/)
+[Invisible Communications in Coffee Plantations](/invisible-communications-in-coffee-plantations/)
 
-[Microbial Inoculants](http://ecofriendlycoffee.org/microbial-inoculants/)
+[Microbial Inoculants](/microbial-inoculants/)
 
 [Toxin build-up is highest in young](http://www.theguardian.com/science/2004/oct/08/sciencenews.environment)
 

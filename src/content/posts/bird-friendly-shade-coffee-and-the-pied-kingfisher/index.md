@@ -14,7 +14,7 @@ wordpressId: 26
 
 We have worked on coffee Ecology for over 25 years and this passion has been rewarding in terms of getting an opportunity of documenting the diverse flora and fauna associated with shade grown Ecofriendly Indian coffee forests in the States of TamilNadu, Karnataka and Kerala, which contributes more than 95% of India’s shade coffee.
 
-When we first started documenting the flora and fauna inside Indian coffee forests, 25 years ago, a vast majority of the coffee planters then, were of the opinion that this exercise was not worth it, as it had no direct benefit to the Planting community. However, today most of the Planters realize that our book on *Ecofriendly Coffee , Volume – One (2009)* depicting the biodiversity of coffee forests is a invaluable reference book, allowing the local and global community understand the importance of shade coffee and its positive impact on the ecology.
+When we first started documenting the flora and fauna inside Indian coffee forests, 25 years ago, a vast majority of the coffee planters then, were of the opinion that this exercise was not worth it, as it had no direct benefit to the Planting community. However, today most of the Planters realize that our book on _Ecofriendly Coffee , Volume – One (2009)_ depicting the biodiversity of coffee forests is a invaluable reference book, allowing the local and global community understand the importance of shade coffee and its positive impact on the ecology.
 
 Our work also provides a window of opportunity to coffee lovers around the world on the symbiotic role of coffee forests in providing a safe haven for all types of wildlife. We are very proud of our work, simply because, we had the passion and the vision to document the fauna inside shade grown ecofriendly Indian coffee, despite the many obstacles we faced. We genuinely hope that our book on ecofriendly coffee will help form a permanent library of knowledge on every aspect of coffee.
 
@@ -52,7 +52,7 @@ We have posted pictures of the pied King Fisher which is commonly observed near 
 
 A large headed, stout bodied and short legged bird with a straight, strong dagger like black bill. The bird is extremely agile in the air and hovers more often than any other king fisher’s. In flight it holds the body almost vertical, with the head and bill angled sharply downwards, and beats the wings extremely rapidly. When perched, it frequently cocks it tail up and down and raises a crest of feathers on its head. This boldly patterned, black-and-white bird is the only kingfisher that regularly fishes offshore. Instead of watching for prey from a perch, as many other kingfisher species do, it flies rapidly above the surface with its head facing down as it scans the water below. If it spots food, it hovers on the spot, and then dives down to make a catch. It can also eat while in flight, another unique adaptation.
 
-[![bird-13](bird-13.jpg)](http://ecofriendlycoffee.org/wp-content/uploads/2013/08/bird-13.jpg)
+![bird-13](bird-13.jpg)
 
 ![bird-14](bird-14.jpg)
 
@@ -86,19 +86,19 @@ Of late coffee planters receive a little bit of extra money for protecting the b
 
 [Azolla, coffee and species preservation](http://theazollafoundation.org/features/azolla-and-coffee/)
 
-[A Symphony of Birds Inside Coffee Forests](http://ecofriendlycoffee.org/a-symphony-of-birds-inside-coffee-forests/)
+[A Symphony of Birds Inside Coffee Forests](/a-symphony-of-birds-inside-coffee-forests/)
 
-[Aquatic Birds of the Western Ghats](http://ecofriendlycoffee.org/aquatic-birds-of-the-western-ghats/)
+[Aquatic Birds of the Western Ghats](/aquatic-birds-of-the-western-ghats/)
 
-[Coffee Forests and Green National Accounts](http://ecofriendlycoffee.org/coffee-forests-and-green-national-accounts/)
+[Coffee Forests and Green National Accounts](/coffee-forests-and-green-national-accounts/)
 
-[Coffee Forests – A Gateway To Wildlife](http://ecofriendlycoffee.org/coffee-forests-a-gateway-to-wildlife/)
+[Coffee Forests – A Gateway To Wildlife](/coffee-forests-a-gateway-to-wildlife/)
 
-[Coffee Hotspots – An Inventory of Biodiversity](http://ecofriendlycoffee.org/coffee-hotspots-an-inventory-of-biodiversity/)
+[Coffee Hotspots – An Inventory of Biodiversity](/coffee-hotspots-an-inventory-of-biodiversity/)
 
-[Coffee Forest Symbiosis](http://ecofriendlycoffee.org/coffee-forest-symbiosis/)
+[Coffee Forest Symbiosis](/coffee-forest-symbiosis/)
 
-[Coffee Forests and Wildlife Credits](http://ecofriendlycoffee.org/coffee-forests-and-wildlife-credits/)
+[Coffee Forests and Wildlife Credits](/coffee-forests-and-wildlife-credits/)
 
 [Quick guide to coffee certifications](http://www.coffeehabitat.com/certification-guide/)
 

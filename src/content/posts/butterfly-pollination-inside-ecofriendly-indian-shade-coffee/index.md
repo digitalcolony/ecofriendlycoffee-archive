@@ -14,7 +14,7 @@ wordpressId: 3252
 
 Flowering in coffee is a spectacle to be experienced. During coffee blossom one can witness thousands of acres bedecked with white flowers, emanating a beautiful scent with the dancing of honeybees and butterflies. The entire flora in the region assumes a white hue as the coffee flowers overpower every other color. It is like the jewel in the crown of coffee planters. Flowering presents a unique image of the coffee plantation. It is a treat for one’s eyes.
 
-[![face butterfly pollination (2)SELECTED](face-butterfly-pollination-2SELECTED-1024x683.jpg)](http://ecofriendlycoffee.org/?attachment_id=3253)
+![face butterfly pollination](face-butterfly-pollination-2SELECTED-1024x683.jpg)
 
 The Coffee forests are known to harbor all types of butterflies, some of them so rare that they are found nowhere else on Planet Earth. A few are endemic and the others widely distributed throughout the Coffee Agro climatic regions. Butterflies are highly active during the day and can be seen fluttering around from 10.00 in the morning up to 4.00 in the evening. They are gifted with an excellent vision but have a weak sense of smell. Unlike bees, butterflies can see red.
 
@@ -22,7 +22,7 @@ Butterflies provide aesthetic appeal and are connected with all plants and crops
 
 Pollination is an essential ecological mechanism which helps maintain the Planet Earth’s biodiversity and the food security of the world. It is interesting to note that globally, pollination services are likely worth more than 4 trillion dollars.
 
-[![IMG_0228SELECTED](IMG_0228SELECTED-1024x576.jpg)](http://ecofriendlycoffee.org/?attachment_id=3254)
+![IMG_0228SELECTED](IMG_0228SELECTED-1024x576.jpg)
 
 Even though honey bees are the major pollinators worldwide, over three quarters of the world’s food crops depend at least in part on pollination by insects and other animals. Butterflies, flies, moths, wasps, beetles, birds and bats are also actively involved in pollination.
 
@@ -30,19 +30,19 @@ Many butterflies emit scents that attracts the opposite sex. These scents often 
 
 We also need to realize that butterflies are in plenty inside the coffee ecosystem but are less efficient than bees when it comes to coffee pollination. This may be due to the fact that they lack specialized structures for collecting pollen. Nevertheless, they have their strength in numbers, there by playing a significant role in pollinating coffee and multiple crops associated with coffee.
 
-**[![1 (11)SELECTED](1-11SELECTED-1024x768.jpg)](http://ecofriendlycoffee.org/?attachment_id=3255)**
+![1 (11)SELECTED](1-11SELECTED-1024x768.jpg)
 
-**[![selected IMG_0251](selected-IMG_0251-1024x721.jpg)](http://ecofriendlycoffee.org/?attachment_id=3256)**
+![selected IMG_0251](selected-IMG_0251-1024x721.jpg)
 
 ### Beneficial Aspects
 
 Butterflies are categorized as keystone species, which enable many smaller species of insects to thrive and reproduce in an ecosystem. In simple terms, it denotes that conservation of butterflies, also conserves, other species of insects. In fact, the basic health of our ecosystem is directly dependent on the number of butterfly species.
 
-**[![1b (12)SELECTED](1b-12SELECTED.jpg)](http://ecofriendlycoffee.org/?attachment_id=3257)**
+![1b (12)SELECTED](1b-12SELECTED.jpg)
 
-[![27](27-1024x760.jpg)](http://ecofriendlycoffee.org/?attachment_id=3258)
+![27](27-1024x760.jpg)
 
-[![faceIMG_0004](faceIMG_0004.jpg)](http://ecofriendlycoffee.org/?attachment_id=3259)
+![faceIMG_0004](faceIMG_0004.jpg)
 
 ### **Importance of Pollination**
 
@@ -60,7 +60,7 @@ Bio control of weeds
 
 Butterflies are very sensitive to pollution and have been used as bioindicators to detect the pollution levels.
 
-[![butteraa](butteraa-1024x576.jpg)](http://ecofriendlycoffee.org/?attachment_id=3260)
+![butteraa](butteraa-1024x576.jpg)
 
 Clean air
 
@@ -76,7 +76,7 @@ We have tried to map the butterfly diversity in our Plantation for the past many
 
 Our observation also points out that coffee blocks having more number of native tree species have more species richness, compared to blocks planted with silver oak. We also noticed that butterfly species are found throughout the year on the Plantation because of a mix of multiple crops and fruit bearing trees.
 
-[![Facewl (159)a](Facewl-159a.jpg)](http://ecofriendlycoffee.org/?attachment_id=3261)
+![Facewl (159)a](Facewl-159a.jpg)
 
 ###  **IPBES**
 
@@ -84,7 +84,7 @@ The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Serv
 
 “Wild pollinators in certain regions, especially bees and butterflies, are being threatened by a variety of factors,” said Sir Robert Watson, vice-chair of the IPBES and former chair of the Intergovernmental Panel on Climate Change. “Their decline is primarily due to changes in land use, intensive agricultural practices and pesticide use, alien invasive species, diseases and pests, and climate change.”The researchers say sustainable agriculture, including practices based on indigenous and local knowledge, would help to ensure more pollinator species don’t go extinct.
 
-[![fREW (39)](fREW-39.jpg)](http://ecofriendlycoffee.org/?attachment_id=3262)
+![fREW (39)](fREW-39.jpg)
 
 To achieve this, they recommend maintaining a greater diversity of pollinator habitats; supporting traditional practices that manage habitat patchiness, such as crop rotation; decreasing the use of pesticides; changes to bee husbandry and commercial pollination practices; and public education and awareness campaigns.
 
@@ -94,7 +94,7 @@ In spite of butterflies being protected by International and National laws, butt
 
 Our Children, Payal and Nihal J Pereira with the help of posters and miniatures are creating an awareness programme in and around the coffee zones; educating the local farmers to resist the temptation of butterfly smuggling. Parents can play an important role in inspiring their children to be guardians of nature.
 
-[![butterfly-52_3081926243_o](butterfly-52_3081926243_o.jpg)](http://ecofriendlycoffee.org/?attachment_id=3263)
+![butterfly-52_3081926243_o](butterfly-52_3081926243_o.jpg)
 
 ### References
 

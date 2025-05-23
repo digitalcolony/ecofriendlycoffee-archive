@@ -14,11 +14,11 @@ wordpressId: 3426
 
 The Western Ghats, recognized world over as a center of biological diversity is also recognized for growing India’s finest shade coffees. Coffee Forests in India are by and large associated with wildlife sanctuaries and also form a part of the Nilgiri Biosphere region. These dense forests are located at elevations ranging from 750 meters right up to 1500 meters main sea level. These forests are known to host a rich source of diversified flora and fauna. The density of tree population varies with altitude and climatic variation. The outer giris (mountain ranges) have more of the introduced silver oak and at lower elevations the composition of the forest is a rich mix of native and introduced trees. Bamboo thickets are a common feature in all coffee Agro climatic regions. The topmost portions of the mountains are covered with rocks or by a thin soil cover with grasslands. The major forest types present in this region includes evergreen, semi evergreen, moist deciduous, dry deciduous, grassland, and shola (Tropical montane forest).
 
-[![2016-antivenom-slide-1](2016-ANTIVENOM-SLIDE-1-1024x768.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-1/)
+![2016-antivenom-slide-1](2016-ANTIVENOM-SLIDE-1-1024x768.jpg)
 
 In short, these characteristic ecological niches provided by the coffee mountain are an ideal habitat for different species of reptiles because it provides for distinct ecological niches, climatic zones both macro and micro which varies with altitudinal changes.
 
-[![2016-antivenom-slide-2](2016-ANTIVENOM-SLIDE-2-1024x683.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-2/)
+![2016-antivenom-slide-2](2016-ANTIVENOM-SLIDE-2-1024x683.jpg)
 
 The objective of writing this informative article is to help all Nature loving people to understand the role of snake venom in modern medicine & how it could save millions of precious lives worldwide.
 
@@ -30,21 +30,21 @@ Even though wrongly misrepresented by Man, reptiles in general and snakes in par
 
 Venom from snake fangs is one of nature’s most efficient prey killers. It consists of a complex soup with toxic proteins, peptides, short strings of amino acids similar to proteins. The molecules may have different targets and special effects but they work synergistically to either block the auto immune system or paralyze the nervous system or muscle. The end result is the same; the venom has a dilapidating effect on cells and tissue resulting in multi organ failure. Venom can kill by clotting blood and stopping the heart or by preventing clotting and triggering a killer bleed. Dozens, even hundreds of toxins can be delivered in a single bite. The difference between venom and poison is that venom is injected or dibbled into victims by way of specialized body parts and poison is ingested.
 
-[![2016-antivenom-slide-3](2016-ANTIVENOM-SLIDE-3-1024x576.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-3/)
+![2016-antivenom-slide-3](2016-ANTIVENOM-SLIDE-3-1024x576.jpg)
 
-[![2016-antivenom-slide-4](2016-ANTIVENOM-SLIDE-4-1024x576.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-4/)
+![2016-antivenom-slide-4](2016-ANTIVENOM-SLIDE-4-1024x576.jpg)
 
 Ironically, the properties that make venom deadly are also what make it so valuable for medicine. Many venom toxins target the same molecules that need to be controlled to treat diseases. These toxins and enzymes target particular molecules fitting into them like keys into locks (most medicines work that way) fitting into and controlling molecular locks to thwart ill effects. We aren’t talking about novel drugs, but entire class of drugs that will directly come from understanding the biochemical nature of venom. So far fewer than a thousand toxins have been screened for medicinal value and a dozen or so major drugs have made it to the market.  In reality there could be upwards of 20 million venom toxins waiting to be screened. Toxins from venom and poison sources are also giving a clearer picture of how proteins that control many of the body’s cellular functions work. More importantly, scientists are now manufacturing designer toxins for various therapeutic values. Crystallized venom from snakes is now a medical export from Azerbaijan.
 
-[![2016-antivenom-slide-5-2](2016-ANTIVENOM-SLIDE-5-2-1024x799.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-5-2/)
+![2016-antivenom-slide-5-2](2016-ANTIVENOM-SLIDE-5-2-1024x799.jpg)
 
 ### VENOM BASED CURES
 
 Venom based cures aren’t a new idea. They show up for example in Sanskrit texts from the second century A.D and around 67 B.C. Mithradates VI of Pontus, an enemy of Rome who dabbed in toxicology was supposedly saved twice on the battle field by Shamans who administered viper venom to his wounds. Cobra venom applied for centuries in traditional Chinese and Indian medicines was introduced to the west in the 1830’s as a homeopathic pain remedy. John Henry Clarkes “MATERIA MEDICA ” published around 1900, describes the venom as alleviating many ills, even those caused by venom. The author was also of the opinion that clinical applications of carefully diluted cobra venom included ‘ Angina pectoris, asthma, Dementia, Hay fever, headache and heart disease. His careful observations were such that “the curative dose is just within the limit of the pathogenic dose”. In such rare instances, the patient’s life was literally hanging on the edge of a knife.
 
-[![2016-antivenom-slide-6](2016-ANTIVENOM-SLIDE-6-1024x683.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-6/)
+![2016-antivenom-slide-6](2016-ANTIVENOM-SLIDE-6-1024x683.jpg)
 
-[![2016-antivenom-slide-7](2016-ANTIVENOM-SLIDE-7-1-1024x767.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-7-3/)
+![2016-antivenom-slide-7](2016-ANTIVENOM-SLIDE-7-1-1024x767.jpg)
 
 The science of transforming venom into cures took off in the 1960’s when an English clinician named Hugh Alistair Reid suggested that the venom of the Malayan pit viper might be used against deep vein thrombosis. He had discovered that one of the snake toxins, a protein called “ANCROD”, saps a fibrous protein from the blood, preventing clotting. “Arvin”, a clot busting drug derived from pit viper venom reached clinics in Europe in 1968. The Brazilian pit vipers venom led to the development in the 1970’s of a class of drugs called “ACE inhibitors” now widely used against hypertension. Heart patients owe gratitude to the eastern Green Mamba, whose venom impairs its victim’s nerves and blood circulation. A key peptide from the venom is used to make CENDERITIDE which lowers blood pressure and reduces fibrosis in a failing heart but also shields the kidneys from an overload of salt and water.
 
@@ -52,15 +52,15 @@ The science of transforming venom into cures took off in the 1960’s when an En
 
 The principal aim of documenting the flora and fauna inside Eco-friendly Indian Coffee Plantations is to help coffee Planters in India and abroad to support conservation and research programs that contribute to the survival of threatened species.
 
-[![2016-antivenom-slide-8](2016-ANTIVENOM-SLIDE-8-1024x683.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-8/)
+![2016-antivenom-slide-8](2016-ANTIVENOM-SLIDE-8-1024x683.jpg)
 
 Our own experience of three decades in documenting the reptiles in general and snakes in particular has opened a world of possibilities in conservation of threatened reptiles and their habitats. Our work on conservation is also to help the local coffee community to be a part of the total conservation aspect of the biological riches of the coffee forest.
 
-[![2016-antivenom-slide-10-2](2016-ANTIVENOM-SLIDE-10-2-1024x683.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-10-2/)
+![2016-antivenom-slide-10-2](2016-ANTIVENOM-SLIDE-10-2-1024x683.jpg)
 
 The larger picture involves preservation of all reptile species, which will hold a clue to the discovery of new drugs for potential medicinal treatments and cures. The therapeutic effects of a wide variety of venom, when used the right way, would be a life saver. After-all Life is very precious.
 
-[![2016-antivenom-slide-10](2016-ANTIVENOM-SLIDE-10..-1024x735.jpg)](http://ecofriendlycoffee.org/antivenom-why-its-so-precious/2016-antivenom-slide-10-3/)
+![2016-antivenom-slide-10](2016-ANTIVENOM-SLIDE-10..-1024x735.jpg)
 
 ### References
 
