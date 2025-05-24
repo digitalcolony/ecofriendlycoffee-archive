@@ -30,6 +30,22 @@ const categoryPosts = categorySlug
 				padding: 3em 1em;
 			}
 
+			.prose {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 1em;
+				color: rgb(var(--gray-dark));
+			}
+			.title {
+				margin-bottom: 1em;
+				padding: 1em 0;
+				text-align: center;
+				line-height: 1;
+			}
+			.title h1 {
+				margin: 0 0 0.5em 0;
+			}
 			.section-header {
 				margin-bottom: 2em;
 				text-align: center;
@@ -60,15 +76,18 @@ const categoryPosts = categorySlug
 		<Header />
 		<main>
 			<section>
-				<div class="section-header">
-					<h1>{title}</h1>
-					<p>{description}</p>
-				</div>
+				<div class="prose">
+					<div class="title">
+						<h2>{title}</h2>
+						<meta name="description" content={description} />
+						<hr />
+					</div>
 
-				<!-- Use the ArticleList component -->
-				<ArticleList posts={categoryPosts} />
+					<!-- Use the ArticleList component -->
+					<ArticleList posts={categoryPosts} />
+				</div>
 			</section>
+			<Footer />
 		</main>
-		<Footer />
 	</body>
 </html>

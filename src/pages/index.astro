@@ -1,24 +1,17 @@
 ---
-import BaseHead from "../components/BaseHead.astro";
-import Header from "../components/Header.astro";
-import Footer from "../components/Footer.astro";
-import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+import PageLayout from "../layouts/PageLayout.astro";
 ---
 
-<!doctype html>
-<html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
-	<body>
-		<Header />
-		<main>
-			<h2>☕ EcofriendlyCoffee</h2>
+<PageLayout
+	title="EcofriendlyCoffee"
+	description="An archive of articles on coffee and biodiversity"
+>
+	<p>EcofriendlyCoffee is now an archive.</p>
 
-			<p>EcofriendlyCoffee is now an archive.</p>
+	<p>Add TEXT here</p>
 
-			<p>Add TEXT here</p>
-		</main>
-		<Footer />
-	</body>
-</html>
+	<p>
+		Follow us on <a href="https://www.facebook.com/EcoFriendlyCoffee" target="_blank">Facebook</a> and
+		<a href="https://www.instagram.com/ecofriendly_coffee/" target="_blank">Instagram</a>.
+	</p>
+</PageLayout>
