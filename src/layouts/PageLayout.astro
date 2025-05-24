@@ -15,10 +15,17 @@ const { title, description = "" } = Astro.props;
 	<head>
 		<BaseHead title={title} description={description} />
 		<style>
+			.page-container {
+				min-height: 100vh;
+				display: flex;
+				flex-direction: column;
+			}
+
 			main {
 				width: calc(100% - 2em);
 				max-width: 100%;
 				margin: 0;
+				flex: 1; /* This will make main expand to fill available space */
 			}
 			.prose {
 				width: 720px;
@@ -38,22 +45,23 @@ const { title, description = "" } = Astro.props;
 			}
 		</style>
 	</head>
-
 	<body>
-		<Header />
-		<main>
-			<article>
-				<div class="prose">
-					<div class="title">
-						<h2>{title}</h2>
-						<meta name="description" content={description} />
-						<hr />
-					</div>
+		<div class="page-container">
+			<Header />
+			<main>
+				<article>
+					<div class="prose">
+						<div class="title">
+							<h2>{title}</h2>
+							<meta name="description" content={description} />
+							<hr />
+						</div>
 
-					<slot />
-				</div>
-			</article>
-		</main>
-		<Footer />
+						<slot />
+					</div>
+				</article>
+			</main>
+			<Footer />
+		</div>
 	</body>
 </html>

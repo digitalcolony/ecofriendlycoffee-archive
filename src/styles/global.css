@@ -4,9 +4,6 @@
   License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
  */
 
-/* Import theme variables */
-@import "./theme.css";
-
 /* Global Reset */
 *,
 *::before,

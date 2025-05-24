@@ -23,11 +23,18 @@ const categoryPosts = categorySlug
 	<head>
 		<BaseHead title={title} description={description} />
 		<style>
+			.page-container {
+				min-height: 100vh;
+				display: flex;
+				flex-direction: column;
+			}
+
 			main {
 				width: 960px;
 				max-width: calc(100% - 2em);
 				margin: 0 auto;
 				padding: 3em 1em;
+				flex: 1; /* This will make main expand to fill available space */
 			}
 
 			.prose {
@@ -73,21 +80,23 @@ const categoryPosts = categorySlug
 		</style>
 	</head>
 	<body>
-		<Header />
-		<main>
-			<section>
-				<div class="prose">
-					<div class="title">
-						<h2>{title}</h2>
-						<meta name="description" content={description} />
-						<hr />
-					</div>
+		<div class="page-container">
+			<Header />
+			<main>
+				<section>
+					<div class="prose">
+						<div class="title">
+							<h2>{title}</h2>
+							<meta name="description" content={description} />
+							<hr />
+						</div>
 
-					<!-- Use the ArticleList component -->
-					<ArticleList posts={categoryPosts} />
-				</div>
-			</section>
+						<!-- Use the ArticleList component -->
+						<ArticleList posts={categoryPosts} />
+					</div>
+				</section>
+			</main>
 			<Footer />
-		</main>
+		</div>
 	</body>
 </html>
