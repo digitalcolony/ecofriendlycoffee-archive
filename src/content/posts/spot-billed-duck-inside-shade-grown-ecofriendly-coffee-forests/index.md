@@ -12,7 +12,11 @@ updatedAt: "2014-06-06T16:17:06"
 wordpressId: 353
 ---
 
-The Indian Spot billed Duck is one among the three Spot billed Duck species commonly observed as a resident bird in almost all coffee growing regions of India. [![SPOTBILLED DUCK INSIDE SHADE GROWN ECOFRIENDLY COFFEE](1-1024x749_f_improf_604x441.jpg)](/wp-content/uploads/2014/06/1.jpg) The Classification table is as follows.
+The Indian Spot billed Duck is one among the three Spot billed Duck species commonly observed as a resident bird in almost all coffee growing regions of India.
+
+![SPOTBILLED DUCK INSIDE SHADE GROWN ECOFRIENDLY COFFEE](1-1024x749_f_improf_604x441.jpg)
+
+The Classification table is as follows.
 
 **Kingdom**
 
@@ -76,7 +80,7 @@ These ducks have adapted well to the presence of humans and can be found in floc
 
 ![](12_f_improf_604x403.jpg) There is no specific breeding season. We have observed that in Karnataka, the ideal breeding season is November-December. Both males and females attain sexual maturity in the first 18 months. During the breeding season they are found in pairs and at times form small colonies. The female lays 7 to 14 eggs which are greenish white or grey in colour. The incubation period is 4 weeks and the fledging takes place between 50 to 55 days. ![](14_f_improf_604x339.jpg)
 
-[![13](13-1024x737_f_improf_604x434.jpg)](/wp-content/uploads/2014/06/13.jpg)
+![13](13-1024x737_f_improf_604x434.jpg)
 
 ### **Conservation Status**
 

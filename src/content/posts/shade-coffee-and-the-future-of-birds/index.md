@@ -110,35 +110,35 @@ Both resident and migratory birds considered relatively safe may also suffer dec
 
 ### **Effects of Climate Change**
 
--   Birds are exposed to Harsh winters making it difficult for them to survive.
+- Birds are exposed to Harsh winters making it difficult for them to survive.
 
 ![2015 Aug. Shade & future of birds- (25)](2015-Aug.-Shade-future-of-birds-25-1024x725.jpg)
 
--   Migratory birds may have to change their migration routes, which is no easy task.
+- Migratory birds may have to change their migration routes, which is no easy task.
 
 ![2015 Aug. Shade & future of birds- (26)](2015-Aug.-Shade-future-of-birds-26-1024x697.jpg)
 
--   Wetlands which often act as refueling stops for migratory birds may vanish resulting in food shortage
+- Wetlands which often act as refueling stops for migratory birds may vanish resulting in food shortage
 
 ![2015 Aug. Shade & future of birds- (27)](2015-Aug.-Shade-future-of-birds-27.jpg)
 
--   Many fruit and flowering trees have a delayed fruit set resulting in food shortages which force birds life cycle out of synchrony with plants upon which they depend.
+- Many fruit and flowering trees have a delayed fruit set resulting in food shortages which force birds life cycle out of synchrony with plants upon which they depend.
 
 ![2015 Aug. Shade & future of birds- (28)](2015-Aug.-Shade-future-of-birds-28-1024x683.jpg)
 
--   Food shortages are already causing many bird species to starve to death, resulting in population decline.
+- Food shortages are already causing many bird species to starve to death, resulting in population decline.
 
 ![2015 Aug. Shade & future of birds- (29)](2015-Aug.-Shade-future-of-birds-29-1024x628.jpg)
 
--   Birds endemic (Present in a particular location) to the Western Ghats may find it difficult to cope up with the shortage of food supply and may be forced to nest at different times in response to changing availability of food they depend on to feed the young.
+- Birds endemic (Present in a particular location) to the Western Ghats may find it difficult to cope up with the shortage of food supply and may be forced to nest at different times in response to changing availability of food they depend on to feed the young.
 
 ![2015 Aug. Shade & future of birds- (30)](2015-Aug.-Shade-future-of-birds-30-1024x683.jpg)
 
--   Birds nesting close to river banks or low lands will have their nests washed away by increased flooding due to sudden down pours.
+- Birds nesting close to river banks or low lands will have their nests washed away by increased flooding due to sudden down pours.
 
 ![2015 Aug. Shade & future of birds- (31)](2015-Aug.-Shade-future-of-birds-31-1024x683.jpg)
 
--   Salt water ingression into fresh water ecosystems will damage fragile aquatic habitats, killing fish and other insect life, there by affecting the birds that depend on them.
+- Salt water ingression into fresh water ecosystems will damage fragile aquatic habitats, killing fish and other insect life, there by affecting the birds that depend on them.
 
 ### Conclusion
 
@@ -154,7 +154,7 @@ We quote from the article “Bird Migration-The Future” written by “Liz McKe
 
 Many species—including familiar North American backyard songbirds—thrive on these traditional farms.
 
-<figure id="attachment_1367" aria-describedby="caption-attachment-1367" style="width: 604px"><img loading="lazy" decoding="async" src="2015-Aug.-Shade-future-of-birds-352-1024x785.jpg" alt="Rock Bush Quail (Male)"><figcaption id="caption-attachment-1367">Rock Bush Quail (Male)</figcaption></figure>
+![Rock Bush Quail (Male)](2015-Aug.-Shade-future-of-birds-352-1024x785.jpg)
 
 But newly developed coffees are grown in full sunlight, so the shady forests essential for wintering birds are being cut down.
 

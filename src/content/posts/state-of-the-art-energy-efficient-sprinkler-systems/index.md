@@ -138,9 +138,9 @@ Since their entire plantation consists of Robusta, we had to cover the entire ar
 
 ### Energy efficient sprinkling system
 
-[Table-A](/wp-content/uploads/2012/04/Table-A.pdf) Basic parameters of sprinkler nozzle, jet discharge, precipitation and area covered in acres.
+[Table-A](/files/Table-A.pdf) (PDF) Basic parameters of sprinkler nozzle, jet discharge, precipitation and area covered in acres.
 
-[Table-B](/wp-content/uploads/2012/04/Table-B.pdf) Brief Note on 254 HP.innovative Energy saving pump set installed at Joe’s Sustainable Farm, KIREHULLY ESTATE, India.
+[Table-B](/files/Table-B.pdf) (PDF) Brief Note on 254 HP.innovative Energy saving pump set installed at Joe’s Sustainable Farm, KIREHULLY ESTATE, India.
 
 ![sprinkler-10](sprinkler-10.jpg)
 

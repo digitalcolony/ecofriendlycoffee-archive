@@ -76,8 +76,6 @@ These ponds, lakes, tanks or water reservoirs act as watersheds and recharge the
 
 During the daytime these catchment areas provide a safe haven for both resident and migratory birds and at night they act as waterholes for wildlife.
 
-<figure id="attachment_2800" aria-describedby="caption-attachment-2800" style="width: 604px"><img loading="lazy" decoding="async" src="s-17-1024x683.jpg" alt="5"><figcaption id="caption-attachment-2800">5</figcaption></figure>
-
 Ornithologists are of the view that birds, during migration, spend approximately 15% of the time in the air and 85% on the ground.
 
 ![s-18](s-18-1024x683.jpg)
@@ -118,7 +116,7 @@ Nature has engineered these ecological parameters in a very structured way to co
 
 ![s-26](s-26-1024x683.jpg)
 
- Bird species have evolved well defined wing patterns and shapes to accomplish migrations. Generally, the longer distance migrants tend to have longer and more pointed wings so as to create less drag.
+Bird species have evolved well defined wing patterns and shapes to accomplish migrations. Generally, the longer distance migrants tend to have longer and more pointed wings so as to create less drag.
 
 ![s-27](s-27-1024x683.jpg)
 
@@ -164,7 +162,7 @@ Other Migration Hazards include pollution of water bodies as well as air. indisc
 
 It is a well established fact that global warming, due to human activities has impacted birds to an extent that many note worthy species are on the brink of extinction.
 
-<figure id="attachment_2818" aria-describedby="caption-attachment-2818" style="width: 604px"><img loading="lazy" decoding="async" src="s-35-1024x574.jpg" alt="Lesser Pied Kingfisher"><figcaption id="caption-attachment-2818">Lesser Pied Kingfisher</figcaption></figure>
+![Lesser Pied Kingfisher](s-35-1024x574.jpg)
 
 Even though, man has not realized the full scale impact of climate change, it has resulted in the collapse of other ecosystems worldwide which supports birds and other wild life species.
 
@@ -240,7 +238,7 @@ These birds inside Shade Grown Ecofriendly Coffee Forests were shot by **Mr. A
 
 Anand T Pereira and Geeta N Pereira. 2009. Shade Grown Ecofriendly Indian Coffee. Volume – 0ne.
 
-[https://en.wikipedia.org/wiki/Bird\_migration](https://en.wikipedia.org/wiki/Bird_migration)
+[https://en.wikipedia.org/wiki/Bird_migration](https://en.wikipedia.org/wiki/Bird_migration)
 
 [http://www.allaboutbirds.org/the-basics-how-why-and-where-of-bird-migration/](http://www.allaboutbirds.org/the-basics-how-why-and-where-of-bird-migration/)
 
