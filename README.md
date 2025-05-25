@@ -123,4 +123,4 @@ And deploy the `dist` directory to your hosting provider.
 
 npx broken-link-checker http://localhost:4321 --filter-level 1 --recursive > broken-links.txt (all)
 
-npx broken-link-checker http://localhost:4321 --filter-level 3 --recursive > internal-links.txt (internal)
+npx broken-link-checker http://localhost:4321 --filter-level 3 --recursive > internal-links.txt (internal, kinda works)
