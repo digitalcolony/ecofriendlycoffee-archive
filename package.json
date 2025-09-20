@@ -9,6 +9,7 @@
   "scripts": {
     "dev": "astro dev",
     "copy-images": "node scripts/copy-images.js",
+    "fix-llms": "node scripts/fix-llms.js",
     "build": "npm run copy-images && astro build",
     "preview": "astro preview",
     "astro": "astro"
