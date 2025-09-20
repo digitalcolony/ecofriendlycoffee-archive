@@ -1,0 +1,1 @@
+## Soils --- - [<h2>Soil Organic Carbon and Its Importance in Shade Coffee</h2>November 1, 2020](https://ecofriendlycoffee.org/soil-organic-carbon-and-its-importance-in-shade-coffee/) - [<h2>Importance of Healthy Coffee Soils</h2>August 1, 2017](https://ecofriendlycoffee.org/importance-healthy-coffee-soils/)

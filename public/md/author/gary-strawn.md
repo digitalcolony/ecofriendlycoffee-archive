@@ -1,0 +1,1 @@
+# Gary Strawn - [<h2>Testing Coffee – Fermenting vs Demucilaging</h2>June 1, 2008](https://ecofriendlycoffee.org/testing-coffee-fermenting-vs-demucilaging/)

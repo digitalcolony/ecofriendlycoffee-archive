@@ -1,0 +1,1 @@
+# Holly Ashby - [<h2>The Biodiversity of Shade Grown Coffee</h2>April 30, 2015](https://ecofriendlycoffee.org/the-biodiversity-of-shade-grown-coffee/)

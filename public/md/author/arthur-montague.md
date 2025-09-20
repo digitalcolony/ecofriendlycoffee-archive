@@ -1,0 +1,1 @@
+# Arthur Montague - [<h2>Organic Coffee by Default</h2>June 1, 2001](https://ecofriendlycoffee.org/organic-coffee-by-default/)

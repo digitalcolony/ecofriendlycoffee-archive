@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Allow: /md/
+
+# LLM-friendly content discovery
+Sitemap: https://ecofriendlycoffee.org/sitemap.xml
+LLMs: https://ecofriendlycoffee.org/llms.txt
+LLMs-full: https://ecofriendlycoffee.org/llms-full.txt
+LLMs-directory: https://ecofriendlycoffee.org/md/
+
+# Individual articles available at:
+# https://ecofriendlycoffee.org/md/[article-name].md
