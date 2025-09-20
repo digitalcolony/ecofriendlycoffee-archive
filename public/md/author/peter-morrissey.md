@@ -1,0 +1,1 @@
+# Peter Morrissey - [<h2>Mechanical Harvesting on a Coffee Farm</h2>July 1, 2008](https://ecofriendlycoffee.org/mechanical-harvesting-on-a-coffee-farm/)

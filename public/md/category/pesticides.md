@@ -1,0 +1,1 @@
+## Pesticides --- - [<h2>Implications of Pesticide Residue In Eco-Friendly Shade Coffee</h2>June 12, 2024](https://ecofriendlycoffee.org/implications-of-pesticide-residue-in-eco-friendly-shade-coffee/)
